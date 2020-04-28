@@ -1,9 +1,7 @@
 name: update awesome-stars
 on:
-  push:
-    branches: [ master ]
   schedule:
-  - cron: 5 * * * *
+  - cron: 0 10 * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
