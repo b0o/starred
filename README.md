@@ -192,7 +192,7 @@
 - [multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [xremap](https://github.com/k0kubun/xremap) - Dynamic key remapper for X Window System
-- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
 - [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
 - [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
@@ -321,6 +321,7 @@
 
 ## C++ 
 
+- [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [netevent](https://github.com/Blub/netevent) - Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
@@ -611,6 +612,13 @@
 
 ## Go 
 
+- [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+- [tern](https://github.com/jackc/tern) - The SQL Fan's Migrator
+- [sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
+- [goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
+- [sqlc-tour](https://github.com/kyleconroy/sqlc-tour) - 
+- [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
+- [liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [gitutil](https://github.com/bradfitz/gitutil) - Utilities for working with git and Gerrit
@@ -862,7 +870,7 @@
 - [gogetdoc](https://github.com/zmb3/gogetdoc) - Gets documentation for items in Go source code.
 - [objectbox-go](https://github.com/objectbox/objectbox-go) - ObjectBox Go - persisting your Go structs/objects superfast and simple
 - [c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
-- [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures.
+- [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
 - [go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [sflags](https://github.com/octago/sflags) - Generate flags by parsing structures
@@ -1432,6 +1440,9 @@
 
 ## JavaScript 
 
+- [downshift](https://github.com/downshift-js/downshift) - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
 - [primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [gulp-file](https://github.com/alexmingoia/gulp-file) - Create vinyl files from a string or buffer and insert into the Gulp pipeline.
 - [reasonreact-starter](https://github.com/cironunes/reasonreact-starter) - Minimal yet powerful ReasonReact template
@@ -1474,7 +1485,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web app.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fast, simple dev environment for modern web apps.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - 
@@ -1936,7 +1947,7 @@
 - [lua-sway](https://github.com/norcalli/lua-sway) - A Lua module for interfacing with sway via IPC.
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
 - [lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -2248,6 +2259,11 @@
 
 ## Python 
 
+- [vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
+- [vimiv](https://github.com/karlch/vimiv) - An image viewer with vim-like keybindings.
+- [vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
+- [defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation
+- [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [deoplete-emoji](https://github.com/fszymanski/deoplete-emoji) - Deoplete source for emoji codes
 - [deoplete-jedi](https://github.com/deoplete-plugins/deoplete-jedi) - deoplete.nvim source for Python
@@ -2536,6 +2552,7 @@
 
 ## Ruby 
 
+- [pru](https://github.com/grosser/pru) - Pipeable Ruby - forget about grep / sed / awk / wc ... use pure, readable Ruby!
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [tty-exit](https://github.com/piotrmurach/tty-exit) - Terminal exit codes.
 - [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -2667,6 +2684,7 @@
 
 ## Shell 
 
+- [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
 - [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - Stupid AI
@@ -2968,6 +2986,10 @@
 
 ## Vim script 
 
+- [lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
+- [gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
+- [helpful.vim](https://github.com/tweekmonster/helpful.vim) - :notebook: Display vim version numbers in docs
 - [vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 15+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
@@ -3059,7 +3081,7 @@
 - [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [neco-vim](https://github.com/Shougo/neco-vim) - The vim source for neocomplete/deoplete
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - Greetings, traveler!
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - "So many dots, so little time."
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
@@ -3134,6 +3156,7 @@
 
 ## VimL 
 
+- [SrchRplcHiGrp.vim](https://github.com/vim-scripts/SrchRplcHiGrp.vim) - Search and/or replace based on a syntax highlight group
 - [vim-shot-f](https://github.com/deris/vim-shot-f) - highlight the character which can move directly to (by `f`,`F`,`t`,`T`)
 - [utl.vim](https://github.com/vim-scripts/utl.vim) - Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas
 - [sway-vim-syntax](https://github.com/aouelete/sway-vim-syntax) - Vim syntax file for sway config files
