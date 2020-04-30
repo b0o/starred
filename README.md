@@ -374,7 +374,7 @@
 - [cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
-- [sandboxed-api](https://github.com/google/sandboxed-api) - Sandboxed API automatically generates sandboxes for C/C++ libraries
+- [sandboxed-api](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically
 - [TabletMagic](https://github.com/thinkyhead/TabletMagic) - Mac OS X driver for Wacom serial tablets and TabletPC digitizers
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -711,7 +711,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [go-micro](https://github.com/micro/go-micro) - The Go Micro services development framework
+- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems development framework
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -2103,6 +2103,7 @@
 
 ## Others 
 
+- [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - 
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [my-awesome-stars](https://github.com/kmcodes/my-awesome-stars) - A curated list of my GitHub stars!
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
@@ -2259,6 +2260,8 @@
 
 ## Python 
 
+- [PLASM-Disassembler](https://github.com/ChrisMiuchiz/PLASM-Disassembler) - 
+- [Plasma-Authentication-Server](https://github.com/ChrisMiuchiz/Plasma-Authentication-Server) - 
 - [vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
 - [vimiv](https://github.com/karlch/vimiv) - An image viewer with vim-like keybindings.
 - [vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
