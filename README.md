@@ -102,6 +102,7 @@
 
 ## C 
 
+- [labwc](https://github.com/johanmalm/labwc) - A wayland floating compositor
 - [IRTool](https://github.com/jglim/IRTool) - Use your Gameboy Color to control National air-conditioners!
 - [BlenderSource](https://github.com/CreativeDesigner3D/BlenderSource) - This is my modified version of Blenders Source Code. Mainly used for testing and trying out new ideas
 - [pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
@@ -524,6 +525,8 @@
 
 ## Common Lisp 
 
+- [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
+- [weir](https://github.com/inconvergent/weir) - A system for making generative systems
 - [ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
 - [next](https://github.com/atlas-engineer/next) - Next browser - Be productive.
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
@@ -612,6 +615,7 @@
 
 ## Go 
 
+- [wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [tern](https://github.com/jackc/tern) - The SQL Fan's Migrator
 - [sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
@@ -2260,6 +2264,7 @@
 
 ## Python 
 
+- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [PLASM-Disassembler](https://github.com/ChrisMiuchiz/PLASM-Disassembler) - 
 - [Plasma-Authentication-Server](https://github.com/ChrisMiuchiz/Plasma-Authentication-Server) - 
 - [vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
@@ -2592,6 +2597,7 @@
 
 ## Rust 
 
+- [smol](https://github.com/stjepang/smol) - A small and fast async runtime for Rust
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
 - [hubcaps](https://github.com/softprops/hubcaps) - a rust interface for github
@@ -2989,6 +2995,7 @@
 
 ## Vim script 
 
+- [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 - [lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
 - [gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
