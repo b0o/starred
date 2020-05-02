@@ -444,7 +444,7 @@
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [CloudCross](https://github.com/MasterSoft24/CloudCross) - CloudCross it's opensource crossplatform software for syncronization a local files and folders with many cloud providers. On this moment a Cloud Mail.Ru, Yandex.Disk, Google drive, OneDrive and Dropbox support is available
 - [helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
-- [timg](https://github.com/hzeller/timg) - A terminal image viewer
+- [timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 - [godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine - yet another open source game engine
@@ -1331,7 +1331,7 @@
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [megadesk](https://github.com/gcormier/megadesk) - Open-source Bekant controller board
-- [change-password-url](https://github.com/WICG/change-password-url) - 
+- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
 - [docs](https://github.com/knative/docs) - User documentation for Knative components
@@ -1530,7 +1530,7 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
-- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [gulp-parcel](https://github.com/zacky1972/gulp-parcel) - Command line compilation plugin for gulp.js
 - [BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
@@ -1781,7 +1781,7 @@
 - [enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [prop-types](https://github.com/facebook/prop-types) - Runtime type checking for React props and similar objects
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-- [node-mime](https://github.com/broofa/node-mime) - Mime types for JavaScript
+- [mime](https://github.com/broofa/mime) - Mime types for JavaScript
 - [mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
 - [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -3178,7 +3178,6 @@
 - [vim-reload](https://github.com/xolox/vim-reload) - Automatic reloading of Vim scripts ((file-type) plug-ins, auto-load/syntax/indent scripts, color schemes)
 - [vim-misc](https://github.com/xolox/vim-misc) - Miscellaneous auto-load Vim scripts
 - [vim-howdoi](https://github.com/laurentgoudet/vim-howdoi) - A Vim frontend for howdoi, the awesome command line tool that lets you ask what you need and grabs the snippet of code from SO.
-- [homedir](https://github.com/lygaret/homedir) - my dotfiles and stuff
 - [ethanschoonover.com-OLD](https://github.com/altercation/ethanschoonover.com-OLD) - website source (hakyll, pandoc markdown)
 - [Tail-Bundle](https://github.com/vim-scripts/Tail-Bundle) - Yet another tail -f plugin
 - [goplayground-vim](https://github.com/mattn/goplayground-vim) - go playground for vim
