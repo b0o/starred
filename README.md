@@ -102,6 +102,7 @@
 
 ## C 
 
+- [psychicpaper](https://github.com/Siguza/psychicpaper) - iOS &lt;13.5 sandbox escape/entitlement 0day
 - [labwc](https://github.com/johanmalm/labwc) - A wayland floating compositor
 - [IRTool](https://github.com/jglim/IRTool) - Use your Gameboy Color to control National air-conditioners!
 - [BlenderSource](https://github.com/CreativeDesigner3D/BlenderSource) - This is my modified version of Blenders Source Code. Mainly used for testing and trying out new ideas
@@ -1539,7 +1540,6 @@
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [aether](https://github.com/nehbit/aether) - Aether is a peer-to-peer network of independent, self-moderated communities.
 - [chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
@@ -2882,6 +2882,7 @@
 ## TypeScript 
 
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
+- [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [rome](https://github.com/facebookexperimental/rome) - An experimental JavaScript toolchain
@@ -3014,7 +3015,6 @@
 - [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
 - [vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
-- [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [vim-textobj-fold](https://github.com/kana/vim-textobj-fold) - Vim plugin: Text objects for foldings
