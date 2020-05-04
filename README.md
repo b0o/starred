@@ -454,6 +454,7 @@
 
 ## CSS 
 
+- [ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
@@ -1822,7 +1823,7 @@
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node
 - [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
-- [ava](https://github.com/avajs/ava) - 🚀 JavaScript test runner
+- [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
 - [moe-js](https://github.com/mraleph/moe-js) - Automatically exported from code.google.com/p/moe-js
@@ -2264,6 +2265,7 @@
 
 ## Python 
 
+- [StanfordQuadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped) - 
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [PLASM-Disassembler](https://github.com/ChrisMiuchiz/PLASM-Disassembler) - 
 - [Plasma-Authentication-Server](https://github.com/ChrisMiuchiz/Plasma-Authentication-Server) - 
