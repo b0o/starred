@@ -323,6 +323,7 @@
 
 ## C++ 
 
+- [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [netevent](https://github.com/Blub/netevent) - Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
@@ -617,6 +618,7 @@
 
 ## Go 
 
+- [debughttp](https://github.com/rclone/debughttp) - A simple Go library to let you debug your HTTP transactions
 - [wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [tern](https://github.com/jackc/tern) - The SQL Fan's Migrator
@@ -1446,6 +1448,7 @@
 
 ## JavaScript 
 
+- [98.css-badges](https://github.com/jdan/98.css-badges) - badges for 98.css
 - [downshift](https://github.com/downshift-js/downshift) - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
@@ -1927,7 +1930,6 @@
 
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
-- [nnsplit](https://github.com/bminixhofer/nnsplit) - Fast, robust sentence splitting with bindings for Python, Rust and Javascript.
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
@@ -1944,6 +1946,7 @@
 
 ## Lua 
 
+- [minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [lua-resty-repl](https://github.com/saks/lua-resty-repl) - Interactive console (REPL) for Openresty and luajit code
 - [neh](https://github.com/oap-bram/neh) - The super small and simple nginx microservice/api maker!
@@ -1963,6 +1966,7 @@
 
 ## Makefile 
 
+- [packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [godoc-docker](https://github.com/graveyard/godoc-docker) - Docker image holding a standalone godoc server
 - [mandb-ondemand](https://github.com/graysky2/mandb-ondemand) - Rebuilds the manpage index database on-demand to speed-up pacman operations.
@@ -2265,6 +2269,7 @@
 
 ## Python 
 
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [StanfordQuadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped) - 
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [PLASM-Disassembler](https://github.com/ChrisMiuchiz/PLASM-Disassembler) - 
@@ -2524,7 +2529,7 @@
 - [itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 - [evilpass](https://github.com/ddevault/evilpass) - Slightly evil password strength checker
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
+- [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 
 ## QML 
 
@@ -2608,6 +2613,7 @@
 - [oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [webrender](https://github.com/servo/webrender) - A GPU-based renderer for the web
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+- [nnsplit](https://github.com/bminixhofer/nnsplit) - Fast, robust sentence splitting with bindings for Python, Rust and Javascript.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
@@ -2695,6 +2701,8 @@
 
 ## Shell 
 
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IntelliSense-like find-as-you-type completion for zsh
+- [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
