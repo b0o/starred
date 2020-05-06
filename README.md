@@ -102,6 +102,8 @@
 
 ## C 
 
+- [mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
+- [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [psychicpaper](https://github.com/Siguza/psychicpaper) - iOS &lt;13.5 sandbox escape/entitlement 0day
 - [labwc](https://github.com/johanmalm/labwc) - A wayland floating compositor
 - [IRTool](https://github.com/jglim/IRTool) - Use your Gameboy Color to control National air-conditioners!
@@ -618,6 +620,12 @@
 
 ## Go 
 
+- [go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs
+- [zq](https://github.com/brimsec/zq) - Command-line processor for structured logs
+- [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+- [arc](https://github.com/evilsocket/arc) - A manager for your secrets.
+- [go-flow](https://github.com/kamildrazkiewicz/go-flow) - Simply way to control goroutines execution order based on dependencies
+- [fileb0x](https://github.com/UnnoTed/fileb0x) - a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
 - [debughttp](https://github.com/rclone/debughttp) - A simple Go library to let you debug your HTTP transactions
 - [wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -693,7 +701,7 @@
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
 - [actions](https://github.com/apex/actions) - GitHub Actions
 - [fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash - :warning: Work in progress
+- [resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash
 - [Temporal](https://github.com/RTradeLtd/Temporal) - ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
 - [killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
 - [morph](https://github.com/DBCDK/morph) - NixOS deployment tool
@@ -1358,6 +1366,7 @@
 
 ## Haskell 
 
+- [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
 - [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [api.unverified.email](https://github.com/ptek/api.unverified.email) - A service to help with testing of sending the right emails
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
@@ -1988,6 +1997,9 @@
 
 ## OCaml 
 
+- [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
+- [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
+- [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns
 - [ppx](https://github.com/ocaml-ppx/ppx) - The future of ppx https://discuss.ocaml.org/t/the-future-of-ppx/
 - [notty](https://github.com/pqwy/notty) - Declarative terminal graphics for OCaml
 - [tpf](https://github.com/pqwy/tpf) - Trivial/Tagless Polytypic Functions
@@ -2112,7 +2124,7 @@
 
 ## Others 
 
-- [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - 
+- [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [my-awesome-stars](https://github.com/kmcodes/my-awesome-stars) - A curated list of my GitHub stars!
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
@@ -2269,6 +2281,9 @@
 
 ## Python 
 
+- [yaql](https://github.com/openstack/yaql) - Yet another query language
+- [yglu](https://github.com/lbovet/yglu) - Yglu ᕄ !? - YAML glue for structural templating and processing
+- [yamp](https://github.com/birchb1024/yamp) - Yet Another Macro Processor - for YAML
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [StanfordQuadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped) - 
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -2378,7 +2393,7 @@
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [amdgpu-fan](https://github.com/chestm007/amdgpu-fan) - Fan controller for AMD graphics cards running the amdgpu driver on Linux
 - [tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
@@ -2701,6 +2716,9 @@
 
 ## Shell 
 
+- [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
+- [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IntelliSense-like find-as-you-type completion for zsh
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
