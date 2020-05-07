@@ -102,6 +102,7 @@
 
 ## C 
 
+- [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [psychicpaper](https://github.com/Siguza/psychicpaper) - iOS &lt;13.5 sandbox escape/entitlement 0day
@@ -593,6 +594,7 @@
 
 ## Emacs Lisp 
 
+- [org-trello](https://github.com/org-trello/org-trello) - Org minor mode - 2-way sync org & trello
 - [org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
 - [org-brain](https://github.com/Kungsgeten/org-brain) - Org-mode wiki + concept-mapping
 - [zetteldeft](https://github.com/EFLS/zetteldeft) - A Zettelkasten system! Or rather, some functions on top of the emacs deft package.
@@ -620,6 +622,8 @@
 
 ## Go 
 
+- [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
+- [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs
 - [zq](https://github.com/brimsec/zq) - Command-line processor for structured logs
 - [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
@@ -656,7 +660,7 @@
 - [tada-io](https://github.com/ptiger10/tada-io) - Reading/writing tada DataFrames from other sources
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [readline](https://github.com/lmorg/readline) - Pure Go reimplimentation of readline
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration.
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
 - [dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
 - [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [nami](https://github.com/txthinking/nami) - A decentralized binary package manager.  Zero-Configuration.
@@ -1965,6 +1969,7 @@
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
+- [opm](https://github.com/openresty/opm) - OpenResty Package Manager
 - [lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -2265,7 +2270,6 @@
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
-- [opm](https://github.com/openresty/opm) - OpenResty Package Manager
 - [Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [dotfiles](https://github.com/jez/dotfiles) - My personal collection of configuration files.
@@ -2281,6 +2285,7 @@
 
 ## Python 
 
+- [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
 - [yaql](https://github.com/openstack/yaql) - Yet another query language
 - [yglu](https://github.com/lbovet/yglu) - Yglu ᕄ !? - YAML glue for structural templating and processing
 - [yamp](https://github.com/birchb1024/yamp) - Yet Another Macro Processor - for YAML
@@ -2421,7 +2426,7 @@
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [api](https://github.com/pushshift/api) - Pushshift API
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
-- [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat plugin for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
+- [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
@@ -2582,6 +2587,7 @@
 
 ## Ruby 
 
+- [md2man](https://github.com/sunaku/md2man) - 📚 Converts markdown into UNIX manual pages
 - [pru](https://github.com/grosser/pru) - Pipeable Ruby - forget about grep / sed / awk / wc ... use pure, readable Ruby!
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [tty-exit](https://github.com/piotrmurach/tty-exit) - Terminal exit codes.
@@ -2909,6 +2915,7 @@
 
 ## TypeScript 
 
+- [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
