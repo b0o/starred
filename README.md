@@ -622,6 +622,7 @@
 
 ## Go 
 
+- [gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs
@@ -1347,6 +1348,7 @@
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [megadesk](https://github.com/gcormier/megadesk) - Open-source Bekant controller board
+- [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
 - [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
@@ -1461,6 +1463,7 @@
 
 ## JavaScript 
 
+- [api.harmonograph.art](https://github.com/alex-page/api.harmonograph.art) - 👩‍🎨 Draw a harmonograph with a URL
 - [98.css-badges](https://github.com/jdan/98.css-badges) - badges for 98.css
 - [downshift](https://github.com/downshift-js/downshift) - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1609,7 +1612,6 @@
 - [adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [dotfiles](https://github.com/dustinlacewell/dotfiles) - Nix configuration for all my workstations and servers
-- [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
 - [arg](https://github.com/zeit/arg) - Simple argument parsing
 - [echo-chamber-js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments
 - [Debucsser](https://github.com/lucagez/Debucsser) - CSS debugging tool with an unpronounceable name
@@ -3031,6 +3033,7 @@
 
 ## Vim script 
 
+- [Dotfiles](https://github.com/t89/Dotfiles) - There is no place like ~/
 - [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 - [lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
 - [gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
