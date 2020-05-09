@@ -102,6 +102,7 @@
 
 ## C 
 
+- [ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
@@ -1463,6 +1464,8 @@
 
 ## JavaScript 
 
+- [chrome-extensions-manager](https://github.com/sigoden/chrome-extensions-manager) - A snapshot based chrome extensions manager
+- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [api.harmonograph.art](https://github.com/alex-page/api.harmonograph.art) - 👩‍🎨 Draw a harmonograph with a URL
 - [98.css-badges](https://github.com/jdan/98.css-badges) - badges for 98.css
 - [downshift](https://github.com/downshift-js/downshift) - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
@@ -2004,6 +2007,7 @@
 
 ## OCaml 
 
+- [semgrep](https://github.com/returntocorp/semgrep) - Fast and syntax-aware semantic code pattern search for many languages: like grep but for code
 - [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
 - [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns
@@ -2287,6 +2291,8 @@
 
 ## Python 
 
+- [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
+- [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
 - [yaql](https://github.com/openstack/yaql) - Yet another query language
 - [yglu](https://github.com/lbovet/yglu) - Yglu ᕄ !? - YAML glue for structural templating and processing
@@ -2724,6 +2730,7 @@
 
 ## Shell 
 
+- [sgrtab](https://github.com/avih/sgrtab) - Display standard/custom table of SGR combinations (terminal colors)
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
