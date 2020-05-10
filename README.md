@@ -102,6 +102,7 @@
 
 ## C 
 
+- [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
@@ -601,7 +602,7 @@
 - [zetteldeft](https://github.com/EFLS/zetteldeft) - A Zettelkasten system! Or rather, some functions on top of the emacs deft package.
 - [dynamic-ruler](https://github.com/rocher/dynamic-ruler) - Emacs package to show a dynamic ruler that can be freely moved around the buffer, for measuring and positioning text.
 - [evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
-- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer
+- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [config](https://github.com/codemac/config) - my config
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [rebecca-theme](https://github.com/vic/rebecca-theme) - The purple turtle theme for Spacemacs
@@ -623,6 +624,7 @@
 
 ## Go 
 
+- [immudb](https://github.com/codenotary/immudb) - An immutable Key/Value store
 - [gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
@@ -733,7 +735,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems development framework
+- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -824,7 +826,7 @@
 - [srvfb](https://github.com/Merovius/srvfb) - Stream a framebuffer device over HTTP
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
@@ -1201,7 +1203,7 @@
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections
-- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck – a collection of static analysis tools for working with Go code
+- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [ng](https://github.com/neugram/ng) - scripting language integrated with Go
@@ -1573,7 +1575,7 @@
 - [ReTitle](https://github.com/Lazyuki/ReTitle) - Chrome/Firefox extension for renaming tab titles easily. Works for local files as well (not on Firefox).
 - [bdiefinder](https://github.com/Benzhaomin/bdiefinder) - Find Samsung B-Die DDR 4 memory kits on Amazon, Newegg and many more
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [vim-language-server](https://github.com/iamcco/vim-language-server) - vim language server, lsp for viml
+- [vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [2019-talks](https://github.com/gophercon/2019-talks) - Slides and links for 2019 talks
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
@@ -1835,7 +1837,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (April 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (May 2020)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -2291,6 +2293,7 @@
 
 ## Python 
 
+- [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
