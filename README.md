@@ -102,7 +102,6 @@
 
 ## C 
 
-- [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
@@ -1375,6 +1374,7 @@
 
 ## Haskell 
 
+- [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
 - [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [api.unverified.email](https://github.com/ptek/api.unverified.email) - A service to help with testing of sending the right emails
@@ -1791,7 +1791,6 @@
 - [express-winston](https://github.com/bithavoc/express-winston) - express.js middleware for winstonjs
 - [object-hash](https://github.com/puleos/object-hash) - Generate hashes from javascript objects in node and the browser.
 - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
-- [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
@@ -1966,6 +1965,8 @@
 
 ## Lua 
 
+- [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
+- [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [lua-resty-repl](https://github.com/saks/lua-resty-repl) - Interactive console (REPL) for Openresty and luajit code
@@ -3000,6 +3001,7 @@
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
+- [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
 - [lib-colorifium](https://github.com/Auxx/lib-colorifium) - 
 - [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) - ESLint plugin for Jest
