@@ -327,6 +327,7 @@
 
 ## C++ 
 
+- [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -623,7 +624,8 @@
 
 ## Go 
 
-- [immudb](https://github.com/codenotary/immudb) - An immutable Key/Value store
+- [baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
+- [immudb](https://github.com/codenotary/immudb) - immudb is lightweight, high-speed immutable database for systems and applications
 - [gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
@@ -1515,7 +1517,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fast, simple dev environment for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - The fastest dev environment for modern web apps.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - 
@@ -2161,7 +2163,6 @@
 - [nist-inject](https://github.com/opentimestamps/nist-inject) - An injection of the NIST, ETH, LTC, and ZEC Random Beacons into Bitcoin
 - [betrusted-wiki](https://github.com/betrusted-io/betrusted-wiki) - Wiki for the betrusted project
 - [Electronics](https://github.com/pepaslabs/Electronics) - A central place to organize and publish all of my hobbyist electronics knowledge and projects.
-- [Texturina](https://github.com/Omnibus-Type/Texturina) - 
 - [ocaml-lsp](https://github.com/rgrinberg/ocaml-lsp) - OCaml Language Server Protocol implementation
 - [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [kernel-tutorial](https://github.com/gregkh/kernel-tutorial) - Basic "How to write a Linux kernel patch and submit it" tutorial
@@ -2772,6 +2773,7 @@
 - [better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [ssssh](https://github.com/michaelkarlcoleman/ssssh) - execute shell commands on or copy files to/from a set of Linux hosts
+- [Texturina](https://github.com/Omnibus-Type/Texturina) - 
 - [sensors-plotter](https://github.com/ezonakiusagi/sensors-plotter) - plot data in ascii art for senosrs data visualization in terminal environment
 - [scripts](https://github.com/nathanchance/scripts) - Environment scripts and configuration files
 - [flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
