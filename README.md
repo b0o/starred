@@ -72,7 +72,6 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
-  - [VHDL](#vhdl)
   - [Vala](#vala)
   - [Verilog](#verilog)
   - [Vim Snippet](#vim-snippet)
@@ -327,6 +326,7 @@
 
 ## C++ 
 
+- [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -543,6 +543,7 @@
 
 ## Coq 
 
+- [microwatt](https://github.com/antonblanchard/microwatt) - A tiny Open POWER ISA softcore written in VHDL 2008
 - [CoqGym](https://github.com/princeton-vl/CoqGym) - A Learning Environment for Theorem Proving with the Coq proof assistant
 - [proofs](https://github.com/stepchowfun/proofs) - A selection of formal proofs in Coq.
 
@@ -787,7 +788,7 @@
 - [generics](https://github.com/faiface/generics) - A proof-of-concept implementation of my generics proposal for Go
 - [subcommands](https://github.com/google/subcommands) - Go subcommand library.
 - [godolint](https://github.com/zabio3/godolint) - Dockerfile linter, written in Golang 🐳
-- [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
+- [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
 - [golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges
 - [hover](https://github.com/go-flutter-desktop/hover) - Hover helps developers to release Flutter applications on desktop.
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
@@ -1376,6 +1377,7 @@
 
 ## Haskell 
 
+- [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
 - [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
@@ -1784,7 +1786,7 @@
 - [insomnia-plugin-js-eval](https://github.com/miniyarov/insomnia-plugin-js-eval) - 
 - [insomnia-plugin-customtimestamp](https://github.com/Gabb1995/insomnia-plugin-customtimestamp) - Create a custom timestamp in insomnia rest client
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
-- [insomnia](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL Client
+- [insomnia](https://github.com/Kong/insomnia) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
@@ -1949,6 +1951,7 @@
 
 ## Jupyter Notebook 
 
+- [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
@@ -2600,6 +2603,7 @@
 
 ## Ruby 
 
+- [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [md2man](https://github.com/sunaku/md2man) - 📚 Converts markdown into UNIX manual pages
 - [pru](https://github.com/grosser/pru) - Pipeable Ruby - forget about grep / sed / awk / wc ... use pure, readable Ruby!
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
@@ -2735,6 +2739,7 @@
 
 ## Shell 
 
+- [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [sgrtab](https://github.com/avih/sgrtab) - Display standard/custom table of SGR combinations (terminal colors)
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
@@ -2988,7 +2993,7 @@
 - [ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
-- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
+- [bit](https://github.com/teambit/bit) - Streamline modern component development and reuse.
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
@@ -3025,10 +3030,6 @@
 - [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. https://vlang.io
 - [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 
-## VHDL 
-
-- [microwatt](https://github.com/antonblanchard/microwatt) - A tiny Open POWER ISA softcore written in VHDL 2008
-
 ## Vala 
 
 - [plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application
@@ -3047,6 +3048,7 @@
 
 ## Vim script 
 
+- [vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match
 - [Dotfiles](https://github.com/t89/Dotfiles) - There is no place like ~/
 - [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 - [lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
@@ -3143,7 +3145,7 @@
 - [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [neco-vim](https://github.com/Shougo/neco-vim) - The vim source for neocomplete/deoplete
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - "So many dots, so little time."
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - So many dots, so little time.
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
