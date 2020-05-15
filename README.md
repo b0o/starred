@@ -1648,7 +1648,6 @@
 - [glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
@@ -1662,7 +1661,7 @@
 - [presskit.html](https://github.com/pixelnest/presskit.html) - Re-implementation of presskit() as a static site generator
 - [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 - [tutanota](https://github.com/tutao/tutanota) - Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
-- [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
+- [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
 - [reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
@@ -2744,7 +2743,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Modern IDE-like find-as-you-type completion for zsh
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Modern IDE-like autocompletion for zsh
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
@@ -2983,6 +2982,7 @@
 - [prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [framer30-code](https://github.com/hermy0211/framer30-code) - Code from the framer 30 project
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
+- [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [react-canvas](https://github.com/projectstorm/react-canvas) - A pluggable layout and graphics system aimed at powering desktop publishing as well as storm-react-diagrams
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
