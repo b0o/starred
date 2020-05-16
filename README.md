@@ -517,7 +517,7 @@
 - [crux](https://github.com/juxt/crux) - Open Time Store
 - [spec.alpha](https://github.com/clojure/spec.alpha) - 
 - [scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
-- [re-frame](https://github.com/day8/re-frame) - A Reagent Framework For Writing SPAs, in Clojurescript.
+- [re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building uer interfaces, leveraging React.
 - [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
@@ -669,7 +669,7 @@
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
 - [dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
 - [gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
-- [nami](https://github.com/txthinking/nami) - A decentralized binary package manager.  Zero-Configuration.
+- [nami](https://github.com/txthinking/nami) - A decentralized binary package manager.
 - [hookah](https://github.com/donatj/hookah) - GitHub Webhooks Made Easy!
 - [nextword](https://github.com/high-moctane/nextword) - Predict next English words.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -849,7 +849,7 @@
 - [gizmo](https://github.com/Lallassu/gizmo) - 2D Pixel Destruction Game written in Go.
 - [immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
-- [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
+- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
 - [leaktest](https://github.com/fortytw2/leaktest) - Goroutine Leak Detector
 - [peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1950,7 +1950,6 @@
 
 ## Jupyter Notebook 
 
-- [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
@@ -2297,6 +2296,8 @@
 
 ## Python 
 
+- [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
+- [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
