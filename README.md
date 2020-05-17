@@ -106,7 +106,7 @@
 - [mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [psychicpaper](https://github.com/Siguza/psychicpaper) - iOS &lt;13.5 sandbox escape/entitlement 0day
-- [labwc](https://github.com/johanmalm/labwc) - A wayland floating compositor
+- [labwc](https://github.com/johanmalm/labwc) - Openbox alternative for Wayland
 - [IRTool](https://github.com/jglim/IRTool) - Use your Gameboy Color to control National air-conditioners!
 - [BlenderSource](https://github.com/CreativeDesigner3D/BlenderSource) - This is my modified version of Blenders Source Code. Mainly used for testing and trying out new ideas
 - [pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
@@ -517,7 +517,7 @@
 - [crux](https://github.com/juxt/crux) - Open Time Store
 - [spec.alpha](https://github.com/clojure/spec.alpha) - 
 - [scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
-- [re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building uer interfaces, leveraging React.
+- [re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
@@ -746,7 +746,7 @@
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [goptuna](https://github.com/c-bata/goptuna) - Distributed hyperparameter optimization framework, inspired by Optuna.
-- [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+- [golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
 - [go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
@@ -2296,6 +2296,7 @@
 
 ## Python 
 
+- [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
@@ -2642,6 +2643,11 @@
 
 ## Rust 
 
+- [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage
+- [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [smol](https://github.com/stjepang/smol) - A small and fast async runtime for Rust
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
@@ -3049,6 +3055,7 @@
 
 ## Vim script 
 
+- [vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match
 - [Dotfiles](https://github.com/t89/Dotfiles) - There is no place like ~/
 - [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
@@ -3221,6 +3228,7 @@
 
 ## VimL 
 
+- [vim-oblique](https://github.com/junegunn/vim-oblique) - DEPRECATED Improved /-search (experimental)
 - [SrchRplcHiGrp.vim](https://github.com/vim-scripts/SrchRplcHiGrp.vim) - Search and/or replace based on a syntax highlight group
 - [vim-shot-f](https://github.com/deris/vim-shot-f) - highlight the character which can move directly to (by `f`,`F`,`t`,`T`)
 - [utl.vim](https://github.com/vim-scripts/utl.vim) - Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas
