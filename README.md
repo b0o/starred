@@ -153,7 +153,6 @@
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [IntelMausiEthernet](https://github.com/Mieze/IntelMausiEthernet) - OS X driver for Intel onboard LAN
-- [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg) - AppleSupportPkg - contains UEFI drivers for Apple environment support
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [ixy](https://github.com/emmericp/ixy) - A simple yet fast user space network driver for Intel 10 Gbit/s NICs written from scratch
 - [feh](https://github.com/derf/feh) - a fast and light image viewer
@@ -849,7 +848,7 @@
 - [gizmo](https://github.com/Lallassu/gizmo) - 2D Pixel Destruction Game written in Go.
 - [immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
-- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
+- [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [leaktest](https://github.com/fortytw2/leaktest) - Goroutine Leak Detector
 - [peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -2170,6 +2169,7 @@
 - [navigating-reason](https://github.com/jordwalke/navigating-reason) - Overview of Reason tooling options for the curious.
 - [thc-tesla-powerwall2-hack](https://github.com/hackerschoice/thc-tesla-powerwall2-hack) - TESLA PowerWall 2 Security Shenanigans
 - [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
+- [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg) - AppleSupportPkg - contains UEFI drivers for Apple environment support
 - [awesome-blender](https://github.com/paperbenni/awesome-blender) - 
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -2370,7 +2370,7 @@
 - [ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [nightshift](https://github.com/maandree/nightshift) - A terminal user interface for redshift
 - [sgtk-menu](https://github.com/nwg-piotr/sgtk-menu) - GTK launchers for sway & other WMs w/ menu, dmenu, application grid and button bar
-- [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files
+- [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line application for working with CSV files.
 - [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [shavar-prod-lists](https://github.com/mozilla-services/shavar-prod-lists) - Shavar/tracking protection lists used in prod
 - [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
