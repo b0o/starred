@@ -283,7 +283,7 @@
 - [athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller and library for spotify, vlc, audacious, bmp, cmus, and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller and library for vlc, audacious, bmp, cmus, spotify and others.
 - [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
 - [openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
@@ -624,6 +624,9 @@
 
 ## Go 
 
+- [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+- [sqalx](https://github.com/heetch/sqalx) - Nested transactions for sqlx
 - [baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
 - [immudb](https://github.com/codenotary/immudb) - immudb is lightweight, high-speed immutable database for systems and applications
 - [gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
@@ -3037,7 +3040,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 
 ## Vala 
