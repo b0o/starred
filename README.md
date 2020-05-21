@@ -101,6 +101,7 @@
 
 ## C 
 
+- [awk](https://github.com/onetrueawk/awk) - One true awk
 - [ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
@@ -877,7 +878,7 @@
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
 - [go-stripehooks](https://github.com/tj/go-stripehooks) - Stripe webhook manager for Go with event verification support
 - [bingo](https://github.com/saibing/bingo) - Bingo is a Go language server that speaks Language Server Protocol.
-- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
+- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. https://github.com/foxcpp/maddy/wiki/FAQ
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [picofeed](https://github.com/seenaburns/picofeed) - A minimal terminal rss reader
@@ -1334,6 +1335,7 @@
 
 ## HTML 
 
+- [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
@@ -1472,6 +1474,7 @@
 
 ## JavaScript 
 
+- [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
 - [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
 - [chrome-extensions-manager](https://github.com/sigoden/chrome-extensions-manager) - A snapshot based chrome extensions manager
@@ -1603,7 +1606,7 @@
 - [Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [node_lite](https://github.com/grasslandnetwork/node_lite) - Grassland Node Lite. Optimized for use on low-end computers. Requires Grassland's 'Node Lite Object Detection'
-- [handsontable](https://github.com/handsontable/handsontable) - 🚀 Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
+- [handsontable](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -2238,7 +2241,7 @@
 - [os-projects](https://github.com/stellar/os-projects) - 
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [building-permits](https://github.com/hadley/building-permits) - Code & data accompanying "whole-game" youtube video
-- [blog](https://github.com/adnzzzzZ/blog) - gamedev blog
+- [blog](https://github.com/a327ex/blog) - gamedev blog
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [GitFixUm](https://github.com/SethRobertson/GitFixUm) - On undoing, fixing, or removing commits or mistakes in git
@@ -2276,6 +2279,7 @@
 
 ## Perl 
 
+- [vnlog](https://github.com/dkogan/vnlog) - Toolkit for manipulating data in an ASCII table
 - [zsh-functional](https://github.com/Tarrasch/zsh-functional) - Higher order functions for zsh
 - [ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [lm-sensors](https://github.com/lm-sensors/lm-sensors) - lm-sensors repository
@@ -2300,6 +2304,8 @@
 
 ## Python 
 
+- [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
+- [firectl](https://github.com/rahiel/firectl) - Control Firejail desktop integration.
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
@@ -2750,6 +2756,9 @@
 
 ## Shell 
 
+- [kiss](https://github.com/kisslinux/kiss) - 🧱 Package manager for KISS
+- [firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
+- [firewarden](https://github.com/pigmonkey/firewarden) - Open a file via the specified application within a private Firejail sandbox.
 - [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [sgrtab](https://github.com/avih/sgrtab) - Display standard/custom table of SGR combinations (terminal colors)
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
