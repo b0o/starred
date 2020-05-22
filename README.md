@@ -96,11 +96,11 @@
 ## Assembly 
 
 - [sixty5o2](https://github.com/janroesner/sixty5o2) - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
-- [collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [stage0](https://github.com/oriansj/stage0) - A set of minimal dependency bootstrap binaries
 
 ## C 
 
+- [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
 - [awk](https://github.com/onetrueawk/awk) - One true awk
 - [ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
@@ -150,6 +150,7 @@
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [oniguruma](https://github.com/kkos/oniguruma) - regular expression library
+- [collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
@@ -171,6 +172,7 @@
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [no-wm](https://github.com/patrickhaller/no-wm) - Use X11 without a window manager
 - [alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
+- [oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
@@ -597,6 +599,7 @@
 
 ## Emacs Lisp 
 
+- [org-kanban](https://github.com/gizmomogwai/org-kanban) - Kanban table for org-mode
 - [org-trello](https://github.com/org-trello/org-trello) - Org minor mode - 2-way sync org & trello
 - [org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
 - [org-brain](https://github.com/Kungsgeten/org-brain) - Org-mode wiki + concept-mapping
@@ -1474,6 +1477,9 @@
 
 ## JavaScript 
 
+- [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
+- [link-lock](https://github.com/jstrieb/link-lock) - Distributed application to password-protect URLs using AES in the browser
+- [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
 - [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
@@ -2019,6 +2025,7 @@
 
 ## OCaml 
 
+- [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
 - [semgrep](https://github.com/returntocorp/semgrep) - Fast and syntax-aware semantic code pattern search for many languages: like grep but for code
 - [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
 - [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
@@ -2147,6 +2154,7 @@
 
 ## Others 
 
+- [technology-budgeting](https://github.com/18F/technology-budgeting) - 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
 - [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [my-awesome-stars](https://github.com/kmcodes/my-awesome-stars) - A curated list of my GitHub stars!
@@ -2345,7 +2353,7 @@
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [deoplete-nextword](https://github.com/Shougo/deoplete-nextword) - A deoplete source for nextword for completing words in English.
-- [jc](https://github.com/kellyjonbrazil/jc) - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
+- [jc](https://github.com/kellyjonbrazil/jc) - This tool converts the output of popular command-line tools and file-types to JSON. This allows piping of output to tools like jq.
 - [vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [securedrop-workstation](https://github.com/freedomofpress/securedrop-workstation) - Qubes-based SecureDrop Journalist Workstation environment for submission handling
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
@@ -2710,7 +2718,6 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git
-- [oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
@@ -2756,6 +2763,7 @@
 
 ## Shell 
 
+- [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [kiss](https://github.com/kisslinux/kiss) - 🧱 Package manager for KISS
 - [firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
 - [firewarden](https://github.com/pigmonkey/firewarden) - Open a file via the specified application within a private Firejail sandbox.
@@ -2955,6 +2963,7 @@
 
 ## TypeScript 
 
+- [Lesswrong2](https://github.com/LessWrong2/Lesswrong2) - The development repository for LessWrong2, based on Vulcan JS
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
