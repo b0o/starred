@@ -875,7 +875,7 @@
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [HashStablePack](https://github.com/CovenantSQL/HashStablePack) - Serialization code generator for QUICK struct content comparison
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
-- [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries
+- [go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications.
 - [go-contentful-generator](https://github.com/nicolai86/go-contentful-generator) - A client SDK generator for contentful
 - [gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
@@ -1038,6 +1038,7 @@
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [go-benchmark](https://github.com/cornelk/go-benchmark) - Golang benchmarks used for optimizing code
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [fo](https://github.com/albrow/fo) - An experimental language which adds functional programming features to Go.
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
@@ -1241,7 +1242,7 @@
 - [mockery](https://github.com/vektra/mockery) - A mock code autogenerator for golang
 - [gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better.
 - [litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
-- [q](https://github.com/y0ssar1an/q) - Quick and dirty debugging output for tired Go programmers
+- [q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
 - [panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
 - [gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go
 - [nanolist](https://github.com/eXeC64/nanolist) - mailing lists - the unix way
@@ -1532,7 +1533,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpack](https://github.com/pikapkg/snowpack) - The fastest dev environment for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster dev environment for modern web apps.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - 
@@ -1722,7 +1723,6 @@
 - [remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
 - [peter.sh](https://github.com/beverloo/peter.sh) - Source-code for http://peter.sh/.
 - [intoli-article-materials](https://github.com/intoli/intoli-article-materials) - All of the supporting materials for articles from Intoli's blog.
-- [dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
 - [Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
 - [DropIt](https://github.com/ThalKod/DropIt) - DropIt is a File Uploader built with nodejs, Upload, get a link, and share your files with anyone easily.
@@ -2776,7 +2776,7 @@
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
-- [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX resource monitor
 - [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - Stupid AI
 - [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
 - [pacwall](https://github.com/Kharacternyk/pacwall) - Dependency graph of installed packages on your wallpaper.
