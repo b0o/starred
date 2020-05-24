@@ -328,6 +328,7 @@
 
 ## C++ 
 
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
@@ -345,7 +346,7 @@
 - [NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
-- [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
+- [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [pamixer](https://github.com/cdemoulins/pamixer) - Pulseaudio command line mixer
 - [diycamera](https://github.com/IdleHandsProject/diycamera) - An Arduino Based DIY Image Sensor and Camera Body
@@ -1967,7 +1968,7 @@
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
-- [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Examples, demos, and tutorials demonstrating the usage of OSMnx
+- [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
 - [speed_mystery](https://github.com/panicinc/speed_mystery) - Data collected to investigate why Comcast customers have slow downloads from our site
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 - [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for blob storage
@@ -2776,7 +2777,7 @@
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
-- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX resource monitor
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - Stupid AI
 - [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
 - [pacwall](https://github.com/Kharacternyk/pacwall) - Dependency graph of installed packages on your wallpaper.
@@ -3079,6 +3080,7 @@
 
 ## Vim script 
 
+- [base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
 - [vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match
 - [Dotfiles](https://github.com/t89/Dotfiles) - There is no place like ~/
