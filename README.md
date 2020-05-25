@@ -629,6 +629,8 @@
 
 ## Go 
 
+- [goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
 - [sqalx](https://github.com/heetch/sqalx) - Nested transactions for sqlx
@@ -1479,6 +1481,7 @@
 
 ## JavaScript 
 
+- [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
 - [link-lock](https://github.com/jstrieb/link-lock) - Distributed application to password-protect URLs using AES in the browser
 - [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
@@ -2155,6 +2158,7 @@
 
 ## Others 
 
+- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [technology-budgeting](https://github.com/18F/technology-budgeting) - 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
 - [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -2663,6 +2667,8 @@
 
 ## Rust 
 
+- [trait-eval](https://github.com/doctorn/trait-eval) - We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???
+- [materialize](https://github.com/MaterializeInc/materialize) - The Streaming SQL Database powered by Timely Dataflow
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -2764,6 +2770,7 @@
 
 ## Shell 
 
+- [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [kiss](https://github.com/kisslinux/kiss) - 🧱 Package manager for KISS
 - [firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
@@ -3080,6 +3087,7 @@
 
 ## Vim script 
 
+- [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
 - [vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match
