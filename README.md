@@ -124,6 +124,7 @@
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable non-recursive adaptive merge sort which is faster than quicksort.
 - [gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
+- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [darkhttpd](https://github.com/andreasgal/darkhttpd) - darkhttpd for B2G
 - [pacredir](https://github.com/eworm-de/pacredir) - redirect pacman requests, assisted by avahi service discovery
 - [wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
@@ -463,6 +464,7 @@
 
 ## CSS 
 
+- [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
@@ -932,7 +934,7 @@
 - [gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a "bang line" in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code.
 - [gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using dot (Graphviz)
-- [goloader](https://github.com/dearplain/goloader) - load and run golang code at runtime.
+- [goloader](https://github.com/dearplain/goloader) - load and run golang code at runtime. (WARNING: this repo has not been maintained for a long time, please take a look at https://github.com/pkujhd/goloader)
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
@@ -1242,7 +1244,7 @@
 - [lore](https://github.com/abrahambotros/lore) - Light Object-Relational Environment (LORE) provides a simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
 - [go-queryset](https://github.com/jirfag/go-queryset) - 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood.
-- [mockery](https://github.com/vektra/mockery) - A mock code autogenerator for golang
+- [mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better.
 - [litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
@@ -2770,6 +2772,7 @@
 
 ## Shell 
 
+- [amdgpu-fancontrol](https://github.com/grmat/amdgpu-fancontrol) - 
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [kiss](https://github.com/kisslinux/kiss) - 🧱 Package manager for KISS
@@ -2809,7 +2812,6 @@
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
-- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories
 - [better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
