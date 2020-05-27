@@ -100,6 +100,7 @@
 
 ## C 
 
+- [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
 - [awk](https://github.com/onetrueawk/awk) - One true awk
 - [ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
@@ -124,7 +125,6 @@
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable non-recursive adaptive merge sort which is faster than quicksort.
 - [gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
-- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [darkhttpd](https://github.com/andreasgal/darkhttpd) - darkhttpd for B2G
 - [pacredir](https://github.com/eworm-de/pacredir) - redirect pacman requests, assisted by avahi service discovery
 - [wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
@@ -2370,7 +2370,7 @@
 - [kitti3](https://github.com/LandingEllipse/kitti3) - Kitty drop-down service for i3wm
 - [websitechanges](https://github.com/schollz/websitechanges) - Change detection with a simple Python script to email you whenever a website changes.
 - [cliche](https://github.com/kootenpv/cliche) - Build a simple command-line interface from your functions :computer:
-- [nfstream](https://github.com/aouinizied/nfstream) - a Flexible Network Data Analysis Framework.
+- [nfstream](https://github.com/aouinizied/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [p_tqdm](https://github.com/swansonk14/p_tqdm) - Parallel processing with progress bars
@@ -2772,6 +2772,8 @@
 
 ## Shell 
 
+- [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
+- [archlinux-nix](https://github.com/asppsa/archlinux-nix) - Bash script for managing the Nix package manager on Arch Linux
 - [amdgpu-fancontrol](https://github.com/grmat/amdgpu-fancontrol) - 
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
@@ -2812,6 +2814,7 @@
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
+- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories
 - [better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
