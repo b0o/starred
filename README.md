@@ -631,6 +631,8 @@
 
 ## Go 
 
+- [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
+- [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -1344,6 +1346,7 @@
 
 ## HTML 
 
+- [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -1483,6 +1486,7 @@
 
 ## JavaScript 
 
+- [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
 - [link-lock](https://github.com/jstrieb/link-lock) - Distributed application to password-protect URLs using AES in the browser
@@ -1570,9 +1574,9 @@
 - [isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
 - [22120](https://github.com/dosyago/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
-- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
-- [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
-- [release](https://github.com/zeit/release) - Generate changelogs with a single command
+- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+- [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
+- [release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [github-dashing](https://github.com/chillu/github-dashing) - Dashboard to monitor the health of github projects based on their contribution statistics, based on the "Dashing" framework
 - [mathbox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing
 - [gt-linalg](https://github.com/QBobWatson/gt-linalg) - Interactive Linear Algebra, free online textbook at Georgia Tech
@@ -1640,7 +1644,7 @@
 - [adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [dotfiles](https://github.com/dustinlacewell/dotfiles) - Nix configuration for all my workstations and servers
-- [arg](https://github.com/zeit/arg) - Simple argument parsing
+- [arg](https://github.com/vercel/arg) - Simple argument parsing
 - [echo-chamber-js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments
 - [Debucsser](https://github.com/lucagez/Debucsser) - CSS debugging tool with an unpronounceable name
 - [roller](https://github.com/toyboxsystems/roller) - 
@@ -1884,7 +1888,7 @@
 - [ssb-db](https://github.com/ssbc/ssb-db) - A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols
 - [tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
-- [next.js](https://github.com/zeit/next.js) - The React Framework
+- [next.js](https://github.com/vercel/next.js) - The React Framework
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [fancy-log](https://github.com/gulpjs/fancy-log) - Log things, prefixed with a timestamp.
 - [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
@@ -2031,6 +2035,7 @@
 
 ## OCaml 
 
+- [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
 - [semgrep](https://github.com/returntocorp/semgrep) - Fast and syntax-aware semantic code pattern search for many languages: like grep but for code
 - [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
@@ -2440,7 +2445,7 @@
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [amdgpu-fan](https://github.com/chestm007/amdgpu-fan) - Fan controller for AMD graphics cards running the amdgpu driver on Linux
 - [tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
@@ -2672,7 +2677,7 @@
 - [trait-eval](https://github.com/doctorn/trait-eval) - We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???
 - [materialize](https://github.com/MaterializeInc/materialize) - The Streaming SQL Database powered by Timely Dataflow
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage
+- [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -2772,6 +2777,7 @@
 
 ## Shell 
 
+- [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [archlinux-nix](https://github.com/asppsa/archlinux-nix) - Bash script for managing the Nix package manager on Arch Linux
 - [amdgpu-fancontrol](https://github.com/grmat/amdgpu-fancontrol) - 
@@ -2785,7 +2791,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Modern IDE-like autocompletion for zsh
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Modern IDE-like autocompletion for Zsh
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
@@ -2995,9 +3001,9 @@
 - [design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
 - [zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [now](https://github.com/zeit/now) - Develop. Preview. Ship.
+- [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
-- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
+- [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [web-ext-translator](https://github.com/Lusito/web-ext-translator) - An easy to use translation tool for web-extensions
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restart, or a combination of those events.
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
