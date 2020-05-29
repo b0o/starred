@@ -100,6 +100,7 @@
 
 ## C 
 
+- [kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
 - [awk](https://github.com/onetrueawk/awk) - One true awk
@@ -631,6 +632,7 @@
 
 ## Go 
 
+- [sponsors-api](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.md
 - [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -1486,6 +1488,8 @@
 
 ## JavaScript 
 
+- [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
+- [better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
 - [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
@@ -2037,7 +2041,6 @@
 
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
-- [semgrep](https://github.com/returntocorp/semgrep) - Fast and syntax-aware semantic code pattern search for many languages: like grep but for code
 - [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
 - [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns
@@ -2165,6 +2168,7 @@
 
 ## Others 
 
+- [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [technology-budgeting](https://github.com/18F/technology-budgeting) - 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
 - [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set
@@ -2330,6 +2334,7 @@
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
+- [semgrep](https://github.com/returntocorp/semgrep) - Fast and syntax-aware semantic code pattern search for many languages: like grep but for code
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -2605,6 +2610,7 @@
 
 ## R 
 
+- [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 - [wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R
 - [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
@@ -2777,6 +2783,7 @@
 
 ## Shell 
 
+- [wd](https://github.com/mbrock/wd) - Use WebDriver from the command line
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [archlinux-nix](https://github.com/asppsa/archlinux-nix) - Bash script for managing the Nix package manager on Arch Linux
@@ -3005,7 +3012,7 @@
 - [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [web-ext-translator](https://github.com/Lusito/web-ext-translator) - An easy to use translation tool for web-extensions
-- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restart, or a combination of those events.
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
@@ -3066,7 +3073,7 @@
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
