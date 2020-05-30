@@ -2168,6 +2168,7 @@
 
 ## Others 
 
+- [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [technology-budgeting](https://github.com/18F/technology-budgeting) - 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
@@ -2631,7 +2632,7 @@
 
 - [bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
 - [grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
-- [genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
+- [genType](https://github.com/reason-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [reason-react-native](https://github.com/reason-react-native/reason-react-native) - ReasonML / BuckleScript bindings for React Native
 
 ## Red 
@@ -2816,7 +2817,7 @@
 - [pacman.store](https://github.com/RubenKelevra/pacman.store) - Distributed Pacman Cache via IPFS
 - [rofi-systemd](https://github.com/IvanMalison/rofi-systemd) - 
 - [HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
-- [action-shellcheck](https://github.com/ludeeus/action-shellcheck) - Run shellcheck on ALL sh files in the repository.
+- [action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
 - [zunit](https://github.com/zunit-zsh/zunit) - A powerful testing framework for ZSH projects
 - [shu2](https://github.com/okdana/shu2) - A general-purpose utility library for zsh scripts
