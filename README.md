@@ -100,6 +100,7 @@
 
 ## C 
 
+- [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
@@ -465,6 +466,7 @@
 
 ## CSS 
 
+- [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
@@ -632,6 +634,8 @@
 
 ## Go 
 
+- [drand](https://github.com/drand/drand) - 🎲 A Distributed Randomness Beacon Daemon - Go implementation
+- [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [sponsors-api](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.md
 - [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -890,7 +894,7 @@
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
 - [go-stripehooks](https://github.com/tj/go-stripehooks) - Stripe webhook manager for Go with event verification support
 - [bingo](https://github.com/saibing/bingo) - Bingo is a Go language server that speaks Language Server Protocol.
-- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. https://github.com/foxcpp/maddy/wiki/FAQ
+- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [picofeed](https://github.com/seenaburns/picofeed) - A minimal terminal rss reader
@@ -1488,6 +1492,7 @@
 
 ## JavaScript 
 
+- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
 - [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -2538,7 +2543,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
-- [amazon-polly-sample](https://github.com/aws-samples/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
+- [amazon-polly-sample](https://github.com/amazon-archives/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
 - [data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python.
 - [virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -2786,6 +2791,8 @@
 
 ## Shell 
 
+- [config-public](https://github.com/infokiller/config-public) - Dotfiles: vim, emacs, vscode, tmux, zsh, bash, ipython, ranger, i3, and many others
+- [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [wd](https://github.com/mbrock/wd) - Use WebDriver from the command line
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
@@ -2832,7 +2839,7 @@
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories
+- [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [ssssh](https://github.com/michaelkarlcoleman/ssssh) - execute shell commands on or copy files to/from a set of Linux hosts
@@ -3110,6 +3117,7 @@
 
 ## Vim script 
 
+- [fff.vim](https://github.com/dylanaraps/fff.vim) - A plugin for vim/neovim which allows you to use fff as a file opener.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
 - [vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
