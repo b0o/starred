@@ -313,6 +313,8 @@
 
 ## C# # 
 
+- [mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
+- [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
@@ -331,6 +333,7 @@
 
 ## C++ 
 
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
@@ -517,6 +520,7 @@
 
 ## Clojure 
 
+- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -634,6 +638,7 @@
 
 ## Go 
 
+- [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [drand](https://github.com/drand/drand) - 🎲 A Distributed Randomness Beacon Daemon - Go implementation
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [sponsors-api](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.md
@@ -1399,6 +1404,7 @@
 
 ## Haskell 
 
+- [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
@@ -1492,6 +1498,10 @@
 
 ## JavaScript 
 
+- [uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+- [svelte-loader](https://github.com/sveltejs/svelte-loader) - Webpack loader for svelte components.
+- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components with Rollup
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
@@ -1758,7 +1768,7 @@
 - [sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) - A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and pattern fills.
 - [styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [Sketch-Icons](https://github.com/AMoreaux/Sketch-Icons) - 🚀 Generate a dynamic icon library
-- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility.
+- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [paddy-sketch-plugin](https://github.com/DWilliames/paddy-sketch-plugin) - Automated padding, spacing and alignment for your Sketch layers
 - [string-pixel-width](https://github.com/adambisek/string-pixel-width) - Blazingly fast measure string width in pixels on the server in Javascript (Node.Js)
@@ -2791,6 +2801,8 @@
 
 ## Shell 
 
+- [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
+- [envwarden](https://github.com/envwarden/envwarden) - Manage your server secrets with Bitwarden
 - [config-public](https://github.com/infokiller/config-public) - Dotfiles: vim, emacs, vscode, tmux, zsh, bash, ipython, ranger, i3, and many others
 - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
@@ -2809,7 +2821,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Modern IDE-like autocompletion for Zsh
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IDE-like type-ahead completion for Zsh — Now asynchronous/non-blocking!
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
@@ -3001,6 +3013,9 @@
 
 ## TypeScript 
 
+- [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
+- [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+- [web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [Lesswrong2](https://github.com/LessWrong2/Lesswrong2) - The development repository for LessWrong2, based on Vulcan JS
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
@@ -3117,6 +3132,7 @@
 
 ## Vim script 
 
+- [vim-ingo-library](https://github.com/inkarkat/vim-ingo-library) - Vimscript library of common functions
 - [fff.vim](https://github.com/dylanaraps/fff.vim) - A plugin for vim/neovim which allows you to use fff as a file opener.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
@@ -3166,7 +3182,7 @@
 - [vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [vim-nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs) - NERDTree and tabs together in Vim, painlessly
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
-- [fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchrnonous tree viewer written in Pure Vim script
+- [fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [vim-lexiv](https://github.com/mattn/vim-lexiv) - Yet Another Lexima
 - [lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 - [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
