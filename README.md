@@ -604,6 +604,7 @@
 ## Elm 
 
 - [nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
+- [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [core](https://github.com/elm/core) - Elm's core libraries
 - [elm-todomvc](https://github.com/evancz/elm-todomvc) - The TodoMVC app written in Elm, nice example for beginners.
 
@@ -1408,7 +1409,6 @@
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
-- [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [api.unverified.email](https://github.com/ptek/api.unverified.email) - A service to help with testing of sending the right emails
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
@@ -1891,7 +1891,7 @@
 - [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
-- [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
+- [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
 - [moe-js](https://github.com/mraleph/moe-js) - Automatically exported from code.google.com/p/moe-js
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order
@@ -2346,6 +2346,8 @@
 
 ## Python 
 
+- [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
+- [mutt-notmuch-py](https://github.com/honza/mutt-notmuch-py) - 
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [firectl](https://github.com/rahiel/firectl) - Control Firejail desktop integration.
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
@@ -2801,9 +2803,10 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [envwarden](https://github.com/envwarden/envwarden) - Manage your server secrets with Bitwarden
-- [config-public](https://github.com/infokiller/config-public) - Dotfiles: vim, emacs, vscode, tmux, zsh, bash, ipython, ranger, i3, and many others
+- [config-public](https://github.com/infokiller/config-public) - Linux/WSL config to optimize ergonomics, security, and productivity: vim/neovim, zsh, tmux, i3, emacs, vscode, ipython, jupyter, ranger, fzf, kitty, xkb, selfquant, firejail, systemd, etc
 - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [wd](https://github.com/mbrock/wd) - Use WebDriver from the command line
