@@ -469,6 +469,7 @@
 
 ## CSS 
 
+- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
@@ -548,7 +549,7 @@
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [weir](https://github.com/inconvergent/weir) - A system for making generative systems
 - [ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
-- [next](https://github.com/atlas-engineer/next) - Next browser - Be productive.
+- [next](https://github.com/atlas-engineer/next) - Nyxt browser - Be productive.
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
 - [reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
 - [slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
@@ -901,7 +902,7 @@
 - [go-stripehooks](https://github.com/tj/go-stripehooks) - Stripe webhook manager for Go with event verification support
 - [bingo](https://github.com/saibing/bingo) - Bingo is a Go language server that speaks Language Server Protocol.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [picofeed](https://github.com/seenaburns/picofeed) - A minimal terminal rss reader
 - [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
@@ -1498,6 +1499,10 @@
 
 ## JavaScript 
 
+- [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+- [mermaid.cli](https://github.com/mermaidjs/mermaid.cli) - Command-line interface for mermaid
+- [mdlt](https://github.com/metadelta/mdlt) - A command-line utility for quick math.
+- [UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
 - [uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [svelte-loader](https://github.com/sveltejs/svelte-loader) - Webpack loader for svelte components.
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components with Rollup
@@ -2183,6 +2188,9 @@
 
 ## Others 
 
+- [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
+- [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 - [Lily58](https://github.com/kata0510/Lily58) - 
 - [SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
@@ -2346,6 +2354,7 @@
 
 ## Python 
 
+- [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) - Awesome Diagram Tools
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [mutt-notmuch-py](https://github.com/honza/mutt-notmuch-py) - 
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
@@ -2660,6 +2669,7 @@
 
 ## Ruby 
 
+- [awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:
 - [greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
 - [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [md2man](https://github.com/sunaku/md2man) - 📚 Converts markdown into UNIX manual pages
@@ -3212,7 +3222,7 @@
 - [Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
 - [dropcl.vim](https://github.com/dylnmc/dropcl.vim) - drop-down command-line for vim [mirror of https://gitlab.com/dylnmc/dropcl.vim]
 - [vim-isotope](https://github.com/segeljakt/vim-isotope) - Insert and attach special characters with ease
-- [lsbuffer.vim](https://github.com/dylnmc/lsbuffer.vim) - lsbuffer.vim [mirror of https://gitlab.com/dylnmc/lsbuffer.vim]
+- [lsbuffer-old.vim](https://github.com/dylnmc/lsbuffer-old.vim) - lsbuffer.vim [mirror of https://gitlab.com/dylnmc/lsbuffer.vim]
 - [vim-textobj-keyvalue](https://github.com/vimtaku/vim-textobj-keyvalue) - 
 - [vim-textobj-user](https://github.com/kana/vim-textobj-user) - Vim plugin: Create your own text objects
 - [vim-scriptease](https://github.com/tpope/vim-scriptease) - scriptease.vim: A Vim plugin for Vim plugins
