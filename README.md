@@ -333,6 +333,7 @@
 
 ## C++ 
 
+- [HElib](https://github.com/homenc/HElib) - An Implementation of homomorphic encryption
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
@@ -549,7 +550,7 @@
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [weir](https://github.com/inconvergent/weir) - A system for making generative systems
 - [ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
-- [next](https://github.com/atlas-engineer/next) - Nyxt browser - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt browser - Be productive.
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
 - [reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
 - [slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
@@ -640,6 +641,7 @@
 
 ## Go 
 
+- [sudo](https://github.com/zeebo/sudo) - Bypasses restrictions on reflect
 - [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [drand](https://github.com/drand/drand) - 🎲 A Distributed Randomness Beacon Daemon - Go implementation
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
@@ -836,7 +838,7 @@
 - [websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
 - [aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go.
 - [gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
-- [durafmt](https://github.com/hako/durafmt) - :clock8: Better time duration formatting in Go!
+- [durafmt](https://github.com/hako/durafmt) - :clock8:  Better time duration formatting in Go!
 - [go-web-template](https://github.com/bruno-chavez/go-web-template) - Template for Go web APIs, includes custom authentication, cookie-based sessions with Redis, CORS support and more
 - [onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
@@ -1257,7 +1259,7 @@
 - [reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
 - [marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [lore](https://github.com/abrahambotros/lore) - Light Object-Relational Environment (LORE) provides a simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go
-- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
 - [go-queryset](https://github.com/jirfag/go-queryset) - 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood.
 - [mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better.
@@ -1403,6 +1405,7 @@
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+- [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
 
 ## Haskell 
 
@@ -1479,6 +1482,7 @@
 
 ## Java 
 
+- [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) - Scalable web crawler based on Apache Storm
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-extend visual workflow scheduling platform, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
 - [runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
@@ -1499,6 +1503,7 @@
 
 ## JavaScript 
 
+- [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [mermaid.cli](https://github.com/mermaidjs/mermaid.cli) - Command-line interface for mermaid
 - [mdlt](https://github.com/metadelta/mdlt) - A command-line utility for quick math.
@@ -2158,6 +2163,7 @@
 
 ## Objective-C 
 
+- [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
@@ -2350,6 +2356,7 @@
 
 ## PureScript 
 
+- [insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
 - [purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, type-safe UI library for PureScript.
 
 ## Python 
@@ -2992,7 +2999,6 @@
 - [wal](https://github.com/dylanaraps/wal) - 🎨 Generate and change colorschemes on the fly. Deprecated, use pywal instead. --&gt;
 - [refind-dreary](https://github.com/dheishman/refind-dreary) - A gloomy rEFInd theme based on evanpurkhiser/rEFInd-minimal and lukechilds/refind-ambience
 - [tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
-- [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
 - [Dockerized-DBpedia](https://github.com/dbpedia/Dockerized-DBpedia) - creates a docker image with Virtuoso preloaded with the latest DBpedia dataset
 - [macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
 - [shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
@@ -3145,6 +3151,7 @@
 
 ## Vim script 
 
+- [vim-mermaid](https://github.com/chazmcgarvey/vim-mermaid) - Vim syntax for Mermaid diagrams
 - [vim-ingo-library](https://github.com/inkarkat/vim-ingo-library) - Vimscript library of common functions
 - [fff.vim](https://github.com/dylanaraps/fff.vim) - A plugin for vim/neovim which allows you to use fff as a file opener.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
