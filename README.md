@@ -100,6 +100,7 @@
 
 ## C 
 
+- [wdomirror](https://github.com/progandy/wdomirror) - Mirror an output in a wlroots compositor
 - [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -333,6 +334,8 @@
 
 ## C++ 
 
+- [qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
+- [libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [HElib](https://github.com/homenc/HElib) - An Implementation of homomorphic encryption
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
@@ -522,6 +525,7 @@
 
 ## Clojure 
 
+- [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
@@ -540,7 +544,7 @@
 - [badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
 - [iconathon](https://github.com/trello/iconathon) - An icon task runner that convert Sketch files to mobile and web formats.
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-- [node-cache](https://github.com/node-cache/node-cache) - a node internal caching module
+- [node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
 - [repo-health-check](https://github.com/dogweather/repo-health-check) - Analyze a project: How are the maintainers doing?
 - [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
 - [coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
@@ -641,6 +645,8 @@
 
 ## Go 
 
+- [police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
+- [workspace-populate-for-i3](https://github.com/stapelberg/workspace-populate-for-i3) - restores a 50/50 split layout and starts 2 urxvt terminals when a new workspace is created
 - [sudo](https://github.com/zeebo/sudo) - Bypasses restrictions on reflect
 - [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [drand](https://github.com/drand/drand) - 🎲 A Distributed Randomness Beacon Daemon - Go implementation
@@ -1503,6 +1509,7 @@
 
 ## JavaScript 
 
+- [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [mermaid.cli](https://github.com/mermaidjs/mermaid.cli) - Command-line interface for mermaid
@@ -2194,6 +2201,8 @@
 
 ## Others 
 
+- [API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+- [hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
 - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
@@ -2325,6 +2334,7 @@
 
 ## PHP 
 
+- [jqaas](https://github.com/captn3m0/jqaas) - jq as a service
 - [snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 - [pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
@@ -2361,6 +2371,10 @@
 
 ## Python 
 
+- [i3_meta_workspaces](https://github.com/mrconter1/i3_meta_workspaces) - This code enables multiple meta workspaces within your i3 window manager. It is very useful when working in multiple projects.
+- [i3-wk-switch](https://github.com/tmfink/i3-wk-switch) - Workspace switcher for i3 wm that emulates xmonad
+- [orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
+- [panserver](https://github.com/Marfisc/panserver) - A simple HTTP server to view rendered Markdown documents, which automatically refresh.
 - [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) - Awesome Diagram Tools
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [mutt-notmuch-py](https://github.com/honza/mutt-notmuch-py) - 
@@ -3032,6 +3046,7 @@
 
 ## TypeScript 
 
+- [hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
@@ -3151,6 +3166,8 @@
 
 ## Vim script 
 
+- [configfiles](https://github.com/stapelberg/configfiles) - dotfiles
+- [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [vim-mermaid](https://github.com/chazmcgarvey/vim-mermaid) - Vim syntax for Mermaid diagrams
 - [vim-ingo-library](https://github.com/inkarkat/vim-ingo-library) - Vimscript library of common functions
 - [fff.vim](https://github.com/dylanaraps/fff.vim) - A plugin for vim/neovim which allows you to use fff as a file opener.
