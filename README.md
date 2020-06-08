@@ -526,7 +526,7 @@
 ## Clojure 
 
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought
+- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. Not ready for use. Current state ➡️
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -1370,7 +1370,7 @@
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
@@ -1509,6 +1509,9 @@
 
 ## JavaScript 
 
+- [ucompress](https://github.com/WebReflection/ucompress) - A micro, all-in-one, compressor for common Web files.
+- [ucdn](https://github.com/WebReflection/ucdn) - A µcompress based CDN utility, compatible with both Express and native http module
+- [uhtml](https://github.com/WebReflection/uhtml) - A micro HTML/SVG render
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -2371,6 +2374,7 @@
 
 ## Python 
 
+- [linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
 - [i3_meta_workspaces](https://github.com/mrconter1/i3_meta_workspaces) - This code enables multiple meta workspaces within your i3 window manager. It is very useful when working in multiple projects.
 - [i3-wk-switch](https://github.com/tmfink/i3-wk-switch) - Workspace switcher for i3 wm that emulates xmonad
 - [orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
