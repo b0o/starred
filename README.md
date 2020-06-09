@@ -100,6 +100,7 @@
 
 ## C 
 
+- [printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [wdomirror](https://github.com/progandy/wdomirror) - Mirror an output in a wlroots compositor
 - [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
@@ -215,6 +216,7 @@
 - [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [wireguard-monolithic-historical](https://github.com/WireGuard/wireguard-monolithic-historical) - Historical monolithic WireGuard repository, split into wireguard-tools, wireguard-linux, and wireguard-linux-compat.
+- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches (Mirror)
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -416,7 +418,6 @@
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [gandiva](https://github.com/dremio/gandiva) - Vectorized processing for Apache Arrow
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [rr](https://github.com/mozilla/rr) - Record and Replay Framework
 - [osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -526,7 +527,7 @@
 ## Clojure 
 
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. Not ready for use. Current state ➡️
+- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. Self-hosted MVP on August 1st. Progress at https://athensresearch.github.io/athens/
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -645,7 +646,7 @@
 
 ## Go 
 
-- [police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
+- [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [workspace-populate-for-i3](https://github.com/stapelberg/workspace-populate-for-i3) - restores a 50/50 split layout and starts 2 urxvt terminals when a new workspace is created
 - [sudo](https://github.com/zeebo/sudo) - Bypasses restrictions on reflect
 - [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
@@ -1323,7 +1324,7 @@
 - [goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
 - [pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
 - [gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
-- [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [gorbac](https://github.com/mikespook/gorbac) - goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
 - [ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
@@ -2074,6 +2075,7 @@
 
 ## OCaml 
 
+- [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
 - [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
@@ -2204,6 +2206,7 @@
 
 ## Others 
 
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -2374,7 +2377,9 @@
 
 ## Python 
 
+- [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
+- [police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
 - [i3_meta_workspaces](https://github.com/mrconter1/i3_meta_workspaces) - This code enables multiple meta workspaces within your i3 window manager. It is very useful when working in multiple projects.
 - [i3-wk-switch](https://github.com/tmfink/i3-wk-switch) - Workspace switcher for i3 wm that emulates xmonad
 - [orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
@@ -2735,6 +2740,8 @@
 
 ## Rust 
 
+- [drop](https://github.com/gilbertw1/drop) - A simple screenshot, screencast, and file upload tool with S3 support written in rust.
+- [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [trait-eval](https://github.com/doctorn/trait-eval) - We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???
 - [materialize](https://github.com/MaterializeInc/materialize) - The Streaming SQL Database powered by Timely Dataflow
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -3170,6 +3177,7 @@
 
 ## Vim script 
 
+- [vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [configfiles](https://github.com/stapelberg/configfiles) - dotfiles
 - [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [vim-mermaid](https://github.com/chazmcgarvey/vim-mermaid) - Vim syntax for Mermaid diagrams
