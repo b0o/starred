@@ -100,6 +100,8 @@
 
 ## C 
 
+- [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
+- [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [wdomirror](https://github.com/progandy/wdomirror) - Mirror an output in a wlroots compositor
 - [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
@@ -646,6 +648,17 @@
 
 ## Go 
 
+- [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
+- [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
+- [cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
+- [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
+- [smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
+- [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
+- [det](https://github.com/toby/det) - P2P search and discovery on the BitTorrent network
+- [glamour](https://github.com/charmbracelet/glamour) - Write runway-ready command-line tools 💇🏻‍♀️
+- [goi3bar](https://github.com/denbeigh2000/goi3bar) - Configurable, extensible replacement for i3status written in Go.
+- [i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
+- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [workspace-populate-for-i3](https://github.com/stapelberg/workspace-populate-for-i3) - restores a 50/50 split layout and starts 2 urxvt terminals when a new workspace is created
 - [sudo](https://github.com/zeebo/sudo) - Bypasses restrictions on reflect
@@ -1360,7 +1373,7 @@
 
 ## Groovy 
 
-- [esri-cityengine-sdk](https://github.com/Esri/esri-cityengine-sdk) - This is the official site for the SDK of Esri CityEngine, a 3D city modeling software for urban design, visual effects, and VR/AR production.
+- [cityengine-sdk](https://github.com/Esri/cityengine-sdk) - This is the official site for the SDK of CityEngine, a 3D city modeling software for urban design, visual effects, and VR/AR production.
 
 ## HCL 
 
@@ -1412,7 +1425,6 @@
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
-- [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
 
 ## Haskell 
 
@@ -1510,6 +1522,7 @@
 
 ## JavaScript 
 
+- [are-you-a-cop](https://github.com/contra/are-you-a-cop) - Blocks cops from visiting your site. If they are they have to tell you.
 - [ucompress](https://github.com/WebReflection/ucompress) - A micro, all-in-one, compressor for common Web files.
 - [ucdn](https://github.com/WebReflection/ucdn) - A µcompress based CDN utility, compatible with both Express and native http module
 - [uhtml](https://github.com/WebReflection/uhtml) - A micro HTML/SVG render
@@ -2075,6 +2088,7 @@
 
 ## OCaml 
 
+- [ppx_tools](https://github.com/ocaml-ppx/ppx_tools) - Tools for authors of ppx rewriters
 - [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
@@ -2351,6 +2365,7 @@
 
 ## Perl 
 
+- [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [vnlog](https://github.com/dkogan/vnlog) - Toolkit for manipulating data in an ASCII table
 - [zsh-functional](https://github.com/Tarrasch/zsh-functional) - Higher order functions for zsh
 - [ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
@@ -2740,6 +2755,7 @@
 
 ## Rust 
 
+- [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [drop](https://github.com/gilbertw1/drop) - A simple screenshot, screencast, and file upload tool with S3 support written in rust.
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [trait-eval](https://github.com/doctorn/trait-eval) - We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???
@@ -3024,6 +3040,7 @@
 - [wal](https://github.com/dylanaraps/wal) - 🎨 Generate and change colorschemes on the fly. Deprecated, use pywal instead. --&gt;
 - [refind-dreary](https://github.com/dheishman/refind-dreary) - A gloomy rEFInd theme based on evanpurkhiser/rEFInd-minimal and lukechilds/refind-ambience
 - [tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
+- [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
 - [Dockerized-DBpedia](https://github.com/dbpedia/Dockerized-DBpedia) - creates a docker image with Virtuoso preloaded with the latest DBpedia dataset
 - [macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
 - [shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
@@ -3122,7 +3139,7 @@
 - [ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
-- [bit](https://github.com/teambit/bit) - Streamline modern component development and reuse.
+- [bit](https://github.com/teambit/bit) - A tool to develop, distribute and manage modern components.
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
