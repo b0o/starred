@@ -648,6 +648,7 @@
 
 ## Go 
 
+- [quicktest](https://github.com/frankban/quicktest) - Quick helpers for testing Go applications
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
 - [cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
@@ -1501,6 +1502,7 @@
 
 ## Java 
 
+- [umple](https://github.com/umple/umple) - Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) - Scalable web crawler based on Apache Storm
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-extend visual workflow scheduling platform, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
@@ -1522,6 +1524,7 @@
 
 ## JavaScript 
 
+- [tixi](https://github.com/astashov/tixi) - Ascii charts editor
 - [are-you-a-cop](https://github.com/contra/are-you-a-cop) - Blocks cops from visiting your site. If they are they have to tell you.
 - [ucompress](https://github.com/WebReflection/ucompress) - A micro, all-in-one, compressor for common Web files.
 - [ucdn](https://github.com/WebReflection/ucdn) - A µcompress based CDN utility, compatible with both Express and native http module
@@ -2039,6 +2042,7 @@
 
 ## Kotlin 
 
+- [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
 - [gpt2-discord](https://github.com/ScottPeterJohnson/gpt2-discord) - Discord bot that generates messages using GPT-2
 
 ## Lua 
@@ -2220,6 +2224,7 @@
 
 ## Others 
 
+- [cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
@@ -2755,6 +2760,7 @@
 
 ## Rust 
 
+- [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [drop](https://github.com/gilbertw1/drop) - A simple screenshot, screencast, and file upload tool with S3 support written in rust.
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
@@ -3074,6 +3080,7 @@
 
 ## TypeScript 
 
+- [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
@@ -3139,7 +3146,7 @@
 - [ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
-- [bit](https://github.com/teambit/bit) - A tool to develop, distribute and manage modern components.
+- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
