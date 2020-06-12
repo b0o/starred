@@ -100,6 +100,7 @@
 
 ## C 
 
+- [pmenu](https://github.com/phillbush/pmenu) - A pie-menu experiment in xlib.
 - [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
@@ -1460,7 +1461,7 @@
 - [hwp](https://github.com/yogsototh/hwp) - Haskell for the working programmer sources
 - [brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 - [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) - The engine for haskell ide-integration. Not an IDE
-- [obelisk](https://github.com/obsidiansystems/obelisk) - Obelisk provides an easy way to develop and deploy your Reflex project for web and mobile
+- [obelisk](https://github.com/obsidiansystems/obelisk) - Obelisk is an opinionated, batteries-included framework for building production-ready web and mobile applications in Haskell.
 - [stylish-haskell](https://github.com/jaspervdj/stylish-haskell) - Haskell code prettifier
 - [purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
 - [luna](https://github.com/luna/luna) - Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right:
@@ -2479,7 +2480,7 @@
 - [tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix: Containerized High-Fidelity Browser-Based Automated Crawling + Behavior System
-- [webrecorder](https://github.com/webrecorder/webrecorder) - Web Archiving For All!
+- [webrecorder](https://github.com/webrecorder/webrecorder) - Collect and revisit web pages.
 - [pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [nightshift](https://github.com/maandree/nightshift) - A terminal user interface for redshift
@@ -2760,6 +2761,7 @@
 
 ## Rust 
 
+- [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [drop](https://github.com/gilbertw1/drop) - A simple screenshot, screencast, and file upload tool with S3 support written in rust.
@@ -2867,6 +2869,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
 - [dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [envwarden](https://github.com/envwarden/envwarden) - Manage your server secrets with Bitwarden
@@ -3012,7 +3015,7 @@
 - [All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
 - [creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
@@ -3201,6 +3204,7 @@
 
 ## Vim script 
 
+- [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [configfiles](https://github.com/stapelberg/configfiles) - dotfiles
 - [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
@@ -3401,7 +3405,7 @@
 ## Vue 
 
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
