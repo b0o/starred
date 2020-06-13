@@ -100,7 +100,7 @@
 
 ## C 
 
-- [pmenu](https://github.com/phillbush/pmenu) - A pie-menu experiment in xlib.
+- [pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
 - [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
@@ -339,6 +339,7 @@
 
 ## C++ 
 
+- [VirtualKeyboard](https://github.com/AlterX76/VirtualKeyboard) - A virtual keyboard for Qt touch-screen application (donate to support the project)
 - [qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [HElib](https://github.com/homenc/HElib) - An Implementation of homomorphic encryption
@@ -1383,6 +1384,7 @@
 
 ## HTML 
 
+- [swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -1407,7 +1409,6 @@
 - [hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [megadesk](https://github.com/gcormier/megadesk) - Open-source Bekant controller board
 - [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
-- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
 - [docs](https://github.com/knative/docs) - User documentation for Knative components
@@ -1525,6 +1526,12 @@
 
 ## JavaScript 
 
+- [squirt](https://github.com/cameron/squirt) - Speed read the web.
+- [Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
+- [Reedy-for-Chrome](https://github.com/olegcherr/Reedy-for-Chrome) - Read all you want faster with Reedy for Google Chrome!
+- [speed-reading-mode](https://github.com/arrizalamin/speed-reading-mode) - Browser extension to improve reading speed by removing distractions and the need to move our eyes
+- [jetzt](https://github.com/ds300/jetzt) - Speed reader extension for chrome
+- [eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [tixi](https://github.com/astashov/tixi) - Ascii charts editor
 - [are-you-a-cop](https://github.com/contra/are-you-a-cop) - Blocks cops from visiting your site. If they are they have to tell you.
 - [ucompress](https://github.com/WebReflection/ucompress) - A micro, all-in-one, compressor for common Web files.
@@ -1695,7 +1702,6 @@
 - [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
-- [pagermon-client-old](https://github.com/pagermon/pagermon-client-old) - Client for pagermon - a multimon-ng pager message parser and viewer
 - [pagermon](https://github.com/pagermon/pagermon) - Multimon-ng pager message parser and viewer
 - [sayit](https://github.com/anvaka/sayit) - Visualization of related subreddits
 - [adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
@@ -2072,6 +2078,7 @@
 ## Makefile 
 
 - [packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
+- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [godoc-docker](https://github.com/graveyard/godoc-docker) - Docker image holding a standalone godoc server
 - [mandb-ondemand](https://github.com/graysky2/mandb-ondemand) - Rebuilds the manpage index database on-demand to speed-up pacman operations.
@@ -2371,6 +2378,7 @@
 
 ## Perl 
 
+- [speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [vnlog](https://github.com/dkogan/vnlog) - Toolkit for manipulating data in an ASCII table
 - [zsh-functional](https://github.com/Tarrasch/zsh-functional) - Higher order functions for zsh
@@ -2480,7 +2488,7 @@
 - [tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix: Containerized High-Fidelity Browser-Based Automated Crawling + Behavior System
-- [webrecorder](https://github.com/webrecorder/webrecorder) - Collect and revisit web pages.
+- [conifer](https://github.com/webrecorder/conifer) - Collect and revisit web pages.
 - [pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [nightshift](https://github.com/maandree/nightshift) - A terminal user interface for redshift
@@ -2869,6 +2877,7 @@
 
 ## Shell 
 
+- [tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality, written in Shell
 - [dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
 - [dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
@@ -2883,7 +2892,7 @@
 - [amdgpu-fancontrol](https://github.com/grmat/amdgpu-fancontrol) - 
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [kiss](https://github.com/kisslinux/kiss) - 🧱 Package manager for KISS
+- [kiss](https://github.com/kisslinux/kiss) - KISS - Package Manager
 - [firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
 - [firewarden](https://github.com/pigmonkey/firewarden) - Open a file via the specified application within a private Firejail sandbox.
 - [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
