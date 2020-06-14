@@ -100,6 +100,7 @@
 
 ## C 
 
+- [ergodox-layout](https://github.com/naps62/ergodox-layout) - A heavily customized layout for my Ergodox EZ keyboard
 - [pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
 - [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
@@ -1526,6 +1527,7 @@
 
 ## JavaScript 
 
+- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - CSA - Get started with the fastest dev environment available.
 - [squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
 - [Reedy-for-Chrome](https://github.com/olegcherr/Reedy-for-Chrome) - Read all you want faster with Reedy for Google Chrome!
@@ -2043,7 +2045,7 @@
 - [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
 - [speed_mystery](https://github.com/panicinc/speed_mystery) - Data collected to investigate why Comcast customers have slow downloads from our site
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
-- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for blob storage
+- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for S3
 - [NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) - What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
 - [fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) - Multilingual word vectors in 78 languages
 
@@ -2232,6 +2234,7 @@
 
 ## Others 
 
+- [eradicate-exclusive-tech-terminology](https://github.com/s0/eradicate-exclusive-tech-terminology) - Let's Eradicate Exclusive Terminology in Tech! :fist_raised:
 - [cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
@@ -2877,6 +2880,7 @@
 
 ## Shell 
 
+- [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality, written in Shell
 - [dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
 - [dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
