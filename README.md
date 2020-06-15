@@ -560,7 +560,7 @@
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [weir](https://github.com/inconvergent/weir) - A system for making generative systems
 - [ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
-- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt browser - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - Be productive.
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
 - [reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
 - [slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
@@ -651,6 +651,10 @@
 
 ## Go 
 
+- [syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
+- [pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
+- [rget](https://github.com/merklecounty/rget) - download URLs and verify the contents against a publicly recorded cryptographic log
+- [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
 - [quicktest](https://github.com/frankban/quicktest) - Quick helpers for testing Go applications
 - [utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
@@ -1436,7 +1440,7 @@
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
-- [api.unverified.email](https://github.com/ptek/api.unverified.email) - A service to help with testing of sending the right emails
+- [api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [arbtt](https://github.com/nomeata/arbtt) - arbtt, the automatic rule-based time-tracker
@@ -2094,6 +2098,7 @@
 
 ## Nix 
 
+- [laurn](https://github.com/baloo/laurn) - Dev environment isolation
 - [dotfiles](https://github.com/jD91mZM2/dotfiles) - Literally just my "dotfiles" (except most don't even have dots in front of them). Not interesting, but 'kay.
 - [haskell-nix](https://github.com/Gabriel439/haskell-nix) - Nix and Haskell in production
 - [not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
@@ -2409,6 +2414,7 @@
 
 ## Python 
 
+- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
 - [police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
@@ -2880,6 +2886,8 @@
 
 ## Shell 
 
+- [lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
+- [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality, written in Shell
 - [dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
