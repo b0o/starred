@@ -34,6 +34,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Haxe](#haxe)
   - [JSON](#json)
   - [JSONiq](#jsoniq)
   - [Java](#java)
@@ -100,6 +101,8 @@
 
 ## C 
 
+- [harvey](https://github.com/Harvey-OS/harvey) - A distributed operating system
+- [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [ergodox-layout](https://github.com/naps62/ergodox-layout) - A heavily customized layout for my Ergodox EZ keyboard
 - [pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
 - [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
@@ -651,6 +654,13 @@
 
 ## Go 
 
+- [purple](https://github.com/purpledb/purple) - An all-in-one data service (caching + K/V + flags + counters + sets) for microservices and FaaS functions. gRPC and HTTP interfaces.
+- [staticfiles](https://github.com/bouk/staticfiles) - staticfiles compiles a directory of files into an embeddable .go file
+- [statictemplate](https://github.com/bouk/statictemplate) - Statictemplate is a code generator for Go's text/template and html/template.
+- [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
+- [lesser](https://github.com/bradfitz/lesser) - 
+- [gopickle](https://github.com/nlpodyssey/gopickle) - Go library for loading Python's data serialized with pickle and PyTorch module files.
+- [babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish
 - [syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 - [pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
 - [rget](https://github.com/merklecounty/rget) - download URLs and verify the contents against a publicly recorded cryptographic log
@@ -1389,6 +1399,7 @@
 
 ## HTML 
 
+- [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
 - [swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
@@ -1467,11 +1478,11 @@
 - [hwp](https://github.com/yogsototh/hwp) - Haskell for the working programmer sources
 - [brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 - [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) - The engine for haskell ide-integration. Not an IDE
-- [obelisk](https://github.com/obsidiansystems/obelisk) - Obelisk is an opinionated, batteries-included framework for building production-ready web and mobile applications in Haskell.
+- [obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [stylish-haskell](https://github.com/jaspervdj/stylish-haskell) - Haskell code prettifier
 - [purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
 - [luna](https://github.com/luna/luna) - Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right:
-- [reflex-dom](https://github.com/reflex-frp/reflex-dom) - Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell. It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
+- [reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.
 - [gloss](https://github.com/benl23x5/gloss) - Painless 2D vector graphics, animations and simulations.
 - [brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
 - [wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
@@ -1497,6 +1508,10 @@
 - [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [dotfiles-tilingwm](https://github.com/altercation/dotfiles-tilingwm) - Tiling window manager related files (XMonad / i3) including configuration for components that create a good, minimal desktop-environment replacement.
+
+## Haxe 
+
+- [Swivel](https://github.com/Herschel/Swivel) - Adobe Flash SWF to video converter
 
 ## JSON 
 
@@ -1531,6 +1546,7 @@
 
 ## JavaScript 
 
+- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - CSA - Get started with the fastest dev environment available.
 - [squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
@@ -2431,7 +2447,7 @@
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
-- [semgrep](https://github.com/returntocorp/semgrep) - Fast and syntax-aware semantic code pattern search for many languages: like grep but for code
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find and block bug variants with rules that look like source code.
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -2497,7 +2513,7 @@
 - [tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix: Containerized High-Fidelity Browser-Based Automated Crawling + Behavior System
-- [conifer](https://github.com/webrecorder/conifer) - Collect and revisit web pages.
+- [conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
 - [pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [nightshift](https://github.com/maandree/nightshift) - A terminal user interface for redshift
@@ -2778,6 +2794,8 @@
 
 ## Rust 
 
+- [cw](https://github.com/Freaky/cw) - A Rust wc clone
+- [landon](https://github.com/chinedufn/landon) - A collection of tools, data structures and methods for exporting Blender data (such as meshes and armatures) and preparing it for your rendering pipeline.
 - [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
@@ -2886,6 +2904,7 @@
 
 ## Shell 
 
+- [minicpp](https://github.com/sharkdp/minicpp) - A REPL-style development environment for small C++ snippets
 - [lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
@@ -3406,6 +3425,7 @@
 
 ## VimL 
 
+- [mediawiki.vim](https://github.com/chikamichi/mediawiki.vim) - Syntax highlighting for MediaWiki-based projects, such as Wikipedia.
 - [vim-oblique](https://github.com/junegunn/vim-oblique) - DEPRECATED Improved /-search (experimental)
 - [SrchRplcHiGrp.vim](https://github.com/vim-scripts/SrchRplcHiGrp.vim) - Search and/or replace based on a syntax highlight group
 - [vim-shot-f](https://github.com/deris/vim-shot-f) - highlight the character which can move directly to (by `f`,`F`,`t`,`T`)
