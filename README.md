@@ -101,6 +101,7 @@
 
 ## C 
 
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [harvey](https://github.com/Harvey-OS/harvey) - A distributed operating system
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [ergodox-layout](https://github.com/naps62/ergodox-layout) - A heavily customized layout for my Ergodox EZ keyboard
@@ -1447,6 +1448,7 @@
 
 ## Haskell 
 
+- [neuron](https://github.com/srid/neuron) - Haskell meets Zettelkasten, for your plain-text delight.
 - [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
@@ -1779,7 +1781,6 @@
 - [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
-- [trends](https://github.com/hanford/trends) - ultra high performance github trending application
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
@@ -2447,7 +2448,7 @@
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find and block bug variants with rules that look like source code.
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find and block bug variants with patterns that look like source code.
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -2904,6 +2905,7 @@
 
 ## Shell 
 
+- [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [minicpp](https://github.com/sharkdp/minicpp) - A REPL-style development environment for small C++ snippets
 - [lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
@@ -3186,6 +3188,7 @@
 - [codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
 - [speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [trends](https://github.com/hanford/trends) - ultra high performance github trending application
 - [ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
@@ -3244,6 +3247,8 @@
 
 ## Vim script 
 
+- [neuron.vim](https://github.com/ihsanturk/neuron.vim) - Manage your Zettelkasten notes in {N}Vim.
+- [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  Idempotent Desktop
 - [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [configfiles](https://github.com/stapelberg/configfiles) - dotfiles
@@ -3446,7 +3451,7 @@
 ## Vue 
 
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers. https://postwoman.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
