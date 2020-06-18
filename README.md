@@ -542,7 +542,7 @@
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
-- [crux](https://github.com/juxt/crux) - Open Time Store
+- [crux](https://github.com/juxt/crux) - A document database with bitemporal graph queries.
 - [spec.alpha](https://github.com/clojure/spec.alpha) - 
 - [scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
 - [re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -750,7 +750,7 @@
 - [hydra-booster](https://github.com/libp2p/hydra-booster) - A DHT Indexer node & Peer Router
 - [scopelint](https://github.com/kyoh86/scopelint) - scopelint checks for unpinned variables in go programs
 - [efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
-- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Service
+- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [revgrep](https://github.com/bradleyfalzon/revgrep) - Filters output from static analysis tools, showing only recently changed lines of code
 - [previs](https://github.com/PaulRosset/previs) - 🎯 Testing your project locally in a clean environment.
 - [go-pgpmail](https://github.com/emersion/go-pgpmail) - PGP-encrypted email library for Go
@@ -2940,7 +2940,7 @@
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - Stupid AI
 - [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
-- [pacwall](https://github.com/Kharacternyk/pacwall) - Dependency graph of installed packages on your wallpaper.
+- [pacwall](https://github.com/Kharacternyk/pacwall) - A dependency graph of installed packages wallpaper creator.
 - [dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [hostsctl](https://github.com/pigmonkey/hostsctl) - 🙈 Control your /etc/hosts file easily, block ads, soical networks, etc...
