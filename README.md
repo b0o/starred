@@ -101,6 +101,7 @@
 
 ## C 
 
+- [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end/gaming mice
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [harvey](https://github.com/Harvey-OS/harvey) - A distributed operating system
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
@@ -344,6 +345,8 @@
 
 ## C++ 
 
+- [appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
+- [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [VirtualKeyboard](https://github.com/AlterX76/VirtualKeyboard) - A virtual keyboard for Qt touch-screen application (donate to support the project)
 - [qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
@@ -655,6 +658,9 @@
 
 ## Go 
 
+- [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
+- [go-sslterminator](https://github.com/cmpxchg16/go-sslterminator) - SSL termination proxy
+- [factory-go](https://github.com/bluele/factory-go) - A library for setting up Golang objects inspired by factory_bot.
 - [purple](https://github.com/purpledb/purple) - An all-in-one data service (caching + K/V + flags + counters + sets) for microservices and FaaS functions. gRPC and HTTP interfaces.
 - [staticfiles](https://github.com/bouk/staticfiles) - staticfiles compiles a directory of files into an embeddable .go file
 - [statictemplate](https://github.com/bouk/statictemplate) - Statictemplate is a code generator for Go's text/template and html/template.
@@ -961,7 +967,7 @@
 - [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
 - [gogetdoc](https://github.com/zmb3/gogetdoc) - Gets documentation for items in Go source code.
-- [objectbox-go](https://github.com/objectbox/objectbox-go) - ObjectBox Go - persisting your Go structs/objects superfast and simple
+- [objectbox-go](https://github.com/objectbox/objectbox-go) - ObjectBox Go - a database for your Go structs/objects. Super-fast and simple.
 - [c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
 - [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
@@ -1166,7 +1172,7 @@
 - [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
-- [gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 appliances
+- [gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
 - [proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code.
 - [cfmt](https://github.com/mingrammer/cfmt) - :art: Contextual fmt inspired by bootstrap color classes
 - [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
@@ -1548,6 +1554,7 @@
 
 ## JavaScript 
 
+- [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - CSA - Get started with the fastest dev environment available.
 - [squirt](https://github.com/cameron/squirt) - Speed read the web.
@@ -1604,6 +1611,7 @@
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [covidtrends](https://github.com/aatishb/covidtrends) - Tracking the growth of COVID-19 Cases worldwide
 - [updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [item](https://github.com/ungap/item) - A polyfill for the item proposal.
@@ -1631,7 +1639,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster build system for the modern web.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The Instant dev environment for modern JavaScript. A faster build system for the modern web.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - 
@@ -2275,7 +2283,6 @@
 - [my-awesome-stars](https://github.com/kmcodes/my-awesome-stars) - A curated list of my GitHub stars!
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017)
 - [proposal-item-method](https://github.com/tabatkins/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
@@ -2431,6 +2438,11 @@
 
 ## Python 
 
+- [armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
+- [notify-send.py](https://github.com/phuhl/notify-send.py) - A python-script like libnotify but with improved functionality
+- [TubeTool](https://github.com/zeffii/TubeTool) - generate tubing between two selected polygons  (now supports 2 objects simultaneously in edit mode) b2.8+
+- [piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
@@ -2648,7 +2660,7 @@
 - [T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [amazon-polly-sample](https://github.com/amazon-archives/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
 - [data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python.
 - [virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -2905,6 +2917,7 @@
 
 ## Shell 
 
+- [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [minicpp](https://github.com/sharkdp/minicpp) - A REPL-style development environment for small C++ snippets
 - [lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
@@ -2933,7 +2946,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IDE-like type-ahead completion for Zsh — Now asynchronous/non-blocking!
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IDE-style type-ahead completion for Zsh — Now asynchronous/non-blocking!
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
@@ -3247,6 +3260,7 @@
 
 ## Vim script 
 
+- [vfix](https://github.com/Termplexed/vfix) - Vfix : Vim, Debugging, Vim-scripts
 - [neuron.vim](https://github.com/ihsanturk/neuron.vim) - Manage your Zettelkasten notes in {N}Vim.
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  Idempotent Desktop
 - [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
