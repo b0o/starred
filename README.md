@@ -345,6 +345,7 @@
 
 ## C++ 
 
+- [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 - [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [VirtualKeyboard](https://github.com/AlterX76/VirtualKeyboard) - A virtual keyboard for Qt touch-screen application (donate to support the project)
@@ -545,7 +546,7 @@
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
-- [crux](https://github.com/juxt/crux) - A document database with bitemporal graph queries.
+- [crux](https://github.com/juxt/crux) - Document database with bitemporal graph queries
 - [spec.alpha](https://github.com/clojure/spec.alpha) - 
 - [scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
 - [re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -1901,7 +1902,7 @@
 - [insomnia-plugin-js-eval](https://github.com/miniyarov/insomnia-plugin-js-eval) - 
 - [insomnia-plugin-customtimestamp](https://github.com/Gabb1995/insomnia-plugin-customtimestamp) - Create a custom timestamp in insomnia rest client
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
-- [insomnia](https://github.com/Kong/insomnia) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
@@ -2460,7 +2461,7 @@
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find and block bug variants with patterns that look like source code.
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -3084,7 +3085,7 @@
 - [snazzer](https://github.com/csirac2/snazzer) - btrfs snapshotting and backup system offering snapshot measurement, transport and pruning.
 - [openwifi_linux_bash](https://github.com/openwifi-su/openwifi_linux_bash) - Simple example on bash for working with new Location API
 - [downgrade](https://github.com/pbrisbin/downgrade) - Downgrade packages in Arch Linux
-- [fonts](https://github.com/mxnkfish/fonts) - fonts
+- [fonts](https://github.com/cmvnd/fonts) - fonts
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -3261,7 +3262,7 @@
 ## Vim script 
 
 - [vfix](https://github.com/Termplexed/vfix) - Vfix : Vim, Debugging, Vim-scripts
-- [neuron.vim](https://github.com/ihsanturk/neuron.vim) - Manage your Zettelkasten notes in {N}Vim.
+- [neuron.vim](https://github.com/ihsanturk/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  Idempotent Desktop
 - [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
