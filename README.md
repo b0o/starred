@@ -1096,7 +1096,7 @@
 - [katydid](https://github.com/katydid/katydid) - Encoding Agnostic Validation (Validation Language, Parsers and Encoders)
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [poe](https://github.com/prodhe/poe) - poe - acme-inspired terminal text editor
-- [router7](https://github.com/rtr7/router7) - pure-Go small home internet router
+- [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
 - [as](https://github.com/lunemec/as) - As is a library to convert numeric types with overflow check in Go.
 - [vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [ttimer](https://github.com/drgrib/ttimer) - Terminal countdown timer, written in Go
@@ -2124,6 +2124,7 @@
 
 ## Nix 
 
+- [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  Idempotent Desktop
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
 - [dotfiles](https://github.com/jD91mZM2/dotfiles) - Literally just my "dotfiles" (except most don't even have dots in front of them). Not interesting, but 'kay.
 - [haskell-nix](https://github.com/Gabriel439/haskell-nix) - Nix and Haskell in production
@@ -2439,6 +2440,7 @@
 
 ## Python 
 
+- [swaytools](https://github.com/tmccombs/swaytools) - Collection of simple tools for sway (and i3)
 - [armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [notify-send.py](https://github.com/phuhl/notify-send.py) - A python-script like libnotify but with improved functionality
@@ -3263,7 +3265,6 @@
 
 - [vfix](https://github.com/Termplexed/vfix) - Vfix : Vim, Debugging, Vim-scripts
 - [neuron.vim](https://github.com/ihsanturk/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
-- [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  Idempotent Desktop
 - [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [configfiles](https://github.com/stapelberg/configfiles) - dotfiles
