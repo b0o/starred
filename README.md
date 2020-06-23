@@ -1490,7 +1490,6 @@
 - [obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [stylish-haskell](https://github.com/jaspervdj/stylish-haskell) - Haskell code prettifier
 - [purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
-- [luna](https://github.com/luna/luna) - Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right:
 - [reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.
 - [gloss](https://github.com/benl23x5/gloss) - Painless 2D vector graphics, animations and simulations.
 - [brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
@@ -1556,6 +1555,7 @@
 
 ## JavaScript 
 
+- [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure from Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - CSA - Get started with the fastest dev environment available.
@@ -1936,7 +1936,6 @@
 - [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 - [css-in-js](https://github.com/MicheleBertoli/css-in-js) - React: CSS in JS techniques comparison
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
@@ -2593,6 +2592,7 @@
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [OnDemandMinecraft](https://github.com/trevor-laher/OnDemandMinecraft) - An AWS hosted Minecraft server that will only run when players are active. Players can start the server through a simple UI accessed through free Heroku server hosting.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector) - A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.
 - [dtrx](https://github.com/brettcs/dtrx) - Do The Right Extraction
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -2811,6 +2811,7 @@
 
 ## Rust 
 
+- [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [cw](https://github.com/Freaky/cw) - A Rust wc clone
 - [landon](https://github.com/chinedufn/landon) - A collection of tools, data structures and methods for exporting Blender data (such as meshes and armatures) and preparing it for your rendering pipeline.
 - [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -2913,6 +2914,7 @@
 - [topshell](https://github.com/topshell-language/topshell) - TopShell - a purely functional, reactive scripting language
 - [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+- [luna](https://github.com/luna/luna) - Hybrid visual and textual functional programming.
 - [extraction-framework](https://github.com/dbpedia/extraction-framework) - The software used to extract structured data from Wikipedia
 
 ## Scheme 
@@ -3011,7 +3013,6 @@
 - [fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
 - [i3blocks-status](https://github.com/gportay/i3blocks-status) - 
 - [run_scaled](https://github.com/kaueraal/run_scaled) - Run an X application scaled via xpra. Useful on hidpi screens.
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
 - [zsh-expand-all](https://github.com/simnalamburt/zsh-expand-all) - :shell: Automatically expands all glob expressions, subcommands, and aliases
 - [mgsloan-dotfiles](https://github.com/mgsloan/mgsloan-dotfiles) - Linux and xmonad configuration files
@@ -3180,7 +3181,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
-- [quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript / TypeScript projects at Shopify
+- [quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify
 - [accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) - Accessibility Insights for Web
 - [textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -3225,6 +3226,7 @@
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
 - [lib-colorifium](https://github.com/Auxx/lib-colorifium) - 
 - [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) - ESLint plugin for Jest
