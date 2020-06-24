@@ -659,6 +659,9 @@
 
 ## Go 
 
+- [compress](https://github.com/klauspost/compress) - Optimized compression packages
+- [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
 - [go-sslterminator](https://github.com/cmpxchg16/go-sslterminator) - SSL termination proxy
 - [factory-go](https://github.com/bluele/factory-go) - A library for setting up Golang objects inspired by factory_bot.
@@ -871,7 +874,7 @@
 - [diff](https://github.com/rsc/diff) - Diff(1)
 - [elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
 - [tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
-- [writefreely](https://github.com/writeas/writefreely) - A platform for writing communities.
+- [writefreely](https://github.com/writeas/writefreely) - Build a digital writing community.
 - [orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang
 - [reviewdog](https://github.com/reviewdog/reviewdog) - :dog: Automated code review tool integrated with any code analysis tools regardless of programming language
 - [gobin](https://github.com/myitcv/gobin) - gobin is an experimental, module-aware command to install/run main packages.
@@ -1435,7 +1438,7 @@
 - [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
-- [docs](https://github.com/knative/docs) - User documentation for Knative components
+- [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [responsive.style](https://github.com/tomhodgins/responsive.style) - A Fresh Approach to Extending CSS
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
@@ -1455,6 +1458,8 @@
 
 ## Haskell 
 
+- [rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
+- [Taut](https://github.com/srid/Taut) - An ambitious Slack JSON export viewer.
 - [neuron](https://github.com/srid/neuron) - Haskell meets Zettelkasten, for your plain-text delight.
 - [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
@@ -1555,6 +1560,7 @@
 
 ## JavaScript 
 
+- [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure from Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
@@ -1709,7 +1715,7 @@
 - [google-spreadsheets-theo-demo](https://github.com/kaelig/google-spreadsheets-theo-demo) - Design tokens, managed via Google Spreadsheets, generated using Theo
 - [google-spreadsheets-theo](https://github.com/kaelig/google-spreadsheets-theo) - Import Google Spreadsheets to a format digestable by Theo
 - [theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
-- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans 🐶
+- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
@@ -1767,7 +1773,7 @@
 - [idevice](https://github.com/dieulot/idevice) - Discover which iOS devices are used on your site
 - [glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
@@ -2134,6 +2140,7 @@
 
 ## OCaml 
 
+- [tyxml](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents
 - [ppx_tools](https://github.com/ocaml-ppx/ppx_tools) - Tools for authors of ppx rewriters
 - [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
@@ -2401,6 +2408,7 @@
 
 ## PHP 
 
+- [livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [jqaas](https://github.com/captn3m0/jqaas) - jq as a service
 - [snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
@@ -2914,7 +2922,7 @@
 - [topshell](https://github.com/topshell-language/topshell) - TopShell - a purely functional, reactive scripting language
 - [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-- [luna](https://github.com/luna/luna) - Hybrid visual and textual functional programming.
+- [enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [extraction-framework](https://github.com/dbpedia/extraction-framework) - The software used to extract structured data from Wikipedia
 
 ## Scheme 
@@ -3098,7 +3106,7 @@
 - [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nord-termite](https://github.com/arcticicestudio/nord-termite) - An arctic, north-bluish clean and elegant Termite color theme.
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
