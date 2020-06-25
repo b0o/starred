@@ -124,7 +124,6 @@
 - [labwc](https://github.com/johanmalm/labwc) - Openbox alternative for Wayland
 - [IRTool](https://github.com/jglim/IRTool) - Use your Gameboy Color to control National air-conditioners!
 - [BlenderSource](https://github.com/CreativeDesigner3D/BlenderSource) - This is my modified version of Blenders Source Code. Mainly used for testing and trying out new ideas
-- [pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
 - [recode](https://github.com/rrthomas/recode) - Charset converter tool and library
 - [slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
@@ -596,6 +595,7 @@
 
 ## Dart 
 
+- [pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dhall 
@@ -659,6 +659,7 @@
 
 ## Go 
 
+- [json5](https://github.com/yosuke-furukawa/json5) - JSON5 implemented by golang
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -1410,6 +1411,7 @@
 
 ## HTML 
 
+- [awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
 - [swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
@@ -1560,6 +1562,8 @@
 
 ## JavaScript 
 
+- [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure from Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
@@ -1872,7 +1876,6 @@
 - [dzen2](https://github.com/goto-bus-stop/dzen2) - Use dzen2 from Node.js.
 - [levelup](https://github.com/Level/levelup) - A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
 - [wzrd.in](https://github.com/browserify/wzrd.in) - browserify as a service.
-- [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [ramda-fantasy](https://github.com/ramda/ramda-fantasy) - :ram::sparkles: Fantasy-Land compatible types for easy integration with Ramda.js
@@ -2448,6 +2451,8 @@
 
 ## Python 
 
+- [twitter-followers-tracker](https://github.com/IgnoredAmbience/twitter-followers-tracker) - Tracking my twitter followers/followings
+- [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
 - [swaytools](https://github.com/tmccombs/swaytools) - Collection of simple tools for sway (and i3)
 - [armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
@@ -2767,6 +2772,8 @@
 
 ## Reason 
 
+- [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
+- [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
 - [grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
 - [genType](https://github.com/reason-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
@@ -3274,6 +3281,7 @@
 
 ## Vim script 
 
+- [beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vfix](https://github.com/Termplexed/vfix) - Vfix : Vim, Debugging, Vim-scripts
