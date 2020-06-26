@@ -101,7 +101,7 @@
 
 ## C 
 
-- [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end/gaming mice
+- [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [harvey](https://github.com/Harvey-OS/harvey) - A distributed operating system
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
@@ -659,6 +659,9 @@
 
 ## Go 
 
+- [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
+- [remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool
+- [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [json5](https://github.com/yosuke-furukawa/json5) - JSON5 implemented by golang
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -1542,7 +1545,7 @@
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [umple](https://github.com/umple/umple) - Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
-- [storm-crawler](https://github.com/DigitalPebble/storm-crawler) - Scalable web crawler based on Apache Storm
+- [storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-extend visual workflow scheduling platform, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
 - [runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
@@ -1556,12 +1559,14 @@
 - [soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
 - [btrbck](https://github.com/ruediste/btrbck) - Backup tool leveraging BTRFS for incremental backups
 - [bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
-- [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Developers
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [eucalyptus](https://github.com/eucalyptus/eucalyptus) - Eucalyptus Cloud-computing Platform
 - [nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
 
 ## JavaScript 
 
+- [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
+- [reasonml.github.io](https://github.com/kyldvs/reasonml.github.io) - Reason's documentation site
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -1965,7 +1970,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (June 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2020)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -2143,6 +2148,12 @@
 
 ## OCaml 
 
+- [ocsigen-start](https://github.com/ocsigen/ocsigen-start) - Ocsigen-start: an Eliom application skeleton ready to use to build your own application with users, (pre)registration, notifications, etc.
+- [lwt_ssl](https://github.com/ocsigen/lwt_ssl) - OpenSSL binding with concurrent I/O
+- [ocsigen-toolkit](https://github.com/ocsigen/ocsigen-toolkit) - User interface widgets for Ocsigen applications
+- [eliom](https://github.com/ocsigen/eliom) - Multi-tier framework for programming web and mobile applications in OCaml.
+- [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml) - A Web Application for Learning OCaml
+- [ppx_inline_test](https://github.com/janestreet/ppx_inline_test) - Syntax extension for writing in-line tests in ocaml code
 - [tyxml](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents
 - [ppx_tools](https://github.com/ocaml-ppx/ppx_tools) - Tools for authors of ppx rewriters
 - [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
@@ -2451,6 +2462,7 @@
 
 ## Python 
 
+- [disaster-scrapers](https://github.com/simonw/disaster-scrapers) - Scrapers for disaster data - writes to https://github.com/simonw/disaster-data
 - [twitter-followers-tracker](https://github.com/IgnoredAmbience/twitter-followers-tracker) - Tracking my twitter followers/followings
 - [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
 - [swaytools](https://github.com/tmccombs/swaytools) - Collection of simple tools for sway (and i3)
@@ -2826,11 +2838,14 @@
 
 ## Rust 
 
+- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
+- [emigui](https://github.com/emilk/emigui) - egui: Immediate mode GUI written in Rust, made for WASM
+- [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
+- [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [cw](https://github.com/Freaky/cw) - A Rust wc clone
 - [landon](https://github.com/chinedufn/landon) - A collection of tools, data structures and methods for exporting Blender data (such as meshes and armatures) and preparing it for your rendering pipeline.
 - [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
-- [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [drop](https://github.com/gilbertw1/drop) - A simple screenshot, screencast, and file upload tool with S3 support written in rust.
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
@@ -3281,6 +3296,7 @@
 
 ## Vim script 
 
+- [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
 - [beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
