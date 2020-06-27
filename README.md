@@ -659,6 +659,7 @@
 
 ## Go 
 
+- [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -1565,6 +1566,8 @@
 
 ## JavaScript 
 
+- [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [reasonml.github.io](https://github.com/kyldvs/reasonml.github.io) - Reason's documentation site
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -1656,7 +1659,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The Instant dev environment for modern JavaScript. A faster build system for the modern web.
+- [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - 
@@ -2492,7 +2495,7 @@
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
-- [yaql](https://github.com/openstack/yaql) - Yet another query language
+- [yaql](https://github.com/openstack/yaql) - Yet another query language. Mirror of code maintained at opendev.org.
 - [yglu](https://github.com/lbovet/yglu) - Yglu ᕄ !? - YAML glue for structural templating and processing
 - [yamp](https://github.com/birchb1024/yamp) - Yet Another Macro Processor - for YAML
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
