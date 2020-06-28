@@ -101,6 +101,8 @@
 
 ## C 
 
+- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
+- [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [harvey](https://github.com/Harvey-OS/harvey) - A distributed operating system
@@ -624,12 +626,12 @@
 ## Elm 
 
 - [nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
-- [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [core](https://github.com/elm/core) - Elm's core libraries
 - [elm-todomvc](https://github.com/evancz/elm-todomvc) - The TodoMVC app written in Elm, nice example for beginners.
 
 ## Emacs Lisp 
 
+- [emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [org-kanban](https://github.com/gizmomogwai/org-kanban) - Kanban table for org-mode
 - [org-trello](https://github.com/org-trello/org-trello) - Org minor mode - 2-way sync org & trello
 - [org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
@@ -659,6 +661,7 @@
 
 ## Go 
 
+- [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool
@@ -710,7 +713,7 @@
 - [baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
 - [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
-- [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering
+- [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs
 - [zq](https://github.com/brimsec/zq) - Command-line processor for structured logs
@@ -1174,7 +1177,6 @@
 - [pewpew](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services
 - [rest-layer](https://github.com/rs/rest-layer) - REST Layer, Go (golang) REST API framework
 - [cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
-- [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -1471,6 +1473,7 @@
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
+- [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
@@ -1566,6 +1569,9 @@
 
 ## JavaScript 
 
+- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
@@ -2841,6 +2847,15 @@
 
 ## Rust 
 
+- [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust.
+- [encrypted-dns-server](https://github.com/jedisct1/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
+- [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
+- [kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
+- [piet](https://github.com/linebender/piet) - An abstraction for 2D graphics.
+- [runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
+- [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
 - [emigui](https://github.com/emilk/emigui) - egui: Immediate mode GUI written in Rust, made for WASM
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -2860,7 +2875,6 @@
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [smol](https://github.com/stjepang/smol) - A small and fast async runtime for Rust
-- [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
 - [hubcaps](https://github.com/softprops/hubcaps) - a rust interface for github
 - [wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
@@ -2956,6 +2970,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/blinry/dotfiles) - My public Linux configuration files. See .README.md for setup instructions.
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [minicpp](https://github.com/sharkdp/minicpp) - A REPL-style development environment for small C++ snippets
@@ -3187,7 +3202,7 @@
 - [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [rome](https://github.com/romejs/rome) - An experimental JavaScript toolchain
+- [rome](https://github.com/romejs/rome) - The Rome JavaScript toolchain. Standardizing the JavaScript developer experience.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
