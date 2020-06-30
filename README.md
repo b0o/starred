@@ -44,6 +44,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Nim](#nim)
   - [Nix](#nix)
   - [OCaml](#ocaml)
@@ -442,7 +443,7 @@
 - [haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
 - [aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [LibreSprite](https://github.com/LibreSprite/LibreSprite) - [CURRENTLY UNMAINTAINED] Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+- [LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -661,6 +662,7 @@
 
 ## Go 
 
+- [backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
 - [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
@@ -1017,7 +1019,7 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
@@ -1418,6 +1420,7 @@
 ## HTML 
 
 - [awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
+- [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
 - [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
 - [swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
@@ -1468,7 +1471,7 @@
 
 - [rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
 - [Taut](https://github.com/srid/Taut) - An ambitious Slack JSON export viewer.
-- [neuron](https://github.com/srid/neuron) - Haskell meets Zettelkasten, for your plain-text delight.
+- [neuron](https://github.com/srid/neuron) - Future-proof and simple-to-use notes system based on Zettelkasten.
 - [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
@@ -1569,6 +1572,9 @@
 
 ## JavaScript 
 
+- [FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
+- [tracker-radar-collector](https://github.com/duckduckgo/tracker-radar-collector) - 🕸 Modular, multithreaded, puppeteer-based crawler
+- [textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
@@ -1734,7 +1740,6 @@
 - [google-spreadsheets-theo](https://github.com/kaelig/google-spreadsheets-theo) - Import Google Spreadsheets to a format digestable by Theo
 - [theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
-- [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
@@ -1885,7 +1890,6 @@
 - [yargs-parser](https://github.com/yargs/yargs-parser) - :muscle: the mighty option parser used by yargs
 - [mz](https://github.com/normalize/mz) - modernize node.js to current ECMAScript standards
 - [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2019: trends about front-end and Node.js frameworks, tooling, testing, Vue, React... Available in English, Chinese and Spanish
-- [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [dzen2](https://github.com/goto-bus-stop/dzen2) - Use dzen2 from Node.js.
 - [levelup](https://github.com/Level/levelup) - A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
@@ -1966,7 +1970,6 @@
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX
 - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js
-- [nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [next-routes](https://github.com/fridays/next-routes) - Universal dynamic routes for Next.js
 - [readhn](https://github.com/kaelig/readhn) - A simple and fast Hacker News Top Stories reader – using Instapaper
 - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -2139,6 +2142,10 @@
 - [mandb-ondemand](https://github.com/graysky2/mandb-ondemand) - Rebuilds the manpage index database on-demand to speed-up pacman operations.
 - [GenericMakefile](https://github.com/mbcrawfo/GenericMakefile) - A generic makefile for use with small/medium C and C++ projects.
 
+## Markdown 
+
+- [neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
+
 ## Nim 
 
 - [nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
@@ -2296,6 +2303,7 @@
 
 ## Others 
 
+- [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [eradicate-exclusive-tech-terminology](https://github.com/s0/eradicate-exclusive-tech-terminology) - Let's Eradicate Exclusive Terminology in Tech! :fist_raised:
 - [cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -2473,7 +2481,6 @@
 
 - [disaster-scrapers](https://github.com/simonw/disaster-scrapers) - Scrapers for disaster data - writes to https://github.com/simonw/disaster-data
 - [twitter-followers-tracker](https://github.com/IgnoredAmbience/twitter-followers-tracker) - Tracking my twitter followers/followings
-- [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
 - [swaytools](https://github.com/tmccombs/swaytools) - Collection of simple tools for sway (and i3)
 - [armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
@@ -2831,7 +2838,7 @@
 - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [duo](https://github.com/chibicode/duo) - 👬 A Simple Jekyll Theme.
 - [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖The core logic behind Dependabot's update PR creation
+- [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [atmos](https://github.com/simplygenius/atmos) - Breathe easier with terraform.  Cloud system architectures made easy
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
@@ -3226,6 +3233,7 @@
 - [ReTitle](https://github.com/Lazyuki/ReTitle) - Chrome/Firefox extension for renaming tab titles easily
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pasta-sourcemaps](https://github.com/bloomberg/pasta-sourcemaps) - Pretty (and) Accurate Stack Trace Analysis is an extension to the JavaScript source map format that allows for accurate function name decoding.
+- [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
@@ -3268,6 +3276,7 @@
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [nighthawk](https://github.com/quantumkv/nighthawk) - A stealthy, simple, unobtrusive music player that stays out of your way
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
+- [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
 - [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
@@ -3276,6 +3285,7 @@
 - [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
+- [nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [lib-colorifium](https://github.com/Auxx/lib-colorifium) - 
 - [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) - ESLint plugin for Jest
 - [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
@@ -3314,6 +3324,7 @@
 
 ## Vim script 
 
+- [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
 - [beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
