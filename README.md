@@ -102,6 +102,8 @@
 
 ## C 
 
+- [rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
+- [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
@@ -347,6 +349,7 @@
 
 ## C++ 
 
+- [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 - [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
@@ -662,6 +665,8 @@
 
 ## Go 
 
+- [json](https://github.com/pkg/json) - An efficient JSON decoder
+- [hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
 - [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way
@@ -1572,6 +1577,11 @@
 
 ## JavaScript 
 
+- [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+- [static-params](https://github.com/WebReflection/static-params) - A general purpose utility to allow interpolation values as static parts of a template literal tag.
+- [iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
+- [weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. These sites are helping. Apply to join!
 - [FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
 - [tracker-radar-collector](https://github.com/duckduckgo/tracker-radar-collector) - 🕸 Modular, multithreaded, puppeteer-based crawler
 - [textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
@@ -2303,6 +2313,7 @@
 
 ## Others 
 
+- [awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [eradicate-exclusive-tech-terminology](https://github.com/s0/eradicate-exclusive-tech-terminology) - Let's Eradicate Exclusive Terminology in Tech! :fist_raised:
 - [cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
@@ -2426,7 +2437,7 @@
 - [awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -2603,7 +2614,7 @@
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-- [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI (work in progress!)
+- [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI, coming soon to Google Fonts
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [pass-rotate](https://github.com/ddevault/pass-rotate) - A tool and library for rotating your password on online services
@@ -2854,6 +2865,7 @@
 
 ## Rust 
 
+- [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust.
 - [encrypted-dns-server](https://github.com/jedisct1/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -2977,6 +2989,8 @@
 
 ## Shell 
 
+- [sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) - Take screenshot easly on Sway.
+- [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [dotfiles](https://github.com/blinry/dotfiles) - My public Linux configuration files. See .README.md for setup instructions.
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
@@ -3198,6 +3212,8 @@
 
 ## TypeScript 
 
+- [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
+- [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
@@ -3209,7 +3225,7 @@
 - [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [rome](https://github.com/romejs/rome) - The Rome JavaScript toolchain. Standardizing the JavaScript developer experience.
+- [rome](https://github.com/romejs/rome) - The Rome Frontend Toolchain. Standardizing the web development experience.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
@@ -3324,6 +3340,7 @@
 
 ## Vim script 
 
+- [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
 - [beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
