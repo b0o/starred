@@ -102,6 +102,8 @@
 
 ## C 
 
+- [wayst](https://github.com/91861/wayst) - A simple terminal emulator
+- [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
@@ -349,6 +351,7 @@
 
 ## C++ 
 
+- [wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
@@ -665,6 +668,7 @@
 
 ## Go 
 
+- [qrbill](https://github.com/stapelberg/qrbill) - QR-bill implementation (Swiss 🇨🇭 payment standard for wire transfers)
 - [json](https://github.com/pkg/json) - An efficient JSON decoder
 - [hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
@@ -1577,6 +1581,8 @@
 
 ## JavaScript 
 
+- [jsqry](https://github.com/jsqry/jsqry) - Simple lib to query js objects/arrays
+- [jsqry-cli](https://github.com/jsqry/jsqry-cli) - Command-line jsqry (like jq)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [static-params](https://github.com/WebReflection/static-params) - A general purpose utility to allow interpolation values as static parts of a template literal tag.
 - [iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
@@ -1696,7 +1702,6 @@
 - [to-google-translate](https://github.com/itsecurityco/to-google-translate) - Highlight text on a web page and send it to Google Translate
 - [botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
 - [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
-- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [essential-md](https://github.com/WebReflection/essential-md) - An essential markdown-like utility for console logs
 - [netcapsule](https://github.com/oldweb-today/netcapsule) - Browse old web pages the old way with virtual browsers in the browser
 - [ipfs-drive](https://github.com/fazo96/ipfs-drive) - in browser file manager for IPFS
@@ -2105,6 +2110,7 @@
 
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
+- [nnsplit](https://github.com/bminixhofer/nnsplit) - Fast, robust sentence splitting with bindings for Python, Rust and Javascript.
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
@@ -2313,6 +2319,7 @@
 
 ## Others 
 
+- [EconomicTracker](https://github.com/Opportunitylab/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [eradicate-exclusive-tech-terminology](https://github.com/s0/eradicate-exclusive-tech-terminology) - Let's Eradicate Exclusive Terminology in Tech! :fist_raised:
@@ -2323,7 +2330,7 @@
 - [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
 - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
-- [Lily58](https://github.com/kata0510/Lily58) - 
+- [Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 - [SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -2450,6 +2457,7 @@
 
 ## PHP 
 
+- [phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
 - [livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [jqaas](https://github.com/captn3m0/jqaas) - jq as a service
 - [snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
@@ -2824,6 +2832,8 @@
 
 ## Ruby 
 
+- [rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+- [guard](https://github.com/guard/guard) - Guard is a command line tool to easily handle events on file system modifications.
 - [awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:
 - [greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
 - [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
@@ -2865,6 +2875,7 @@
 
 ## Rust 
 
+- [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust.
 - [encrypted-dns-server](https://github.com/jedisct1/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
@@ -2901,7 +2912,6 @@
 - [oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [webrender](https://github.com/servo/webrender) - A GPU-based renderer for the web
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-- [nnsplit](https://github.com/bminixhofer/nnsplit) - Fast, robust sentence splitting with bindings for Python, Rust and Javascript.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
@@ -2917,7 +2927,7 @@
 - [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [abstreet](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.
@@ -3234,6 +3244,7 @@
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
+- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [pathephone-web](https://github.com/pathephone/pathephone-web) - Distributed audio player for web
 - [design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
 - [zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
