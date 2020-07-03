@@ -668,6 +668,7 @@
 
 ## Go 
 
+- [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [qrbill](https://github.com/stapelberg/qrbill) - QR-bill implementation (Swiss 🇨🇭 payment standard for wire transfers)
 - [json](https://github.com/pkg/json) - An efficient JSON decoder
 - [hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
@@ -1581,6 +1582,8 @@
 
 ## JavaScript 
 
+- [jsonbase](https://github.com/Devs-Garden/jsonbase) - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.
+- [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A Github action to read and get data from the CHANGELOG.md file 🚀
 - [jsqry](https://github.com/jsqry/jsqry) - Simple lib to query js objects/arrays
 - [jsqry-cli](https://github.com/jsqry/jsqry-cli) - Command-line jsqry (like jq)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
@@ -2123,6 +2126,7 @@
 
 ## Kotlin 
 
+- [Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
 - [gpt2-discord](https://github.com/ScottPeterJohnson/gpt2-discord) - Discord bot that generates messages using GPT-2
 
@@ -2319,6 +2323,7 @@
 
 ## Others 
 
+- [awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [EconomicTracker](https://github.com/Opportunitylab/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
@@ -2498,6 +2503,8 @@
 
 ## Python 
 
+- [betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
+- [i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout) - Scripts to open new windows in i3wm using alternating layouts (splith/splitv) for each new window
 - [disaster-scrapers](https://github.com/simonw/disaster-scrapers) - Scrapers for disaster data - writes to https://github.com/simonw/disaster-data
 - [twitter-followers-tracker](https://github.com/IgnoredAmbience/twitter-followers-tracker) - Tracking my twitter followers/followings
 - [swaytools](https://github.com/tmccombs/swaytools) - Collection of simple tools for sway (and i3)
