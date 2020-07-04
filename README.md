@@ -102,6 +102,8 @@
 
 ## C 
 
+- [Viewnior](https://github.com/hellosiyan/Viewnior) - Elegant Image Viewer
+- [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
@@ -351,6 +353,7 @@
 
 ## C++ 
 
+- [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
@@ -668,6 +671,7 @@
 
 ## Go 
 
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [qrbill](https://github.com/stapelberg/qrbill) - QR-bill implementation (Swiss 🇨🇭 payment standard for wire transfers)
 - [json](https://github.com/pkg/json) - An efficient JSON decoder
@@ -2475,6 +2479,7 @@
 
 ## Perl 
 
+- [clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [vnlog](https://github.com/dkogan/vnlog) - Toolkit for manipulating data in an ASCII table
@@ -3006,6 +3011,9 @@
 
 ## Shell 
 
+- [pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
+- [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
+- [Swytch](https://github.com/wilecoyote2015/Swytch) - Swytch is a script providing a window switcher for sway using rofi, awk and jq
 - [sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) - Take screenshot easly on Sway.
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [dotfiles](https://github.com/blinry/dotfiles) - My public Linux configuration files. See .README.md for setup instructions.
@@ -3179,7 +3187,7 @@
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H or FSH). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
 - [TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
 - [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
