@@ -671,6 +671,7 @@
 
 ## Go 
 
+- [noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [qrbill](https://github.com/stapelberg/qrbill) - QR-bill implementation (Swiss 🇨🇭 payment standard for wire transfers)
@@ -1586,6 +1587,9 @@
 
 ## JavaScript 
 
+- [ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+- [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling
 - [jsonbase](https://github.com/Devs-Garden/jsonbase) - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.
 - [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A Github action to read and get data from the CHANGELOG.md file 🚀
 - [jsqry](https://github.com/jsqry/jsqry) - Simple lib to query js objects/arrays
@@ -1593,7 +1597,7 @@
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [static-params](https://github.com/WebReflection/static-params) - A general purpose utility to allow interpolation values as static parts of a template literal tag.
 - [iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
-- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The 1 kB framework for building hypertext applications.
 - [weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. These sites are helping. Apply to join!
 - [FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
 - [tracker-radar-collector](https://github.com/duckduckgo/tracker-radar-collector) - 🕸 Modular, multithreaded, puppeteer-based crawler
@@ -2004,7 +2008,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2020)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -2887,6 +2891,7 @@
 
 ## Rust 
 
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust.
@@ -2898,7 +2903,7 @@
 - [piet](https://github.com/linebender/piet) - An abstraction for 2D graphics.
 - [runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
 - [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
+- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [emigui](https://github.com/emilk/emigui) - egui: Immediate mode GUI written in Rust, made for WASM
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -2969,7 +2974,6 @@
 - [pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [zr](https://github.com/jedahan/zr) - zsh plugin manager written in rust
 - [xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [scl](https://github.com/Keats/scl) - A simple configuration language
