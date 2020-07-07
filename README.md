@@ -102,6 +102,7 @@
 
 ## C 
 
+- [font-chef](https://github.com/mobius3/font-chef) - A font cooking library
 - [Viewnior](https://github.com/hellosiyan/Viewnior) - Elegant Image Viewer
 - [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
@@ -671,6 +672,8 @@
 
 ## Go 
 
+- [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
+- [garble](https://github.com/mvdan/garble) - Obfuscate Go builds
 - [noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
@@ -1587,6 +1590,8 @@
 
 ## JavaScript 
 
+- [regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
+- [apple-fifth-avenue](https://github.com/lorenzocadamuro/apple-fifth-avenue) - 
 - [ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling
@@ -1701,7 +1706,7 @@
 - [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
-- [bob-wallet](https://github.com/kyokan/bob-wallet) - 
+- [bob-wallet](https://github.com/kyokan/bob-wallet) - Bob is a GUI for DNS Record Management and Name Auctions on Handshake.  It includes an integrated full node: hsd.
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [basic-lru](https://github.com/WebReflection/basic-lru) - A fast and lightweight Map based LRU implementation.
 - [Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
@@ -2512,6 +2517,7 @@
 
 ## Python 
 
+- [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
 - [i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout) - Scripts to open new windows in i3wm using alternating layouts (splith/splitv) for each new window
 - [disaster-scrapers](https://github.com/simonw/disaster-scrapers) - Scrapers for disaster data - writes to https://github.com/simonw/disaster-data
@@ -2659,7 +2665,7 @@
 - [amdgpu-fan](https://github.com/chestm007/amdgpu-fan) - Fan controller for AMD graphics cards running the amdgpu driver on Linux
 - [tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
-- [mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell https://python-mario.readthedocs.io
+- [mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
 - [snowsaw](https://github.com/arcticicestudio/snowsaw) - A lightweight, plugin-driven and dynamic dotfiles bootstrapper.
 - [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -2891,6 +2897,7 @@
 
 ## Rust 
 
+- [termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
@@ -3370,6 +3377,7 @@
 
 ## Vim script 
 
+- [aergia](https://github.com/henricattoire/aergia) - aergia is a small plugin that helps you manage snippets.
 - [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
