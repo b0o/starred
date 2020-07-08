@@ -354,6 +354,7 @@
 
 ## C++ 
 
+- [webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -672,6 +673,7 @@
 
 ## Go 
 
+- [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [garble](https://github.com/mvdan/garble) - Obfuscate Go builds
 - [noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
@@ -690,7 +692,7 @@
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
+- [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [go-sslterminator](https://github.com/cmpxchg16/go-sslterminator) - SSL termination proxy
 - [factory-go](https://github.com/bluele/factory-go) - A library for setting up Golang objects inspired by factory_bot.
 - [purple](https://github.com/purpledb/purple) - An all-in-one data service (caching + K/V + flags + counters + sets) for microservices and FaaS functions. gRPC and HTTP interfaces.
@@ -953,7 +955,7 @@
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [gizmo](https://github.com/Lallassu/gizmo) - 2D Pixel Destruction Game written in Go.
 - [immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
-- [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
 - [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [leaktest](https://github.com/fortytw2/leaktest) - Goroutine Leak Detector
 - [peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
@@ -2187,7 +2189,7 @@
 
 ## Nix 
 
-- [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  Idempotent Desktop
+- [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
 - [dotfiles](https://github.com/jD91mZM2/dotfiles) - Literally just my "dotfiles" (except most don't even have dots in front of them). Not interesting, but 'kay.
 - [haskell-nix](https://github.com/Gabriel439/haskell-nix) - Nix and Haskell in production
@@ -2517,6 +2519,7 @@
 
 ## Python 
 
+- [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
 - [i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout) - Scripts to open new windows in i3wm using alternating layouts (splith/splitv) for each new window
@@ -2670,7 +2673,7 @@
 - [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [wikiquote-fortune](https://github.com/maandree/wikiquote-fortune) - Generate fortune cookies from Wikiquote
-- [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data
+- [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [OnDemandMinecraft](https://github.com/trevor-laher/OnDemandMinecraft) - An AWS hosted Minecraft server that will only run when players are active. Players can start the server through a simple UI accessed through free Heroku server hosting.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
@@ -3022,6 +3025,7 @@
 
 ## Shell 
 
+- [shell-snippets](https://github.com/j1elo/shell-snippets) - Sample Bash scripts that follow best practices
 - [pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
 - [Swytch](https://github.com/wilecoyote2015/Swytch) - Swytch is a script providing a window switcher for sway using rofi, awk and jq
@@ -3261,7 +3265,7 @@
 - [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [rome](https://github.com/romejs/rome) - The Rome Frontend Toolchain. Standardizing the web development experience.
+- [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
