@@ -102,6 +102,7 @@
 
 ## C 
 
+- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB:fire::fire::fire:
 - [font-chef](https://github.com/mobius3/font-chef) - A font cooking library
 - [Viewnior](https://github.com/hellosiyan/Viewnior) - Elegant Image Viewer
 - [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
@@ -673,6 +674,7 @@
 
 ## Go 
 
+- [dns](https://github.com/miekg/dns) - DNS library in Go
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [garble](https://github.com/mvdan/garble) - Obfuscate Go builds
@@ -1439,6 +1441,7 @@
 
 ## HTML 
 
+- [webmonetization](https://github.com/WICG/webmonetization) - Proposed Web Monetization standard
 - [awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
 - [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
@@ -1600,7 +1603,7 @@
 - [jsonbase](https://github.com/Devs-Garden/jsonbase) - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.
 - [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A Github action to read and get data from the CHANGELOG.md file 🚀
 - [jsqry](https://github.com/jsqry/jsqry) - Simple lib to query js objects/arrays
-- [jsqry-cli](https://github.com/jsqry/jsqry-cli) - Command-line jsqry (like jq)
+- [jsqry-cli](https://github.com/jsqry/jsqry-cli) - [DEPRECATED] Command-line jsqry (like jq)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [static-params](https://github.com/WebReflection/static-params) - A general purpose utility to allow interpolation values as static parts of a template literal tag.
 - [iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
@@ -2990,7 +2993,7 @@
 - [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
 - [wmfocus](https://github.com/svenstaro/wmfocus) - Visually focus windows by label
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -3381,6 +3384,7 @@
 
 ## Vim script 
 
+- [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
 - [aergia](https://github.com/henricattoire/aergia) - aergia is a small plugin that helps you manage snippets.
 - [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
