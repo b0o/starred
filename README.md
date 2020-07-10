@@ -272,7 +272,6 @@
 - [stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [cedarkey](https://github.com/nuclearcat/cedarkey) - $2 hardware SSH keys storage
-- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
@@ -466,6 +465,7 @@
 - [rippled](https://github.com/ripple/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
+- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [BucketCompressionTrick](https://github.com/isometric/BucketCompressionTrick) - Cool trick to store 4 5-bit values in one 16-bit value.
 - [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
 - [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
@@ -473,7 +473,6 @@
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [xkb-switch](https://github.com/grwlf/xkb-switch) - Switch your X keyboard layouts from the command line
 - [lasercrabs](https://github.com/etodd/lasercrabs) - Launch your LASERCRAB at walls, ceilings, and enemy heads in this indie multiplayer shooter where "move" and "attack" are synonymous.
-- [engine](https://github.com/flutter/engine) - The Flutter engine
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -612,6 +611,7 @@
 
 - [pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [engine](https://github.com/flutter/engine) - The Flutter engine
 
 ## Dhall 
 
@@ -1595,6 +1595,7 @@
 
 ## JavaScript 
 
+- [proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [apple-fifth-avenue](https://github.com/lorenzocadamuro/apple-fifth-avenue) - 
 - [ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
@@ -2250,7 +2251,6 @@
 - [ocaml-pb-plugin](https://github.com/yallop/ocaml-pb-plugin) - A protoc plugin for generating OCaml code from protobuf (.proto) files.
 - [tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads and `Scanf` for routing.
 - [ctypes-stubs-generation-notes](https://github.com/cedlemo/ctypes-stubs-generation-notes) - OCaml Ctypes stubs generation notes
-- [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
 - [core_kernel](https://github.com/janestreet/core_kernel) - Jane Street's standard library overlay (kernel)
 - [mparser](https://github.com/murmour/mparser) - A simple monadic parser combinator library for OCaml
 - [b0caml](https://github.com/b0-system/b0caml) - Easy OCaml scripts (unreleased)
@@ -2522,6 +2522,7 @@
 
 ## Python 
 
+- [lcd-font](https://github.com/ctrlcctrlv/lcd-font) - 14 segment display font with many character sets (7 segment coming soon™)
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
@@ -2852,6 +2853,7 @@
 - [bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
 - [grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
 - [genType](https://github.com/reason-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
+- [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
 - [reason-react-native](https://github.com/reason-react-native/reason-react-native) - ReasonML / BuckleScript bindings for React Native
 
 ## Red 
@@ -2903,6 +2905,7 @@
 
 ## Rust 
 
+- [figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper) - Font Helper for Figma for Linux x64 platform
 - [termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
@@ -3255,6 +3258,7 @@
 
 ## TypeScript 
 
+- [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
 - [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
@@ -3595,6 +3599,7 @@
 
 ## Vue 
 
+- [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
