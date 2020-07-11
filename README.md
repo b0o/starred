@@ -1449,6 +1449,7 @@
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
+- [proposal-item-method](https://github.com/tabatkins/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
@@ -1595,6 +1596,7 @@
 
 ## JavaScript 
 
+- [figma-better-font-picker](https://github.com/nitinrgupta/figma-better-font-picker) - Figma plugin to enable better font selections which previews how the font looks like
 - [proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [apple-fifth-avenue](https://github.com/lorenzocadamuro/apple-fifth-avenue) - 
@@ -2203,6 +2205,7 @@
 
 ## OCaml 
 
+- [mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside markdown files
 - [ocsigen-start](https://github.com/ocsigen/ocsigen-start) - Ocsigen-start: an Eliom application skeleton ready to use to build your own application with users, (pre)registration, notifications, etc.
 - [lwt_ssl](https://github.com/ocsigen/lwt_ssl) - OpenSSL binding with concurrent I/O
 - [ocsigen-toolkit](https://github.com/ocsigen/ocsigen-toolkit) - User interface widgets for Ocsigen applications
@@ -2365,7 +2368,6 @@
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017)
-- [proposal-item-method](https://github.com/tabatkins/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -2522,7 +2524,7 @@
 
 ## Python 
 
-- [lcd-font](https://github.com/ctrlcctrlv/lcd-font) - 14 segment display font with many character sets (7 segment coming soon™)
+- [lcd-font](https://github.com/ctrlcctrlv/lcd-font) - 14 segment display font with many character sets
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
@@ -3031,7 +3033,7 @@
 
 ## Shell 
 
-- [shell-snippets](https://github.com/j1elo/shell-snippets) - Sample Bash scripts that follow best practices
+- [shell-snippets](https://github.com/j1elo/shell-snippets) - Some Bash shell snippets, with functions and utilities that I use frequently in my scripts.
 - [pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
 - [Swytch](https://github.com/wilecoyote2015/Swytch) - Swytch is a script providing a window switcher for sway using rofi, awk and jq
@@ -3258,6 +3260,7 @@
 
 ## TypeScript 
 
+- [yalc](https://github.com/whitecolor/yalc) - Work with yarn/npm packages locally like a boss.
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
 - [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
@@ -3388,6 +3391,8 @@
 
 ## Vim script 
 
+- [vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
+- [dotfiles](https://github.com/junegunn/dotfiles) - :house_with_garden: It's personal
 - [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
 - [aergia](https://github.com/henricattoire/aergia) - aergia is a small plugin that helps you manage snippets.
 - [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
