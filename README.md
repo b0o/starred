@@ -9,6 +9,7 @@
   - [Ada](#ada)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
+  - [Awk](#awk)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -99,6 +100,10 @@
 
 - [sixty5o2](https://github.com/janroesner/sixty5o2) - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
 - [stage0](https://github.com/oriansj/stage0) - A set of minimal dependency bootstrap binaries
+
+## Awk 
+
+- [shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## C 
 
@@ -550,7 +555,6 @@
 - [nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
-- [WikiQuiz](https://github.com/alexgreene/WikiQuiz) - Generates a quiz for a Wikipedia page using parts of speech and text chunking.
 
 ## Clojure 
 
@@ -676,6 +680,10 @@
 
 ## Go 
 
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+- [scoot](https://github.com/twitter/scoot) - Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [go-dork](https://github.com/dwisiswant0/go-dork) - The fastest dork scanner written in Go.
 - [dns](https://github.com/miekg/dns) - DNS library in Go
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -1443,6 +1451,7 @@
 
 ## HTML 
 
+- [components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
 - [webmonetization](https://github.com/WICG/webmonetization) - Proposed Web Monetization standard
 - [awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
@@ -2026,7 +2035,7 @@
 - [metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
+- [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2020)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
@@ -2123,6 +2132,7 @@
 - [TorrenTV](https://github.com/guerrerocarlos/TorrenTV) - TorrenTV node-webkit source code
 - [TorrenTV](https://github.com/TorrenTV/TorrenTV) - TorrenTV node-webkit source code
 - [dwitter](https://github.com/lionleaf/dwitter) - Social network for short js demos
+- [WikiQuiz](https://github.com/alexgreene/WikiQuiz) - Generates a quiz for a Wikipedia page using parts of speech and text chunking.
 - [Higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine
 - [chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
@@ -2211,6 +2221,7 @@
 
 ## OCaml 
 
+- [vocal](https://github.com/vocal-project/vocal) - 
 - [alcotest](https://github.com/mirage/alcotest) - A lightweight and colourful test framework
 - [mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside markdown files
 - [ocsigen-start](https://github.com/ocsigen/ocsigen-start) - Ocsigen-start: an Eliom application skeleton ready to use to build your own application with users, (pre)registration, notifications, etc.
@@ -2532,6 +2543,7 @@
 
 ## Python 
 
+- [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [lcd-font](https://github.com/ctrlcctrlv/lcd-font) - 14 segment display font with many character sets
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
@@ -2915,6 +2927,7 @@
 
 ## Rust 
 
+- [tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper) - Font Helper for Figma for Linux x64 platform
 - [termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -3077,7 +3090,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IDE-style type-ahead completion for Zsh — Now asynchronous/non-blocking!
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IDE-style type-ahead autocompletion for Zsh — Now asynchronous/non-blocking!
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
@@ -3267,6 +3280,7 @@
 
 ## TypeScript 
 
+- [react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - From design to responsive pages. Support Tailwind and Flutter.
@@ -3618,6 +3632,7 @@
 
 ## Vue 
 
+- [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
