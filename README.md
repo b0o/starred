@@ -360,6 +360,7 @@
 
 ## C++ 
 
+- [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [wf-recorder](https://github.com/ammen99/wf-recorder) - 
@@ -506,6 +507,7 @@
 
 ## CSS 
 
+- [css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
@@ -600,7 +602,7 @@
 
 ## Crystal 
 
-- [invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
+- [invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
 
@@ -680,6 +682,8 @@
 
 ## Go 
 
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
+- [dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [scoot](https://github.com/twitter/scoot) - Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
@@ -2362,6 +2366,7 @@
 
 ## Others 
 
+- [core](https://github.com/shellfire-dev/core) - Core module for shellfire
 - [awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [EconomicTracker](https://github.com/Opportunitylab/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
@@ -2927,6 +2932,8 @@
 
 ## Rust 
 
+- [femme](https://github.com/lrlna/femme) - Not just a pretty (inter)face: pretty-printer + ndjson logger for log crate.
+- [miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
 - [tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper) - Font Helper for Figma for Linux x64 platform
 - [termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
@@ -3054,6 +3061,9 @@
 
 ## Shell 
 
+- [tutorial](https://github.com/shellfire-dev/tutorial) - tutorial for shellfire
+- [coral](https://github.com/alganet/coral) - NOTE: This is a prototype, largely incomplete
+- [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [shell-snippets](https://github.com/j1elo/shell-snippets) - Some Bash shell snippets, with functions and utilities that I use frequently in my scripts.
 - [pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
@@ -3280,6 +3290,7 @@
 
 ## TypeScript 
 
+- [shoelace](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 - [react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
