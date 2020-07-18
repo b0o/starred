@@ -107,6 +107,8 @@
 
 ## C 
 
+- [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
+- [uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
 - [tpm-luks](https://github.com/shpedoikal/tpm-luks) - LUKS support for storing keys in TPM NVRAM
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB:fire::fire::fire:
 - [font-chef](https://github.com/mobius3/font-chef) - A font cooking library
@@ -360,6 +362,7 @@
 
 ## C++ 
 
+- [krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -507,6 +510,7 @@
 
 ## CSS 
 
+- [propelcss](https://github.com/davidkpiano/propelcss) - 
 - [css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
@@ -1940,6 +1944,7 @@
 - [code-snippets](https://github.com/bahmutov/code-snippets) - Chrome DevTools code snippets
 - [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.JS
 - [Git-Enforcer](https://github.com/Schachte/Git-Enforcer) - :cop: GitHub Bot For Validating Pull Request Mergability Requirements and Issues Structure
+- [react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [Performance-Analysis-JS](https://github.com/dg92/Performance-Analysis-JS) - Map/Reduce/Filter/Find Vs For loop Vs For each Vs Lodash vs Ramda
 - [micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!
 - [findup-sync](https://github.com/gulpjs/findup-sync) - Find the first file matching a given pattern in the current directory or the nearest ancestor directory.
@@ -2548,6 +2553,8 @@
 
 ## Python 
 
+- [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
+- [digital-signage-client](https://github.com/rcarmo/digital-signage-client) - Lightweight Digital Signage solution for the Raspberry Pi
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [lcd-font](https://github.com/ctrlcctrlv/lcd-font) - 14 segment display font with many character sets
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
@@ -2910,7 +2917,7 @@
 - [um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [taskwarrior-web](https://github.com/theunraveler/taskwarrior-web) - A web interface for the Taskwarrior todo application. Because being a neckbeard is only fun sometimes.
-- [forem](https://github.com/forem/forem) - For empowering community
+- [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
@@ -3290,7 +3297,7 @@
 
 ## TypeScript 
 
-- [shoelace](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
+- [shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology.
 - [react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
@@ -3378,7 +3385,6 @@
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [nighthawk](https://github.com/quantumkv/nighthawk) - A stealthy, simple, unobtrusive music player that stays out of your way
-- [react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
 - [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
@@ -3427,6 +3433,7 @@
 
 ## Vim script 
 
+- [openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
 - [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
