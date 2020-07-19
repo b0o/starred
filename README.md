@@ -2371,6 +2371,7 @@
 
 ## Others 
 
+- [logo](https://github.com/works-offline/logo) - A logo for "works offline" - the web needs one
 - [core](https://github.com/shellfire-dev/core) - Core module for shellfire
 - [awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [EconomicTracker](https://github.com/Opportunitylab/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
@@ -2553,6 +2554,7 @@
 
 ## Python 
 
+- [Zydra](https://github.com/hamedA2/Zydra) - 
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [digital-signage-client](https://github.com/rcarmo/digital-signage-client) - Lightweight Digital Signage solution for the Raspberry Pi
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
@@ -3301,7 +3303,7 @@
 - [react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - From design to responsive pages. Support Tailwind and Flutter.
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - From design to responsive pages and apps on Tailwind and Flutter.
 - [yalc](https://github.com/whitecolor/yalc) - Work with yarn/npm packages locally like a boss.
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
