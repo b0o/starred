@@ -107,6 +107,7 @@
 
 ## C 
 
+- [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
 - [tpm-luks](https://github.com/shpedoikal/tpm-luks) - LUKS support for storing keys in TPM NVRAM
@@ -2178,6 +2179,8 @@
 
 ## Lua 
 
+- [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A simple tree for neovim written in lua
+- [snippets.nvim](https://github.com/norcalli/snippets.nvim) - 
 - [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
@@ -2371,6 +2374,7 @@
 
 ## Others 
 
+- [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [logo](https://github.com/works-offline/logo) - A logo for "works offline" - the web needs one
 - [core](https://github.com/shellfire-dev/core) - Core module for shellfire
 - [awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
@@ -2554,6 +2558,7 @@
 
 ## Python 
 
+- [archweb_manpages](https://github.com/lahwaacz/archweb_manpages) - Codebase for the Arch manual pages repository
 - [Zydra](https://github.com/hamedA2/Zydra) - 
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [digital-signage-client](https://github.com/rcarmo/digital-signage-client) - Lightweight Digital Signage solution for the Raspberry Pi
@@ -2884,6 +2889,9 @@
 
 ## Reason 
 
+- [reasonml.org](https://github.com/reason-association/reasonml.org) - WIP Reason / BuckleScript documentation platform with intelligent design and UX
+- [reanalyze](https://github.com/reason-association/reanalyze) - Experimental analyses for OCaml/Reason: for globally dead values/types, exception analysis, and termination analysis.
+- [morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
@@ -3299,6 +3307,8 @@
 
 ## TypeScript 
 
+- [dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
+- [datalog-ts](https://github.com/vilterp/datalog-ts) - a datalog interpreter in typescript
 - [shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology.
 - [react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
@@ -3435,6 +3445,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/Akin909/dotfiles) - 🏡 dotfiles
 - [openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
 - [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
