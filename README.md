@@ -155,7 +155,7 @@
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
-- [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable non-recursive adaptive merge sort which is faster than quicksort.
+- [quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
 - [darkhttpd](https://github.com/andreasgal/darkhttpd) - darkhttpd for B2G
 - [pacredir](https://github.com/eworm-de/pacredir) - redirect pacman requests, assisted by avahi service discovery
@@ -645,7 +645,7 @@
 - [ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects
 - [alchemist-server](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects
 - [alchemist.vim](https://github.com/slashmili/alchemist.vim) - Elixir Integration Into Vim
-- [phoenix](https://github.com/phoenixframework/phoenix) - Peace-of-mind from prototype to production
+- [phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [caster](https://github.com/patrickdavey/caster) - Videocasts browser
 
@@ -1057,7 +1057,7 @@
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [upwithlib](https://github.com/kaihendry/upwithlib) - i find it strange that you can have a different package name to the folder name
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
@@ -1617,6 +1617,7 @@
 
 ## JavaScript 
 
+- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [blog](https://github.com/tailwindcss/blog) - 
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
@@ -1690,7 +1691,7 @@
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [api.harmonograph.art](https://github.com/alex-page/api.harmonograph.art) - 👩‍🎨 Draw a harmonograph with a URL
 - [98.css-badges](https://github.com/jdan/98.css-badges) - badges for 98.css
-- [downshift](https://github.com/downshift-js/downshift) - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
 - [primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
@@ -2062,7 +2063,7 @@
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
 - [public-private-key-demo](https://github.com/anders94/public-private-key-demo) - Demonstrates public / private key pairs and signing in a blockchain context. This is part 2 of my Blockchain 101 video explainer.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕
@@ -2744,6 +2745,7 @@
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
+- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [command_line_lint](https://github.com/riscy/command_line_lint) - This script generates a report against your command-line history and suggests workflow improvements.
 - [fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [reple](https://github.com/BenBrock/reple) - "Replay-based" REPLs for compiled languages.
@@ -2949,9 +2951,10 @@
 
 ## Rust 
 
+- [dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [femme](https://github.com/lrlna/femme) - Not just a pretty (inter)face: pretty-printer + ndjson logger for log crate.
 - [miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
-- [tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper) - Font Helper for Figma for Linux x64 platform
 - [termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -3196,7 +3199,6 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [our-postgresql-setup](https://github.com/gocardless/our-postgresql-setup) - PostgreSQL clustering with corosync/pacemaker test environment
 - [slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
-- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [dotfiles](https://github.com/twpayne/dotfiles) - Dotfiles, managed with https://github.com/twpayne/chezmoi
 - [dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [snapper-exclude](https://github.com/billwanjohi/snapper-exclude) - move noisy directories out of your snapper-configured btrfs subvolumes, cleaning up what's already been replicated
@@ -3307,13 +3309,15 @@
 
 ## TypeScript 
 
+- [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
+- [MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [datalog-ts](https://github.com/vilterp/datalog-ts) - a datalog interpreter in typescript
 - [shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology.
 - [react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - From design to responsive pages and apps on Tailwind and Flutter.
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - From design to responsive pages and apps on Tailwind, Flutter and SwiftUI.
 - [yalc](https://github.com/whitecolor/yalc) - Work with yarn/npm packages locally like a boss.
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
@@ -3461,7 +3465,7 @@
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vfix](https://github.com/Termplexed/vfix) - Vfix : Vim, Debugging, Vim-scripts
 - [neuron.vim](https://github.com/ihsanturk/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
-- [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
+- [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [configfiles](https://github.com/stapelberg/configfiles) - dotfiles
 - [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
