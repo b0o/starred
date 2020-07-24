@@ -687,6 +687,9 @@
 
 ## Go 
 
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server
+- [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+- [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [go-signalcontext](https://github.com/sethvargo/go-signalcontext) - Create Go contexts that cancel on signals.
 - [remark42](https://github.com/umputun/remark42) - comment engine
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
@@ -737,7 +740,7 @@
 - [smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [det](https://github.com/toby/det) - P2P search and discovery on the BitTorrent network
-- [glamour](https://github.com/charmbracelet/glamour) - Write runway-ready command-line tools 💇🏻‍♀️
+- [glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [goi3bar](https://github.com/denbeigh2000/goi3bar) - Configurable, extensible replacement for i3status written in Go.
 - [i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -978,7 +981,7 @@
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [gizmo](https://github.com/Lallassu/gizmo) - 2D Pixel Destruction Game written in Go.
 - [immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
-- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [leaktest](https://github.com/fortytw2/leaktest) - Goroutine Leak Detector
 - [peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
@@ -1059,7 +1062,7 @@
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [upwithlib](https://github.com/kaihendry/upwithlib) - i find it strange that you can have a different package name to the folder name
-- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
@@ -1924,7 +1927,6 @@
 - [DawnChorus](https://github.com/CMP-Studio/DawnChorus) - Wake up to a chorus of birds in this alarm clock developed by Carnegie Museums of Pittsburgh.
 - [PowderPlayer](https://github.com/jaruba/PowderPlayer) - Hybrid between a Torrent Client and a Player (torrent streaming) -
 - [typescript-1.8-tutorial](https://github.com/clayallsopp/typescript-1.8-tutorial) - Migrating a JavaScript app to TypeScript 1.8
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
 - [peter.sh](https://github.com/beverloo/peter.sh) - Source-code for http://peter.sh/.
 - [intoli-article-materials](https://github.com/intoli/intoli-article-materials) - All of the supporting materials for articles from Intoli's blog.
@@ -2186,6 +2188,7 @@
 
 ## Lua 
 
+- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A simple tree for neovim written in lua
 - [snippets.nvim](https://github.com/norcalli/snippets.nvim) - 
@@ -2553,7 +2556,6 @@
 - [backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 - [Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
-- [dotfiles](https://github.com/jez/dotfiles) - My personal collection of configuration files.
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
 
 ## PureBasic 
@@ -2567,6 +2569,7 @@
 
 ## Python 
 
+- [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [orgformat](https://github.com/novoid/orgformat) - Utility library for providing functions to generate and modify Org mode syntax elements like links, time-stamps, or date-stamps.
 - [archweb_manpages](https://github.com/lahwaacz/archweb_manpages) - Codebase for the Arch manual pages repository
 - [Zydra](https://github.com/hamedA2/Zydra) - 
@@ -3051,7 +3054,7 @@
 - [zr](https://github.com/jedahan/zr) - zsh plugin manager written in rust
 - [xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [scl](https://github.com/Keats/scl) - A simple configuration language
-- [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
+- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [wmfocus](https://github.com/svenstaro/wmfocus) - Visually focus windows by label
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -3251,6 +3254,7 @@
 - [creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [dotfiles](https://github.com/jez/dotfiles) - My personal collection of configuration files.
 - [dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
@@ -3406,6 +3410,7 @@
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [nighthawk](https://github.com/quantumkv/nighthawk) - A stealthy, simple, unobtrusive music player that stays out of your way
@@ -3457,6 +3462,12 @@
 
 ## Vim script 
 
+- [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [vim-wheel](https://github.com/reedes/vim-wheel) - Screen-anchored cursor movement for Vim
+- [vim-textobj-quote](https://github.com/reedes/vim-textobj-quote) - Use ‘curly’ quote characters in Vim
+- [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
+- [vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
+- [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
 - [dotfiles](https://github.com/Akin909/dotfiles) - 🏡 dotfiles
 - [openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
