@@ -111,7 +111,7 @@
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
 - [tpm-luks](https://github.com/shpedoikal/tpm-luks) - LUKS support for storing keys in TPM NVRAM
-- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB:fire::fire::fire:
+- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
 - [font-chef](https://github.com/mobius3/font-chef) - A font cooking library
 - [Viewnior](https://github.com/hellosiyan/Viewnior) - Elegant Image Viewer
 - [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
@@ -887,6 +887,7 @@
 - [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Complaint Window Managers
 - [protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
 - [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
+- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [go](https://github.com/stellar/go) - Stellar's public monorepo of go code
@@ -1475,7 +1476,7 @@
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
-- [proposal-item-method](https://github.com/tabatkins/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
+- [proposal-item-method](https://github.com/tc39-transfer/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
@@ -2385,6 +2386,7 @@
 
 ## Others 
 
+- [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [logo](https://github.com/works-offline/logo) - A logo for "works offline" - the web needs one
@@ -3178,7 +3180,6 @@
 - [lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
 - [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
 - [zaw](https://github.com/zsh-users/zaw) - zsh anything.el-like widget.
-- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [akulm](https://github.com/bebehei/akulm) - After KernelUpgrade Loadable Modules
 - [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [zconvey](https://github.com/zdharma/zconvey) - Send notifications and commands to all or selected Zshell instances
