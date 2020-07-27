@@ -55,6 +55,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
+  - [Prolog](#prolog)
   - [PureBasic](#purebasic)
   - [PureScript](#purescript)
   - [Python](#python)
@@ -511,6 +512,7 @@
 
 ## CSS 
 
+- [stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [propelcss](https://github.com/davidkpiano/propelcss) - 
 - [css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
@@ -565,8 +567,10 @@
 
 ## Clojure 
 
+- [apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
+- [datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. Self-hosted MVP on August 1st. Progress at https://athensresearch.github.io/athens/
+- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. Rolling out our Beta to Sponsors. Read more at https://www.notion.so/athensresearch/MVP-Update-Funding-and-Why-I-Started-Athens-e68822f0c3654660ae621cdcbf932bc4
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -2246,6 +2250,7 @@
 
 ## OCaml 
 
+- [benchpress](https://github.com/sneeuwballen/benchpress) - Testing and benchmarking tool for logic-related programs.
 - [vocal](https://github.com/vocal-project/vocal) - 
 - [alcotest](https://github.com/mirage/alcotest) - A lightweight and colourful test framework
 - [mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside markdown files
@@ -2560,6 +2565,10 @@
 - [Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
+
+## Prolog 
+
+- [datalog](https://github.com/c-cube/datalog) - An in-memory datalog implementation for OCaml.
 
 ## PureBasic 
 
