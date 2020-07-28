@@ -108,6 +108,8 @@
 
 ## C 
 
+- [swvkc](https://github.com/st3r4g/swvkc) - experimental Wayland Vulkan compositor
+- [partclone](https://github.com/Thomas-Tsai/partclone) - Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
 - [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
@@ -267,7 +269,7 @@
 - [dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
 - [remmina-plugin-rdesktop](https://github.com/muflone/remmina-plugin-rdesktop) - Remmina protocol plugin to open a RDP connection with rdesktop
 - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
-- [ly](https://github.com/cylgom/ly) - TUI (ncurses-like) display manager
+- [ly](https://github.com/nullgemm/ly) - TUI (ncurses-like) display manager
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -364,6 +366,7 @@
 
 ## C++ 
 
+- [LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
@@ -448,7 +451,6 @@
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
 - [botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
@@ -1195,7 +1197,7 @@
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [vbar](https://github.com/AndrewVos/vbar) - A bar
 - [dashing](https://github.com/technosophos/dashing) - A Dash Generator Script for Any HTML
-- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [swaggymnia](https://github.com/mlabouardy/swaggymnia) - Generate Swagger 🌀 documentation for your existing API in Insomnia
 - [mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
@@ -1618,6 +1620,7 @@
 - [beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
 - [soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
 - [btrbck](https://github.com/ruediste/btrbck) - Backup tool leveraging BTRFS for incremental backups
@@ -1668,7 +1671,7 @@
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure from Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - CSA - Get started with the fastest dev environment available.
+- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - The all-in-one app template for Snowpack. 👉 https://github.com/pikapkg/snowpack/tree/master/packages/create-snowpack-app
 - [squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
 - [Reedy-for-Chrome](https://github.com/olegcherr/Reedy-for-Chrome) - Read all you want faster with Reedy for Google Chrome!
@@ -2077,7 +2080,7 @@
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
 - [public-private-key-demo](https://github.com/anders94/public-private-key-demo) - Demonstrates public / private key pairs and signing in a blockchain context. This is part 2 of my Blockchain 101 video explainer.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕
@@ -3366,7 +3369,7 @@
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
-- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
+- [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [pathephone-web](https://github.com/pathephone/pathephone-web) - Distributed audio player for web
 - [design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
 - [zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
