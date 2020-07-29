@@ -108,6 +108,7 @@
 
 ## C 
 
+- [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [swvkc](https://github.com/st3r4g/swvkc) - experimental Wayland Vulkan compositor
 - [partclone](https://github.com/Thomas-Tsai/partclone) - Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
 - [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
@@ -693,6 +694,9 @@
 
 ## Go 
 
+- [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
+- [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+- [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
 - [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
@@ -1472,6 +1476,7 @@
 
 ## HTML 
 
+- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [cuberule.com](https://github.com/indirect/cuberule.com) - the cube rule of food identification, explained
 - [components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
 - [webmonetization](https://github.com/WICG/webmonetization) - Proposed Web Monetization standard
@@ -1631,6 +1636,8 @@
 
 ## JavaScript 
 
+- [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
 - [Cookie-Glasses](https://github.com/Perdu/Cookie-Glasses) - This browser extension shows you whether consent registered by cookie banners of IAB Europe's Transparency & Consent Framework corresponds to your choice
 - [aws-glacier-calculator](https://github.com/liangzan/aws-glacier-calculator) - A single page angular js app for calculating the rates for AWS glacier.
@@ -2197,6 +2204,7 @@
 
 ## Lua 
 
+- [playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A simple tree for neovim written in lua
@@ -2395,6 +2403,8 @@
 
 ## Others 
 
+- [renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
+- [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
@@ -2538,6 +2548,7 @@
 
 ## PHP 
 
+- [asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
 - [passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
 - [phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
 - [livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
