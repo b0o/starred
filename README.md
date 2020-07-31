@@ -1077,7 +1077,7 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - The Go Web Framework
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
@@ -1532,6 +1532,7 @@
 
 ## Haskell 
 
+- [wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
 - [Taut](https://github.com/srid/Taut) - An ambitious Slack JSON export viewer.
 - [neuron](https://github.com/srid/neuron) - Future-proof and simple-to-use notes system based on Zettelkasten.
@@ -1637,6 +1638,8 @@
 
 ## JavaScript 
 
+- [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
+- [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
@@ -2232,6 +2235,7 @@
 
 ## Makefile 
 
+- [tu-bylaws](https://github.com/archlinux/tu-bylaws) - The bylaws which govern the Arch Linux Trusted Users (read-only mirror)
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
@@ -2404,6 +2408,7 @@
 
 ## Others 
 
+- [Programma](https://github.com/douglascrockford/Programma) - A Typeface for Programming
 - [renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
@@ -3074,7 +3079,7 @@
 - [enpass-cli](https://github.com/norcalli/enpass-cli) - Enpass CLI agent written written in rust!
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
-- [meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git
+- [meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git https://crates.io/crates/meli
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
@@ -3413,7 +3418,7 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [fx_cast](https://github.com/hensm/fx_cast) - Implementation of the Google Cast Chrome Sender SDK within Firefox
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/mozilla/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
@@ -3720,7 +3725,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
