@@ -695,6 +695,7 @@
 
 ## Go 
 
+- [graphdot](https://github.com/ewohltman/graphdot) - Visualize Go module dependencies in Graphviz DOT format
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
@@ -1477,6 +1478,7 @@
 
 ## HTML 
 
+- [proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [cuberule.com](https://github.com/indirect/cuberule.com) - the cube rule of food identification, explained
 - [components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
@@ -1509,7 +1511,7 @@
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [megadesk](https://github.com/gcormier/megadesk) - Open-source Bekant controller board
-- [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
+- [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
@@ -2408,6 +2410,7 @@
 
 ## Others 
 
+- [starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [Programma](https://github.com/douglascrockford/Programma) - A Typeface for Programming
 - [renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -2601,6 +2604,7 @@
 
 ## Python 
 
+- [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
 - [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [orgformat](https://github.com/novoid/orgformat) - Utility library for providing functions to generate and modify Org mode syntax elements like links, time-stamps, or date-stamps.
@@ -2685,7 +2689,7 @@
 - [kitti3](https://github.com/LandingEllipse/kitti3) - Kitty drop-down service for i3wm
 - [websitechanges](https://github.com/schollz/websitechanges) - Change detection with a simple Python script to email you whenever a website changes.
 - [cliche](https://github.com/kootenpv/cliche) - Build a simple command-line interface from your functions :computer:
-- [nfstream](https://github.com/aouinizied/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
+- [nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [p_tqdm](https://github.com/swansonk14/p_tqdm) - Parallel processing with progress bars
@@ -3496,6 +3500,7 @@
 
 ## Vim script 
 
+- [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Highlights
 - [vim-dasht](https://github.com/sunaku/vim-dasht) - :information_desk_person: (Neo)Vim plugin for dasht integration
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [vim-wheel](https://github.com/reedes/vim-wheel) - Screen-anchored cursor movement for Vim
@@ -3725,7 +3730,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
