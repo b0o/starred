@@ -270,7 +270,7 @@
 - [dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
 - [remmina-plugin-rdesktop](https://github.com/muflone/remmina-plugin-rdesktop) - Remmina protocol plugin to open a RDP connection with rdesktop
 - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
-- [ly](https://github.com/nullgemm/ly) - TUI (ncurses-like) display manager
+- [ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -1078,7 +1078,7 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [iris](https://github.com/kataras/iris) - The Go Web Framework
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
@@ -2604,6 +2604,7 @@
 
 ## Python 
 
+- [futurecoder](https://github.com/alexmojaki/futurecoder) - A platform for beginners to learn programming in Python
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
 - [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
@@ -3500,6 +3501,7 @@
 
 ## Vim script 
 
+- [reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
 - [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Highlights
 - [vim-dasht](https://github.com/sunaku/vim-dasht) - :information_desk_person: (Neo)Vim plugin for dasht integration
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
@@ -3600,7 +3602,7 @@
 - [vim-perl](https://github.com/vim-perl/vim-perl) - Support for Perl 5 in Vim
 - [notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
-- [suda.vim](https://github.com/lambdalisue/suda.vim) - An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [SudoEdit.vim](https://github.com/chrisbra/SudoEdit.vim) - Edit Files using sudo or su or any other tool
 - [vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
