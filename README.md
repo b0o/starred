@@ -108,6 +108,7 @@
 
 ## C 
 
+- [paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
 - [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [swvkc](https://github.com/st3r4g/swvkc) - experimental Wayland Vulkan compositor
 - [partclone](https://github.com/Thomas-Tsai/partclone) - Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
@@ -1075,7 +1076,7 @@
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [upwithlib](https://github.com/kaihendry/upwithlib) - i find it strange that you can have a different package name to the folder name
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework
@@ -1640,6 +1641,7 @@
 
 ## JavaScript 
 
+- [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -2604,6 +2606,8 @@
 
 ## Python 
 
+- [BlockView](https://github.com/lukabuz/BlockView) - A python script that can be used to track transactions on the bitcoin blockchain
+- [sigvehtml](https://github.com/sigvef/sigvehtml) - Finally a HTML that you can sight-read.
 - [futurecoder](https://github.com/alexmojaki/futurecoder) - A platform for beginners to learn programming in Python
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
@@ -3312,7 +3316,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
 - [TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
-- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
+- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for fish.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
