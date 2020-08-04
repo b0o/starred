@@ -1491,7 +1491,7 @@
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
-- [proposal-item-method](https://github.com/tc39-transfer/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
+- [proposal-item-method](https://github.com/tc39/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
@@ -1836,7 +1836,7 @@
 - [google-spreadsheets-theo](https://github.com/kaelig/google-spreadsheets-theo) - Import Google Spreadsheets to a format digestable by Theo
 - [theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
 - [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
@@ -2002,7 +2002,7 @@
 - [Framer](https://github.com/koenbok/Framer) - Framer - Design Everything
 - [babel-plugin-transform-decorators-legacy](https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy) - A plugin for Babel 6 that (mostly) replicates the old decorator behavior from Babel 5
 - [babel-loader](https://github.com/babel/babel-loader) - 📦 Babel loader for webpack
-- [babel-eslint](https://github.com/babel/babel-eslint) - :tokyo_tower: A wrapper for Babel's parser used for ESLint
+- [babel-eslint](https://github.com/babel/babel-eslint) - :tokyo_tower: A wrapper for Babel's parser used for ESLint (renamed to @babel/eslint-parser)
 - [core-decorators](https://github.com/jayphelps/core-decorators) - Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.
 - [jsruntime](https://github.com/anvaka/jsruntime) - Chrome Extension to explore javascript runtime.
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
@@ -2437,7 +2437,7 @@
 - [SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
-- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
+- [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [technology-budgeting](https://github.com/18F/technology-budgeting) - 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
 - [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -3004,6 +3004,7 @@
 
 ## Rust 
 
+- [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [femme](https://github.com/lrlna/femme) - Not just a pretty (inter)face: pretty-printer + ndjson logger for log crate.
 - [miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
