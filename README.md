@@ -368,6 +368,7 @@
 
 ## C++ 
 
+- [pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
 - [LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
@@ -696,6 +697,10 @@
 
 ## Go 
 
+- [surfsticker](https://github.com/alrs/surfsticker) - Manage sticky suckless surf windows.
+- [thdwb](https://github.com/danfragoso/thdwb) - 🌭 The hotdog web browser and browser engine 🌭
+- [phash](https://github.com/carlogit/phash) - A simple Go Library to calculate a phash string for a JPEG image.
+- [yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
 - [graphdot](https://github.com/ewohltman/graphdot) - Visualize Go module dependencies in Graphviz DOT format
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
@@ -2412,6 +2417,7 @@
 
 ## Others 
 
+- [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [Programma](https://github.com/douglascrockford/Programma) - A Typeface for Programming
 - [renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
@@ -2606,6 +2612,8 @@
 
 ## Python 
 
+- [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
+- [chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [BlockView](https://github.com/lukabuz/BlockView) - A python script that can be used to track transactions on the bitcoin blockchain
 - [sigvehtml](https://github.com/sigvef/sigvehtml) - Finally a HTML that you can sight-read.
 - [futurecoder](https://github.com/alexmojaki/futurecoder) - A platform for beginners to learn programming in Python
@@ -3004,6 +3012,8 @@
 
 ## Rust 
 
+- [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+- [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [femme](https://github.com/lrlna/femme) - Not just a pretty (inter)face: pretty-printer + ndjson logger for log crate.
@@ -3506,6 +3516,7 @@
 
 ## Vim script 
 
+- [vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
 - [reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
 - [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Highlights
 - [vim-dasht](https://github.com/sunaku/vim-dasht) - :information_desk_person: (Neo)Vim plugin for dasht integration
