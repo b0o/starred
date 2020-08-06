@@ -210,7 +210,6 @@
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [no-wm](https://github.com/patrickhaller/no-wm) - Use X11 without a window manager
 - [alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
-- [oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
@@ -1503,6 +1502,7 @@
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [christmas](https://github.com/shannonmoeller/christmas) - Is it Christmas?
 - [THC-Archive](https://github.com/vanhauser-thc/THC-Archive) - All releases of the security research group (a.k.a. hackers) The Hacker's Choice
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [codem-ipsum](https://github.com/pomber/codem-ipsum) - Lorem ipsum for code
 - [pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
 - [ocaml.org](https://github.com/ocaml/ocaml.org) - Implementation of the ocaml.org website.
@@ -1537,6 +1537,7 @@
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+- [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 
 ## Haskell 
 
@@ -1621,6 +1622,7 @@
 
 ## Java 
 
+- [ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [umple](https://github.com/umple/umple) - Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems
@@ -2576,10 +2578,10 @@
 - [Slacker](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI
 - [reserved-usernames](https://github.com/shouldbee/reserved-usernames) - 590+ usernames in this dictionary! A list of reserved usernames to prevent url collision with resource paths. This repository hosts the list in multiple formats like JSON, CSV, SQL and plain text. You can use its just download its by wget.
 - [pfsense_fauxapi](https://github.com/ndejong/pfsense_fauxapi) - REST based API interface for pfSense 2.3.x and 2.4.x to facilitate devops
-- [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - A from-the-ground-up rewrite of https://pomax.github.io/bezierinfo, using react, babel, webpack, and other modern things.
 
 ## Perl 
 
+- [Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
@@ -3074,7 +3076,6 @@
 - [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [abstreet](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.
@@ -3100,6 +3101,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git https://crates.io/crates/meli
+- [oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
 - [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
@@ -3185,7 +3187,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - IDE-style type-ahead autocompletion for Zsh — Now asynchronous/non-blocking!
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
@@ -3748,7 +3750,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 70k+ developers. https://postwoman.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
