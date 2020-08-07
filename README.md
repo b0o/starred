@@ -361,7 +361,7 @@
 - [Skylines-ModTools](https://github.com/bloodypenguin/Skylines-ModTools) - Mod debugging/ reverse engineering tool for Cities: Skylines
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
-- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [boo](https://github.com/boo-lang/boo) - The Boo Programming Language.
 - [CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 
@@ -383,7 +383,7 @@
 - [libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [HElib](https://github.com/homenc/HElib) - An Implementation of homomorphic encryption
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
@@ -704,7 +704,7 @@
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S support. It can serve local filesystem, S3, GCS
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [go-signalcontext](https://github.com/sethvargo/go-signalcontext) - Create Go contexts that cancel on signals.
@@ -873,7 +873,7 @@
 - [dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image
 - [go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [sandy](https://github.com/hobochild/sandy) - A tiny "sandbox" to run untrusted code 🏖️
-- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data
 - [pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
@@ -887,7 +887,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
+- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1502,7 +1502,6 @@
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [christmas](https://github.com/shannonmoeller/christmas) - Is it Christmas?
 - [THC-Archive](https://github.com/vanhauser-thc/THC-Archive) - All releases of the security research group (a.k.a. hackers) The Hacker's Choice
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [codem-ipsum](https://github.com/pomber/codem-ipsum) - Lorem ipsum for code
 - [pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
 - [ocaml.org](https://github.com/ocaml/ocaml.org) - Implementation of the ocaml.org website.
@@ -1541,6 +1540,7 @@
 
 ## Haskell 
 
+- [shake](https://github.com/ndmitchell/shake) - Shake build system
 - [wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
 - [Taut](https://github.com/srid/Taut) - An ambitious Slack JSON export viewer.
@@ -2513,7 +2513,6 @@
 - [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [pulse-presets](https://github.com/rsommerard/pulse-presets) - Pulse audio equalizer presets
 - [awesome-monzo](https://github.com/rdingwall/awesome-monzo) - A curated list of awesome Monzo related things
-- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [homelab](https://github.com/bradfitz/homelab) - Brad's homelab setup
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
@@ -2845,6 +2844,7 @@
 - [ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [deoppet.nvim](https://github.com/Shougo/deoppet.nvim) - The dark powered snippet plugin for neovim
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
@@ -3014,6 +3014,7 @@
 
 ## Rust 
 
+- [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
@@ -3076,6 +3077,7 @@
 - [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [abstreet](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.
@@ -3329,7 +3331,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
 - [TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
-- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for fish.
+- [fisher](https://github.com/jorgebucaran/fisher) - Insanely fast plugin manager for fish.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -3528,7 +3530,7 @@
 - [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
 - [vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
-- [dotfiles](https://github.com/Akin909/dotfiles) - 🏡 dotfiles
+- [dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
 - [openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
 - [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
@@ -3613,7 +3615,7 @@
 - [nofrils](https://github.com/robertmeta/nofrils) - An extremely minimalist colorscheme, even opting out of the second L in frills
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
-- [vim-dune](https://github.com/Akin909/vim-dune) - Syntax File for Dune
+- [vim-dune](https://github.com/akinsho/vim-dune) - Syntax File for Dune
 - [vim-ocaml](https://github.com/ocaml/vim-ocaml) - Vim runtime files for OCaml
 - [libvim](https://github.com/onivim/libvim) - libvim: The core Vim editing engine as a minimal C library
 - [calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
