@@ -637,6 +637,7 @@
 
 ## Dhall 
 
+- [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
 
 ## Dockerfile 
@@ -887,7 +888,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for cloud services development
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1540,6 +1541,8 @@
 
 ## Haskell 
 
+- [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
+- [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [shake](https://github.com/ndmitchell/shake) - Shake build system
 - [wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
@@ -1648,6 +1651,7 @@
 
 ## JavaScript 
 
+- [md-insert](https://github.com/goto-bus-stop/md-insert) - insert content under a markdown header or into a comment delimited region
 - [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
@@ -1726,6 +1730,7 @@
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
 - [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [chrome-extensions-manager](https://github.com/sigoden/chrome-extensions-manager) - A snapshot based chrome extensions manager
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [api.harmonograph.art](https://github.com/alex-page/api.harmonograph.art) - 👩‍🎨 Draw a harmonograph with a URL
@@ -1776,7 +1781,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. No bundler needed ✌️
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - Bob is a GUI for DNS Record Management and Name Auctions on Handshake.  It includes an integrated full node: hsd.
@@ -2267,6 +2272,11 @@
 
 ## Nix 
 
+- [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
+- [nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
+- [ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
+- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - Nix:snowflake: redefines dotfiles. home-manager+xmonad+neovim:yellow_heart:
+- [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
 - [dotfiles](https://github.com/jD91mZM2/dotfiles) - Literally just my "dotfiles" (except most don't even have dots in front of them). Not interesting, but 'kay.
@@ -2419,6 +2429,7 @@
 
 ## Others 
 
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [Programma](https://github.com/douglascrockford/Programma) - A Typeface for Programming
@@ -2657,7 +2668,6 @@
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -2701,7 +2711,7 @@
 - [dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [kitti3](https://github.com/LandingEllipse/kitti3) - Kitty drop-down service for i3wm
-- [websitechanges](https://github.com/schollz/websitechanges) - Change detection with a simple Python script to email you whenever a website changes.
+- [pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
 - [cliche](https://github.com/kootenpv/cliche) - Build a simple command-line interface from your functions :computer:
 - [nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
