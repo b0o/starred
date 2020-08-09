@@ -697,6 +697,7 @@
 
 ## Go 
 
+- [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [surfsticker](https://github.com/alrs/surfsticker) - Manage sticky suckless surf windows.
 - [thdwb](https://github.com/danfragoso/thdwb) - 🌭 The hotdog web browser and browser engine 🌭
 - [phash](https://github.com/carlogit/phash) - A simple Go Library to calculate a phash string for a JPEG image.
@@ -1084,7 +1085,7 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
@@ -1541,6 +1542,7 @@
 
 ## Haskell 
 
+- [miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
 - [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [shake](https://github.com/ndmitchell/shake) - Shake build system
@@ -1651,6 +1653,7 @@
 
 ## JavaScript 
 
+- [tour_of_nix](https://github.com/nixcloud/tour_of_nix) - Sourcecode to the https://nixcloud.io/tour/ 'a tour of nix'
 - [md-insert](https://github.com/goto-bus-stop/md-insert) - insert content under a markdown header or into a comment delimited region
 - [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
@@ -2429,6 +2432,7 @@
 
 ## Others 
 
+- [code](https://github.com/nikitavoloboev/code) - Snippets of code
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
