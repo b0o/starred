@@ -382,6 +382,7 @@
 - [qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [HElib](https://github.com/homenc/HElib) - An Implementation of homomorphic encryption
+- [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
@@ -1654,6 +1655,7 @@
 
 ## JavaScript 
 
+- [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [eleventy-garden](https://github.com/b3u/eleventy-garden) - :seedling: A starter site for building a mind garden in eleventy.
 - [tour_of_nix](https://github.com/nixcloud/tour_of_nix) - Sourcecode to the https://nixcloud.io/tour/ 'a tour of nix'
@@ -2388,7 +2390,7 @@
 - [eff](https://github.com/matijapretnar/eff) - A functional programming language based on algebraic effect handlers
 - [boomerang](https://github.com/boomerang-lang/boomerang) - The Boomerang Bidirectional Programming Language
 - [unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
-- [bucklescript](https://github.com/BuckleScript/bucklescript) - A backend for the OCaml compiler which emits JavaScript.
+- [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A backend for the OCaml compiler which emits JavaScript.
 - [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [utop](https://github.com/ocaml-community/utop) - Universal toplevel for OCaml
 - [merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
@@ -2403,7 +2405,6 @@
 
 ## Objective-C 
 
-- [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
@@ -2630,6 +2631,7 @@
 
 ## Python 
 
+- [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
 - [chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [BlockView](https://github.com/lukabuz/BlockView) - A python script that can be used to track transactions on the bitcoin blockchain
@@ -2843,7 +2845,7 @@
 - [AttnGAN](https://github.com/taoxugit/AttnGAN) - 
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
-- [Clairvoyant](https://github.com/anfederico/Clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
+- [clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
 - [pyewmh](https://github.com/parkouss/pyewmh) - An implementation of EWMH (Extended Window Manager Hints) for python, based on Xlib.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
@@ -3053,7 +3055,7 @@
 - [runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
 - [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [emigui](https://github.com/emilk/emigui) - egui: Immediate mode GUI written in Rust, made for WASM
+- [egui](https://github.com/emilk/egui) - egui: Immediate mode GUI written in Rust, made for WASM
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
@@ -3769,7 +3771,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
