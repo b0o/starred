@@ -708,7 +708,7 @@
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S support. It can serve local filesystem, S3, GCS
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, GCS
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [go-signalcontext](https://github.com/sethvargo/go-signalcontext) - Create Go contexts that cancel on signals.
@@ -1087,7 +1087,7 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
@@ -1702,7 +1702,7 @@
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure from Motion pipeline
+- [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - The all-in-one app template for Snowpack. 👉 https://github.com/pikapkg/snowpack/tree/master/packages/create-snowpack-app
@@ -1789,7 +1789,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. No bundler needed ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - Bob is a GUI for DNS Record Management and Name Auctions on Handshake.  It includes an integrated full node: hsd.
@@ -2390,7 +2390,7 @@
 - [eff](https://github.com/matijapretnar/eff) - A functional programming language based on algebraic effect handlers
 - [boomerang](https://github.com/boomerang-lang/boomerang) - The Boomerang Bidirectional Programming Language
 - [unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
-- [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A backend for the OCaml compiler which emits JavaScript.
+- [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [utop](https://github.com/ocaml-community/utop) - Universal toplevel for OCaml
 - [merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
@@ -3349,7 +3349,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
 - [TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
-- [fisher](https://github.com/jorgebucaran/fisher) - Insanely fast plugin manager for fish.
+- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish—the friendly interactive shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
