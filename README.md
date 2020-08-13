@@ -384,7 +384,7 @@
 - [HElib](https://github.com/homenc/HElib) - An Implementation of homomorphic encryption
 - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [STT](https://github.com/mozilla/STT) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
@@ -698,6 +698,8 @@
 
 ## Go 
 
+- [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [surfsticker](https://github.com/alrs/surfsticker) - Manage sticky suckless surf windows.
@@ -1655,6 +1657,7 @@
 
 ## JavaScript 
 
+- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [eleventy-garden](https://github.com/b3u/eleventy-garden) - :seedling: A starter site for building a mind garden in eleventy.
@@ -1808,7 +1811,7 @@
 - [ipfs-drive](https://github.com/fazo96/ipfs-drive) - in browser file manager for IPFS
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [Reconstructive](https://github.com/oduwsdl/Reconstructive) - A ServiceWorker for client-side reconstruction of composite mementos
-- [dtube](https://github.com/dtube/dtube) - :tv: DTube App
+- [dtube](https://github.com/dtube/dtube) - :tv: d.tube app. A full-featured video sharing website, decentralized.
 - [libdweb](https://github.com/mozilla/libdweb) - Extension containing an experimental libdweb APIs
 - [Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
 - [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
@@ -2150,7 +2153,7 @@
 - [teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [teletype-client](https://github.com/atom/teletype-client) - Editor-agnostic library managing client interaction for peer-to-peer collaborative editing in Teletype for Atom
 - [teletype-crdt](https://github.com/atom/teletype-crdt) - String-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom.
-- [xmlview](https://github.com/sergeche/xmlview) - Powerful XML viewer for Google Chrome and Safari
+- [xmlview](https://github.com/Samirla/xmlview) - Powerful XML viewer for Google Chrome and Safari
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
@@ -2877,7 +2880,7 @@
 - [T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [amazon-polly-sample](https://github.com/amazon-archives/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
 - [data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python.
 - [virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -3032,6 +3035,7 @@
 
 ## Rust 
 
+- [rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
 - [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -3539,6 +3543,8 @@
 
 ## Vim script 
 
+- [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
+- [wilder.nvim](https://github.com/gelguy/wilder.nvim) - 🏕️ A more adventurous wildmenu
 - [vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
 - [reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
 - [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Highlights
