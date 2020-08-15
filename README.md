@@ -698,6 +698,7 @@
 
 ## Go 
 
+- [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
@@ -1660,7 +1661,7 @@
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
-- [eleventy-garden](https://github.com/b3u/eleventy-garden) - :seedling: A starter site for building a mind garden in eleventy.
+- [eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden in eleventy.
 - [tour_of_nix](https://github.com/nixcloud/tour_of_nix) - Sourcecode to the https://nixcloud.io/tour/ 'a tour of nix'
 - [md-insert](https://github.com/goto-bus-stop/md-insert) - insert content under a markdown header or into a comment delimited region
 - [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
@@ -2879,7 +2880,7 @@
 - [T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
-- [httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [amazon-polly-sample](https://github.com/amazon-archives/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
 - [data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python.
 - [virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -3400,6 +3401,7 @@
 
 ## TypeScript 
 
+- [polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
