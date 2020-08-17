@@ -698,6 +698,9 @@
 
 ## Go 
 
+- [gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
+- [tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
+- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go
@@ -1503,7 +1506,7 @@
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [proposal-item-method](https://github.com/tc39/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 580 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
@@ -3778,7 +3781,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://hoppscotch.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
