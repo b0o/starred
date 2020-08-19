@@ -1662,6 +1662,7 @@
 
 ## JavaScript 
 
+- [removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
@@ -2288,7 +2289,7 @@
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
 - [ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
-- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - Nix:snowflake: redefines dotfiles. home-manager+xmonad+neovim:yellow_heart:
+- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files. much better than traditional dotfiles
 - [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
@@ -2637,6 +2638,7 @@
 
 ## Python 
 
+- [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
 - [chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
