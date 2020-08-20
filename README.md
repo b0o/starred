@@ -1094,10 +1094,10 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. MVC, gRPC gateway, unique router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
-- [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
+- [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader
@@ -1666,7 +1666,7 @@
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
-- [eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden in eleventy.
+- [eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [tour_of_nix](https://github.com/nixcloud/tour_of_nix) - Sourcecode to the https://nixcloud.io/tour/ 'a tour of nix'
 - [md-insert](https://github.com/goto-bus-stop/md-insert) - insert content under a markdown header or into a comment delimited region
 - [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
