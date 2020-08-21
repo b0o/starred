@@ -116,7 +116,7 @@
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
 - [tpm-luks](https://github.com/shpedoikal/tpm-luks) - LUKS support for storing keys in TPM NVRAM
-- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
+- [MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
 - [font-chef](https://github.com/mobius3/font-chef) - A font cooking library
 - [Viewnior](https://github.com/hellosiyan/Viewnior) - Elegant Image Viewer
 - [scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
@@ -1547,7 +1547,6 @@
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
-- [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 
 ## Haskell 
 
@@ -2195,6 +2194,7 @@
 - [openscope](https://github.com/openscope/openscope) - openScope Air Traffic Control Simulator
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [place-atlas](https://github.com/RolandR/place-atlas) - The /r/place Atlas is a project aiming to catalog all the artworks created during Reddit's /r/place event.
+- [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
 - [craigslist-watcher](https://github.com/thehodapp/craigslist-watcher) - A way to keep track of new Craigslist postings without ever having to check Craigslist manually
 - [TorrenTV](https://github.com/guerrerocarlos/TorrenTV) - TorrenTV node-webkit source code
@@ -2289,7 +2289,7 @@
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
 - [ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
-- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files. much better than traditional dotfiles
+- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files Nix redefines dotfiles
 - [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
