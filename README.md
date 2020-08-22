@@ -1661,6 +1661,7 @@
 
 ## JavaScript 
 
+- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
@@ -3405,6 +3406,8 @@
 
 ## TypeScript 
 
+- [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
+- [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 - [polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
@@ -3579,7 +3582,7 @@
 - [neuron.vim](https://github.com/ihsanturk/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
-- [configfiles](https://github.com/stapelberg/configfiles) - dotfiles
+- [configfiles](https://github.com/stapelberg/configfiles) - My own personal collection of configfiles. Copy bits and pieces at your own risk.
 - [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [vim-mermaid](https://github.com/chazmcgarvey/vim-mermaid) - Vim syntax for Mermaid diagrams
 - [vim-ingo-library](https://github.com/inkarkat/vim-ingo-library) - Vimscript library of common functions
