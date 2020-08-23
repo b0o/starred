@@ -382,7 +382,7 @@
 - [VirtualKeyboard](https://github.com/AlterX76/VirtualKeyboard) - A virtual keyboard for Qt touch-screen application (donate to support the project)
 - [qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-- [HElib](https://github.com/homenc/HElib) - An Implementation of homomorphic encryption
+- [HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.
 - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [STT](https://github.com/mozilla/STT) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -2290,7 +2290,7 @@
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
 - [ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
-- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files Nix redefines dotfiles
+- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files. Nix redefines dotfiles
 - [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
@@ -2774,7 +2774,7 @@
 - [ReAgent](https://github.com/facebookresearch/ReAgent) - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
 - [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.30, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
