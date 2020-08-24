@@ -368,6 +368,7 @@
 
 ## C++ 
 
+- [angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller
 - [pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
 - [LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
@@ -1094,7 +1095,7 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. MVC, gRPC gateway, unique router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Serverless, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
@@ -2764,7 +2765,7 @@
 - [listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project
 - [weneeda.name](https://github.com/evilham/weneeda.name) - 
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
-- [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+- [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
