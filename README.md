@@ -1393,7 +1393,7 @@
 - [reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
 - [marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [lore](https://github.com/abrahambotros/lore) - Light Object-Relational Environment (LORE) provides a simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go
-- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [go-queryset](https://github.com/jirfag/go-queryset) - 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood.
 - [mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better.
@@ -1472,7 +1472,7 @@
 - [sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [cf-mysql-benchmark-app](https://github.com/cloudfoundry-incubator/cf-mysql-benchmark-app) - A CF app used to perform benchmarking against the cf-mysql system
+- [cf-mysql-benchmark-app](https://github.com/cloudfoundry-attic/cf-mysql-benchmark-app) - A CF app used to perform benchmarking against the cf-mysql system
 - [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
 - [go-search](https://github.com/tj/go-search) - Search Godoc.org via the command-line.
@@ -3405,6 +3405,7 @@
 
 ## TypeScript 
 
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 - [polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
