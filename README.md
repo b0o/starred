@@ -389,7 +389,7 @@
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
-- [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [netevent](https://github.com/Blub/netevent) - Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
@@ -944,7 +944,7 @@
 - [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code
 - [sqlkit](https://github.com/colinjfw/sqlkit) - SQL builder and powerful database toolkit for Golang
-- [db](https://github.com/upper/db) - Data access layer for PostgreSQL, MySQL, SQLite and MongoDB.
+- [db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [ale](https://github.com/kode4food/ale) - Ale is a Lisp Environment
@@ -2980,7 +2980,7 @@
 
 ## Reason 
 
-- [reasonml.org](https://github.com/reason-association/reasonml.org) - WIP Reason / BuckleScript documentation platform with intelligent design and UX
+- [reasonml.org](https://github.com/reason-association/reasonml.org) - Deprecated in favor of rescript-lang.org
 - [reanalyze](https://github.com/reason-association/reanalyze) - Experimental analyses for OCaml/Reason: for globally dead values/types, exception analysis, and termination analysis.
 - [morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
