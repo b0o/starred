@@ -486,7 +486,7 @@
 - [inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
 - [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [BucketCompressionTrick](https://github.com/isometric/BucketCompressionTrick) - Cool trick to store 4 5-bit values in one 16-bit value.
-- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
+- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
@@ -1420,7 +1420,7 @@
 - [gocov](https://github.com/axw/gocov) - Coverage testing tool for The Go Programming Language
 - [gocov-html](https://github.com/matm/gocov-html) - Produces HTML output from gocov, a coverage testing tool for the Go programming language
 - [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
-- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
+- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [2017-talks](https://github.com/gophercon/2017-talks) - Slides and links for 2017 talks
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager written in Go.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -2638,6 +2638,7 @@
 
 ## Python 
 
+- [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
@@ -3382,6 +3383,7 @@
 
 ## Swift 
 
+- [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
 - [lockdown-ios](https://github.com/confirmedcode/lockdown-ios) - 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Allows users to pull in new song releases from their favorite artists and provides users with important metrics like their top tracks, top artists, and recently played tracks, queryable by time range.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
