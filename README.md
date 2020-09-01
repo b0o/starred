@@ -513,7 +513,7 @@
 - [timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 - [godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine - yet another open source game engine
+- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine
 - [IKEA-Hackant](https://github.com/robin7331/IKEA-Hackant) - 
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
@@ -2808,7 +2808,7 @@
 - [snowsaw](https://github.com/arcticicestudio/snowsaw) - A lightweight, plugin-driven and dynamic dotfiles bootstrapper.
 - [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [wikiquote-fortune](https://github.com/maandree/wikiquote-fortune) - Generate fortune cookies from Wikiquote
+- [wikiquote-fortune](https://github.com/maandree/wikiquote-fortune) - Generate fortune cookies from Wikiquote — NO LONGER MAINTAINED
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [OnDemandMinecraft](https://github.com/trevor-laher/OnDemandMinecraft) - An AWS hosted Minecraft server that will only run when players are active. Players can start the server through a simple UI accessed through free Heroku server hosting.
@@ -2920,7 +2920,7 @@
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [gitsuggest](https://github.com/csurfer/gitsuggest) - A tool to suggest github repositories based on the repositories you have shown interest in.
 - [ambient-shipping](https://github.com/marcdacosta/ambient-shipping) - This repo contains utilities for capturing AIS messages and joining them with shipping records.
-- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
+- [searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [Bungee](https://github.com/djrrb/Bungee) - A chromatic signage typeface for vertical and horizontal setting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
@@ -3536,7 +3536,7 @@
 ## V 
 
 - [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
+- [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 
 ## Vala 
 
