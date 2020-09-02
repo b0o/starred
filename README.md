@@ -1343,7 +1343,6 @@
 - [ego](https://github.com/benbjohnson/ego) - An ERB-style templating language for Go.
 - [goTemplateBenchmark](https://github.com/SlinSo/goTemplateBenchmark) - comparing the performance of different template engines
 - [gofresh](https://github.com/divan/gofresh) - Keep your Go package dependencies fresh. Console tool for checking and updating package dependencies (imports).
-- [apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -1508,7 +1507,7 @@
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [proposal-item-method](https://github.com/tc39/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 650 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
