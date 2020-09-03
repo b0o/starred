@@ -854,7 +854,7 @@
 - [emoji](https://github.com/enescakir/emoji) - A minimalistic emoji package for Go (golang)
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
-- [go-ext-wasm](https://github.com/wasmerio/go-ext-wasm) - 🐹🕸️ Go library to run WebAssembly binaries.
+- [wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
 - [shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
@@ -1645,7 +1645,7 @@
 - [runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
 - [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
-- [sirix](https://github.com/sirixdb/sirix) - SirixDB facilitates effective and efficient storing and querying of your temporal data. Every commit stores a space-efficient snapshot. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach called sliding snapshot.
+- [sirix](https://github.com/sirixdb/sirix) - SirixDB is a temporal, evolutionary database system, which uses an accumulate only approach. It keeps the full history of each resource. Every commit stores a space-efficient snapshot through structural sharing. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach called sliding snapshot.
 - [notelab](https://github.com/DominicKramer/notelab) - 
 - [beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -2907,7 +2907,7 @@
 - [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running. Based on CMatrix.
 - [tarsnapper](https://github.com/miracle2k/tarsnapper) - tarsnap wrapper which expires backups using a gfs-scheme.
 - [bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
-- [offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes
+- [offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes (python2)
 - [vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [mailur](https://github.com/naspeh/mailur) - Lightweight webmail inspired by Gmail
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
