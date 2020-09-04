@@ -385,7 +385,7 @@
 - [libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.
 - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
-- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
@@ -1507,7 +1507,7 @@
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [proposal-item-method](https://github.com/tc39/proposal-item-method) - A TC39 proposal to add a .item() method to all the basic indexable classes (Array, String, TypedArray)
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 650 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
@@ -1580,6 +1580,7 @@
 - [xmonad-javran](https://github.com/Javran/xmonad-javran) - Javran's xmonad config
 - [xmonad-entryhelper](https://github.com/Javran/xmonad-entryhelper) - xmonad-entryhelper makes your compiled XMonad config a standalone binary.
 - [dotfiles-alice](https://github.com/MrElendig/dotfiles-alice) - dotfiles from the 'Alice' box
+- [dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
 - [linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [radicle](https://github.com/radicle-dev/radicle) - A peer-to-peer stack for code collaboration
 - [xmonad-contrib](https://github.com/xmonad/xmonad-contrib) - Contributed modules for xmonad
@@ -1713,7 +1714,7 @@
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - The all-in-one app template for Snowpack. 👉 https://github.com/pikapkg/snowpack/tree/master/packages/create-snowpack-app
+- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) - The all-in-one app template for Snowpack. 👉 https://github.com/pikapkg/snowpack/tree/master/create-snowpack-app
 - [squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
 - [Reedy-for-Chrome](https://github.com/olegcherr/Reedy-for-Chrome) - Read all you want faster with Reedy for Google Chrome!
@@ -2896,7 +2897,7 @@
 - [svg2notability](https://github.com/jvns/svg2notability) - convert from svg to notability format
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
 - [gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
-- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
+- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language.
@@ -3282,7 +3283,6 @@
 - [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source operating system from Apple that forms the basis for OS X, and PureDarwin is a community project to make Darwin more usable. See the Wiki for more information.
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
-- [dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
 - [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [zsh-hooks](https://github.com/willghatch/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
