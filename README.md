@@ -1550,6 +1550,7 @@
 
 ## Haskell 
 
+- [vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
 - [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
@@ -2808,7 +2809,7 @@
 - [snowsaw](https://github.com/arcticicestudio/snowsaw) - A lightweight, plugin-driven and dynamic dotfiles bootstrapper.
 - [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [wikiquote-fortune](https://github.com/maandree/wikiquote-fortune) - Generate fortune cookies from Wikiquote — NO LONGER MAINTAINED
+- [wikiquote-fortune](https://github.com/maandree/wikiquote-fortune) - [UNMAINTAINED] Generate fortune cookies from Wikiquote
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [OnDemandMinecraft](https://github.com/trevor-laher/OnDemandMinecraft) - An AWS hosted Minecraft server that will only run when players are active. Players can start the server through a simple UI accessed through free Heroku server hosting.
@@ -3271,7 +3272,7 @@
 - [linux-amd-staging-drm-next-git](https://github.com/yurikoles-aur/linux-amd-staging-drm-next-git) - Package for Arch AUR
 - [cmdarg](https://github.com/akesterson/cmdarg) - A bash library to make argument parsing far less troublesome
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
-- [wikiquote-fortune-collection](https://github.com/maandree/wikiquote-fortune-collection) - Collection of fortune cookies from Wikiquote
+- [wikiquote-fortune-collection](https://github.com/maandree/wikiquote-fortune-collection) - [UNMAINTAINED] Collection of fortune cookies from Wikiquote
 - [aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
 - [i3blocks-status](https://github.com/gportay/i3blocks-status) - 
