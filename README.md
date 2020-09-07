@@ -730,7 +730,7 @@
 - [dns](https://github.com/miekg/dns) - DNS library in Go
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
-- [garble](https://github.com/mvdan/garble) - Obfuscate Go builds
+- [garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
@@ -1705,7 +1705,6 @@
 - [textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [reasonml.github.io](https://github.com/kyldvs/reasonml.github.io) - Reason's documentation site
@@ -2639,6 +2638,7 @@
 
 ## Python 
 
+- [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
@@ -3424,6 +3424,7 @@
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
 - [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+- [24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [hn-search](https://github.com/algolia/hn-search) - Hacker News Search
