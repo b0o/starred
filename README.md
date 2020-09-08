@@ -2221,6 +2221,7 @@
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
+- [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
 - [speed_mystery](https://github.com/panicinc/speed_mystery) - Data collected to investigate why Comcast customers have slow downloads from our site
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
@@ -2290,7 +2291,7 @@
 - [nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
 - [ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
 - [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files. Nix redefines dotfiles
-- [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
+- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
 - [dotfiles](https://github.com/jD91mZM2/dotfiles) - Literally just my "dotfiles" (except most don't even have dots in front of them). Not interesting, but 'kay.
@@ -2847,7 +2848,6 @@
 - [sound2twitter](https://github.com/foone/sound2twitter) - Converts sound files to mp4s for twitter upload
 - [gitfollow](https://github.com/sepandhaghighi/gitfollow) - Github follower and following
 - [stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
-- [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [zero](https://github.com/KonstantinSchubert/zero) - Local file system transparently swapping to the cloud
