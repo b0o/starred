@@ -108,6 +108,7 @@
 
 ## C 
 
+- [usbreset](https://github.com/jkulesza/usbreset) - 
 - [paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
 - [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [swvkc](https://github.com/st3r4g/swvkc) - experimental Wayland Vulkan compositor
@@ -584,7 +585,7 @@
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
-- [crux](https://github.com/juxt/crux) - Immutable database for bitemporal graph queries
+- [crux](https://github.com/juxt/crux) - General purpose database for bitemporal SQL & graph queries
 - [spec.alpha](https://github.com/clojure/spec.alpha) - 
 - [scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
 - [re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -700,6 +701,7 @@
 
 ## Go 
 
+- [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
 - [tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
@@ -3177,6 +3179,7 @@
 
 ## Shell 
 
+- [shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [tutorial](https://github.com/shellfire-dev/tutorial) - tutorial for shellfire
 - [coral](https://github.com/alganet/coral) - NOTE: This is a prototype, largely incomplete
