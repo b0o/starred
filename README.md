@@ -151,6 +151,7 @@
 - [labwc](https://github.com/johanmalm/labwc) - Openbox alternative for Wayland
 - [IRTool](https://github.com/jglim/IRTool) - Use your Gameboy Color to control National air-conditioners!
 - [BlenderSource](https://github.com/CreativeDesigner3D/BlenderSource) - This is my modified version of Blenders Source Code. Mainly used for testing and trying out new ideas
+- [pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
 - [recode](https://github.com/rrthomas/recode) - Charset converter tool and library
 - [slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
@@ -1408,7 +1409,7 @@
 - [goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [check](https://github.com/go-check/check) - Rich testing for the Go language
 - [dbcleaner](https://github.com/khaiql/dbcleaner) - Clean database for testing, inspired by database_cleaner for Ruby
-- [go-git](https://github.com/src-d/go-git) - Projects has been moved to:
+- [go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [lua](https://github.com/milochristiansen/lua) - A Lua 5.3 VM and compiler written in Go.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change
@@ -1696,7 +1697,7 @@
 - [jsonbase](https://github.com/Devs-Garden/jsonbase) - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.
 - [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A Github action to read and get data from the CHANGELOG.md file 🚀
 - [jsqry](https://github.com/jsqry/jsqry) - Simple lib to query js objects/arrays
-- [jsqry-cli](https://github.com/jsqry/jsqry-cli) - [DEPRECATED] Command-line jsqry (like jq)
+- [jsqry-cli](https://github.com/jsqry/jsqry-cli) - ❗️DEPRECATED❗️ Command-line jsqry (like jq)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [static-params](https://github.com/WebReflection/static-params) - A general purpose utility to allow interpolation values as static parts of a template literal tag.
 - [iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
@@ -2292,7 +2293,7 @@
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
 - [ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
-- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files. Nix redefines dotfiles
+- [nixconfig](https://github.com/btwiusegentoo/nixconfig) - NixOS❄ config files.
 - [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
 - [laurn](https://github.com/baloo/laurn) - Dev environment isolation
@@ -2439,6 +2440,7 @@
 
 ## OpenSCAD 
 
+- [analog-terminal-bell](https://github.com/tenderlove/analog-terminal-bell) - A bell for your terminal that is analog
 - [SensorBox](https://github.com/DaveDavenport/SensorBox) - 3D printable box for sensors,   sensor compartment, battery compartment en electronics.
 - [KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard
@@ -3227,7 +3229,6 @@
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - Stupid AI
 - [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
-- [pacwall](https://github.com/Kharacternyk/pacwall) - A dependency graph of installed packages wallpaper creator.
 - [dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [hostsctl](https://github.com/pigmonkey/hostsctl) - 🙈 Control your /etc/hosts file easily, block ads, soical networks, etc...
@@ -3564,7 +3565,7 @@
 - [wilder.nvim](https://github.com/gelguy/wilder.nvim) - 🏕️ A more adventurous wildmenu
 - [vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
 - [reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
-- [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Highlights
+- [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Text Properties
 - [vim-dasht](https://github.com/sunaku/vim-dasht) - :information_desk_person: (Neo)Vim plugin for dasht integration
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [vim-wheel](https://github.com/reedes/vim-wheel) - Screen-anchored cursor movement for Vim
