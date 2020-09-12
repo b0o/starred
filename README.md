@@ -67,6 +67,7 @@
   - [Red](#red)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -565,7 +566,6 @@
 - [vimwiki-tpl](https://github.com/lotabout/vimwiki-tpl) - template for vimwiki
 - [FluidPlug](https://github.com/falkTX/FluidPlug) - SoundFonts as LV2 plugins via FluidSynth
 - [sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
-- [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [todobackend-phoenix](https://github.com/jeffweiss/todobackend-phoenix) - Elixir/Phoenix backend to todobackend.com
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -1812,7 +1812,7 @@
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [to-google-translate](https://github.com/itsecurityco/to-google-translate) - Highlight text on a web page and send it to Google Translate
 - [botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
-- [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
+- [userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [essential-md](https://github.com/WebReflection/essential-md) - An essential markdown-like utility for console logs
 - [netcapsule](https://github.com/oldweb-today/netcapsule) - Browse old web pages the old way with virtual browsers in the browser
 - [ipfs-drive](https://github.com/fazo96/ipfs-drive) - in browser file manager for IPFS
@@ -2643,6 +2643,7 @@
 
 ## Python 
 
+- [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression
 - [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
@@ -3166,6 +3167,10 @@
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
 - [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
+
+## SCSS 
+
+- [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
 ## Scala 
 
