@@ -55,6 +55,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
+  - [Processing](#processing)
   - [Prolog](#prolog)
   - [PureBasic](#purebasic)
   - [PureScript](#purescript)
@@ -2628,6 +2629,10 @@
 - [btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
 
+## Processing 
+
+- [GOES_downloader](https://github.com/benkrasnow/GOES_downloader) - Processing.org script to download GOES images
+
 ## Prolog 
 
 - [datalog](https://github.com/c-cube/datalog) - An in-memory datalog implementation for OCaml.
@@ -3743,7 +3748,7 @@
 - [yajs.vim](https://github.com/othree/yajs.vim) - YAJS.vim: Yet Another JavaScript Syntax for Vim
 - [neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
-- [tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope
+- [tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [split-term.vim](https://github.com/vimlab/split-term.vim) - Utilites around neovim's `:terminal`.
 - [undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 - [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
