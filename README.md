@@ -372,6 +372,7 @@
 
 ## C++ 
 
+- [makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.
 - [angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller
 - [pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
 - [LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
@@ -473,6 +474,7 @@
 - [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 - [cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [RoboTank](https://github.com/SensorsIot/RoboTank) - 
+- [Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [Teensyduino_Examples](https://github.com/PaulStoffregen/Teensyduino_Examples) - Examples for Teensyduino, installed into Arduino's File &gt; Examples &gt; Teensy menu
 - [haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
@@ -529,7 +531,6 @@
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
-- [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
@@ -2648,7 +2649,7 @@
 
 ## Python 
 
-- [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression
+- [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
 - [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
@@ -2883,7 +2884,6 @@
 - [deoppet.nvim](https://github.com/Shougo/deoppet.nvim) - The dark powered snippet plugin for neovim
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
@@ -3175,6 +3175,7 @@
 
 ## SCSS 
 
+- [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
 ## Scala 
@@ -3459,7 +3460,7 @@
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
