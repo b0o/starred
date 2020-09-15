@@ -10,6 +10,7 @@
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [Awk](#awk)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -107,6 +108,10 @@
 ## Awk 
 
 - [shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
+
+## Blade 
+
+- [livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
 ## C 
 
@@ -1668,6 +1673,9 @@
 
 ## JavaScript 
 
+- [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
+- [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1697,7 +1705,7 @@
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling
 - [jsonbase](https://github.com/Devs-Garden/jsonbase) - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.
-- [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A Github action to read and get data from the CHANGELOG.md file 🚀
+- [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A GitHub action to read and get data from the CHANGELOG.md file 🚀
 - [jsqry](https://github.com/jsqry/jsqry) - Simple lib to query js objects/arrays
 - [jsqry-cli](https://github.com/jsqry/jsqry-cli) - ❗️DEPRECATED❗️ Command-line jsqry (like jq)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
@@ -2601,7 +2609,6 @@
 - [asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
 - [passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
 - [phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
-- [livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [jqaas](https://github.com/captn3m0/jqaas) - jq as a service
 - [snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
@@ -2992,6 +2999,7 @@
 
 ## Reason 
 
+- [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
 - [reasonml.org](https://github.com/reason-association/reasonml.org) - Deprecated in favor of rescript-lang.org
 - [reanalyze](https://github.com/reason-association/reanalyze) - Experimental analyses for OCaml/Reason: for globally dead values/types, exception analysis, and termination analysis.
 - [morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
