@@ -674,6 +674,7 @@
 ## Elm 
 
 - [nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
+- [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [core](https://github.com/elm/core) - Elm's core libraries
 - [elm-todomvc](https://github.com/evancz/elm-todomvc) - The TodoMVC app written in Elm, nice example for beginners.
 
@@ -947,7 +948,7 @@
 - [faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ
 - [jqplay](https://github.com/jingweno/jqplay) - A playground for jq, written in Go
 - [tools](https://github.com/pilosa/tools) - Tools for development and ops
-- [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
+- [yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [i3-vim-nav](https://github.com/termhn/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -1506,6 +1507,7 @@
 
 - [proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [cuberule.com](https://github.com/indirect/cuberule.com) - the cube rule of food identification, explained
 - [components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
 - [webmonetization](https://github.com/WICG/webmonetization) - Proposed Web Monetization standard
@@ -1573,7 +1575,6 @@
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
-- [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
 - [api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
@@ -2668,7 +2669,6 @@
 - [futurecoder](https://github.com/alexmojaki/futurecoder) - A platform for beginners to learn programming in Python
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
-- [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [orgformat](https://github.com/novoid/orgformat) - Utility library for providing functions to generate and modify Org mode syntax elements like links, time-stamps, or date-stamps.
 - [archweb_manpages](https://github.com/lahwaacz/archweb_manpages) - Codebase for the Arch manual pages repository
 - [Zydra](https://github.com/hamedA2/Zydra) - 
@@ -3308,7 +3308,7 @@
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
 - [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
-- [zsh-hooks](https://github.com/willghatch/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
+- [zsh-hooks](https://github.com/zsh-hooks/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
