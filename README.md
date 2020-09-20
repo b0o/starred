@@ -2458,6 +2458,7 @@
 
 ## Others 
 
+- [VTM](https://github.com/netxs-group/VTM) - A Text-based Desktop Environment, aka Monotty Desktop (desktopio)
 - [code](https://github.com/nikitavoloboev/code) - Snippets of code
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
@@ -2657,6 +2658,7 @@
 
 ## Python 
 
+- [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
 - [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager
 - [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
 - [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
@@ -3061,6 +3063,7 @@
 
 ## Rust 
 
+- [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
 - [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
