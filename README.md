@@ -115,6 +115,7 @@
 
 ## C 
 
+- [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [usbreset](https://github.com/jkulesza/usbreset) - 
 - [paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
 - [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
@@ -593,7 +594,7 @@
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
-- [crux](https://github.com/juxt/crux) - General purpose database for bitemporal SQL & graph queries
+- [crux](https://github.com/juxt/crux) - General purpose bitemporal database for SQL, Datalog & graph queries
 - [spec.alpha](https://github.com/clojure/spec.alpha) - 
 - [scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
 - [re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -1672,6 +1673,7 @@
 
 ## JavaScript 
 
+- [hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
 - [28-hour-day](https://github.com/turbomaze/28-hour-day) - Quick calculator to experiment with a 28 hour day.
 - [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -2251,6 +2253,7 @@
 
 ## Lua 
 
+- [telescope.nvim](https://github.com/nvim-lua/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -3401,7 +3404,7 @@
 - [refind-dreary](https://github.com/dheishman/refind-dreary) - A gloomy rEFInd theme based on evanpurkhiser/rEFInd-minimal and lukechilds/refind-ambience
 - [tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
-- [Dockerized-DBpedia](https://github.com/dbpedia/Dockerized-DBpedia) - creates a docker image with Virtuoso preloaded with the latest DBpedia dataset
+- [virtuoso-sparql-endpoint-quickstart](https://github.com/dbpedia/virtuoso-sparql-endpoint-quickstart) - creates a docker image with Virtuoso preloaded with the latest DBpedia dataset
 - [macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
 - [shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
 
