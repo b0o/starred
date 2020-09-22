@@ -285,7 +285,7 @@
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to standard output for further processing.
+- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from stdin or a file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to stdout for further processing.
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -1793,7 +1793,7 @@
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://NodeCLI.com
 - [apps-script-samples](https://github.com/gsuitedevs/apps-script-samples) - Apps Script samples for G Suite products.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 750 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -2226,7 +2226,7 @@
 
 ## Julia 
 
-- [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
+- [julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [diff-zoo](https://github.com/MikeInnes/diff-zoo) - Differentiation for Hackers
 
 ## Jupyter Notebook 
@@ -2286,7 +2286,7 @@
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
-- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
+- [webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [godoc-docker](https://github.com/graveyard/godoc-docker) - Docker image holding a standalone godoc server
 - [mandb-ondemand](https://github.com/graysky2/mandb-ondemand) - Rebuilds the manpage index database on-demand to speed-up pacman operations.
@@ -3249,7 +3249,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - :robot:Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
