@@ -1677,7 +1677,7 @@
 - [28-hour-day](https://github.com/turbomaze/28-hour-day) - Quick calculator to experiment with a 28 hour day.
 - [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -3247,9 +3247,8 @@
 - [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [sgrtab](https://github.com/avih/sgrtab) - Display standard/custom table of SGR combinations (terminal colors)
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [dotfiles](https://github.com/jesprr/dotfiles) - 🍀 Arch Linux [bspwm, polybar, rofi, alacritty, zathura]
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - :robot:Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. 🤖 Asynchronous find-as-you-type autocompletion.
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
