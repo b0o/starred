@@ -2282,6 +2282,7 @@
 
 ## Makefile 
 
+- [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [tu-bylaws](https://github.com/archlinux/tu-bylaws) - The bylaws which govern the Arch Linux Trusted Users (read-only mirror)
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -2662,7 +2663,7 @@
 ## Python 
 
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
-- [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager
+- [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
 - [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
@@ -2852,7 +2853,7 @@
 - [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A better rclonesync baseline.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
 - [dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
-- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
+- [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [api](https://github.com/pushshift/api) - Pushshift API
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
@@ -3208,6 +3209,8 @@
 
 ## Shell 
 
+- [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
+- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 - [shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [tutorial](https://github.com/shellfire-dev/tutorial) - tutorial for shellfire
@@ -3414,7 +3417,7 @@
 ## Swift 
 
 - [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
-- [lockdown-ios](https://github.com/confirmedcode/lockdown-ios) - 
+- [Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) - 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Allows users to pull in new song releases from their favorite artists and provides users with important metrics like their top tracks, top artists, and recently played tracks, queryable by time range.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [Contactor](https://github.com/kettle/Contactor) - Manage contacts from the command line via the macOS Contacts framework.
@@ -3437,6 +3440,7 @@
 
 ## TypeScript 
 
+- [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
@@ -3722,7 +3726,7 @@
 - [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [neco-vim](https://github.com/Shougo/neco-vim) - The vim source for neocomplete/deoplete
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - The one and only
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - 
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
