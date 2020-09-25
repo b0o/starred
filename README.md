@@ -899,7 +899,7 @@
 - [sandy](https://github.com/hobochild/sandy) - A tiny "sandbox" to run untrusted code 🏖️
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
-- [dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data
+- [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
 - [service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 - [xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing xor filters
@@ -1506,6 +1506,7 @@
 
 ## HTML 
 
+- [proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
 - [proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [cuberule.com](https://github.com/indirect/cuberule.com) - the cube rule of food identification, explained
