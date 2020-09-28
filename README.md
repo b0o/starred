@@ -359,6 +359,7 @@
 
 ## C# # 
 
+- [UniversalSplitScreen](https://github.com/UniversalSplitScreen/UniversalSplitScreen) - Split screen multiplayer for any game with multiple keyboards, mice and controllers.
 - [mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
@@ -1673,6 +1674,7 @@
 
 ## JavaScript 
 
+- [keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
 - [28-hour-day](https://github.com/turbomaze/28-hour-day) - Quick calculator to experiment with a 28 hour day.
 - [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
