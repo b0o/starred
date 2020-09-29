@@ -659,6 +659,7 @@
 
 ## Elixir 
 
+- [mjpeg](https://github.com/lawik/mjpeg) - A simple example of how you can do MJPEG in Elixir
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [dress](https://github.com/veelenga/dress) - :dress: Dress up your stdout
@@ -711,6 +712,7 @@
 
 ## Go 
 
+- [dictmaker](https://github.com/knadh/dictmaker) - A stand-alone server for building and publishing dictionary websites. Single binary Go application.
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
@@ -1507,6 +1509,7 @@
 
 ## HTML 
 
+- [split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
 - [proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -1668,12 +1671,12 @@
 - [soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
 - [btrbck](https://github.com/ruediste/btrbck) - Backup tool leveraging BTRFS for incremental backups
 - [bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [eucalyptus](https://github.com/eucalyptus/eucalyptus) - Eucalyptus Cloud-computing Platform
 - [nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
 
 ## JavaScript 
 
+- [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
 - [28-hour-day](https://github.com/turbomaze/28-hour-day) - Quick calculator to experiment with a 28 hour day.
@@ -1982,7 +1985,6 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [docs](https://github.com/monzo/docs) - Public API documentation
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [fourth-wall](https://github.com/alphagov/fourth-wall) - Pull request and build status monitor
 - [Dashboard](https://github.com/marvelapp/Dashboard) - A dashboard to show what your design team is working on. Written in React.
@@ -2669,6 +2671,7 @@
 
 ## Python 
 
+- [duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
@@ -2972,6 +2975,7 @@
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [pygit](https://github.com/benhoyt/pygit) - Just enough git (written in Python) to create a repo and push to GitHub
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [deoplete-go](https://github.com/deoplete-plugins/deoplete-go) - Asynchronous Go completion for Neovim. deoplete source for Go.
 - [pgsanity](https://github.com/markdrago/pgsanity) - Check syntax of postgresql sql files
 - [runmyrobot](https://github.com/runmyrobot/runmyrobot) - Robot controller and video scripts
@@ -2995,6 +2999,7 @@
 
 ## R 
 
+- [splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
 - [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 - [wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R
@@ -3217,6 +3222,7 @@
 
 ## Shell 
 
+- [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 - [shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
@@ -3351,6 +3357,7 @@
 - [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
 - [n](https://github.com/tj/n) - Node version management
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [clang-ctags](https://github.com/drothlis/clang-ctags) - Generate tag file for C++ source code, using the clang C++ compiler's parsing libraries
 - [debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [docker-cabal-build](https://github.com/marcelhuberfoo/docker-cabal-build) - 
@@ -3500,7 +3507,7 @@
 - [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [web-ext-translator](https://github.com/Lusito/web-ext-translator) - An easy to use translation tool for web-extensions
-- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [forget-me-not](https://github.com/Lusito/forget-me-not) - Make the browser forget website data, except for the data you want to keep.
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
