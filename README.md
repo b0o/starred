@@ -712,6 +712,7 @@
 
 ## Go 
 
+- [goconst](https://github.com/jgautheron/goconst) - Find in Go repeated strings that could be replaced by a constant
 - [dictmaker](https://github.com/knadh/dictmaker) - A stand-alone server for building and publishing dictionary websites. Single binary Go application.
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
@@ -2273,7 +2274,7 @@
 - [minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [lua-resty-repl](https://github.com/saks/lua-resty-repl) - Interactive console (REPL) for Openresty and luajit code
-- [neh](https://github.com/oap-bram/neh) - The super small and simple nginx microservice/api maker!
+- [neh](https://github.com/bram-dingelstad/neh) - The super small and simple nginx microservice/api maker!
 - [orb](https://github.com/mnemnion/orb) - A metalanguage for magic spells
 - [nvim_utils](https://github.com/norcalli/nvim_utils) - 
 - [lua-sway](https://github.com/norcalli/lua-sway) - A Lua module for interfacing with sway via IPC.
@@ -3455,6 +3456,7 @@
 
 ## TypeScript 
 
+- [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
