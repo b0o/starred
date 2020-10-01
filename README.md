@@ -364,7 +364,7 @@
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
-- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
+- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [crp-parser](https://github.com/clausthaler-devel/crp-parser) - 
 - [crp-parser](https://github.com/tony56a/crp-parser) - 
@@ -712,6 +712,7 @@
 
 ## Go 
 
+- [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [goconst](https://github.com/jgautheron/goconst) - Find in Go repeated strings that could be replaced by a constant
 - [dictmaker](https://github.com/knadh/dictmaker) - A stand-alone server for building and publishing dictionary websites. Single binary Go application.
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
@@ -1808,7 +1809,7 @@
 - [real-birthday](https://github.com/Allicolyer/real-birthday) - The most accurate real birthday
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
-- [kiwix-js](https://github.com/kiwix/kiwix-js) - Offline wikipedia reader written in javascript
+- [kiwix-js](https://github.com/kiwix/kiwix-js) - Full portable & lightweight ZIM reader in Javascript
 - [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
@@ -3082,7 +3083,7 @@
 
 - [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
-- [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
+- [crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
@@ -3193,7 +3194,7 @@
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [faster](https://github.com/AdamNiederer/faster) - SIMD for humans
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -3743,7 +3744,7 @@
 - [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [neco-vim](https://github.com/Shougo/neco-vim) - The vim source for neocomplete/deoplete
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - 
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - personal dotfiles and settings
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
