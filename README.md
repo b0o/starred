@@ -306,7 +306,6 @@
 - [raw2mp4](https://github.com/realartists/raw2mp4) - 
 - [systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-- [chopsui](https://github.com/ddevault/chopsui) - An experimental UI toolkit
 - [st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
 - [fastbase64](https://github.com/lemire/fastbase64) - SIMD-accelerated base64 codecs
 - [blezz](https://github.com/Blezzing/blezz) - Keystroke Launcher
@@ -323,7 +322,6 @@
 - [sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
 - [v86d](https://github.com/mjanusz/v86d) - Userspace helper for uvesafb.
 - [streamit](https://github.com/bthies/streamit) - The StreamIt compiler infrastructure.
-- [aerc](https://github.com/ddevault/aerc) - Asynchronous email client for your terminal
 - [arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
 - [moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
@@ -1801,7 +1799,7 @@
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://NodeCLI.com
 - [apps-script-samples](https://github.com/gsuitedevs/apps-script-samples) - Apps Script samples for G Suite products.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -2826,7 +2824,6 @@
 - [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI, coming soon to Google Fonts
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
-- [pass-rotate](https://github.com/ddevault/pass-rotate) - A tool and library for rotating your password on online services
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [simple_gpu_scheduler](https://github.com/ExpectationMax/simple_gpu_scheduler) - Simple scheduler for running jobs on GPUs
 - [procedural_city_generation](https://github.com/josauder/procedural_city_generation) - Procedural City Generation program implemented in Python and Visualized with Blender.
@@ -2990,7 +2987,6 @@
 - [boodler](https://github.com/erkyrath/boodler) - A programmable soundscape tool
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
-- [evilpass](https://github.com/ddevault/evilpass) - Slightly evil password strength checker
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 
@@ -3267,7 +3263,7 @@
 - [sgrtab](https://github.com/avih/sgrtab) - Display standard/custom table of SGR combinations (terminal colors)
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. 🤖 Asynchronous find-as-you-type autocompletion.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
