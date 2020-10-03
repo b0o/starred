@@ -378,6 +378,7 @@
 
 ## C++ 
 
+- [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.
 - [angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller
 - [pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
@@ -551,7 +552,6 @@
 - [testanything.github.io](https://github.com/TestAnything/testanything.github.io) - Test anything protocol website
 - [cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [nix-pills](https://github.com/NixOS/nix-pills) - 
-- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [github-dark](https://github.com/cquanu/github-dark) - :flashlight: GitHub Dark - Browse GitHub in nighttime mode.
 - [picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
 - [json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
@@ -710,6 +710,13 @@
 
 ## Go 
 
+- [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service.
+- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
+- [miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
+- [oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
+- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [goconst](https://github.com/jgautheron/goconst) - Find in Go repeated strings that could be replaced by a constant
 - [dictmaker](https://github.com/knadh/dictmaker) - A stand-alone server for building and publishing dictionary websites. Single binary Go application.
@@ -950,7 +957,7 @@
 - [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [gg](https://github.com/MichaelTJones/gg) - gg is smart grep for Go-language source code
 - [faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ
-- [jqplay](https://github.com/jingweno/jqplay) - A playground for jq, written in Go
+- [jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
 - [tools](https://github.com/pilosa/tools) - Tools for development and ops
 - [yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [i3-vim-nav](https://github.com/termhn/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
@@ -1676,6 +1683,7 @@
 
 ## JavaScript 
 
+- [sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
@@ -1846,7 +1854,7 @@
 - [car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [22120](https://github.com/dosyago/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
+- [22120](https://github.com/cris691/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -2471,6 +2479,7 @@
 
 ## Others 
 
+- [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [VTM](https://github.com/netxs-group/VTM) - A Text-based Desktop Environment, aka Monotty Desktop (desktopio)
 - [code](https://github.com/nikitavoloboev/code) - Snippets of code
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -2493,7 +2502,7 @@
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
-- [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
 - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 - [Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
@@ -2860,6 +2869,7 @@
 - [inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A better rclonesync baseline.
+- [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
 - [dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
 - [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
@@ -2921,7 +2931,7 @@
 - [T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [amazon-polly-sample](https://github.com/amazon-archives/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
 - [data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python.
 - [virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -3077,6 +3087,7 @@
 
 ## Rust 
 
+- [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
 - [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
 - [crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
@@ -3203,6 +3214,7 @@
 ## SCSS 
 
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
+- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [gallery](https://github.com/ggplot2-exts/gallery) - Gallery of ggplot2 extensions
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
@@ -3329,7 +3341,6 @@
 - [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source operating system from Apple that forms the basis for OS X, and PureDarwin is a community project to make Darwin more usable. See the Wiki for more information.
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
-- [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [zsh-hooks](https://github.com/zsh-hooks/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
