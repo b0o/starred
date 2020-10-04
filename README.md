@@ -2680,6 +2680,7 @@
 
 ## Python 
 
+- [igel](https://github.com/nidhaloff/igel) - a machine learning tool that allows to train, test and use models without writing code
 - [duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
