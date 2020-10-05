@@ -1572,6 +1572,7 @@
 
 ## Haskell 
 
+- [lambda-diagrams](https://github.com/polux/lambda-diagrams) - Animations of lambda term reduction sequences
 - [vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
 - [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
@@ -2049,7 +2050,7 @@
 - [ramda-fantasy](https://github.com/ramda/ramda-fantasy) - :ram::sparkles: Fantasy-Land compatible types for easy integration with Ramda.js
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
-- [stylelint](https://github.com/stylelint/stylelint) - A mighty, modern style linter
+- [stylelint](https://github.com/stylelint/stylelint) - 
 - [emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
@@ -2132,7 +2133,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
