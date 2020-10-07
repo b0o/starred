@@ -2949,7 +2949,7 @@
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language.
+- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
 - [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -2982,7 +2982,7 @@
 - [resume](https://github.com/klange/resume) - The source for my CV/résumé, in LaTeX and Python scripts.
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
+- [xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
