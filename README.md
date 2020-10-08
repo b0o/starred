@@ -468,6 +468,7 @@
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
 - [botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
@@ -1674,7 +1675,6 @@
 - [beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
 - [soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
 - [btrbck](https://github.com/ruediste/btrbck) - Backup tool leveraging BTRFS for incremental backups
@@ -1684,6 +1684,7 @@
 
 ## JavaScript 
 
+- [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
@@ -3665,7 +3666,7 @@
 - [gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
 - [helpful.vim](https://github.com/tweekmonster/helpful.vim) - :notebook: Display vim version numbers in docs
-- [vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 15+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
+- [vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
 - [vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
@@ -3755,7 +3756,7 @@
 - [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [neco-vim](https://github.com/Shougo/neco-vim) - The vim source for neocomplete/deoplete
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - personal dotfiles and settings
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - configuration files for unix-like systems
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
