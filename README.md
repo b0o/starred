@@ -543,7 +543,6 @@
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 - [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
-- [website](https://github.com/ipfs/website) - IPFS project website
 - [repohealth.info](https://github.com/pelson/repohealth.info) - Service which collects indicators of a repository's health into a single report
 - [dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 - [detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
@@ -711,6 +710,7 @@
 
 ## Go 
 
+- [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
 - [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service.
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
@@ -2270,6 +2270,7 @@
 ## Less 
 
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
+- [website](https://github.com/ipfs/website) - IPFS project website
 
 ## Lua 
 
@@ -2483,6 +2484,7 @@
 
 ## Others 
 
+- [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [VTM](https://github.com/netxs-group/VTM) - A Text-based Desktop Environment, aka Monotty Desktop (desktopio)
 - [code](https://github.com/nikitavoloboev/code) - Snippets of code
@@ -2514,7 +2516,7 @@
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
-- [technology-budgeting](https://github.com/18F/technology-budgeting) - 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
+- [technology-budgeting](https://github.com/18F/technology-budgeting) - See https://derisking-guide.18f.gov/
 - [Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [my-awesome-stars](https://github.com/kmcodes/my-awesome-stars) - A curated list of my GitHub stars!
@@ -3468,7 +3470,7 @@
 
 ## TypeScript 
 
-- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
+- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
@@ -3509,7 +3511,7 @@
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
