@@ -1573,6 +1573,7 @@
 
 ## Haskell 
 
+- [learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [lambda-diagrams](https://github.com/polux/lambda-diagrams) - Animations of lambda term reduction sequences
 - [vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
