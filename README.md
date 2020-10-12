@@ -714,7 +714,6 @@
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
 - [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service.
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
 - [miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
 - [oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
@@ -1685,6 +1684,7 @@
 
 ## JavaScript 
 
+- [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
@@ -2248,6 +2248,7 @@
 
 ## Jupyter Notebook 
 
+- [tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
 - [nnsplit](https://github.com/bminixhofer/nnsplit) - Fast, robust sentence splitting with bindings for Python, Rust and Javascript.
@@ -2898,7 +2899,7 @@
 - [serial-port-sdr](https://github.com/tedyapo/serial-port-sdr) - Experimental software-defined radio using a serial port
 - [IntelTXE-PoC](https://github.com/ptresearch/IntelTXE-PoC) - Intel Management Engine JTAG Proof of Concept
 - [deoplete-tabnine](https://github.com/tbodt/deoplete-tabnine) - Deoplete source for TabNine
-- [tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine
+- [tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim
 - [sound2twitter](https://github.com/foone/sound2twitter) - Converts sound files to mp4s for twitter upload
 - [gitfollow](https://github.com/sepandhaghighi/gitfollow) - Github follower and following
 - [stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
@@ -3472,6 +3473,7 @@
 
 ## TypeScript 
 
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
@@ -3625,6 +3627,8 @@
 
 ## Vim script 
 
+- [vim-cutlass](https://github.com/svermeulen/vim-cutlass) - Plugin that adds a 'cut' operation separate from 'delete'
+- [vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 - [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [wilder.nvim](https://github.com/gelguy/wilder.nvim) - 🏕️ A more adventurous wildmenu
 - [vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
