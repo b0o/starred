@@ -1857,7 +1857,7 @@
 - [car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [22120](https://github.com/cris691/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
+- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -2689,7 +2689,8 @@
 
 ## Python 
 
-- [igel](https://github.com/nidhaloff/igel) - a machine learning tool that allows to train, test and use models without writing code
+- [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
+- [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows to train, test and use models without writing code
 - [duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
