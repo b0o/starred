@@ -398,7 +398,7 @@
 - [HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.
 - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
@@ -3218,7 +3218,7 @@
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [weechat-discord](https://github.com/khyperia/weechat-discord) - Unmaintained! And also apparently this is against their TOS so DON'T USE THIS -- Weechat plugin for Discord support - https://weechat.org/ https://discordapp.com/
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
 - [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 
