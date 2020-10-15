@@ -410,7 +410,7 @@
 - [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library
 - [ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [motorcar](https://github.com/evil0sheep/motorcar) - A wayland compositor to explore 3D windowing
 - [NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
@@ -710,6 +710,7 @@
 
 ## Go 
 
+- [woke](https://github.com/get-woke/woke) - ✊ A text file analysis tool that detects non-inclusive language in your source code.
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
 - [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service.
@@ -921,7 +922,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1809,7 +1810,7 @@
 - [zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://NodeCLI.com
-- [apps-script-samples](https://github.com/gsuitedevs/apps-script-samples) - Apps Script samples for G Suite products.
+- [apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
@@ -3628,6 +3629,8 @@
 
 ## Vim script 
 
+- [vim-woke](https://github.com/mattn/vim-woke) - 
+- [vim-cursorword](https://github.com/itchyny/vim-cursorword) - Underlines the word under the cursor
 - [vim-cutlass](https://github.com/svermeulen/vim-cutlass) - Plugin that adds a 'cut' operation separate from 'delete'
 - [vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 - [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
