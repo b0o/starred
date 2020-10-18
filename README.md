@@ -709,6 +709,7 @@
 
 ## Go 
 
+- [diode_go_client](https://github.com/diodechain/diode_go_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diodechain.
 - [woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
@@ -1745,7 +1746,7 @@
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [create-snowpack-app](https://github.com/snowpackjs/create-snowpack-app) - The all-in-one app template for Snowpack. 👉 https://github.com/pikapkg/snowpack/tree/master/create-snowpack-app
+- [create-snowpack-app](https://github.com/snowpackjs/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
 - [squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
 - [Reedy-for-Chrome](https://github.com/olegcherr/Reedy-for-Chrome) - Read all you want faster with Reedy for Google Chrome!
