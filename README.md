@@ -35,6 +35,7 @@
   - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
+  - [Haml](#haml)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [JSON](#json)
@@ -836,7 +837,7 @@
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go
-- [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [mimir](https://github.com/talal/mimir) - Fast and minimal shell prompt
 - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [binarydist](https://github.com/kr/binarydist) - Go implementation of the bspatch algorithm
@@ -1555,7 +1556,6 @@
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [responsive.style](https://github.com/tomhodgins/responsive.style) - A Fresh Approach to Extending CSS
 - [favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
-- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [proposal-object-from-entries](https://github.com/tc39/proposal-object-from-entries) - TC39 proposal for Object.fromEntries
@@ -1569,6 +1569,10 @@
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+
+## Haml 
+
+- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
 ## Haskell 
 
@@ -1684,6 +1688,7 @@
 
 ## JavaScript 
 
+- [flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -2227,7 +2232,6 @@
 - [openscope](https://github.com/openscope/openscope) - openScope Air Traffic Control Simulator
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [place-atlas](https://github.com/RolandR/place-atlas) - The /r/place Atlas is a project aiming to catalog all the artworks created during Reddit's /r/place event.
-- [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
 - [craigslist-watcher](https://github.com/thehodapp/craigslist-watcher) - A way to keep track of new Craigslist postings without ever having to check Craigslist manually
 - [TorrenTV](https://github.com/guerrerocarlos/TorrenTV) - TorrenTV node-webkit source code
@@ -2670,6 +2674,7 @@
 - [Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
+- [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 
 ## Processing 
 
@@ -3868,6 +3873,7 @@
 
 ## Vue 
 
+- [layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
