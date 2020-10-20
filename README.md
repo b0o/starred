@@ -135,7 +135,6 @@
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
-- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
@@ -378,6 +377,7 @@
 
 ## C++ 
 
+- [gpu-motunui](https://github.com/chellmuth/gpu-motunui) - GPU-Motunui is a path tracer that renders Disney Animation's Moana Island scene.
 - [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.
 - [angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller
@@ -389,6 +389,7 @@
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 - [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
@@ -533,6 +534,7 @@
 
 ## CSS 
 
+- [markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
 - [stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [propelcss](https://github.com/davidkpiano/propelcss) - 
 - [css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
@@ -710,6 +712,9 @@
 
 ## Go 
 
+- [dtn7-go](https://github.com/dtn7/dtn7-go) - Delay-tolerant networking software suite, Bundle Protocol Version 7
+- [Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
+- [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
 - [diode_go_client](https://github.com/diodechain/diode_go_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diodechain.
 - [woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
@@ -1059,7 +1064,7 @@
 - [go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications.
 - [go-contentful-generator](https://github.com/nicolai86/go-contentful-generator) - A client SDK generator for contentful
 - [gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [go-stripehooks](https://github.com/tj/go-stripehooks) - Stripe webhook manager for Go with event verification support
 - [bingo](https://github.com/saibing/bingo) - Bingo is a Go language server that speaks Language Server Protocol.
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
@@ -1518,6 +1523,7 @@
 
 ## HTML 
 
+- [html_wysiwyg](https://github.com/secretGeek/html_wysiwyg) - A truly naked, brutalist html quine
 - [split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
 - [proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
@@ -1688,6 +1694,7 @@
 
 ## JavaScript 
 
+- [console-chat](https://github.com/Grew-dev/console-chat) - consolechat.io source codes
 - [flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
@@ -3106,6 +3113,7 @@
 
 ## Rust 
 
+- [i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
 - [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
@@ -3251,6 +3259,7 @@
 
 ## Shell 
 
+- [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
@@ -3477,6 +3486,7 @@
 
 ## TeX 
 
+- [unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
 - [ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
 - [pandoc-starter](https://github.com/jez/pandoc-starter) - 📄My pandoc markdown templates and makefiles
 - [minted](https://github.com/gpoore/minted) - minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
