@@ -655,6 +655,7 @@
 
 ## Dockerfile 
 
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
 
 ## Elixir 
@@ -1791,7 +1792,6 @@
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
 - [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [chrome-extensions-manager](https://github.com/sigoden/chrome-extensions-manager) - A snapshot based chrome extensions manager
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [api.harmonograph.art](https://github.com/alex-page/api.harmonograph.art) - 👩‍🎨 Draw a harmonograph with a URL
@@ -2757,6 +2757,7 @@
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -2850,7 +2851,6 @@
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ralph](https://github.com/allegro/ralph) - Ralph is the CMDB / Asset Management system for data center and back office hardware.
 - [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
