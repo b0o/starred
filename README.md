@@ -713,6 +713,8 @@
 
 ## Go 
 
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [dtn7-go](https://github.com/dtn7/dtn7-go) - Delay-tolerant networking software suite, Bundle Protocol Version 7
 - [Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
 - [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
@@ -1798,7 +1800,7 @@
 - [98.css-badges](https://github.com/jdan/98.css-badges) - badges for 98.css
 - [downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
+- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [gulp-file](https://github.com/alexmingoia/gulp-file) - Create vinyl files from a string or buffer and insert into the Gulp pipeline.
 - [reasonreact-starter](https://github.com/cironunes/reasonreact-starter) - Minimal yet powerful ReasonReact template
@@ -2292,7 +2294,7 @@
 - [playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
-- [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A simple tree for neovim written in lua
+- [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [snippets.nvim](https://github.com/norcalli/snippets.nvim) - 
 - [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
@@ -2721,7 +2723,7 @@
 - [i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
 - [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [orgformat](https://github.com/novoid/orgformat) - Utility library for providing functions to generate and modify Org mode syntax elements like links, time-stamps, or date-stamps.
-- [archweb_manpages](https://github.com/lahwaacz/archweb_manpages) - Codebase for the Arch manual pages repository
+- [archmanweb](https://github.com/lahwaacz/archmanweb) - Codebase for the Arch manual pages repository
 - [Zydra](https://github.com/hamedA2/Zydra) - 
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [digital-signage-client](https://github.com/rcarmo/digital-signage-client) - Lightweight Digital Signage solution for the Raspberry Pi
@@ -3167,7 +3169,7 @@
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-- [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
+- [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Track and synchronize installed packages
 - [pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
 - [rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
@@ -3175,7 +3177,7 @@
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) - Betrusted embedded controller (UP5K)
-- [betrusted-soc](https://github.com/betrusted-io/betrusted-soc) - betrusted.io main SoC design
+- [betrusted-soc](https://github.com/betrusted-io/betrusted-soc) - Betrusted main SoC design
 - [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -3493,6 +3495,7 @@
 
 ## TypeScript 
 
+- [grafana-dashboards](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
