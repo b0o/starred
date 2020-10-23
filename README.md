@@ -931,7 +931,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
+- [go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1699,7 +1699,6 @@
 
 - [console-chat](https://github.com/Grew-dev/console-chat) - consolechat.io source codes
 - [flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
-- [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
@@ -3496,6 +3495,7 @@
 ## TypeScript 
 
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus
+- [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
