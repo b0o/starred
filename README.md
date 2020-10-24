@@ -713,6 +713,8 @@
 
 ## Go 
 
+- [haulage](https://github.com/uw-ictd/haulage) - A golang tool for measuring and logging network usage to allow billing and analysis
+- [imgcat](https://github.com/trashhalo/imgcat) - Tool to output images in the terminal
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [dtn7-go](https://github.com/dtn7/dtn7-go) - Delay-tolerant networking software suite, Bundle Protocol Version 7
@@ -748,7 +750,7 @@
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, GCS
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, GCS, Azure Blob
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [go-signalcontext](https://github.com/sethvargo/go-signalcontext) - Create Go contexts that cancel on signals.
