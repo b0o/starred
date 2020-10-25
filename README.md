@@ -750,7 +750,7 @@
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, GCS, Azure Blob
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, Google Cloud Storage, Azure Blob
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [go-signalcontext](https://github.com/sethvargo/go-signalcontext) - Create Go contexts that cancel on signals.
@@ -1807,7 +1807,6 @@
 - [reasonreact-starter](https://github.com/cironunes/reasonreact-starter) - Minimal yet powerful ReasonReact template
 - [luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-- [vcs-jump](https://github.com/wincent/vcs-jump) - 🤾🏻‍♀️ Jump to interesting places with a Git or Mercurial repo
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [mini_racer](https://github.com/rubyjs/mini_racer) - Minimal embedded v8
 - [fulldom-server](https://github.com/strugee/fulldom-server) - Proxy-like server that will show you the DOM of a page after JS runs
@@ -2502,6 +2501,7 @@
 
 ## Others 
 
+- [elements-of-rust](https://github.com/ferrous-systems/elements-of-rust) - rust style and philosophy
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [VTM](https://github.com/netxs-group/VTM) - A Text-based Desktop Environment, aka Monotty Desktop (desktopio)
@@ -3116,6 +3116,8 @@
 
 ## Rust 
 
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [ungrammar](https://github.com/rust-analyzer/ungrammar) - 
 - [i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
 - [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
@@ -3532,7 +3534,7 @@
 - [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
@@ -3716,6 +3718,7 @@
 - [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
 - [vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
+- [vcs-jump](https://github.com/wincent/vcs-jump) - 🤾🏻‍♀️ Jump to interesting places with a Git or Mercurial repo
 - [vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [vim-textobj-fold](https://github.com/kana/vim-textobj-fold) - Vim plugin: Text objects for foldings
