@@ -713,6 +713,9 @@
 
 ## Go 
 
+- [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
+- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
+- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [haulage](https://github.com/uw-ictd/haulage) - A golang tool for measuring and logging network usage to allow billing and analysis
 - [imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -1871,7 +1874,7 @@
 - [car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
+- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -2357,6 +2360,7 @@
 
 ## OCaml 
 
+- [decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
 - [spin](https://github.com/tmattio/spin) - Reason and OCaml project generator.
 - [doggybag](https://github.com/Armael/doggybag) - take-away binaries
 - [benchpress](https://github.com/sneeuwballen/benchpress) - Testing and benchmarking tool for logic-related programs.
@@ -2501,6 +2505,7 @@
 
 ## Others 
 
+- [aliceml](https://github.com/aliceml/aliceml) - A functional programming language based on Standard ML, extended with support for concurrent, distributed, and constraint programming
 - [elements-of-rust](https://github.com/ferrous-systems/elements-of-rust) - rust style and philosophy
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
@@ -3118,6 +3123,7 @@
 
 ## Rust 
 
+- [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [ungrammar](https://github.com/rust-analyzer/ungrammar) - 
 - [i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
