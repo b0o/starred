@@ -377,6 +377,8 @@
 
 ## C++ 
 
+- [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [gpu-motunui](https://github.com/chellmuth/gpu-motunui) - GPU-Motunui is a path tracer that renders Disney Animation's Moana Island scene.
 - [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.
@@ -999,7 +1001,7 @@
 - [tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
 - [writefreely](https://github.com/writeas/writefreely) - Build a digital writing community.
 - [orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang
-- [reviewdog](https://github.com/reviewdog/reviewdog) - :dog: Automated code review tool integrated with any code analysis tools regardless of programming language
+- [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [gobin](https://github.com/myitcv/gobin) - gobin is an experimental, module-aware command to install/run main packages.
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [devd](https://github.com/cortesi/devd) - A local webserver for developers
@@ -2713,6 +2715,7 @@
 
 ## Python 
 
+- [imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus
 - [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
