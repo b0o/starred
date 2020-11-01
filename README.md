@@ -1706,6 +1706,8 @@
 
 ## JavaScript 
 
+- [winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
+- [soundshader.github.io](https://github.com/soundshader/soundshader.github.io) - 
 - [console-chat](https://github.com/Grew-dev/console-chat) - consolechat.io source codes
 - [flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
@@ -2157,7 +2159,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -2271,7 +2273,7 @@
 - [tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
-- [nnsplit](https://github.com/bminixhofer/nnsplit) - Fast, robust sentence splitting with bindings for Python, Rust and Javascript.
+- [nnsplit](https://github.com/bminixhofer/nnsplit) - A tool to split text using a neural network. For sentence boundary detection, compound splitting and more.
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
@@ -2720,7 +2722,7 @@
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus
 - [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
-- [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows to train, test and use models without writing code
+- [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test and use models without writing code
 - [duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -3177,7 +3179,7 @@
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [smol](https://github.com/stjepang/smol) - A small and fast async runtime for Rust
+- [smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
 - [hubcaps](https://github.com/softprops/hubcaps) - a rust interface for github
 - [wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
@@ -3515,7 +3517,7 @@
 
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. Features a man-in-the-middle HTTP/1.1 proxy, project management, scope and logs.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
