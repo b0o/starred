@@ -3132,6 +3132,7 @@
 
 ## Rust 
 
+- [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [ungrammar](https://github.com/rust-analyzer/ungrammar) - 
