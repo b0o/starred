@@ -2517,7 +2517,7 @@
 - [elements-of-rust](https://github.com/ferrous-systems/elements-of-rust) - rust style and philosophy
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
-- [VTM](https://github.com/netxs-group/VTM) - A Text-based Desktop Environment, aka Monotty Desktop (desktopio)
+- [VTM](https://github.com/netxs-group/VTM) - A Text-based Desktop Environment
 - [code](https://github.com/nikitavoloboev/code) - Snippets of code
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
