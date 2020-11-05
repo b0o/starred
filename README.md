@@ -117,6 +117,7 @@
 
 ## C 
 
+- [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [usbreset](https://github.com/jkulesza/usbreset) - 
 - [paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
@@ -3460,7 +3461,7 @@
 - [snazzer](https://github.com/csirac2/snazzer) - btrfs snapshotting and backup system offering snapshot measurement, transport and pruning.
 - [openwifi_linux_bash](https://github.com/openwifi-su/openwifi_linux_bash) - Simple example on bash for working with new Location API
 - [downgrade](https://github.com/pbrisbin/downgrade) - Downgrade packages in Arch Linux
-- [fonts](https://github.com/cmvnd/fonts) - fonts
+- [fonts](https://github.com/cmvnd/fonts) - tiny programming fonts
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -3516,6 +3517,7 @@
 
 ## TypeScript 
 
+- [vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
