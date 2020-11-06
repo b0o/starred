@@ -1534,6 +1534,7 @@
 
 ## HTML 
 
+- [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust’s readiness for Web-related things.
 - [html_wysiwyg](https://github.com/secretGeek/html_wysiwyg) - A truly naked, brutalist html quine
 - [split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
@@ -1543,7 +1544,7 @@
 - [cuberule.com](https://github.com/indirect/cuberule.com) - the cube rule of food identification, explained
 - [components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
 - [awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
-- [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
+- [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
@@ -1921,6 +1922,7 @@
 - [theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
 - [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
@@ -2514,6 +2516,7 @@
 
 ## Others 
 
+- [go-issue-mirror](https://github.com/bradfitz/go-issue-mirror) - [old] precursor to golang.org/x/build/maintner/godata
 - [aliceml](https://github.com/aliceml/aliceml) - A functional programming language based on Standard ML, extended with support for concurrent, distributed, and constraint programming
 - [elements-of-rust](https://github.com/ferrous-systems/elements-of-rust) - rust style and philosophy
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
@@ -3283,6 +3286,7 @@
 
 ## Shell 
 
+- [personal-server](https://github.com/erebe/personal-server) - Personal Server configuration with k3s
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
@@ -3461,7 +3465,7 @@
 - [snazzer](https://github.com/csirac2/snazzer) - btrfs snapshotting and backup system offering snapshot measurement, transport and pruning.
 - [openwifi_linux_bash](https://github.com/openwifi-su/openwifi_linux_bash) - Simple example on bash for working with new Location API
 - [downgrade](https://github.com/pbrisbin/downgrade) - Downgrade packages in Arch Linux
-- [fonts](https://github.com/cmvnd/fonts) - tiny programming fonts
+- [fonts](https://github.com/cmvnd/fonts) - tiny bitmap fonts
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -3583,7 +3587,6 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pasta-sourcemaps](https://github.com/bloomberg/pasta-sourcemaps) - Pretty (and) Accurate Stack Trace Analysis is an extension to the JavaScript source map format that allows for accurate function name decoding.
 - [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify
