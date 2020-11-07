@@ -378,6 +378,7 @@
 
 ## C++ 
 
+- [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [gpu-motunui](https://github.com/chellmuth/gpu-motunui) - GPU-Motunui is a path tracer that renders Disney Animation's Moana Island scene.
@@ -2089,7 +2090,6 @@
 - [babel-eslint](https://github.com/babel/babel-eslint) - :tokyo_tower: A wrapper for Babel's parser used for ESLint (renamed to @babel/eslint-parser)
 - [core-decorators](https://github.com/jayphelps/core-decorators) - Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.
 - [jsruntime](https://github.com/anvaka/jsruntime) - Chrome Extension to explore javascript runtime.
-- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [todos](https://github.com/gaearon/todos) - Examples for “Idiomatic Redux”: one branch per lesson
 - [todo-redux-react-webpack](https://github.com/sadams/todo-redux-react-webpack) - Todo app using React, Redux and Webpack. Based on the example from Dan Abramov's excellent tutorial (https://egghead.io/series/getting-started-with-redux)
 - [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
@@ -3085,7 +3085,7 @@
 - [grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
 - [genType](https://github.com/reason-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
-- [reason-react-native](https://github.com/reason-react-native/reason-react-native) - ReasonML / BuckleScript bindings for React Native
+- [reason-react-native](https://github.com/reason-react-native/reason-react-native) - ReScript bindings for React Native
 
 ## Red 
 
@@ -3286,7 +3286,7 @@
 
 ## Shell 
 
-- [personal-server](https://github.com/erebe/personal-server) - Personal Server configuration with k3s
+- [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
@@ -3469,7 +3469,7 @@
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
 - [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish—the friendly interactive shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -3632,6 +3632,7 @@
 - [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
 - [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
+- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
