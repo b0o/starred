@@ -333,7 +333,7 @@
 - [athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller and library for vlc, audacious, bmp, cmus, spotify and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
 - [openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
@@ -2201,6 +2201,7 @@
 - [disable-scroll-jacking](https://github.com/joshbalfour/disable-scroll-jacking) - Chrome Extension to disable scroll jacking
 - [syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [webpack-stream](https://github.com/shama/webpack-stream) - :tropical_drink: Run webpack through a stream interface
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
@@ -2652,7 +2653,6 @@
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [whosonfirst-data](https://github.com/whosonfirst-data/whosonfirst-data) - Who's On First is a gazetteer of places.
 - [HiDPI-Steam-Skin](https://github.com/MoriTanosuke/HiDPI-Steam-Skin) - HiDPI skin for Steam client based on default skin
-- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [muttrc](https://github.com/panessa/muttrc) - Ultimate Mutt configuration with multi account - Gmail and University of Zürich using offlineimap
 - [awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -2661,7 +2661,7 @@
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- [awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -3496,6 +3496,7 @@
 
 ## Swift 
 
+- [AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
 - [Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) - 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Allows users to pull in new song releases from their favorite artists and provides users with important metrics like their top tracks, top artists, and recently played tracks, queryable by time range.
