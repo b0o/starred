@@ -681,7 +681,7 @@
 ## Elm 
 
 - [nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
-- [patchgirl](https://github.com/patchgirl/patchgirl) - A web-based REST client
+- [patchgirl](https://github.com/patchgirl/patchgirl) - Manual reproducible web API tests for web developers
 - [core](https://github.com/elm/core) - Elm's core libraries
 - [elm-todomvc](https://github.com/evancz/elm-todomvc) - The TodoMVC app written in Elm, nice example for beginners.
 
@@ -717,6 +717,7 @@
 
 ## Go 
 
+- [fileglob](https://github.com/goreleaser/fileglob) - A file globbing library.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1709,8 +1710,9 @@
 
 ## JavaScript 
 
+- [calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
 - [winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
-- [soundshader.github.io](https://github.com/soundshader/soundshader.github.io) - 
+- [soundshader.github.io](https://github.com/soundshader/soundshader.github.io) - Sound GLSL
 - [console-chat](https://github.com/Grew-dev/console-chat) - consolechat.io source codes
 - [flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
@@ -3136,6 +3138,7 @@
 
 ## Rust 
 
+- [salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -3267,6 +3270,7 @@
 
 ## SCSS 
 
+- [true](https://github.com/oddbird/true) - Sass unit tests
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [gallery](https://github.com/ggplot2-exts/gallery) - Gallery of ggplot2 extensions
@@ -3286,6 +3290,7 @@
 
 ## Shell 
 
+- [dzen-cal](https://github.com/SIDSSIDS/dzen-cal) - Just a dzen2 based calendar
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
