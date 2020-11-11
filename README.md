@@ -1517,7 +1517,6 @@
 - [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
 - [go-search](https://github.com/tj/go-search) - Search Godoc.org via the command-line.
-- [wtf](https://github.com/benbjohnson/wtf) - Real-time WTF status
 - [slackboard](https://github.com/cubicdaiya/slackboard) - A slack proxy server
 - [gengen](https://github.com/joeshaw/gengen) - A Go source transformation tool for generics
 - [structs](https://github.com/fatih/structs) - Utilities for Go structs
@@ -1710,6 +1709,11 @@
 
 ## JavaScript 
 
+- [node-fetch-retry](https://github.com/adobe/node-fetch-retry) - Node Module for performing retries using node-fetch
+- [http-echo-server](https://github.com/watson/http-echo-server) - A simple HTTP echo server
+- [insomnia-plugin-response-eval](https://github.com/taylorgoolsby/insomnia-plugin-response-eval) - An Insomnia template tag which allows you to run JavaScript code to transform the raw body response into whatever you need.
+- [chris-blog](https://github.com/partridge-tech/chris-blog) - You know, for me.
+- [JSON6](https://github.com/d3x0r/JSON6) - JSON for Humans (ES6)
 - [calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
 - [winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [soundshader.github.io](https://github.com/soundshader/soundshader.github.io) - Sound GLSL
@@ -2519,6 +2523,7 @@
 
 ## Others 
 
+- [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [go-issue-mirror](https://github.com/bradfitz/go-issue-mirror) - [old] precursor to golang.org/x/build/maintner/godata
 - [aliceml](https://github.com/aliceml/aliceml) - A functional programming language based on Standard ML, extended with support for concurrent, distributed, and constraint programming
 - [elements-of-rust](https://github.com/ferrous-systems/elements-of-rust) - rust style and philosophy
@@ -3138,6 +3143,7 @@
 
 ## Rust 
 
+- [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
@@ -3290,6 +3296,7 @@
 
 ## Shell 
 
+- [scripts](https://github.com/epitron/scripts) - Scripts; handy.
 - [dzen-cal](https://github.com/SIDSSIDS/dzen-cal) - Just a dzen2 based calendar
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
@@ -3536,7 +3543,7 @@
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
-- [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
@@ -3668,6 +3675,7 @@
 
 ## Vala 
 
+- [calendar](https://github.com/elementary/calendar) - Desktop calendar app designed for elementary OS
 - [plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application
 - [redshift-scheduler](https://github.com/spantaleev/redshift-scheduler) - Rule-based screen temperature changer (like redshift)
 - [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
