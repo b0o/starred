@@ -2270,6 +2270,7 @@
 - [chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
+- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API
 - [lbebber.github.io](https://github.com/lbebber/lbebber.github.io) - 
 
@@ -2308,6 +2309,7 @@
 
 ## Lua 
 
+- [instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [format.nvim](https://github.com/lukas-reineke/format.nvim) - Neovim lua plugin to format the current buffer with external executables
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
@@ -2523,6 +2525,7 @@
 
 ## Others 
 
+- [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [go-issue-mirror](https://github.com/bradfitz/go-issue-mirror) - [old] precursor to golang.org/x/build/maintner/godata
 - [aliceml](https://github.com/aliceml/aliceml) - A functional programming language based on Standard ML, extended with support for concurrent, distributed, and constraint programming
@@ -2674,7 +2677,6 @@
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [vagrant-box-osx](https://github.com/AndrewDryga/vagrant-box-osx) - Issue tracker for macOS Sierra Vagrant box.
 - [xenko](https://github.com/SiliconStudio/xenko) - Old repo for Xenko Game Engine. Please use https://github.com/xenko3d/xenko instead.
-- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
 ## PHP 
 
@@ -3784,7 +3786,7 @@
 - [fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [vim-lexiv](https://github.com/mattn/vim-lexiv) - Yet Another Lexima
 - [lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
-- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
+- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 - [gomod.vim](https://github.com/johejo/gomod.vim) - Vim syntax highlight for go.mod
 - [vim9](https://github.com/brammool/vim9) - An experimental fork of Vim, exploring ways to make Vim script faster and better.
 - [vim-fetch](https://github.com/wsdjeg/vim-fetch) - Make Vim handle line and column numbers in file names with a minimum of fuss
