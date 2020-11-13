@@ -717,6 +717,8 @@
 
 ## Go 
 
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [fileglob](https://github.com/goreleaser/fileglob) - A file globbing library.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
@@ -2309,6 +2311,7 @@
 
 ## Lua 
 
+- [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [format.nvim](https://github.com/lukas-reineke/format.nvim) - Neovim lua plugin to format the current buffer with external executables
@@ -2342,6 +2345,7 @@
 
 ## Makefile 
 
+- [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [tu-bylaws](https://github.com/archlinux/tu-bylaws) - The bylaws which govern the Arch Linux Trusted Users (read-only mirror)
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
@@ -3300,7 +3304,6 @@
 
 - [scripts](https://github.com/epitron/scripts) - Scripts; handy.
 - [dzen-cal](https://github.com/SIDSSIDS/dzen-cal) - Just a dzen2 based calendar
-- [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
