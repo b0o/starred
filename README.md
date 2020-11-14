@@ -481,7 +481,7 @@
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [gandiva](https://github.com/dremio/gandiva) - Vectorized processing for Apache Arrow
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [rr](https://github.com/mozilla/rr) - Record and Replay Framework
+- [rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
@@ -976,7 +976,7 @@
 - [gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
-- [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
+- [bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
 - [gg](https://github.com/MichaelTJones/gg) - gg is smart grep for Go-language source code
 - [faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ
 - [jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
@@ -1711,6 +1711,7 @@
 
 ## JavaScript 
 
+- [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [node-fetch-retry](https://github.com/adobe/node-fetch-retry) - Node Module for performing retries using node-fetch
 - [http-echo-server](https://github.com/watson/http-echo-server) - A simple HTTP echo server
 - [insomnia-plugin-response-eval](https://github.com/taylorgoolsby/insomnia-plugin-response-eval) - An Insomnia template tag which allows you to run JavaScript code to transform the raw body response into whatever you need.
@@ -1844,7 +1845,7 @@
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://NodeCLI.com
 - [apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -2316,7 +2317,7 @@
 - [formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [format.nvim](https://github.com/lukas-reineke/format.nvim) - Neovim lua plugin to format the current buffer with external executables
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
-- [telescope.nvim](https://github.com/nvim-lua/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
+- [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
@@ -2918,7 +2919,6 @@
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [wikiquote-fortune](https://github.com/maandree/wikiquote-fortune) - [UNMAINTAINED] Generate fortune cookies from Wikiquote
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [OnDemandMinecraft](https://github.com/trevor-laher/OnDemandMinecraft) - An AWS hosted Minecraft server that will only run when players are active. Players can start the server through a simple UI accessed through free Heroku server hosting.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector) - A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.
@@ -3406,6 +3406,7 @@
 - [aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
 - [i3blocks-status](https://github.com/gportay/i3blocks-status) - 
+- [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [run_scaled](https://github.com/kaueraal/run_scaled) - Run an X application scaled via xpra. Useful on hidpi screens.
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
@@ -3488,7 +3489,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
-- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish—the friendly interactive shell.
+- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish—the friendly interactive shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -3697,6 +3698,7 @@
 
 ## Vim script 
 
+- [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
 - [vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
 - [vim-woke](https://github.com/mattn/vim-woke) - 
 - [vim-cursorword](https://github.com/itchyny/vim-cursorword) - Underlines the word under the cursor
