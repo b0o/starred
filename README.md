@@ -117,6 +117,7 @@
 
 ## C 
 
+- [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [usbreset](https://github.com/jkulesza/usbreset) - 
@@ -943,7 +944,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development, IoT, edge and p2p.
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1537,6 +1538,7 @@
 
 ## HTML 
 
+- [new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust’s readiness for Web-related things.
 - [html_wysiwyg](https://github.com/secretGeek/html_wysiwyg) - A truly naked, brutalist html quine
@@ -1711,6 +1713,9 @@
 
 ## JavaScript 
 
+- [es6-base](https://github.com/Jezzamonn/es6-base) - Base project for creating interactive things in modern JavaScript
+- [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
+- [backups](https://github.com/nicbou/backups) - Utilities to help backup my data from different sources
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [node-fetch-retry](https://github.com/adobe/node-fetch-retry) - Node Module for performing retries using node-fetch
 - [http-echo-server](https://github.com/watson/http-echo-server) - A simple HTTP echo server
@@ -3149,6 +3154,7 @@
 
 ## Rust 
 
+- [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
