@@ -3040,7 +3040,7 @@
 - [weechat-vimode](https://github.com/GermainZ/weechat-vimode) - A WeeChat script that adds vi-like modes, commands and keybindings.
 - [weechat-notify-send](https://github.com/s3rvac/weechat-notify-send) - A WeeChat script that sends highlight and message notifications through notify-send.
 - [qrenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
-- [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
+- [erpnext](https://github.com/frappe/erpnext) - Free and Open Source Alternative to SAP
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [resume](https://github.com/klange/resume) - The source for my CV/résumé, in LaTeX and Python scripts.
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
