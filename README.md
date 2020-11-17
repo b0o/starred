@@ -117,6 +117,8 @@
 
 ## C 
 
+- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
+- [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
@@ -379,6 +381,7 @@
 
 ## C++ 
 
+- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
@@ -1013,7 +1016,7 @@
 - [devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [battery](https://github.com/distatus/battery) - cross-platform, normalized battery information library
-- [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure instead of text
+- [carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt) - YAML templating tool that works on YAML structure instead of text
 - [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
 - [aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go.
@@ -1713,6 +1716,7 @@
 
 ## JavaScript 
 
+- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [es6-base](https://github.com/Jezzamonn/es6-base) - Base project for creating interactive things in modern JavaScript
 - [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [backups](https://github.com/nicbou/backups) - Utilities to help backup my data from different sources
@@ -2535,6 +2539,7 @@
 
 ## Others 
 
+- [Security-List](https://github.com/Penetrum-Security/Security-List) - Opensource security tools list
 - [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [go-issue-mirror](https://github.com/bradfitz/go-issue-mirror) - [old] precursor to golang.org/x/build/maintner/godata
@@ -3333,7 +3338,7 @@
 - [lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
-- [tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality, written in Shell
+- [tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality, written in POSIX shell
 - [dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
 - [dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
