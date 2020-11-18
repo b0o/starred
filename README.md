@@ -1541,6 +1541,7 @@
 
 ## HTML 
 
+- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust’s readiness for Web-related things.
@@ -1716,7 +1717,6 @@
 
 ## JavaScript 
 
-- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [es6-base](https://github.com/Jezzamonn/es6-base) - Base project for creating interactive things in modern JavaScript
 - [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [backups](https://github.com/nicbou/backups) - Utilities to help backup my data from different sources
@@ -2296,7 +2296,7 @@
 - [tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
-- [nnsplit](https://github.com/bminixhofer/nnsplit) - A tool to split text using a neural network. For sentence boundary detection, compound splitting and more.
+- [nnsplit](https://github.com/bminixhofer/nnsplit) - Semantic text segmentation. For sentence boundary detection, compound splitting and more.
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
@@ -2547,7 +2547,7 @@
 - [elements-of-rust](https://github.com/ferrous-systems/elements-of-rust) - rust style and philosophy
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
-- [VTM](https://github.com/netxs-group/VTM) - A Text-based Desktop Environment
+- [VTM](https://github.com/netxs-group/VTM) - A text-based desktop environment
 - [code](https://github.com/nikitavoloboev/code) - Snippets of code
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
@@ -3531,7 +3531,7 @@
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Allows users to pull in new song releases from their favorite artists and provides users with important metrics like their top tracks, top artists, and recently played tracks, queryable by time range.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [Contactor](https://github.com/kettle/Contactor) - Manage contacts from the command line via the macOS Contacts framework.
-- [DEV-ios](https://github.com/thepracticaldev/DEV-ios) - DEV Community iOS App
+- [DEV-ios](https://github.com/forem/DEV-ios) - DEV Community iOS App
 - [lockwise-ios](https://github.com/mozilla-lockwise/lockwise-ios) - Firefox's Lockwise app for iOS
 - [gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [AlternativeIcon-Example](https://github.com/KimDarren/AlternativeIcon-Example) - :scream: Change your iOS application's icon programmatically since iOS 10.3
@@ -3709,6 +3709,7 @@
 
 ## Vim script 
 
+- [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
 - [vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
 - [vim-woke](https://github.com/mattn/vim-woke) - 
