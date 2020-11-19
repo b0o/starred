@@ -624,7 +624,7 @@
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [weir](https://github.com/inconvergent/weir) - A system for making generative systems
 - [ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
-- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 - [stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
 - [reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
 - [slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
@@ -764,7 +764,7 @@
 - [dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
-- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem, S3, Google Cloud Storage, Azure Blob
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [go-signalcontext](https://github.com/sethvargo/go-signalcontext) - Create Go contexts that cancel on signals.
@@ -1717,6 +1717,8 @@
 
 ## JavaScript 
 
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
+- [gulp-notify](https://github.com/mikaelbr/gulp-notify) - gulp plugin to send messages based on Vinyl Files or Errors to Mac OS X, Linux or Windows using the node-notifier module. Fallbacks to Growl or simply logging
 - [es6-base](https://github.com/Jezzamonn/es6-base) - Base project for creating interactive things in modern JavaScript
 - [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [backups](https://github.com/nicbou/backups) - Utilities to help backup my data from different sources
@@ -2345,6 +2347,7 @@
 - [luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
 - [opm](https://github.com/openresty/opm) - OpenResty Package Manager
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - Backup repo for my personal dotfiles
 - [lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -3852,7 +3855,6 @@
 - [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [neco-vim](https://github.com/Shougo/neco-vim) - The vim source for neocomplete/deoplete
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - Backup repository for my personal dotfiles
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
