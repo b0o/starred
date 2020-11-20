@@ -2298,7 +2298,6 @@
 - [tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
-- [nnsplit](https://github.com/bminixhofer/nnsplit) - Semantic text segmentation. For sentence boundary detection, compound splitting and more.
 - [satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
@@ -3221,6 +3220,7 @@
 - [oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [webrender](https://github.com/servo/webrender) - A GPU-based renderer for the web
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+- [nnsplit](https://github.com/bminixhofer/nnsplit) - Semantic text segmentation. For sentence boundary detection, compound splitting and more.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Track and synchronize installed packages
