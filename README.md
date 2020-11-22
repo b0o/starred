@@ -117,6 +117,7 @@
 
 ## C 
 
+- [plpgsql_check](https://github.com/okbob/plpgsql_check) - plpgsql_check is linter tool for language PL/pgSQL (native language for PostgreSQL store procedures).
 - [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
 - [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
@@ -188,7 +189,7 @@
 - [wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [redshift](https://github.com/minus7/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [zinit](https://github.com/zdharma/zinit) - Ultra-flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
+- [zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
 - [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -721,6 +722,7 @@
 
 ## Go 
 
+- [hidalgo](https://github.com/hidal-go/hidalgo) - High-level Database Abstraction Layer for Go
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [fileglob](https://github.com/goreleaser/fileglob) - A file globbing library.
@@ -1717,6 +1719,7 @@
 
 ## JavaScript 
 
+- [svgshot](https://github.com/Zemnmez/svgshot) - take screenshots as svgs!!
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify) - gulp plugin to send messages based on Vinyl Files or Errors to Mac OS X, Linux or Windows using the node-notifier module. Fallbacks to Growl or simply logging
 - [es6-base](https://github.com/Jezzamonn/es6-base) - Base project for creating interactive things in modern JavaScript
@@ -2541,6 +2544,7 @@
 
 ## Others 
 
+- [awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
 - [Security-List](https://github.com/Penetrum-Security/Security-List) - Opensource security tools list
 - [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -3554,6 +3558,7 @@
 
 ## TypeScript 
 
+- [hoofd](https://github.com/JoviDeCroock/hoofd) - Hooks to populate the html head.
 - [dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus
@@ -3654,7 +3659,7 @@
 - [ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
-- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
