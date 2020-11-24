@@ -949,7 +949,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a future framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast framework for distributed app development, IoT, edge and p2p.
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -2332,7 +2332,6 @@
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
-- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [snippets.nvim](https://github.com/norcalli/snippets.nvim) - 
@@ -3317,6 +3316,7 @@
 
 ## Scheme 
 
+- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way
 
 ## Shell 
@@ -3346,7 +3346,7 @@
 - [lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
-- [tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality, written in POSIX shell
+- [tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality written in POSIX shell
 - [dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
 - [dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
