@@ -566,7 +566,6 @@
 - [github-dark](https://github.com/cquanu/github-dark) - :flashlight: GitHub Dark - Browse GitHub in nighttime mode.
 - [picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
 - [json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
-- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [css-components](https://github.com/zendeskgarden/css-components) - :seedling: garden CSS components
 - [thunder](https://github.com/sharu725/thunder) - A minimal and superfast Jekyll theme
 - [Lagrange](https://github.com/LeNPaul/Lagrange) - A minimalist Jekyll theme for running a personal blog
@@ -949,7 +948,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1719,6 +1718,7 @@
 
 ## JavaScript 
 
+- [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [svgshot](https://github.com/Zemnmez/svgshot) - take screenshots as svgs!!
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify) - gulp plugin to send messages based on Vinyl Files or Errors to Mac OS X, Linux or Windows using the node-notifier module. Fallbacks to Growl or simply logging
@@ -1882,7 +1882,7 @@
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
-- [bob-wallet](https://github.com/kyokan/bob-wallet) - Bob is a GUI for DNS Record Management and Name Auctions on Handshake.  It includes an integrated full node: hsd.
+- [bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [basic-lru](https://github.com/WebReflection/basic-lru) - A fast and lightweight Map based LRU implementation.
 - [Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application
@@ -2133,7 +2133,7 @@
 - [insomnia-plugin-js-eval](https://github.com/miniyarov/insomnia-plugin-js-eval) - 
 - [insomnia-plugin-customtimestamp](https://github.com/Gabb1995/insomnia-plugin-customtimestamp) - Create a custom timestamp in insomnia rest client
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
@@ -3304,6 +3304,7 @@
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [gallery](https://github.com/ggplot2-exts/gallery) - Gallery of ggplot2 extensions
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
 ## Scala 
@@ -3335,7 +3336,7 @@
 - [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [shell-snippets](https://github.com/j1elo/shell-snippets) - Some Bash shell snippets, with functions and utilities that I use frequently in my scripts.
 - [pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
-- [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
+- [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [Swytch](https://github.com/wilecoyote2015/Swytch) - Swytch is a script providing a window switcher for sway using rofi, awk and jq
 - [sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) - Take screenshot easly on Sway.
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
