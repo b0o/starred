@@ -948,7 +948,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1880,6 +1880,7 @@
 - [wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
+- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
@@ -3607,7 +3608,6 @@
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
