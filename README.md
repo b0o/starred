@@ -337,7 +337,7 @@
 - [athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
 - [openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
@@ -721,6 +721,8 @@
 
 ## Go 
 
+- [httperroryzer](https://github.com/orijtech/httperroryzer) - Static analyzer to catch invalid uses of http.Error without a return statement which can cause expected bugs
+- [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [hidalgo](https://github.com/hidal-go/hidalgo) - High-level Database Abstraction Layer for Go
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -2247,7 +2249,6 @@
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [usefluid.com](https://github.com/CalumJEadie/usefluid.com) - 
-- [MuttrcBuilder](https://github.com/lukeross/MuttrcBuilder) - A web-based builder for Mutt's .muttrc files.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
