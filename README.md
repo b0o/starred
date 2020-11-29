@@ -721,6 +721,8 @@
 
 ## Go 
 
+- [please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
+- [dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus
 - [httperroryzer](https://github.com/orijtech/httperroryzer) - Static analyzer to catch invalid uses of http.Error without a return statement which can cause expected bugs
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [hidalgo](https://github.com/hidal-go/hidalgo) - High-level Database Abstraction Layer for Go
@@ -920,7 +922,6 @@
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
-- [playerbm](https://github.com/altdesktop/playerbm) - 📚 🎧 Bookmark CLI for media players to resume where you left off in audiobooks and podcasts
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
 - [actions](https://github.com/apex/actions) - GitHub Actions
 - [fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
@@ -1720,6 +1721,7 @@
 
 ## JavaScript 
 
+- [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [svgshot](https://github.com/Zemnmez/svgshot) - take screenshots as svgs!!
@@ -2351,7 +2353,7 @@
 - [luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
 - [opm](https://github.com/openresty/opm) - OpenResty Package Manager
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - Backup repo for my personal dotfiles
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - a backup for my personal dotfiles
 - [lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -3168,6 +3170,9 @@
 
 ## Rust 
 
+- [mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
+- [finding-crates](https://github.com/meilisearch/finding-crates) - Expose all crates from crates.io with MeiliSearch
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
@@ -3325,6 +3330,7 @@
 
 ## Shell 
 
+- [sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
 - [scripts](https://github.com/epitron/scripts) - Scripts; handy.
 - [dzen-cal](https://github.com/SIDSSIDS/dzen-cal) - Just a dzen2 based calendar
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
@@ -3748,7 +3754,7 @@
 - [vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
 - [dotfiles](https://github.com/junegunn/dotfiles) - :house_with_garden: It's personal
 - [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
-- [aergia](https://github.com/henricattoire/aergia) - aergia - be lazy when writing.
+- [aergia](https://github.com/henricattoire/aergia) - Being lazy is good.
 - [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
