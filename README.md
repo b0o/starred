@@ -382,6 +382,7 @@
 
 ## C++ 
 
+- [kati](https://github.com/google/kati) - An experimental GNU make clone
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
@@ -3728,6 +3729,7 @@
 
 ## Vim script 
 
+- [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
 - [vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
