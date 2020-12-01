@@ -632,7 +632,6 @@
 
 ## Coq 
 
-- [microwatt](https://github.com/antonblanchard/microwatt) - A tiny Open POWER ISA softcore written in VHDL 2008
 - [CoqGym](https://github.com/princeton-vl/CoqGym) - A Learning Environment for Theorem Proving with the Coq proof assistant
 - [proofs](https://github.com/stepchowfun/proofs) - A selection of formal proofs in Coq.
 
@@ -1992,7 +1991,7 @@
 - [example-projects](https://github.com/claudiajs/example-projects) - Simple example projects that show how to use ClaudiaJs
 - [node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings Fetch API to Node.js
 - [simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
-- [aws-serverless-express](https://github.com/awslabs/aws-serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
+- [serverless-express](https://github.com/vendia/serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
 - [claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [octane](https://github.com/chromium/octane) - The JavaScript Benchmark Suite for the modern web
 - [rawact](https://github.com/sokra/rawact) - [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
@@ -2758,6 +2757,7 @@
 
 ## Python 
 
+- [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 - [imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus
@@ -3721,6 +3721,7 @@
 
 ## Verilog 
 
+- [microwatt](https://github.com/antonblanchard/microwatt) - A tiny Open POWER ISA softcore written in VHDL 2008
 - [Haasoscope](https://github.com/drandyhaas/Haasoscope) - Docs, design, firmware, and software for the Haasoscope
 
 ## Vim Snippet 
