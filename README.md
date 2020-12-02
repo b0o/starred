@@ -117,6 +117,7 @@
 
 ## C 
 
+- [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [plpgsql_check](https://github.com/okbob/plpgsql_check) - plpgsql_check is linter tool for language PL/pgSQL (native language for PostgreSQL store procedures).
 - [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
 - [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
@@ -1046,7 +1047,7 @@
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
-- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
+- [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -1721,6 +1722,7 @@
 
 ## JavaScript 
 
+- [webext-new-tab-tweaker](https://github.com/rharel/webext-new-tab-tweaker) - WebExtension that lets you customize a new tab's behavior and appearance.
 - [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -1818,6 +1820,7 @@
 - [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [mermaid.cli](https://github.com/mermaidjs/mermaid.cli) - Development has been moved to https://github.com/mermaid-js/mermaid-cli
+- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [mdlt](https://github.com/metadelta/mdlt) - A command-line utility for quick math.
 - [UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
 - [uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -1973,7 +1976,6 @@
 - [escher-bot](https://github.com/pomber/escher-bot) - https://twitter.com/mauritscorneIis
 - [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [mercury](https://github.com/Raynos/mercury) - A truly modular frontend framework
-- [browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
@@ -2325,7 +2327,6 @@
 
 ## Less 
 
-- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [website](https://github.com/ipfs/website) - IPFS project website
 
 ## Lua 
@@ -2470,7 +2471,7 @@
 - [i3_workspaces](https://github.com/Chimrod/i3_workspaces) - Workspace manager for i3-wm
 - [analyzer](https://github.com/goblint/analyzer) - The goblint static analysis framework
 - [GT](https://github.com/JetBrains-Research/GT) - Datatype-generic object-oriented transformations for OCaml
-- [duniverse](https://github.com/ocamllabs/duniverse) - Duniverse is the spice of OCaml build life
+- [opam-monorepo](https://github.com/ocamllabs/opam-monorepo) - Duniverse is the spice of OCaml build life
 - [js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [ocaml-arrow](https://github.com/LaurentMazare/ocaml-arrow) - 
 - [ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
@@ -3645,6 +3646,7 @@
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+- [browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [fx_cast](https://github.com/hensm/fx_cast) - Implementation of the Google Cast Chrome Sender SDK within Firefox
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
@@ -3730,6 +3732,7 @@
 
 ## Vim script 
 
+- [go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
