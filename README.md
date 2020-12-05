@@ -544,6 +544,7 @@
 
 ## CSS 
 
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
 - [stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [propelcss](https://github.com/davidkpiano/propelcss) - 
@@ -721,6 +722,9 @@
 
 ## Go 
 
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [que-go](https://github.com/bgentry/que-go) - An interoperable Golang port of the Ruby Que queuing library for PostgreSQL
+- [rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 - [dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus
 - [httperroryzer](https://github.com/orijtech/httperroryzer) - Static analyzer to catch invalid uses of http.Error without a return statement which can cause expected bugs
@@ -743,7 +747,7 @@
 - [woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
-- [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service.
+- [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SES).
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
 - [miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
@@ -1721,6 +1725,7 @@
 
 ## JavaScript 
 
+- [cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [webext-new-tab-tweaker](https://github.com/rharel/webext-new-tab-tweaker) - WebExtension that lets you customize a new tab's behavior and appearance.
 - [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -2760,7 +2765,7 @@
 - [imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus
-- [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
+- [lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test and use models without writing code
 - [duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
@@ -3454,7 +3459,7 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [our-postgresql-setup](https://github.com/gocardless/our-postgresql-setup) - PostgreSQL clustering with corosync/pacemaker test environment
 - [slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
-- [dotfiles](https://github.com/twpayne/dotfiles) - Dotfiles, managed with https://github.com/twpayne/chezmoi
+- [dotfiles](https://github.com/twpayne/dotfiles) - Dotfiles, managed with https://github.com/twpayne/chezmoi.
 - [dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [snapper-exclude](https://github.com/billwanjohi/snapper-exclude) - move noisy directories out of your snapper-configured btrfs subvolumes, cleaning up what's already been replicated
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
