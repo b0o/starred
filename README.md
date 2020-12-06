@@ -122,7 +122,6 @@
 - [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
 - [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
-- [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
 - [usbreset](https://github.com/jkulesza/usbreset) - 
 - [paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
@@ -389,6 +388,7 @@
 - [seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [gpu-motunui](https://github.com/chellmuth/gpu-motunui) - GPU-Motunui is a path tracer that renders Disney Animation's Moana Island scene.
 - [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
+- [VTM](https://github.com/netxs-group/VTM) - A text-based desktop environment
 - [makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.
 - [angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller
 - [pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
@@ -722,6 +722,7 @@
 
 ## Go 
 
+- [iavl](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [que-go](https://github.com/bgentry/que-go) - An interoperable Golang port of the Ruby Que queuing library for PostgreSQL
 - [rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
@@ -2562,7 +2563,6 @@
 - [elements-of-rust](https://github.com/ferrous-systems/elements-of-rust) - rust style and philosophy
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
-- [VTM](https://github.com/netxs-group/VTM) - A text-based desktop environment
 - [code](https://github.com/nikitavoloboev/code) - Snippets of code
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
@@ -2762,6 +2762,7 @@
 ## Python 
 
 - [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
+- [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 - [imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus
@@ -3223,7 +3224,7 @@
 - [drop](https://github.com/gilbertw1/drop) - A simple screenshot, screencast, and file upload tool with S3 support written in rust.
 - [i3-bindings](https://github.com/tupini07/i3-bindings) - Simple tool that reads the i3 config files and shows a table with the bindings defined therein
 - [trait-eval](https://github.com/doctorn/trait-eval) - We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???
-- [materialize](https://github.com/MaterializeInc/materialize) - The Streaming SQL Database powered by Timely Dataflow
+- [materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -3335,6 +3336,7 @@
 
 ## Shell 
 
+- [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
 - [scripts](https://github.com/epitron/scripts) - Scripts; handy.
 - [dzen-cal](https://github.com/SIDSSIDS/dzen-cal) - Just a dzen2 based calendar
@@ -3707,7 +3709,7 @@
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 ## V 
 
