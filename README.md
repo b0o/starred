@@ -117,6 +117,7 @@
 
 ## C 
 
+- [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [plpgsql_check](https://github.com/okbob/plpgsql_check) - plpgsql_check is linter tool for language PL/pgSQL (native language for PostgreSQL store procedures).
 - [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
@@ -360,6 +361,7 @@
 
 ## C# # 
 
+- [Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
 - [UniversalSplitScreen](https://github.com/UniversalSplitScreen/UniversalSplitScreen) - Split screen multiplayer for any game with multiple keyboards, mice and controllers.
 - [mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
@@ -1726,6 +1728,7 @@
 
 ## JavaScript 
 
+- [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
 - [cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [webext-new-tab-tweaker](https://github.com/rharel/webext-new-tab-tweaker) - WebExtension that lets you customize a new tab's behavior and appearance.
 - [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
@@ -2761,6 +2764,8 @@
 
 ## Python 
 
+- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
 - [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 - [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 - [imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
@@ -3574,6 +3579,8 @@
 
 ## TypeScript 
 
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [hoofd](https://github.com/JoviDeCroock/hoofd) - Hooks to populate the html head.
 - [dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
@@ -3709,7 +3716,6 @@
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 ## V 
 
