@@ -666,7 +666,6 @@
 
 ## Dockerfile 
 
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
 
 ## Elixir 
@@ -958,7 +957,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1728,6 +1727,7 @@
 
 ## JavaScript 
 
+- [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.
 - [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
 - [cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [webext-new-tab-tweaker](https://github.com/rharel/webext-new-tab-tweaker) - WebExtension that lets you customize a new tab's behavior and appearance.
@@ -2361,7 +2361,7 @@
 - [luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
 - [opm](https://github.com/openresty/opm) - OpenResty Package Manager
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - backup of my personal dotfiles
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - backup of personal dotfiles
 - [lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -2464,7 +2464,7 @@
 - [ocaml-tqdm](https://github.com/LaurentMazare/ocaml-tqdm) - An ocaml progress bar library similar to https://tqdm.github.io
 - [ocaml-uri](https://github.com/mirage/ocaml-uri) - RFC3986 URI parsing library for OCaml
 - [ocaml-pb-plugin](https://github.com/yallop/ocaml-pb-plugin) - A protoc plugin for generating OCaml code from protobuf (.proto) files.
-- [tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads and `Scanf` for routing.
+- [tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads + blocking IO, with small request router.
 - [ctypes-stubs-generation-notes](https://github.com/cedlemo/ctypes-stubs-generation-notes) - OCaml Ctypes stubs generation notes
 - [core_kernel](https://github.com/janestreet/core_kernel) - Jane Street's standard library overlay (kernel)
 - [mparser](https://github.com/murmour/mparser) - A simple monadic parser combinator library for OCaml
@@ -2920,6 +2920,7 @@
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ralph](https://github.com/allegro/ralph) - Ralph is the CMDB / Asset Management system for data center and back office hardware.
 - [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
