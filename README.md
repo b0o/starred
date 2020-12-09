@@ -383,6 +383,8 @@
 
 ## C++ 
 
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [vgc](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation
 - [kati](https://github.com/google/kati) - An experimental GNU make clone
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -3604,7 +3606,7 @@
 - [react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [yalc](https://github.com/whitecolor/yalc) - Work with yarn/npm packages locally like a boss.
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
