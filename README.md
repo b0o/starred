@@ -2443,7 +2443,7 @@
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) - Auto-formatter for OCaml code
 - [ounit](https://github.com/gildor478/ounit) - 
 - [qcheck](https://github.com/c-cube/qcheck) - QuickCheck inspired property-based testing for OCaml.
-- [zipperposition](https://github.com/sneeuwballen/zipperposition) - An automatic theorem prover in OCaml for typed higher-order logic with equality, datatypes and arithmetic, based on superposition+rewriting; and Logtk, a supporting library for manipulating terms, formulas, clauses, etc.
+- [zipperposition](https://github.com/sneeuwballen/zipperposition) - An automatic theorem prover in OCaml for typed higher-order logic with equality and datatypes, based on superposition+rewriting; and Logtk, a supporting library for manipulating terms, formulas, clauses, etc.
 - [oseq](https://github.com/c-cube/oseq) - Purely functional iterators compatible with standard `seq`.
 - [gen](https://github.com/c-cube/gen) - Simple, efficient iterators for OCaml
 - [iter](https://github.com/c-cube/iter) - Simple iterator abstract datatype, intended to iterate efficiently on collections while performing some transformations.
