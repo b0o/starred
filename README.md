@@ -1617,6 +1617,7 @@
 
 ## Haskell 
 
+- [directory-contents](https://github.com/obsidiansystems/directory-contents) - Recursively build a tree of directory contents, avoiding symlink cycles
 - [dzen-dhall](https://github.com/dzen-dhall/dzen-dhall) - Configure dzen2 bars in Dhall language
 - [learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [lambda-diagrams](https://github.com/polux/lambda-diagrams) - Animations of lambda term reduction sequences
@@ -1842,13 +1843,13 @@
 - [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
 - [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
 - [link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser
 - [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
 - [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [chrome-extensions-manager](https://github.com/sigoden/chrome-extensions-manager) - A snapshot based chrome extensions manager
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [api.harmonograph.art](https://github.com/alex-page/api.harmonograph.art) - 👩‍🎨 Draw a harmonograph with a URL
@@ -2065,7 +2066,6 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [docs](https://github.com/monzo/docs) - Public API documentation
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [fourth-wall](https://github.com/alphagov/fourth-wall) - Pull request and build status monitor
 - [Dashboard](https://github.com/marvelapp/Dashboard) - A dashboard to show what your design team is working on. Written in React.
@@ -2499,7 +2499,7 @@
 - [shexp](https://github.com/janestreet/shexp) - Process library and s-expression based shell
 - [ppx_import](https://github.com/ocaml-ppx/ppx_import) - Less redundancy in type declarations and signatures
 - [ppx_let](https://github.com/janestreet/ppx_let) - Monadic let-bindings
-- [ppx_deriving](https://github.com/ocaml-ppx/ppx_deriving) - Type-driven code generation for OCaml &gt;=4.02
+- [ppx_deriving](https://github.com/ocaml-ppx/ppx_deriving) - Type-driven code generation for OCaml
 - [opalang](https://github.com/MLstate/opalang) - The Opa Language for Web Application Development
 - [cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml
 - [caml-inspect](https://github.com/krohrer/caml-inspect) - Inspection of internal value representations and the object graph
@@ -2830,7 +2830,6 @@
 - [awesome-colour](https://github.com/colour-science/awesome-colour) - Curated list of awesome colour science resources 😎
 - [this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -2866,7 +2865,7 @@
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [deoplete-nextword](https://github.com/Shougo/deoplete-nextword) - A deoplete source for nextword for completing words in English.
-- [jc](https://github.com/kellyjonbrazil/jc) - This tool converts the output of popular command-line tools and file-types to JSON. This allows piping of output to tools like jq.
+- [jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [securedrop-workstation](https://github.com/freedomofpress/securedrop-workstation) - Qubes-based SecureDrop Journalist Workstation environment for submission handling
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
@@ -2906,7 +2905,6 @@
 - [shavar-prod-lists](https://github.com/mozilla-services/shavar-prod-lists) - Shavar/tracking protection lists used in prod
 - [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
-- [dotfiles](https://github.com/arp242/dotfiles) - My configuration files
 - [listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project
 - [Texturina](https://github.com/Omnibus-Type/Texturina) - 
 - [weneeda.name](https://github.com/evilham/weneeda.name) - 
@@ -3428,6 +3426,7 @@
 - [better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [ssssh](https://github.com/michaelkarlcoleman/ssssh) - execute shell commands on or copy files to/from a set of Linux hosts
+- [dotfiles](https://github.com/arp242/dotfiles) - My configuration files
 - [sensors-plotter](https://github.com/ezonakiusagi/sensors-plotter) - plot data in ascii art for senosrs data visualization in terminal environment
 - [scripts](https://github.com/nathanchance/scripts) - Environment scripts and configuration files
 - [flk](https://github.com/chr15m/flk) - A LISP that runs wherever Bash is
@@ -3487,6 +3486,7 @@
 - [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
 - [n](https://github.com/tj/n) - Node version management
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [clang-ctags](https://github.com/drothlis/clang-ctags) - Generate tag file for C++ source code, using the clang C++ compiler's parsing libraries
 - [debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [docker-cabal-build](https://github.com/marcelhuberfoo/docker-cabal-build) - 
@@ -3620,6 +3620,7 @@
 - [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
+- [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [Lesswrong2](https://github.com/LessWrong2/Lesswrong2) - The development repository for LessWrong2, based on Vulcan JS
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
