@@ -145,7 +145,7 @@
 - [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
-- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [harvey](https://github.com/Harvey-OS/harvey) - A distributed operating system
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [ergodox-layout](https://github.com/naps62/ergodox-layout) - A heavily customized layout for my Ergodox EZ keyboard
@@ -495,7 +495,7 @@
 - [rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
+- [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 - [cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [RoboTank](https://github.com/SensorsIot/RoboTank) - 
 - [Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
@@ -726,6 +726,7 @@
 
 ## Go 
 
+- [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [iavl](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [que-go](https://github.com/bgentry/que-go) - An interoperable Golang port of the Ruby Que queuing library for PostgreSQL
@@ -752,7 +753,7 @@
 - [woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
-- [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SES).
+- [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SNS).
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
 - [miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
@@ -1731,6 +1732,7 @@
 
 ## JavaScript 
 
+- [color-of-berlin](https://github.com/laurendorman/color-of-berlin) - A Twitter bot that tweets the color of the sky in Berlin.
 - [newtaboverride](https://github.com/cadeyrn/newtaboverride) - New Tab Override allows you to set the page that shows whenever you open a new tab.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.
 - [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
@@ -1765,6 +1767,7 @@
 - [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
@@ -2768,6 +2771,7 @@
 
 ## Python 
 
+- [bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
 - [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
@@ -2783,7 +2787,6 @@
 - [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
 - [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
 - [chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
@@ -3124,6 +3127,7 @@
 
 ## Reason 
 
+- [odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
 - [reasonml.org](https://github.com/reason-association/reasonml.org) - Deprecated in favor of rescript-lang.org
 - [reanalyze](https://github.com/reason-association/reanalyze) - Experimental analyses for OCaml/Reason: for globally dead values/types, exception analysis, and termination analysis.
@@ -3584,6 +3588,7 @@
 
 ## TypeScript 
 
+- [billiards](https://github.com/tailuge/billiards) - billiards
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [hoofd](https://github.com/JoviDeCroock/hoofd) - Hooks to populate the html head.
@@ -3748,6 +3753,8 @@
 
 ## Vim script 
 
+- [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
+- [vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window
 - [go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
@@ -3967,6 +3974,7 @@
 
 ## VimL 
 
+- [shellcheck.vim](https://github.com/kawaz/shellcheck.vim) - 
 - [minivimrc](https://github.com/bling/minivimrc) - a tiny vimrc to be used primarily for troubleshooting plugins
 - [mediawiki.vim](https://github.com/chikamichi/mediawiki.vim) - Syntax highlighting for MediaWiki-based projects, such as Wikipedia.
 - [vim-oblique](https://github.com/junegunn/vim-oblique) - DEPRECATED Improved /-search (experimental)
