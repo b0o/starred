@@ -87,6 +87,7 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
+  - [YARA](#yara)
   - [Zig](#zig)
 
 ## ActionScript 
@@ -1346,7 +1347,7 @@
 - [amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
+- [tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
 - [govisor](https://github.com/gdamore/govisor) - govisor is a service management framework for Go and processes, inspired by Solaris SMF
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -3188,6 +3189,8 @@
 
 ## Rust 
 
+- [intermodal](https://github.com/casey/intermodal) - 📦 Intermodal: A 40' foot shipping container for the internet
+- [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [finding-crates](https://github.com/meilisearch/finding-crates) - Expose all crates from crates.io with MeiliSearch
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
@@ -3755,7 +3758,7 @@
 
 - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
 - [vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window
-- [go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
+- [go-vimlparser](https://github.com/vim-jp/go-vimlparser) - :zap: Vim Script Parser written in Go
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
@@ -4003,6 +4006,10 @@
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## YARA 
+
+- [sunburst_countermeasures](https://github.com/fireeye/sunburst_countermeasures) - 
 
 ## Zig 
 
