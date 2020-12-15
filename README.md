@@ -1931,7 +1931,7 @@
 - [car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -3756,6 +3756,8 @@
 
 ## Vim script 
 
+- [vim-maktaba](https://github.com/google/vim-maktaba) - Consistent Vimscript
+- [quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
 - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
 - [vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window
 - [go-vimlparser](https://github.com/vim-jp/go-vimlparser) - :zap: Vim Script Parser written in Go
