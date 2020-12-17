@@ -1734,6 +1734,7 @@
 
 ## JavaScript 
 
+- [aliaser](https://github.com/diracdeltas/aliaser) - 
 - [color-of-berlin](https://github.com/laurendorman/color-of-berlin) - A Twitter bot that tweets the color of the sky in Berlin.
 - [newtaboverride](https://github.com/cadeyrn/newtaboverride) - New Tab Override allows you to set the page that shows whenever you open a new tab.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.
@@ -2567,7 +2568,7 @@
 
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
-- [Security-List](https://github.com/Penetrum-Security/Security-List) - Opensource security tools list
+- [Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
 - [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [go-issue-mirror](https://github.com/bradfitz/go-issue-mirror) - [old] precursor to golang.org/x/build/maintner/godata
