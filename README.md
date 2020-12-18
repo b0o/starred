@@ -459,7 +459,7 @@
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [sdcv](https://github.com/Dushistov/sdcv) - 
-- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
 - [HookCase](https://github.com/steven-michaud/HookCase) - Tool for reverse engineering macOS/OS X
 - [serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
