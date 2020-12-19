@@ -675,6 +675,7 @@
 
 ## Elixir 
 
+- [lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [mjpeg](https://github.com/lawik/mjpeg) - A simple example of how you can do MJPEG in Elixir
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
@@ -728,6 +729,7 @@
 
 ## Go 
 
+- [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [iavl](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -2009,7 +2011,7 @@
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [httparchive.org](https://github.com/HTTPArchive/httparchive.org) - The HTTP Archive website hosted on App Engine
 - [example-projects](https://github.com/claudiajs/example-projects) - Simple example projects that show how to use ClaudiaJs
-- [node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings Fetch API to Node.js
+- [node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
 - [serverless-express](https://github.com/vendia/serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
 - [claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
