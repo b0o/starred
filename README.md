@@ -2540,7 +2540,7 @@
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
-- [teleport](https://github.com/abyssoft/teleport) - Virtual KVM for OS X
+- [teleport](https://github.com/johndbritton/teleport) - Virtual KVM for OS X
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [Fluid-for-Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) - [Sketch Plugin] Sketch-flavored Auto Layout-like Constraints
@@ -3761,6 +3761,7 @@
 
 ## Vim script 
 
+- [vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 - [vim-maktaba](https://github.com/google/vim-maktaba) - Consistent Vimscript
 - [quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
 - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
