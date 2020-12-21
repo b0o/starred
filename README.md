@@ -385,6 +385,7 @@
 
 ## C++ 
 
+- [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [vgc](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation
 - [kati](https://github.com/google/kati) - An experimental GNU make clone
@@ -729,6 +730,8 @@
 
 ## Go 
 
+- [galene](https://github.com/jech/galene) - The Galène videoconferencing server
+- [fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [iavl](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go
@@ -965,7 +968,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1712,6 +1715,7 @@
 
 ## Java 
 
+- [tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
@@ -2776,6 +2780,9 @@
 
 ## Python 
 
+- [pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
+- [twitter-cleanup](https://github.com/cuducos/twitter-cleanup) - 🛁 Clean-up inactive accounts and bots from your Twitter
 - [bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
@@ -3545,7 +3552,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
-- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish—the friendly interactive shell.
+- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -3794,7 +3801,7 @@
 - [vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
 - [dotfiles](https://github.com/junegunn/dotfiles) - :house_with_garden: It's personal
 - [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
-- [aergia](https://github.com/henricattoire/aergia) - Being lazy is good.
+- [aergia](https://github.com/henricattoire/aergia) - Snippet manager.
 - [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
@@ -3901,7 +3908,7 @@
 - [nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
 - [traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
 - [snow](https://github.com/nightsense/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
-- [vinfo](https://github.com/alx741/vinfo) - Vim info documentation reader, allows to read info pages when inside a Vim session or from the shell prompt (instead of Info)
+- [vinfo](https://github.com/alx741/vinfo) - Vim info documentation reader, lets you read info pages within Vim or start it from the shell prompt (instead of Info)
 - [vim-githubinator](https://github.com/danishprakash/vim-githubinator) - Show selected text in Vim on Github
 - [diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
