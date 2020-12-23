@@ -385,6 +385,7 @@
 
 ## C++ 
 
+- [Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
 - [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [vgc](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation
@@ -3605,6 +3606,8 @@
 
 ## TypeScript 
 
+- [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
+- [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript.
 - [billiards](https://github.com/tailuge/billiards) - billiards
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
