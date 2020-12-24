@@ -561,7 +561,6 @@
 - [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 - [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
 - [repohealth.info](https://github.com/pelson/repohealth.info) - Service which collects indicators of a repository's health into a single report
@@ -2876,6 +2875,7 @@
 - [Blender-Asset-Creation-Toolset](https://github.com/mrven/Blender-Asset-Creation-Toolset) - Many Tools for Game Asset Creation (Import/Export FBXs, Origin Aligment Tool, Renaming, Low-Poly Art workflow tools, etc.)
 - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
+- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [amazon_fresh_slot](https://github.com/hemkeshv/amazon_fresh_slot) - COVID-19 Amazon Fresh Delivery Slot Detector: Notify user by text and call when new delivery window is released which was otherwise unavailable due to increased demand using Python, Selenium and Twilio.
 - [costco_monitoring](https://github.com/BlessedAndy/costco_monitoring) - 
 - [co2meter](https://github.com/vfilimonov/co2meter) - A Python library for USB CO2 meter
