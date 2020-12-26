@@ -761,6 +761,7 @@
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
 - [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SNS).
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
 - [miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
 - [oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
@@ -1740,6 +1741,7 @@
 
 ## JavaScript 
 
+- [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - 3D mapping engine for the web
 - [ndjson.js](https://github.com/ndjson/ndjson.js) - Streaming line delimited json parser + serializer
 - [aliaser](https://github.com/diracdeltas/aliaser) - 
 - [color-of-berlin](https://github.com/laurendorman/color-of-berlin) - A Twitter bot that tweets the color of the sky in Berlin.
@@ -3616,7 +3618,6 @@
 - [vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
