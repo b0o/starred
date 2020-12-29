@@ -729,6 +729,7 @@
 
 ## Go 
 
+- [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [galene](https://github.com/jech/galene) - The Galène videoconferencing server
 - [fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -2575,7 +2576,7 @@
 
 ## Others 
 
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
 - [Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
 - [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
@@ -2783,6 +2784,7 @@
 
 ## Python 
 
+- [micro-displays](https://github.com/igbit/micro-displays) - Micro Displays for Raspberry Pi
 - [plugin.video.zoneminder](https://github.com/petegallagher/plugin.video.zoneminder) - Zoneminder addon for Kodi
 - [abs_cd](https://github.com/bionade24/abs_cd) - CI/CD for the Arch build system with webinterface.
 - [ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
@@ -3207,6 +3209,9 @@
 
 ## Rust 
 
+- [stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
+- [spline](https://github.com/linebender/spline) - A spline for interactive 2D curve design
+- [hstr-rs](https://github.com/adder46/hstr-rs) - hstr, but with paging
 - [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
 - [intermodal](https://github.com/casey/intermodal) - 📦 Intermodal: A 40' foot shipping container for the internet
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -3335,7 +3340,7 @@
 - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [faster](https://github.com/AdamNiederer/faster) - SIMD for humans
@@ -3637,7 +3642,7 @@
 - [isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
-- [yalc](https://github.com/whitecolor/yalc) - Work with yarn/npm packages locally like a boss.
+- [yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
 - [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
@@ -4027,7 +4032,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
