@@ -118,6 +118,7 @@
 
 ## C 
 
+- [ctl](https://github.com/glouw/ctl) - The C Template Library
 - [basu](https://github.com/emersion/basu) - The sd-bus library, extracted from systemd
 - [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -1618,6 +1619,7 @@
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 
 ## Haml 
@@ -1679,7 +1681,6 @@
 - [brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
 - [wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine
 - [directory-tree](https://github.com/dmwit/directory-tree) - A simple directory-like tree datatype, with useful IO functions, for Haskell
 - [graphmod](https://github.com/yav/graphmod) - A utility for displaying the module dependencies of Haskell programs.
@@ -1742,6 +1743,8 @@
 
 ## JavaScript 
 
+- [offline-arch-wiki](https://github.com/greg-js/offline-arch-wiki) - Tool for scraping the arch wiki and keeping a local version updated
+- [webgl-globe](https://github.com/dataarts/webgl-globe) - WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.
 - [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - 3D mapping engine for the web
 - [ndjson.js](https://github.com/ndjson/ndjson.js) - Streaming line delimited json parser + serializer
 - [aliaser](https://github.com/diracdeltas/aliaser) - 
@@ -1780,7 +1783,6 @@
 - [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
@@ -2379,7 +2381,7 @@
 - [lua-sway](https://github.com/norcalli/lua-sway) - A Lua module for interfacing with sway via IPC.
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [opm](https://github.com/openresty/opm) - OpenResty Package Manager
 - [dotfiles](https://github.com/huyvohcmc/dotfiles) - personal dotfiles backup
 - [lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
@@ -2807,6 +2809,7 @@
 - [high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
 - [cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
 - [chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
@@ -3166,6 +3169,7 @@
 
 ## Ruby 
 
+- [remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 - [guard](https://github.com/guard/guard) - Guard is a command line tool to easily handle events on file system modifications.
 - [awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:
@@ -3615,6 +3619,7 @@
 
 ## TypeScript 
 
+- [github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript.
 - [billiards](https://github.com/tailuge/billiards) - billiards
@@ -3780,6 +3785,7 @@
 
 ## Vim script 
 
+- [vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro
 - [deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for NeoVim and Vim8.
 - [vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 - [vim-maktaba](https://github.com/google/vim-maktaba) - Consistent Vimscript
