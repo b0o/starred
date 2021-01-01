@@ -608,7 +608,7 @@
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
-- [babashka](https://github.com/borkdude/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+- [babashka](https://github.com/babashka/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
@@ -730,6 +730,7 @@
 
 ## Go 
 
+- [ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [galene](https://github.com/jech/galene) - The Galène videoconferencing server
 - [fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
@@ -1564,6 +1565,7 @@
 
 ## HTML 
 
+- [List_of_SMS_gateways](https://github.com/mfitzp/List_of_SMS_gateways) - This content was previously available on WikiPedia but deleted as not really encylopaedia-worthy. Since an article of mine was originally a major source for the data in the page, I took a copy for posterity. It's now here on Github, reformatted as an editable CSV file and publicly editable by all.
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
@@ -1619,7 +1621,6 @@
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 
 ## Haml 
@@ -1681,6 +1682,7 @@
 - [brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
 - [wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine
 - [directory-tree](https://github.com/dmwit/directory-tree) - A simple directory-like tree datatype, with useful IO functions, for Haskell
 - [graphmod](https://github.com/yav/graphmod) - A utility for displaying the module dependencies of Haskell programs.
@@ -1743,6 +1745,8 @@
 
 ## JavaScript 
 
+- [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
+- [email-to-phone](https://github.com/jefftham/email-to-phone) - Lookup the carrier and sms / mms gateway email addresses for a given company name
 - [offline-arch-wiki](https://github.com/greg-js/offline-arch-wiki) - Tool for scraping the arch wiki and keeping a local version updated
 - [webgl-globe](https://github.com/dataarts/webgl-globe) - WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.
 - [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - 3D mapping engine for the web
@@ -2222,7 +2226,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -2368,6 +2372,7 @@
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
+- [dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [snippets.nvim](https://github.com/norcalli/snippets.nvim) - 
 - [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
@@ -2578,6 +2583,7 @@
 
 ## Others 
 
+- [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
 - [Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
@@ -3213,6 +3219,7 @@
 
 ## Rust 
 
+- [sonyflake-rs](https://github.com/bahlo/sonyflake-rs) - 🃏 A distributed unique ID generator inspired by Twitter's Snowflake.
 - [stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [spline](https://github.com/linebender/spline) - A spline for interactive 2D curve design
 - [hstr-rs](https://github.com/adder46/hstr-rs) - hstr, but with paging
@@ -3619,6 +3626,7 @@
 
 ## TypeScript 
 
+- [figma-tokens](https://github.com/six7/figma-tokens) - Official Repo of the Figma Plugin 'Figma Tokens'
 - [github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript.
@@ -3813,7 +3821,6 @@
 - [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
 - [vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
-- [dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
 - [openai.vim](https://github.com/jessfraz/openai.vim) - OpenAI GPT-3 plugin for vim.
 - [vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
 - [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
