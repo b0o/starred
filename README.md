@@ -1581,6 +1581,7 @@
 - [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
+- [link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [proposal-relative-indexing-method](https://github.com/tc39/proposal-relative-indexing-method) - A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)
@@ -1745,6 +1746,7 @@
 
 ## JavaScript 
 
+- [stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [email-to-phone](https://github.com/jefftham/email-to-phone) - Lookup the carrier and sms / mms gateway email addresses for a given company name
 - [offline-arch-wiki](https://github.com/greg-js/offline-arch-wiki) - Tool for scraping the arch wiki and keeping a local version updated
@@ -1866,7 +1868,6 @@
 - [better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
 - [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
-- [link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser
 - [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
@@ -2792,6 +2793,7 @@
 
 ## Python 
 
+- [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [micro-displays](https://github.com/igbit/micro-displays) - Micro Displays for Raspberry Pi
 - [plugin.video.zoneminder](https://github.com/petegallagher/plugin.video.zoneminder) - Zoneminder addon for Kodi
 - [abs_cd](https://github.com/bionade24/abs_cd) - CI/CD for the Arch build system with webinterface.
