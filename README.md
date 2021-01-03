@@ -118,6 +118,7 @@
 
 ## C 
 
+- [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [ctl](https://github.com/glouw/ctl) - The C Template Library
 - [basu](https://github.com/emersion/basu) - The sd-bus library, extracted from systemd
 - [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
@@ -730,6 +731,7 @@
 
 ## Go 
 
+- [Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
 - [ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [galene](https://github.com/jech/galene) - The Galène videoconferencing server
@@ -1157,7 +1159,7 @@
 - [iox](https://github.com/crawshaw/iox) - Go I/O utilities
 - [gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a "bang line" in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code.
 - [gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using dot (Graphviz)
+- [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [goloader](https://github.com/dearplain/goloader) - load and run golang code at runtime. (WARNING: this repo has not been maintained for a long time, please take a look at https://github.com/pkujhd/goloader)
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
@@ -1581,7 +1583,6 @@
 - [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
-- [link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [proposal-relative-indexing-method](https://github.com/tc39/proposal-relative-indexing-method) - A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)
@@ -1868,6 +1869,7 @@
 - [better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
 - [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
+- [link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser
 - [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
@@ -2584,6 +2586,7 @@
 
 ## Others 
 
+- [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
@@ -2793,6 +2796,8 @@
 
 ## Python 
 
+- [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
+- [youtube-music-tabfs](https://github.com/junhoyeo/youtube-music-tabfs) - Python Proof of Concept for retrieving Now Playing on YouTube Music with TabFS
 - [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [micro-displays](https://github.com/igbit/micro-displays) - Micro Displays for Raspberry Pi
 - [plugin.video.zoneminder](https://github.com/petegallagher/plugin.video.zoneminder) - Zoneminder addon for Kodi
@@ -3221,6 +3226,8 @@
 
 ## Rust 
 
+- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
+- [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [sonyflake-rs](https://github.com/bahlo/sonyflake-rs) - 🃏 A distributed unique ID generator inspired by Twitter's Snowflake.
 - [stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [spline](https://github.com/linebender/spline) - A spline for interactive 2D curve design
