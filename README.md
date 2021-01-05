@@ -751,7 +751,7 @@
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [fileglob](https://github.com/goreleaser/fileglob) - A file globbing library.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
-- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
+- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [haulage](https://github.com/uw-ictd/haulage) - A golang tool for measuring and logging network usage to allow billing and analysis
 - [imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
