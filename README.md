@@ -36,6 +36,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haml](#haml)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [JSON](#json)
@@ -89,6 +90,7 @@
   - [Vue](#vue)
   - [YARA](#yara)
   - [Zig](#zig)
+  - [sed](#sed)
 
 ## ActionScript 
 
@@ -118,6 +120,7 @@
 
 ## C 
 
+- [v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 - [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [ctl](https://github.com/glouw/ctl) - The C Template Library
 - [basu](https://github.com/emersion/basu) - The sd-bus library, extracted from systemd
@@ -586,7 +589,6 @@
 - [prestashop-icon-font](https://github.com/PrestaShop/prestashop-icon-font) - An open source icon pack made with love by the PrestaShop design team. You can use it everywhere to make your designs and websites look awesome.
 - [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
-- [open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
 - [css-diner](https://github.com/flukeout/css-diner) - CSS Diner
 - [kuhn](https://github.com/mor10/kuhn) - WordPress theme featuring CSS Grid layouts via aggressive progressive enhancement. Proof of concept to get the conversation about what CSS Grid means for WordPress themes started. Currently running live at https://mor10.com
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -731,6 +733,10 @@
 
 ## Go 
 
+- [corpus](https://github.com/mvdan/corpus) - A corpus of popular Go modules
+- [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+- [rf](https://github.com/rsc/rf) - A refactoring tool for Go
+- [minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
 - [ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -763,7 +769,7 @@
 - [diode_go_client](https://github.com/diodechain/diode_go_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diodechain.
 - [woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
-- [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit
+- [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
 - [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SNS).
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
@@ -1629,6 +1635,10 @@
 
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
+## Handlebars 
+
+- [open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
+
 ## Haskell 
 
 - [directory-contents](https://github.com/obsidiansystems/directory-contents) - Recursively build a tree of directory contents, avoiding symlink cycles
@@ -1747,6 +1757,8 @@
 
 ## JavaScript 
 
+- [ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
+- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [email-to-phone](https://github.com/jefftham/email-to-phone) - Lookup the carrier and sms / mms gateway email addresses for a given company name
@@ -2165,7 +2177,7 @@
 - [redux-loop](https://github.com/redux-loop/redux-loop) - A library that ports Elm's effect system to Redux
 - [pluralsight-redux-starter](https://github.com/coryhouse/pluralsight-redux-starter) - Completed Dev Environment for "Building Applications with React and Redux" on Pluralsight
 - [booom](https://github.com/Aerolab/booom) - Dribbble Enhancement Suite
-- [chokidar](https://github.com/paulmillr/chokidar) - An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
+- [chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
 - [redux-localstorage](https://github.com/elgerlambert/redux-localstorage) - Store enhancer that syncs (a subset) of your Redux store state to localstorage.
@@ -2367,6 +2379,8 @@
 
 ## Lua 
 
+- [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
+- [luxure](https://github.com/FreeMasen/luxure) - An HTTP server framework for lua
 - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
@@ -2586,6 +2600,7 @@
 
 ## Others 
 
+- [microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
 - [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -3182,6 +3197,7 @@
 
 ## Ruby 
 
+- [licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
 - [remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 - [guard](https://github.com/guard/guard) - Guard is a command line tool to easily handle events on file system modifications.
@@ -3226,6 +3242,7 @@
 
 ## Rust 
 
+- [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
 - [rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
@@ -3397,6 +3414,7 @@
 
 ## Shell 
 
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
 - [scripts](https://github.com/epitron/scripts) - Scripts; handy.
@@ -4068,6 +4086,10 @@
 
 - [river](https://github.com/ifreund/river) - A dynamic tiling wayland compositor
 - [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## sed 
+
+- [nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 
 
 ## License
