@@ -466,7 +466,7 @@
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [sdcv](https://github.com/Dushistov/sdcv) - 
-- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [HookCase](https://github.com/steven-michaud/HookCase) - Tool for reverse engineering macOS/OS X
 - [serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
@@ -2103,6 +2103,7 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [docs](https://github.com/monzo/docs) - Public API documentation
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [fourth-wall](https://github.com/alphagov/fourth-wall) - Pull request and build status monitor
 - [Dashboard](https://github.com/marvelapp/Dashboard) - A dashboard to show what your design team is working on. Written in React.
@@ -3557,7 +3558,6 @@
 - [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
 - [n](https://github.com/tj/n) - Node version management
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [clang-ctags](https://github.com/drothlis/clang-ctags) - Generate tag file for C++ source code, using the clang C++ compiler's parsing libraries
 - [debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [docker-cabal-build](https://github.com/marcelhuberfoo/docker-cabal-build) - 
