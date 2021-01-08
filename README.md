@@ -1764,7 +1764,7 @@
 - [email-to-phone](https://github.com/jefftham/email-to-phone) - Lookup the carrier and sms / mms gateway email addresses for a given company name
 - [offline-arch-wiki](https://github.com/greg-js/offline-arch-wiki) - Tool for scraping the arch wiki and keeping a local version updated
 - [webgl-globe](https://github.com/dataarts/webgl-globe) - WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.
-- [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - 3D mapping engine for the web
+- [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - Mobile-first 3D mapping engine with emphasis on user experience
 - [ndjson.js](https://github.com/ndjson/ndjson.js) - Streaming line delimited json parser + serializer
 - [aliaser](https://github.com/diracdeltas/aliaser) - 
 - [color-of-berlin](https://github.com/laurendorman/color-of-berlin) - A Twitter bot that tweets the color of the sky in Berlin.
@@ -2565,7 +2565,7 @@
 - [core](https://github.com/janestreet/core) - Jane Street Capital's standard library overlay
 - [incremental](https://github.com/janestreet/incremental) - A library for incremental computations
 - [ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
-- [reason](https://github.com/facebook/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Objective-C 
@@ -3320,7 +3320,7 @@
 - [nnsplit](https://github.com/bminixhofer/nnsplit) - Semantic text segmentation. For sentence boundary detection, compound splitting and more.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-- [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Track and synchronize installed packages
+- [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
 - [rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
@@ -3822,6 +3822,9 @@
 
 ## Vim script 
 
+- [vim-scrolloff-fraction](https://github.com/drzel/vim-scrolloff-fraction) - scrolloff as a fraction of window height
+- [neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
+- [vinarise.vim](https://github.com/Shougo/vinarise.vim) - Ultimate hex editing system with Vim
 - [vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro
 - [deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for NeoVim and Vim8.
 - [vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
@@ -3941,7 +3944,7 @@
 - [calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [vim-perl](https://github.com/vim-perl/vim-perl) - Support for Perl 5 in Vim
 - [notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [SudoEdit.vim](https://github.com/chrisbra/SudoEdit.vim) - Edit Files using sudo or su or any other tool
