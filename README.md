@@ -1286,7 +1286,7 @@
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [cachecmd](https://github.com/haya14busa/cachecmd) - cache command!
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
@@ -3023,7 +3023,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
 - [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
-- [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
+- [rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
 - [dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
 - [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [api](https://github.com/pushshift/api) - Pushshift API
