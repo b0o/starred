@@ -2313,7 +2313,7 @@
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Docs at https://github.com/wekan/wekan-doc/wiki . Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [BarbBlock](https://github.com/paulgb/BarbBlock) - Chrome extension which blocks requests to sites which have used legal threats to remove themselves from other blacklists.
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -2812,6 +2812,7 @@
 
 ## Python 
 
+- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [youtube-music-tabfs](https://github.com/junhoyeo/youtube-music-tabfs) - Python Proof of Concept for retrieving Now Playing on YouTube Music with TabFS
 - [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
@@ -3030,7 +3031,7 @@
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
@@ -3243,6 +3244,7 @@
 
 ## Rust 
 
+- [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
 - [rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
