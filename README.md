@@ -1592,7 +1592,7 @@
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [proposal-relative-indexing-method](https://github.com/tc39/proposal-relative-indexing-method) - A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)
-- [DataSciSpring2020](https://github.com/kevinlanning/DataSciSpring2020) - 
+- [DataSciSpring2021](https://github.com/kevinlanning/DataSciSpring2021) - 
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [christmas](https://github.com/shannonmoeller/christmas) - Is it Christmas?
@@ -2313,7 +2313,7 @@
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Docs at https://github.com/wekan/wekan-doc/wiki . Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [BarbBlock](https://github.com/paulgb/BarbBlock) - Chrome extension which blocks requests to sites which have used legal threats to remove themselves from other blacklists.
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -2380,6 +2380,7 @@
 
 ## Lua 
 
+- [sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [luxure](https://github.com/FreeMasen/luxure) - An HTTP server framework for lua
 - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:
@@ -2850,7 +2851,7 @@
 - [i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
 - [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [orgformat](https://github.com/novoid/orgformat) - Utility library for providing functions to generate and modify Org mode syntax elements like links, time-stamps, or date-stamps.
-- [archmanweb](https://github.com/lahwaacz/archmanweb) - Codebase for the Arch manual pages repository
+- [archmanweb](https://github.com/archlinux/archmanweb) - Codebase for the Arch manual pages repository (read-only mirror)
 - [Zydra](https://github.com/hamedA2/Zydra) - 
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [digital-signage-client](https://github.com/rcarmo/digital-signage-client) - Lightweight Digital Signage solution for the Raspberry Pi
@@ -3767,7 +3768,7 @@
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
 - [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
-- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
