@@ -733,6 +733,8 @@
 
 ## Go 
 
+- [melody](https://github.com/bonjourmalware/melody) - Melody is a transparent internet sensor built for threat intelligence. Supports custom tagging rules and vulnerable application simulation.
+- [hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
 - [corpus](https://github.com/mvdan/corpus) - A corpus of popular Go modules
 - [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [rf](https://github.com/rsc/rf) - A refactoring tool for Go
@@ -1311,7 +1313,7 @@
 - [media-search](https://github.com/orijtech/media-search) - Media search's code
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [aws-go-developer-guide](https://github.com/awsdocs/aws-go-developer-guide) - AWS SDK for Go Developer Guide
-- [phi](https://github.com/felixangell/phi) - phi code-editor; definitely not to be confused phonetically with vi
+- [phi](https://github.com/felixangell/phi) - phi: gpu accelerated code-editor; definitely not to be confused phonetically with vi.
 - [zwfp](https://github.com/vedhavyas/zwfp) - Zero-Width fingerprinting
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go
 - [go-vcs](https://github.com/sourcegraph/go-vcs) - manipulate and inspect VCS repositories in Go
@@ -1573,6 +1575,7 @@
 
 ## HTML 
 
+- [UPduino-v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) - UPduino 3.0: new 4 layer layout, various other improvements
 - [List_of_SMS_gateways](https://github.com/mfitzp/List_of_SMS_gateways) - This content was previously available on WikiPedia but deleted as not really encylopaedia-worthy. Since an article of mine was originally a major source for the data in the page, I took a copy for posterity. It's now here on Github, reformatted as an editable CSV file and publicly editable by all.
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -1757,6 +1760,8 @@
 
 ## JavaScript 
 
+- [ga-lite](https://github.com/jehna/ga-lite) - Small, cacheable and open version of Google Analytics JS client
+- [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
@@ -2457,6 +2462,7 @@
 
 ## OCaml 
 
+- [rehp](https://github.com/jordwalke/rehp) - ReHp
 - [decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
 - [spin](https://github.com/tmattio/spin) - Reason and OCaml project generator.
 - [doggybag](https://github.com/Armael/doggybag) - take-away binaries
@@ -3245,6 +3251,7 @@
 
 ## Rust 
 
+- [atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
@@ -3418,6 +3425,7 @@
 
 ## Shell 
 
+- [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
@@ -3658,6 +3666,9 @@
 
 ## TypeScript 
 
+- [passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
+- [react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber
 - [figma-tokens](https://github.com/six7/figma-tokens) - Official Repo of the Figma Plugin 'Figma Tokens'
 - [github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
@@ -3825,6 +3836,7 @@
 
 ## Vim script 
 
+- [mru](https://github.com/yegappan/mru) - Most Recently Used (MRU) Vim Plugin
 - [vim-scrolloff-fraction](https://github.com/drzel/vim-scrolloff-fraction) - scrolloff as a fraction of window height
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [vinarise.vim](https://github.com/Shougo/vinarise.vim) - Ultimate hex editing system with Vim
@@ -4054,6 +4066,7 @@
 
 ## VimL 
 
+- [VisIncr](https://github.com/vim-scripts/VisIncr) - Produce increasing/decreasing columns of numbers, dates, or daynames
 - [shellcheck.vim](https://github.com/kawaz/shellcheck.vim) - 
 - [minivimrc](https://github.com/bling/minivimrc) - a tiny vimrc to be used primarily for troubleshooting plugins
 - [mediawiki.vim](https://github.com/chikamichi/mediawiki.vim) - Syntax highlighting for MediaWiki-based projects, such as Wikipedia.
