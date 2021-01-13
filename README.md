@@ -139,6 +139,7 @@
 - [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [tpm-luks](https://github.com/shpedoikal/tpm-luks) - LUKS support for storing keys in TPM NVRAM
 - [MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
 - [font-chef](https://github.com/mobius3/font-chef) - A font cooking library
@@ -733,6 +734,7 @@
 
 ## Go 
 
+- [juicefs](https://github.com/juicedata/juicefs) - A distributed POSIX file system built on top of Redis and S3.
 - [melody](https://github.com/bonjourmalware/melody) - Melody is a transparent internet sensor built for threat intelligence. Supports custom tagging rules and vulnerable application simulation.
 - [hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
 - [corpus](https://github.com/mvdan/corpus) - A corpus of popular Go modules
@@ -804,7 +806,6 @@
 - [xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [go-signalcontext](https://github.com/sethvargo/go-signalcontext) - Create Go contexts that cancel on signals.
 - [remark42](https://github.com/umputun/remark42) - comment engine
-- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [scoot](https://github.com/twitter/scoot) - Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
@@ -949,7 +950,7 @@
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [mdcat](https://github.com/pyr/mdcat) - terminal markdown cat
 - [react](https://github.com/rocketlaunchr/react) - Super lightweight Go bindings for react.js
-- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
+- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
@@ -1567,7 +1568,7 @@
 
 ## Groovy 
 
-- [cityengine-sdk](https://github.com/Esri/cityengine-sdk) - This is the official site for the SDK of CityEngine, a 3D city modeling software for urban design, visual effects, and VR/AR production.
+- [cityengine-sdk](https://github.com/Esri/cityengine-sdk) - CityEngine is a 3D city modeling software for urban design, visual effects, and VR/AR production. With its C++ SDK you can create plugins and standalone apps capable to execute CityEngine CGA procedural modeling rules.
 
 ## HCL 
 
@@ -1760,6 +1761,7 @@
 
 ## JavaScript 
 
+- [Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [ga-lite](https://github.com/jehna/ga-lite) - Small, cacheable and open version of Google Analytics JS client
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
@@ -2155,7 +2157,7 @@
 - [xdg-basedir](https://github.com/sindresorhus/xdg-basedir) - Get XDG Base Directory paths
 - [yargs-parser](https://github.com/yargs/yargs-parser) - :muscle: the mighty option parser used by yargs
 - [mz](https://github.com/normalize/mz) - modernize node.js to current ECMAScript standards
-- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2019: trends about front-end and Node.js frameworks, tooling, testing, Vue, React... Available in English, Chinese and Spanish
+- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2020: trends about front-end and Node.js frameworks, tooling, testing, Vue, React...
 - [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [dzen2](https://github.com/goto-bus-stop/dzen2) - Use dzen2 from Node.js.
 - [levelup](https://github.com/Level/levelup) - A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
@@ -2369,7 +2371,7 @@
 - [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
 - [speed_mystery](https://github.com/panicinc/speed_mystery) - Data collected to investigate why Comcast customers have slow downloads from our site
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
-- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for S3
+- [quilt](https://github.com/quiltdata/quilt) - Quilt is a self-organizing data hub for S3
 - [NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) - What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
 - [fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) - Multilingual word vectors in 78 languages
 
@@ -3127,7 +3129,7 @@
 - [gitsuggest](https://github.com/csurfer/gitsuggest) - A tool to suggest github repositories based on the repositories you have shown interest in.
 - [ambient-shipping](https://github.com/marcdacosta/ambient-shipping) - This repo contains utilities for capturing AIS messages and joining them with shipping records.
 - [searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Bungee](https://github.com/djrrb/Bungee) - A chromatic signage typeface for vertical and horizontal setting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
@@ -3251,6 +3253,45 @@
 
 ## Rust 
 
+- [eventually-rs](https://github.com/eventually-rs/eventually-rs) - Event Sourcing for Rust
+- [ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
+- [bulletproofs](https://github.com/dalek-cryptography/bulletproofs) - A pure-Rust implementation of Bulletproofs using Ristretto.
+- [AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers
+- [stream-ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms
+- [password-hashes](https://github.com/RustCrypto/password-hashes) - Password-based key derivation functions
+- [signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: ECDSA, Ed25519
+- [hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
+- [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib
+- [MLA](https://github.com/ANSSI-FR/MLA) - Multi Layer Archive - A pure rust encrypted and compressed archive file format
+- [wasm-language-server](https://github.com/wasm-lsp/wasm-language-server) - A language server for WebAssembly
+- [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
+- [rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
+- [cargo-nono](https://github.com/hobofan/cargo-nono) - Check your crate for (possible) no_std compatibility
+- [rust-compression](https://github.com/chalharu/rust-compression) - Compression libraries implemented by pure Rust.
+- [ultron](https://github.com/ivanceras/ultron) - Web base text editor written in rust
+- [peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
+- [gimli](https://github.com/gimli-rs/gimli) - A blazing fast library for consuming the DWARF debugging format
+- [object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
+- [parze](https://github.com/zesterer/parze) - A clean, efficient parser combinator
+- [veloren](https://github.com/veloren/veloren) - [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World
+- [flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
+- [watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
+- [spanr](https://github.com/Diggsey/spanr) - Procedural macro span debugger/visualizer
+- [inline-proc](https://github.com/KaiJewson/inline-proc) - Inline procedural macros for Rust
+- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [macro-compose](https://github.com/Freax13/macro-compose) - 
+- [case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
+- [thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+- [anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
+- [async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
+- [async-trait-ext](https://github.com/Freax13/async-trait-ext) - 
+- [tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
+- [tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
+- [amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
+- [ron](https://github.com/ron-rs/ron) - Rusty Object Notation
+- [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure, state management techniques, and how to maximally leverage the power of language by shifting OS responsibilities into the compiler.
 - [atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
@@ -3425,6 +3466,7 @@
 
 ## Shell 
 
+- [pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite.
 - [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
