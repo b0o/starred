@@ -120,6 +120,7 @@
 
 ## C 
 
+- [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 - [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [ctl](https://github.com/glouw/ctl) - The C Template Library
@@ -2822,6 +2823,7 @@
 
 ## Python 
 
+- [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [youtube-music-tabfs](https://github.com/junhoyeo/youtube-music-tabfs) - Python Proof of Concept for retrieving Now Playing on YouTube Music with TabFS
@@ -3171,6 +3173,7 @@
 
 ## R 
 
+- [ggx](https://github.com/brandmaier/ggx) - ggx
 - [splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
 - [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
@@ -3467,6 +3470,7 @@
 
 ## Shell 
 
+- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite.
 - [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -3602,7 +3606,7 @@
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [dotfiles](https://github.com/avelino/dotfiles) - personal files
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
-- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
+- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [dotfiles](https://github.com/dguo/dotfiles) - :computer: Personal dotfiles and system configuration
