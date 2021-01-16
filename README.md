@@ -735,6 +735,8 @@
 
 ## Go 
 
+- [gotubecast](https://github.com/cbix/gotubecast) - DIY YouTube TV
+- [nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [melody](https://github.com/bonjourmalware/melody) - Melody is a transparent internet sensor built for threat intelligence. Supports custom tagging rules and vulnerable application simulation.
 - [hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
@@ -1442,7 +1444,7 @@
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [paicehusk](https://github.com/rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm
 - [ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
-- [golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.
+- [golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [xquery](https://github.com/antchfx/xquery) - Extract data or evaluate value from HTML/XML documents using XPath
 - [gdd](https://github.com/allada/gdd) - Go Debugger using Google Chrome Devtools
 - [liner](https://github.com/peterh/liner) - Pure Go line editor with history, inspired by linenoise
@@ -3212,6 +3214,7 @@
 
 ## Ruby 
 
+- [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
 - [remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
@@ -3257,6 +3260,8 @@
 
 ## Rust 
 
+- [amber](https://github.com/dalance/amber) - A code search / replace tool
+- [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [eventually-rs](https://github.com/eventually-rs/eventually-rs) - Event Sourcing for Rust
 - [ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [bulletproofs](https://github.com/dalek-cryptography/bulletproofs) - A pure-Rust implementation of Bulletproofs using Ristretto.
@@ -3687,6 +3692,7 @@
 
 ## Swift 
 
+- [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
 - [Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) - 
@@ -3713,6 +3719,7 @@
 
 ## TypeScript 
 
+- [youtube-tv-desktop](https://github.com/etylermoss/youtube-tv-desktop) - Electron wrapper for youtube.com/tv.
 - [passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
 - [react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber
