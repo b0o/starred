@@ -16,6 +16,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [CodeQL](#codeql)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
   - [Coq](#coq)
@@ -624,6 +625,10 @@
 - [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
+## CodeQL 
+
+- [codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+
 ## CoffeeScript 
 
 - [badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
@@ -735,6 +740,7 @@
 
 ## Go 
 
+- [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
 - [gotubecast](https://github.com/cbix/gotubecast) - DIY YouTube TV
 - [nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -1661,7 +1667,7 @@
 - [wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
 - [Taut](https://github.com/srid/Taut) - An ambitious Slack JSON export viewer.
-- [neuron](https://github.com/srid/neuron) - Future-proof and simple-to-use notes system based on Zettelkasten.
+- [neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
@@ -1765,6 +1771,7 @@
 
 ## JavaScript 
 
+- [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th.
 - [Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [ga-lite](https://github.com/jehna/ga-lite) - Small, cacheable and open version of Google Analytics JS client
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
@@ -2365,6 +2372,7 @@
 
 ## Jupyter Notebook 
 
+- [covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
@@ -2468,6 +2476,8 @@
 
 ## OCaml 
 
+- [dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml
+- [caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: An Erlang backend to the OCaml compiler
 - [rehp](https://github.com/jordwalke/rehp) - ReHp
 - [decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
 - [spin](https://github.com/tmattio/spin) - Reason and OCaml project generator.
@@ -2825,6 +2835,7 @@
 
 ## Python 
 
+- [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
@@ -2883,7 +2894,7 @@
 - [notify-send.py](https://github.com/phuhl/notify-send.py) - A python-script like libnotify but with improved functionality
 - [TubeTool](https://github.com/zeffii/TubeTool) - generate tubing between two selected polygons  (now supports 2 objects simultaneously in edit mode) b2.8+
 - [piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
-- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
+- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
 - [police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
@@ -3260,6 +3271,9 @@
 
 ## Rust 
 
+- [regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+- [term](https://github.com/Stebalien/term) - A Rust library for terminfo parsing and terminal colors.
+- [fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [amber](https://github.com/dalance/amber) - A code search / replace tool
 - [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [eventually-rs](https://github.com/eventually-rs/eventually-rs) - Event Sourcing for Rust
@@ -3475,6 +3489,8 @@
 
 ## Shell 
 
+- [backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
+- [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite.
 - [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
@@ -3872,6 +3888,7 @@
 
 ## Vala 
 
+- [applications-menu](https://github.com/elementary/applications-menu) - Applications Menu for elementary OS and the Pantheon desktop environment
 - [calendar](https://github.com/elementary/calendar) - Desktop calendar app designed for elementary OS
 - [plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application
 - [redshift-scheduler](https://github.com/spantaleev/redshift-scheduler) - Rule-based screen temperature changer (like redshift)
