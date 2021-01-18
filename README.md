@@ -121,6 +121,7 @@
 
 ## C 
 
+- [superlongexposure](https://github.com/cnlohr/superlongexposure) - FFMPEG-based tool for non-linear compositing video into long exposures.
 - [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 - [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
@@ -301,7 +302,7 @@
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from stdin or a file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to stdout for further processing.
+- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -740,6 +741,7 @@
 
 ## Go 
 
+- [xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
 - [gotubecast](https://github.com/cbix/gotubecast) - DIY YouTube TV
 - [nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
@@ -1624,7 +1626,7 @@
 - [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
-- [megadesk](https://github.com/gcormier/megadesk) - Open-source Bekant controller board
+- [megadesk](https://github.com/gcormier/megadesk) - Open-source IKEA Bekant controller board
 - [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
@@ -3366,7 +3368,7 @@
 - [runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
 - [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [egui](https://github.com/emilk/egui) - egui: Immediate mode GUI written in Rust, made for WASM
+- [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
