@@ -121,6 +121,8 @@
 
 ## C 
 
+- [lrmi](https://github.com/mqudsi/lrmi) - Linux Real Mode Interface
+- [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [superlongexposure](https://github.com/cnlohr/superlongexposure) - FFMPEG-based tool for non-linear compositing video into long exposures.
 - [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
@@ -741,6 +743,8 @@
 
 ## Go 
 
+- [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
+- [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
 - [xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
 - [gotubecast](https://github.com/cbix/gotubecast) - DIY YouTube TV
@@ -1773,7 +1777,8 @@
 
 ## JavaScript 
 
-- [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th.
+- [jest-clean-console-reporter](https://github.com/jevakallio/jest-clean-console-reporter) - A Jest Reporter to group, hide and prettify spammy console warnings
+- [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [ga-lite](https://github.com/jehna/ga-lite) - Small, cacheable and open version of Google Analytics JS client
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
@@ -2237,7 +2242,7 @@
 - [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [material-ui-docs](https://github.com/mui-org/material-ui-docs) - ⚠️This repository is read-only. Please don't submit PRs here as they will be closed. To submit translations please visit https://translate.material-ui.com. To edit the English docs or source code, please use the main repository:
-- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
@@ -2292,7 +2297,6 @@
 - [next.js](https://github.com/vercel/next.js) - The React Framework
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [fancy-log](https://github.com/gulpjs/fancy-log) - Log things, prefixed with a timestamp.
-- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [schnack](https://github.com/schn4ck/schnack) - 🗣️ Simple self-hosted node app for Disqus-like drop-in commenting on static websites
 - [vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 - [gulp-replace](https://github.com/lazd/gulp-replace) - A string replace plugin for gulp
@@ -2837,6 +2841,7 @@
 
 ## Python 
 
+- [dotfiles](https://github.com/9ary/dotfiles) - Miscellaneous config files
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
@@ -2948,7 +2953,7 @@
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [deoplete-nextword](https://github.com/Shougo/deoplete-nextword) - A deoplete source for nextword for completing words in English.
+- [deoplete-nextword](https://github.com/deoplete-plugins/deoplete-nextword) - A deoplete source for nextword for completing words in English.
 - [jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [securedrop-workstation](https://github.com/freedomofpress/securedrop-workstation) - Qubes-based SecureDrop Journalist Workstation environment for submission handling
@@ -3273,6 +3278,7 @@
 
 ## Rust 
 
+- [yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [term](https://github.com/Stebalien/term) - A Rust library for terminfo parsing and terminal colors.
 - [fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
@@ -3491,6 +3497,8 @@
 
 ## Shell 
 
+- [svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
+- [toolbox](https://github.com/chaotic-aur/toolbox) - Unified kit with all the scripts required for maintaining the repository.
 - [backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -3737,6 +3745,7 @@
 
 ## TypeScript 
 
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [youtube-tv-desktop](https://github.com/etylermoss/youtube-tv-desktop) - Electron wrapper for youtube.com/tv.
 - [passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
@@ -3876,6 +3885,7 @@
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
+- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
