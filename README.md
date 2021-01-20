@@ -121,6 +121,9 @@
 
 ## C 
 
+- [util-linux](https://github.com/karelzak/util-linux) - 
+- [preloader-m1](https://github.com/corellium/preloader-m1) - Preloader for Linux on M1
+- [linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
 - [lrmi](https://github.com/mqudsi/lrmi) - Linux Real Mode Interface
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [superlongexposure](https://github.com/cnlohr/superlongexposure) - FFMPEG-based tool for non-linear compositing video into long exposures.
@@ -706,6 +709,7 @@
 
 ## Elm 
 
+- [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch) - Direct Manipulation Programming for HTML/SVG
 - [nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 - [patchgirl](https://github.com/patchgirl/patchgirl) - Manual reproducible web API tests for web developers
 - [core](https://github.com/elm/core) - Elm's core libraries
@@ -887,7 +891,7 @@
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
 - [sqalx](https://github.com/heetch/sqalx) - Nested transactions for sqlx
 - [baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
-- [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
 - [gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
 - [go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
@@ -1200,7 +1204,6 @@
 - [golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader
-- [thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [go-certlint](https://github.com/crtsh/go-certlint) - Go wrapper for awslabs/certlint
 - [ct_monitor](https://github.com/crtsh/ct_monitor) - Certificate Transparency log monitor
@@ -1661,6 +1664,7 @@
 
 ## Haskell 
 
+- [Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [directory-contents](https://github.com/obsidiansystems/directory-contents) - Recursively build a tree of directory contents, avoiding symlink cycles
 - [dzen-dhall](https://github.com/dzen-dhall/dzen-dhall) - Configure dzen2 bars in Dhall language
 - [learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
@@ -1777,6 +1781,9 @@
 
 ## JavaScript 
 
+- [stacksort](https://github.com/gkoberger/stacksort) - Sorts an array by downloading snippets from StackOverflow. Inspired by http://xkcd.com/1185/. I'm sorry.
+- [pagraphcontrol](https://github.com/futpib/pagraphcontrol) - PulseAudio Graph Control
+- [Siren](https://github.com/cannc4/Siren) - Algorithmic Composition Interface
 - [jest-clean-console-reporter](https://github.com/jevakallio/jest-clean-console-reporter) - A Jest Reporter to group, hide and prettify spammy console warnings
 - [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
@@ -2074,6 +2081,7 @@
 - [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
+- [thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [react-menu-monkey-client](https://github.com/benawad/react-menu-monkey-client) - Frontend for a recipe box website
 - [hooks.guide](https://github.com/Raathigesh/hooks.guide) - 🏗 Collection of React hooks curated by the community
 - [github-reserved-names](https://github.com/Mottie/github-reserved-names) - Get a list, or check if a user or organization name is reserved by GitHub
@@ -2335,7 +2343,7 @@
 - [nsp](https://github.com/nodesecurity/nsp) - node security platform command-line tool
 - [npms-api](https://github.com/npms-io/npms-api) - The https://npms.io API
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [BarbBlock](https://github.com/paulgb/BarbBlock) - Chrome extension which blocks requests to sites which have used legal threats to remove themselves from other blacklists.
@@ -2483,7 +2491,7 @@
 ## OCaml 
 
 - [dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml
-- [caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: An Erlang backend to the OCaml compiler
+- [caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
 - [rehp](https://github.com/jordwalke/rehp) - ReHp
 - [decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
 - [spin](https://github.com/tmattio/spin) - Reason and OCaml project generator.
@@ -2630,6 +2638,7 @@
 
 ## Others 
 
+- [awesome-chrome-devtools](https://github.com/go-rod/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
 - [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
@@ -3214,6 +3223,7 @@
 
 ## Reason 
 
+- [hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
 - [reasonml.org](https://github.com/reason-association/reasonml.org) - Deprecated in favor of rescript-lang.org
@@ -3278,6 +3288,7 @@
 
 ## Rust 
 
+- [miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering for Rust
 - [yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [term](https://github.com/Stebalien/term) - A Rust library for terminfo parsing and terminal colors.
