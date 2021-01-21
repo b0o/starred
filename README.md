@@ -1664,6 +1664,7 @@
 
 ## Haskell 
 
+- [a-tour-of-go-in-haskell](https://github.com/syocy/a-tour-of-go-in-haskell) - Write "Concurrency" section of "A Tour of Go" in Haskell
 - [Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [directory-contents](https://github.com/obsidiansystems/directory-contents) - Recursively build a tree of directory contents, avoiding symlink cycles
 - [dzen-dhall](https://github.com/dzen-dhall/dzen-dhall) - Configure dzen2 bars in Dhall language
@@ -1781,6 +1782,7 @@
 
 ## JavaScript 
 
+- [tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
 - [stacksort](https://github.com/gkoberger/stacksort) - Sorts an array by downloading snippets from StackOverflow. Inspired by http://xkcd.com/1185/. I'm sorry.
 - [pagraphcontrol](https://github.com/futpib/pagraphcontrol) - PulseAudio Graph Control
 - [Siren](https://github.com/cannc4/Siren) - Algorithmic Composition Interface
@@ -1948,7 +1950,7 @@
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -2638,6 +2640,8 @@
 
 ## Others 
 
+- [AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
+- [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 - [awesome-chrome-devtools](https://github.com/go-rod/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
 - [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
@@ -2850,6 +2854,7 @@
 
 ## Python 
 
+- [glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
 - [dotfiles](https://github.com/9ary/dotfiles) - Miscellaneous config files
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
@@ -3288,6 +3293,15 @@
 
 ## Rust 
 
+- [rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [sauron](https://github.com/ivanceras/sauron) - Sauron is an html web framework for building web-apps. It is heavily inspired by elm.
+- [mogwai](https://github.com/schell/mogwai) - The minimalist, obvious, graphical, web application interface
+- [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
+- [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
+- [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
+- [gotham](https://github.com/gotham-rs/gotham) - A flexible web framework that promotes stability, safety, security and speed.
 - [miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering for Rust
 - [yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
@@ -3756,6 +3770,7 @@
 
 ## TypeScript 
 
+- [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [youtube-tv-desktop](https://github.com/etylermoss/youtube-tv-desktop) - Electron wrapper for youtube.com/tv.
 - [passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
