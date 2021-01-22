@@ -828,7 +828,7 @@
 - [dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [scoot](https://github.com/twitter/scoot) - Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
-- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility and ease of use.
 - [go-dork](https://github.com/dwisiswant0/go-dork) - The fastest dork scanner written in Go.
 - [dns](https://github.com/miekg/dns) - DNS library in Go
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
@@ -1782,6 +1782,7 @@
 
 ## JavaScript 
 
+- [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
 - [tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
 - [stacksort](https://github.com/gkoberger/stacksort) - Sorts an array by downloading snippets from StackOverflow. Inspired by http://xkcd.com/1185/. I'm sorry.
 - [pagraphcontrol](https://github.com/futpib/pagraphcontrol) - PulseAudio Graph Control
@@ -1936,7 +1937,7 @@
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [mini_racer](https://github.com/rubyjs/mini_racer) - Minimal embedded v8
 - [fulldom-server](https://github.com/strugee/fulldom-server) - Proxy-like server that will show you the DOM of a page after JS runs
-- [cryptpad](https://github.com/xwiki-labs/cryptpad) - The Encrypted Collaboration Suite
+- [cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
 - [development_favicon](https://github.com/ao5357/development_favicon) - A chrome extension to add color effects to favicons based on URL regex match patterns.
 - [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
@@ -3770,6 +3771,7 @@
 
 ## TypeScript 
 
+- [rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [youtube-tv-desktop](https://github.com/etylermoss/youtube-tv-desktop) - Electron wrapper for youtube.com/tv.
@@ -3779,7 +3781,7 @@
 - [figma-tokens](https://github.com/six7/figma-tokens) - Official Repo of the Figma Plugin 'Figma Tokens'
 - [github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
-- [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript.
+- [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [billiards](https://github.com/tailuge/billiards) - billiards
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
