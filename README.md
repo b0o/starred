@@ -747,6 +747,7 @@
 
 ## Go 
 
+- [uulid.go](https://github.com/sudhirj/uulid.go) - ULID-UUID compatibility library for generating and parsing ULIDs.
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
 - [xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -1664,6 +1665,7 @@
 
 ## Haskell 
 
+- [conduit](https://github.com/snoyberg/conduit) - A streaming data library
 - [a-tour-of-go-in-haskell](https://github.com/syocy/a-tour-of-go-in-haskell) - Write "Concurrency" section of "A Tour of Go" in Haskell
 - [Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [directory-contents](https://github.com/obsidiansystems/directory-contents) - Recursively build a tree of directory contents, avoiding symlink cycles
@@ -2186,7 +2188,7 @@
 - [xdg-basedir](https://github.com/sindresorhus/xdg-basedir) - Get XDG Base Directory paths
 - [yargs-parser](https://github.com/yargs/yargs-parser) - :muscle: the mighty option parser used by yargs
 - [mz](https://github.com/normalize/mz) - modernize node.js to current ECMAScript standards
-- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2020: trends about front-end and Node.js frameworks, tooling, testing, Vue, React...
+- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2020: trends about front-end and Node.js frameworks, tooling, testing, Vue, React, Angular... Available in Spanish, Russian, Chinese, Japanese
 - [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [dzen2](https://github.com/goto-bus-stop/dzen2) - Use dzen2 from Node.js.
 - [levelup](https://github.com/Level/levelup) - A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
@@ -2493,6 +2495,7 @@
 
 ## OCaml 
 
+- [sesame](https://github.com/patricoferris/sesame) - Another static site generator... but in OCaml 🐫
 - [dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml
 - [caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
 - [rehp](https://github.com/jordwalke/rehp) - ReHp
@@ -3294,6 +3297,9 @@
 
 ## Rust 
 
+- [splinter](https://github.com/Cargill/splinter) - A privacy-focused distributed platform - start splintering your network into circuits!
+- [miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+- [fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [sauron](https://github.com/ivanceras/sauron) - Sauron is an html web framework for building web-apps. It is heavily inspired by elm.
 - [mogwai](https://github.com/schell/mogwai) - The minimalist, obvious, graphical, web application interface
