@@ -121,6 +121,7 @@
 
 ## C 
 
+- [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [util-linux](https://github.com/karelzak/util-linux) - 
 - [preloader-m1](https://github.com/corellium/preloader-m1) - Preloader for Linux on M1
 - [linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
@@ -399,6 +400,7 @@
 
 ## C++ 
 
+- [filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
 - [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -802,7 +804,7 @@
 - [oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [goconst](https://github.com/jgautheron/goconst) - Find in Go repeated strings that could be replaced by a constant
-- [dictmaker](https://github.com/knadh/dictmaker) - A stand-alone server for building and publishing dictionary websites. Single binary Go application.
+- [dictmaker](https://github.com/knadh/dictmaker) - A stand-alone web server app for rapidly building and publishing full fledged dictionary websites and APIs for any language.
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
@@ -2418,6 +2420,8 @@
 
 ## Lua 
 
+- [nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
+- [nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5)
 - [sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [luxure](https://github.com/FreeMasen/luxure) - An HTTP server framework for lua
@@ -2495,6 +2499,11 @@
 
 ## OCaml 
 
+- [opam-tools](https://github.com/ocamllabs/opam-tools) - opam plugin to initialise a local development environment for an OCaml project
+- [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
+- [isomagic-todos](https://github.com/jaredly/isomagic-todos) - 
+- [reason-graphql-fullstack](https://github.com/anmonteiro/reason-graphql-fullstack) - Fullstack Reason + GraphQL Todo List App
+- [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml
 - [sesame](https://github.com/patricoferris/sesame) - Another static site generator... but in OCaml 🐫
 - [dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml
 - [caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
@@ -2517,7 +2526,6 @@
 - [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
-- [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
 - [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns
 - [ppx](https://github.com/ocaml-ppx/ppx) - The future of ppx https://discuss.ocaml.org/t/the-future-of-ppx/
