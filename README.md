@@ -3305,6 +3305,7 @@
 
 ## Rust 
 
+- [cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [splinter](https://github.com/Cargill/splinter) - A privacy-focused distributed platform - start splintering your network into circuits!
 - [miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
@@ -3537,6 +3538,7 @@
 
 ## Shell 
 
+- [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [toolbox](https://github.com/chaotic-aur/toolbox) - Unified kit with all the scripts required for maintaining the repository.
 - [backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
@@ -3785,6 +3787,7 @@
 
 ## TypeScript 
 
+- [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
