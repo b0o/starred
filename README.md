@@ -257,6 +257,7 @@
 - [keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source operating system from Apple that forms the basis for OS X, and PureDarwin is a community project to make Darwin more usable. See the Wiki for more information.
 - [wmctrl](https://github.com/dancor/wmctrl) - wmctrl with extensions and 64bit support
 - [expac](https://github.com/falconindy/expac) - alpm data extraction utility
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -749,6 +750,9 @@
 
 ## Go 
 
+- [backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
+- [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
+- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [uulid.go](https://github.com/sudhirj/uulid.go) - ULID-UUID compatibility library for generating and parsing ULIDs.
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
@@ -3538,6 +3542,7 @@
 
 ## Shell 
 
+- [tmpsms](https://github.com/sdushantha/tmpsms) - 📥 A temporary SMS utility right from your terminal written in POSIX sh
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [toolbox](https://github.com/chaotic-aur/toolbox) - Unified kit with all the scripts required for maintaining the repository.
@@ -3660,7 +3665,6 @@
 - [laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
 - [zsh-expand-all](https://github.com/simnalamburt/zsh-expand-all) - :shell: Automatically expands all glob expressions, subcommands, and aliases
 - [mgsloan-dotfiles](https://github.com/mgsloan/mgsloan-dotfiles) - Linux and xmonad configuration files
-- [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source operating system from Apple that forms the basis for OS X, and PureDarwin is a community project to make Darwin more usable. See the Wiki for more information.
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
 - [zsh-hooks](https://github.com/zsh-hooks/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
