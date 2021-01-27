@@ -121,6 +121,9 @@
 
 ## C 
 
+- [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
+- [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [util-linux](https://github.com/karelzak/util-linux) - 
 - [preloader-m1](https://github.com/corellium/preloader-m1) - Preloader for Linux on M1
@@ -273,7 +276,7 @@
 - [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [xremap](https://github.com/k0kubun/xremap) - Dynamic key remapper for X Window System
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
-- [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
+- [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
 - [solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
 - [linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
@@ -419,7 +422,7 @@
 - [pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
 - [LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
-- [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
+- [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [wf-recorder](https://github.com/ammen99/wf-recorder) - 
@@ -568,6 +571,7 @@
 
 ## CSS 
 
+- [birdwatch](https://github.com/twitter/birdwatch) - 
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
@@ -750,6 +754,7 @@
 
 ## Go 
 
+- [walk](https://github.com/ejholmes/walk) - A fast, general purpose, graph based build and task execution utility.
 - [backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
 - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
@@ -1790,6 +1795,7 @@
 
 ## JavaScript 
 
+- [build-an-atom](https://github.com/phetsims/build-an-atom) - "Build an Atom" is an educational simulation in HTML5, by PhET Interactive Simulations.
 - [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
 - [tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
 - [stacksort](https://github.com/gkoberger/stacksort) - Sorts an array by downloading snippets from StackOverflow. Inspired by http://xkcd.com/1185/. I'm sorry.
@@ -1929,7 +1935,6 @@
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
 - [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [chrome-extensions-manager](https://github.com/sigoden/chrome-extensions-manager) - A snapshot based chrome extensions manager
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [api.harmonograph.art](https://github.com/alex-page/api.harmonograph.art) - 👩‍🎨 Draw a harmonograph with a URL
@@ -2530,6 +2535,7 @@
 - [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns
 - [ppx](https://github.com/ocaml-ppx/ppx) - The future of ppx https://discuss.ocaml.org/t/the-future-of-ppx/
@@ -2870,6 +2876,7 @@
 
 ## Python 
 
+- [aws-pricing-tools](https://github.com/concurrencylabs/aws-pricing-tools) - Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.
 - [glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
 - [dotfiles](https://github.com/9ary/dotfiles) - Miscellaneous config files
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
@@ -3968,6 +3975,7 @@
 
 ## Vim script 
 
+- [edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [mru](https://github.com/yegappan/mru) - Most Recently Used (MRU) Vim Plugin
 - [vim-scrolloff-fraction](https://github.com/drzel/vim-scrolloff-fraction) - scrolloff as a fraction of window height
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
