@@ -1142,7 +1142,7 @@
 - [lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 - [apex-go](https://github.com/apex/apex-go) - Golang runtime for Apex/Lambda.
-- [aws-lambda-container-image-converter](https://github.com/awslabs/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
+- [aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [HashStablePack](https://github.com/CovenantSQL/HashStablePack) - Serialization code generator for QUICK struct content comparison
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
@@ -3470,7 +3470,7 @@
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.
+- [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 - [mdsh](https://github.com/zimbatm/mdsh) - `$ mdsh` # a markdown shell pre-processor
@@ -3801,7 +3801,7 @@
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a second screen for your computer
 - [youtube-tv-desktop](https://github.com/etylermoss/youtube-tv-desktop) - Electron wrapper for youtube.com/tv.
 - [passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
