@@ -404,6 +404,7 @@
 
 ## C++ 
 
+- [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
 - [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
@@ -754,6 +755,7 @@
 
 ## Go 
 
+- [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [walk](https://github.com/ejholmes/walk) - A fast, general purpose, graph based build and task execution utility.
 - [backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
 - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
@@ -1132,7 +1134,7 @@
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
-- [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
+- [elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [triton](https://github.com/cjslep/triton) - A very simple static web server for the unofficial golang rite of passage.
 - [activity](https://github.com/go-fed/activity) - ActivityStreams & ActivityPub in golang, oh my!
 - [go-fuzz-corpus](https://github.com/dvyukov/go-fuzz-corpus) - Corpus for github.com/dvyukov/go-fuzz examples
@@ -1795,6 +1797,8 @@
 
 ## JavaScript 
 
+- [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
+- [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [build-an-atom](https://github.com/phetsims/build-an-atom) - "Build an Atom" is an educational simulation in HTML5, by PhET Interactive Simulations.
 - [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
 - [tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
@@ -3251,6 +3255,8 @@
 
 ## Reason 
 
+- [flex](https://github.com/jordwalke/flex) - Reason CSS Flexbox implementation
+- [ocaml2go](https://github.com/Lupus/ocaml2go) - OCaml to Golang compiler
 - [hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
@@ -3316,6 +3322,8 @@
 
 ## Rust 
 
+- [cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
+- [rust-starter](https://github.com/rust-starter/rust-starter) - Rust Starter Project
 - [cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [splinter](https://github.com/Cargill/splinter) - A privacy-focused distributed platform - start splintering your network into circuits!
 - [miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
