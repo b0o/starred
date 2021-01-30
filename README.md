@@ -755,6 +755,9 @@
 
 ## Go 
 
+- [boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
+- [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
+- [triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [walk](https://github.com/ejholmes/walk) - A fast, general purpose, graph based build and task execution utility.
 - [backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
@@ -1678,6 +1681,7 @@
 
 ## Haskell 
 
+- [tasty-bench](https://github.com/Bodigrim/tasty-bench) - Featherlight benchmark framework, drop-in replacement for criterion and gauge.
 - [conduit](https://github.com/snoyberg/conduit) - A streaming data library
 - [a-tour-of-go-in-haskell](https://github.com/syocy/a-tour-of-go-in-haskell) - Write "Concurrency" section of "A Tour of Go" in Haskell
 - [Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
@@ -1778,7 +1782,7 @@
 - [umple](https://github.com/umple/umple) - Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
-- [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-extend visual workflow scheduling platform, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
+- [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
 - [runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
 - [presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
@@ -1797,6 +1801,7 @@
 
 ## JavaScript 
 
+- [sharedrop](https://github.com/cowbell/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [build-an-atom](https://github.com/phetsims/build-an-atom) - "Build an Atom" is an educational simulation in HTML5, by PhET Interactive Simulations.
@@ -2512,6 +2517,16 @@
 
 ## OCaml 
 
+- [rebez](https://github.com/jchavarri/rebez) - Cubic bezier implementation in Reason / OCaml.
+- [rebind](https://github.com/jchavarri/rebind) - Experimental automated generation of Reason/BuckleScript bindings from JavaScript code.
+- [jsoo-react](https://github.com/jchavarri/jsoo-react) - js_of_ocaml bindings for ReactJS. Based on ReasonReact.
+- [piaf](https://github.com/anmonteiro/piaf) - Client library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+- [ocaml-h2](https://github.com/anmonteiro/ocaml-h2) - An HTTP/2 implementation written in pure OCaml
+- [httpaf](https://github.com/inhabitedtype/httpaf) - A high performance, memory efficient, and scalable web server written in OCaml
+- [ocaml-oidc](https://github.com/ulrikstrid/ocaml-oidc) - OpenID Connect implementation in OCaml. Currently only the RP (client) parts are polished.
+- [ocaml-cookie](https://github.com/ulrikstrid/ocaml-cookie) - Working with cookies in OCaml and Reason
+- [reason-jose](https://github.com/ulrikstrid/reason-jose) - 
+- [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) - An OCaml library for HTTP clients and servers using Lwt or Async
 - [opam-tools](https://github.com/ocamllabs/opam-tools) - opam plugin to initialise a local development environment for an OCaml project
 - [ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
 - [isomagic-todos](https://github.com/jaredly/isomagic-todos) - 
@@ -3255,6 +3270,7 @@
 
 ## Reason 
 
+- [reason-react-lazy-loading](https://github.com/jchavarri/reason-react-lazy-loading) - Example project to show how to use components lazy loading in ReasonReact
 - [flex](https://github.com/jordwalke/flex) - Reason CSS Flexbox implementation
 - [ocaml2go](https://github.com/Lupus/ocaml2go) - OCaml to Golang compiler
 - [hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
@@ -3322,6 +3338,7 @@
 
 ## Rust 
 
+- [img_hash](https://github.com/abonander/img_hash) - A Rust library for calculating perceptual hash values of images
 - [cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [rust-starter](https://github.com/rust-starter/rust-starter) - Rust Starter Project
 - [cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
@@ -3557,6 +3574,7 @@
 
 ## Shell 
 
+- [firefox-wayland-testing](https://github.com/stransky/firefox-wayland-testing) - Scripts used to test Firefox on Wayland
 - [tmpsms](https://github.com/sdushantha/tmpsms) - 📥 A temporary SMS utility right from your terminal written in POSIX sh
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
@@ -3901,7 +3919,7 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [fx_cast](https://github.com/hensm/fx_cast) - Implementation of the Google Cast Chrome Sender SDK within Firefox
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [common-voice](https://github.com/mozilla/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
