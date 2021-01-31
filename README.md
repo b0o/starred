@@ -404,6 +404,8 @@
 
 ## C++ 
 
+- [swift](https://github.com/apple/swift) - The Swift Programming Language
+- [envoy-mobile](https://github.com/envoyproxy/envoy-mobile) - Client networking libraries based on the Envoy project
 - [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
@@ -482,7 +484,6 @@
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [sdcv](https://github.com/Dushistov/sdcv) - 
-- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [HookCase](https://github.com/steven-michaud/HookCase) - Tool for reverse engineering macOS/OS X
 - [serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
@@ -755,6 +756,7 @@
 
 ## Go 
 
+- [vncfreethumb](https://github.com/alltom/vncfreethumb) - Prototype of swiping a region of a window to create its minimized thumbnail
 - [boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
@@ -1611,6 +1613,9 @@
 
 ## HTML 
 
+- [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Draft proposal for smart pipelines, including formal specification.
+- [proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
+- [proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [UPduino-v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) - UPduino 3.0: new 4 layer layout, various other improvements
 - [List_of_SMS_gateways](https://github.com/mfitzp/List_of_SMS_gateways) - This content was previously available on WikiPedia but deleted as not really encylopaedia-worthy. Since an article of mine was originally a major source for the data in the page, I took a copy for posterity. It's now here on Github, reformatted as an editable CSV file and publicly editable by all.
@@ -2681,6 +2686,7 @@
 
 ## Others 
 
+- [proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
 - [AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
 - [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 - [awesome-chrome-devtools](https://github.com/go-rod/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -3338,6 +3344,9 @@
 
 ## Rust 
 
+- [num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
+- [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [envoy-mobile-rs](https://github.com/crockeo/envoy-mobile-rs) - Rustic bindings to envoy-mobile
 - [img_hash](https://github.com/abonander/img_hash) - A Rust library for calculating perceptual hash values of images
 - [cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [rust-starter](https://github.com/rust-starter/rust-starter) - Rust Starter Project
@@ -3574,14 +3583,15 @@
 
 ## Shell 
 
+- [midi2hid](https://github.com/tripodsan/midi2hid) - MIDI to HID Keyboard on BeagleBone Black
 - [firefox-wayland-testing](https://github.com/stransky/firefox-wayland-testing) - Scripts used to test Firefox on Wayland
-- [tmpsms](https://github.com/sdushantha/tmpsms) - 📥 A temporary SMS utility right from your terminal written in POSIX sh
+- [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [toolbox](https://github.com/chaotic-aur/toolbox) - Unified kit with all the scripts required for maintaining the repository.
 - [backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
-- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite.
 - [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -3827,7 +3837,7 @@
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a second screen for your computer
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [youtube-tv-desktop](https://github.com/etylermoss/youtube-tv-desktop) - Electron wrapper for youtube.com/tv.
 - [passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
@@ -4040,7 +4050,7 @@
 - [vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
 - [dotfiles](https://github.com/junegunn/dotfiles) - :house_with_garden: It's personal
 - [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
-- [aergia](https://github.com/henricattoire/aergia) - Snippet manager.
+- [aergia](https://github.com/retenh/aergia) - Snippet manager.
 - [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
