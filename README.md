@@ -121,6 +121,7 @@
 
 ## C 
 
+- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
@@ -312,7 +313,6 @@
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -756,6 +756,8 @@
 
 ## Go 
 
+- [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+- [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [vncfreethumb](https://github.com/alltom/vncfreethumb) - Prototype of swiping a region of a window to create its minimized thumbnail
 - [boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
@@ -1780,6 +1782,7 @@
 
 ## Java 
 
+- [redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
 - [tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -1806,6 +1809,10 @@
 
 ## JavaScript 
 
+- [write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
+- [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
 - [sharedrop](https://github.com/cowbell/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
@@ -2522,6 +2529,8 @@
 
 ## OCaml 
 
+- [opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml
+- [cmdliner-cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet) - Cheatsheet for adding command-line options to an OCaml program using cmdliner
 - [rebez](https://github.com/jchavarri/rebez) - Cubic bezier implementation in Reason / OCaml.
 - [rebind](https://github.com/jchavarri/rebind) - Experimental automated generation of Reason/BuckleScript bindings from JavaScript code.
 - [jsoo-react](https://github.com/jchavarri/jsoo-react) - js_of_ocaml bindings for ReactJS. Based on ReasonReact.
@@ -2686,6 +2695,7 @@
 
 ## Others 
 
+- [xast](https://github.com/syntax-tree/xast) - Extensible Abstract Syntax Tree
 - [proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
 - [AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
 - [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
@@ -2901,6 +2911,9 @@
 
 ## Python 
 
+- [styles](https://github.com/errata-ai/styles) - :package: A collection of pre-packaged, Vale-compatible style guides ready to be installed from your Vale Server dashboard!
+- [proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [aws-pricing-tools](https://github.com/concurrencylabs/aws-pricing-tools) - Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.
 - [glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
 - [dotfiles](https://github.com/9ary/dotfiles) - Miscellaneous config files
@@ -3276,6 +3289,7 @@
 
 ## Reason 
 
+- [bs-jest-dom](https://github.com/wyze/bs-jest-dom) - BuckleScript bindings for jest-dom.
 - [reason-react-lazy-loading](https://github.com/jchavarri/reason-react-lazy-loading) - Example project to show how to use components lazy loading in ReasonReact
 - [flex](https://github.com/jordwalke/flex) - Reason CSS Flexbox implementation
 - [ocaml2go](https://github.com/Lupus/ocaml2go) - OCaml to Golang compiler
@@ -3298,6 +3312,7 @@
 
 ## Ruby 
 
+- [markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
 - [remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
@@ -3344,6 +3359,7 @@
 
 ## Rust 
 
+- [kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [envoy-mobile-rs](https://github.com/crockeo/envoy-mobile-rs) - Rustic bindings to envoy-mobile
@@ -3500,7 +3516,7 @@
 - [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [abstreet](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -3834,6 +3850,9 @@
 
 ## TypeScript 
 
+- [vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
+- [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
@@ -3980,7 +3999,7 @@
 - [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
