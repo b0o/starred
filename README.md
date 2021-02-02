@@ -1809,6 +1809,7 @@
 
 ## JavaScript 
 
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
@@ -2312,7 +2313,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
