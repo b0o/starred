@@ -121,6 +121,7 @@
 
 ## C 
 
+- [derasterize](https://github.com/csdvrx/derasterize) - textmode supremacy
 - [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -404,6 +405,7 @@
 
 ## C++ 
 
+- [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [envoy-mobile](https://github.com/envoyproxy/envoy-mobile) - Client networking libraries based on the Envoy project
 - [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
@@ -726,6 +728,7 @@
 
 ## Emacs Lisp 
 
+- [lsp-tailwindcss](https://github.com/merrickluo/lsp-tailwindcss) - the lsp-mode client for tailwindcss
 - [emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [org-kanban](https://github.com/gizmomogwai/org-kanban) - Kanban table for org-mode
 - [org-trello](https://github.com/org-trello/org-trello) - Org minor mode - 2-way sync org & trello
@@ -756,6 +759,9 @@
 
 ## Go 
 
+- [sregx](https://github.com/zyedidia/sregx) - A tool and library for using structural regular expressions.
+- [gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
+- [otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [vncfreethumb](https://github.com/alltom/vncfreethumb) - Prototype of swiping a region of a window to create its minimized thumbnail
@@ -1809,6 +1815,9 @@
 
 ## JavaScript 
 
+- [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
+- [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
+- [lowlight](https://github.com/wooorm/lowlight) - Virtual syntax highlighting for virtual DOMs and non-HTML things
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
@@ -2111,7 +2120,7 @@
 - [example-projects](https://github.com/claudiajs/example-projects) - Simple example projects that show how to use ClaudiaJs
 - [node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
-- [serverless-express](https://github.com/vendia/serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
+- [serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [octane](https://github.com/chromium/octane) - The JavaScript Benchmark Suite for the modern web
 - [rawact](https://github.com/sokra/rawact) - [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
@@ -2451,6 +2460,7 @@
 
 ## Lua 
 
+- [octo.nvim](https://github.com/pwntester/octo.nvim) - 
 - [nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
 - [nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5)
 - [sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim
@@ -2530,6 +2540,8 @@
 
 ## OCaml 
 
+- [graphql_ppx](https://github.com/mhallin/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML
+- [ocaml-caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
 - [opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml
 - [cmdliner-cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet) - Cheatsheet for adding command-line options to an OCaml program using cmdliner
 - [rebez](https://github.com/jchavarri/rebez) - Cubic bezier implementation in Reason / OCaml.
@@ -2665,7 +2677,6 @@
 
 ## Objective-C 
 
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
 - [teleport](https://github.com/johndbritton/teleport) - Virtual KVM for OS X
@@ -2696,6 +2707,7 @@
 
 ## Others 
 
+- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [xast](https://github.com/syntax-tree/xast) - Extensible Abstract Syntax Tree
 - [proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
 - [AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
@@ -2912,6 +2924,8 @@
 
 ## Python 
 
+- [nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
+- [nnv](https://github.com/renatosc/nnv) - NNV - Neural Network Visualizer
 - [styles](https://github.com/errata-ai/styles) - :package: A collection of pre-packaged, Vale-compatible style guides ready to be installed from your Vale Server dashboard!
 - [proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -3290,6 +3304,8 @@
 
 ## Reason 
 
+- [reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
+- [fullstack-reason](https://github.com/yawaramin/fullstack-reason) - A demo project that shows a fullstack ReasonML/OCaml app–native binary + webapp
 - [bs-jest-dom](https://github.com/wyze/bs-jest-dom) - BuckleScript bindings for jest-dom.
 - [reason-react-lazy-loading](https://github.com/jchavarri/reason-react-lazy-loading) - Example project to show how to use components lazy loading in ReasonReact
 - [flex](https://github.com/jordwalke/flex) - Reason CSS Flexbox implementation
@@ -3360,6 +3376,11 @@
 
 ## Rust 
 
+- [fast-float-rust](https://github.com/aldanor/fast-float-rust) - Super-fast float parser in Rust
+- [iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
+- [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
+- [aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js
+- [img2utf](https://github.com/lf94/img2utf) - Converts images into textual line art.
 - [kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -3392,7 +3413,7 @@
 - [bulletproofs](https://github.com/dalek-cryptography/bulletproofs) - A pure-Rust implementation of Bulletproofs using Ristretto.
 - [AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers
 - [stream-ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms
-- [password-hashes](https://github.com/RustCrypto/password-hashes) - Password-based key derivation functions
+- [password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
 - [signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: ECDSA, Ed25519
 - [hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib
@@ -3560,6 +3581,7 @@
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
@@ -3827,6 +3849,7 @@
 - [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) - 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Allows users to pull in new song releases from their favorite artists and provides users with important metrics like their top tracks, top artists, and recently played tracks, queryable by time range.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
@@ -3851,6 +3874,8 @@
 
 ## TypeScript 
 
+- [moti](https://github.com/nandorojo/moti) - 🐼 The universal React Native animation library, powered by Reanimated 2.
+- [tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
@@ -3975,7 +4000,6 @@
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [nighthawk](https://github.com/quantumkv/nighthawk) - A stealthy, simple, unobtrusive music player that stays out of your way
