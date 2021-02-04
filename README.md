@@ -34,7 +34,6 @@
   - [F*](#f*)
   - [Go](#go)
   - [Groovy](#groovy)
-  - [HCL](#hcl)
   - [HTML](#html)
   - [Haml](#haml)
   - [Handlebars](#handlebars)
@@ -759,6 +758,9 @@
 
 ## Go 
 
+- [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [sregx](https://github.com/zyedidia/sregx) - A tool and library for using structural regular expressions.
 - [gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [otp](https://github.com/pquerna/otp) - TOTP library for Go
@@ -1615,10 +1617,6 @@
 
 - [cityengine-sdk](https://github.com/Esri/cityengine-sdk) - CityEngine is a 3D city modeling software for urban design, visual effects, and VR/AR production. With its C++ SDK you can create plugins and standalone apps capable to execute CityEngine CGA procedural modeling rules.
 
-## HCL 
-
-- [archive-github-events](https://github.com/alphagov/archive-github-events) - 
-
 ## HTML 
 
 - [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Draft proposal for smart pipelines, including formal specification.
@@ -1713,7 +1711,6 @@
 - [neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
-- [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
 - [api.unverified.email](https://github.com/honest-technology/api.unverified.email) - A service to help with testing of sending the right emails
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
@@ -2924,6 +2921,9 @@
 
 ## Python 
 
+- [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
+- [towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
+- [b2_fuse](https://github.com/sondree/b2_fuse) - FUSE integration for Backblaze B2 Cloud storage
 - [nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [nnv](https://github.com/renatosc/nnv) - NNV - Neural Network Visualizer
 - [styles](https://github.com/errata-ai/styles) - :package: A collection of pre-packaged, Vale-compatible style guides ready to be installed from your Vale Server dashboard!
@@ -3192,6 +3192,7 @@
 - [cpsm](https://github.com/nixprime/cpsm) - A CtrlP matcher, specialized for paths.
 - [ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [deoppet.nvim](https://github.com/Shougo/deoppet.nvim) - The dark powered snippet plugin for neovim
+- [archive-github-events](https://github.com/alphagov/archive-github-events) - 
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -3329,6 +3330,7 @@
 
 ## Ruby 
 
+- [haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
@@ -3622,6 +3624,7 @@
 
 ## Shell 
 
+- [asdf-hashicorp](https://github.com/Banno/asdf-hashicorp) - HashiCorp tools plugin for asdf version manager
 - [midi2hid](https://github.com/tripodsan/midi2hid) - MIDI to HID Keyboard on BeagleBone Black
 - [firefox-wayland-testing](https://github.com/stransky/firefox-wayland-testing) - Scripts used to test Firefox on Wayland
 - [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
@@ -3874,6 +3877,7 @@
 
 ## TypeScript 
 
+- [release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [moti](https://github.com/nandorojo/moti) - 🐼 The universal React Native animation library, powered by Reanimated 2.
 - [tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
@@ -3929,6 +3933,7 @@
 - [web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [Lesswrong2](https://github.com/LessWrong2/Lesswrong2) - The development repository for LessWrong2, based on Vulcan JS
+- [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [wincent](https://github.com/wincent/wincent) - 💾 Dot-files
