@@ -750,6 +750,8 @@
 
 ## F# # 
 
+- [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
+- [elmish-spreadsheet](https://github.com/tpetricek/elmish-spreadsheet) - Implement your own Excel 365 in 100 lines of F#!
 - [The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 
 ## F* 
@@ -758,6 +760,8 @@
 
 ## Go 
 
+- [grump](https://github.com/dhulihan/grump) - CLI audio player written in go.
+- [testfs](https://github.com/caarlos0/testfs) - A simple `fs.FS` implementation to be used inside tests.
 - [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
@@ -1812,6 +1816,7 @@
 
 ## JavaScript 
 
+- [javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
 - [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
 - [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [lowlight](https://github.com/wooorm/lowlight) - Virtual syntax highlighting for virtual DOMs and non-HTML things
@@ -1917,6 +1922,7 @@
 - [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. These sites are helping. Apply to join!
 - [FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
+- [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [tracker-radar-collector](https://github.com/duckduckgo/tracker-radar-collector) - 🕸 Modular, multithreaded, puppeteer-based crawler
 - [textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
@@ -2089,7 +2095,7 @@
 - [Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [node_lite](https://github.com/grasslandnetwork/node_lite) - Grassland Node Lite. Optimized for use on low-end computers. Requires Grassland's 'Node Lite Object Detection'
-- [handsontable](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
+- [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Available for React, Angular, and Vue.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -2537,6 +2543,7 @@
 
 ## OCaml 
 
+- [timere](https://github.com/daypack-dev/timere) - OCaml time handling and reasoning library
 - [graphql_ppx](https://github.com/mhallin/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML
 - [ocaml-caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
 - [opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml
@@ -2704,6 +2711,7 @@
 
 ## Others 
 
+- [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) - A curated list of awesome F# frameworks, libraries, software and resources.
 - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [xast](https://github.com/syntax-tree/xast) - Extensible Abstract Syntax Tree
 - [proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
@@ -2738,7 +2746,6 @@
 - [awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
-- [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [eradicate-exclusive-tech-terminology](https://github.com/s0/eradicate-exclusive-tech-terminology) - Let's Eradicate Exclusive Terminology in Tech! :fist_raised:
 - [cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -3305,6 +3312,7 @@
 
 ## Reason 
 
+- [ocaml_webapp](https://github.com/jchavarri/ocaml_webapp) - A minimal example of a lightweight webapp in OCaml
 - [reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [fullstack-reason](https://github.com/yawaramin/fullstack-reason) - A demo project that shows a fullstack ReasonML/OCaml app–native binary + webapp
 - [bs-jest-dom](https://github.com/wyze/bs-jest-dom) - BuckleScript bindings for jest-dom.
@@ -3378,6 +3386,7 @@
 
 ## Rust 
 
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [fast-float-rust](https://github.com/aldanor/fast-float-rust) - Super-fast float parser in Rust
 - [iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
