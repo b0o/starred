@@ -120,6 +120,7 @@
 
 ## C 
 
+- [drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module
 - [derasterize](https://github.com/csdvrx/derasterize) - textmode supremacy
 - [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -1696,6 +1697,7 @@
 
 ## Haskell 
 
+- [commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [tasty-bench](https://github.com/Bodigrim/tasty-bench) - Featherlight benchmark framework, drop-in replacement for criterion and gauge.
 - [conduit](https://github.com/snoyberg/conduit) - A streaming data library
 - [a-tour-of-go-in-haskell](https://github.com/syocy/a-tour-of-go-in-haskell) - Write "Concurrency" section of "A Tour of Go" in Haskell
@@ -1761,7 +1763,7 @@
 - [vty](https://github.com/jtdaugherty/vty) - A high-level ncurses alternative written in Haskell
 - [...](https://github.com/0/...) - filesfilesfiles
 - [xmonadrc](https://github.com/pjones/xmonadrc) - My XMonad configuration
-- [xmonad-ubuntu-conf](https://github.com/davidbrewer/xmonad-ubuntu-conf) - My xmonad config for Ubuntu 18.04, 16.04, 14.04, and 12.04, including package list, config files, and instructions.
+- [xmonad-ubuntu-conf](https://github.com/davidbrewer/xmonad-ubuntu-conf) - My xmonad config for Ubuntu versions from 20.04 all the way back to 12.04! Including package list, config files, and instructions.
 - [xmonad-config](https://github.com/vicfryzel/xmonad-config) - My xmonad and xmobar configuration, plus necessary scripts to make things more usable.
 - [xmonad-conf](https://github.com/nyergler/xmonad-conf) - My xmonad config for Ubuntu 14.04 and 12.04, including package list, config files, and instructions.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -1796,6 +1798,7 @@
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [umple](https://github.com/umple/umple) - Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
 - [runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
@@ -2543,6 +2546,7 @@
 
 ## OCaml 
 
+- [ocaml-aws](https://github.com/inhabitedtype/ocaml-aws) - Generated OCaml bindings for Amazon Web Services
 - [timere](https://github.com/daypack-dev/timere) - OCaml time handling and reasoning library
 - [graphql_ppx](https://github.com/mhallin/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML
 - [ocaml-caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
@@ -2585,7 +2589,6 @@
 - [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns
 - [ppx](https://github.com/ocaml-ppx/ppx) - The future of ppx https://discuss.ocaml.org/t/the-future-of-ppx/
@@ -3386,6 +3389,7 @@
 
 ## Rust 
 
+- [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [fast-float-rust](https://github.com/aldanor/fast-float-rust) - Super-fast float parser in Rust
 - [iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
