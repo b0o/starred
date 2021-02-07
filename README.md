@@ -120,6 +120,8 @@
 
 ## C 
 
+- [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
+- [s3backer](https://github.com/archiecobbs/s3backer) - FUSE-based single file backing store via Amazon S3
 - [drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module
 - [derasterize](https://github.com/csdvrx/derasterize) - textmode supremacy
 - [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
@@ -761,6 +763,7 @@
 
 ## Go 
 
+- [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [grump](https://github.com/dhulihan/grump) - CLI audio player written in go.
 - [testfs](https://github.com/caarlos0/testfs) - A simple `fs.FS` implementation to be used inside tests.
 - [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -1819,6 +1822,7 @@
 
 ## JavaScript 
 
+- [complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
 - [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
 - [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
@@ -2069,7 +2073,7 @@
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [aether](https://github.com/nehbit/aether) - Aether is a peer-to-peer network of independent, self-moderated communities.
+- [aether](https://github.com/aethereans/aether) - Aether is a peer-to-peer network of independent, self-moderated communities.
 - [chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [grapesjs-mjml](https://github.com/artf/grapesjs-mjml) - Newsletter Builder with MJML components in GrapesJS
@@ -2931,6 +2935,8 @@
 
 ## Python 
 
+- [s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
+- [b2_count_versions](https://github.com/Backblaze-B2-Samples/b2_count_versions) - This script spiders through a B2 bucket (using the B2 API) to find files with multiple versions.
 - [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
 - [b2_fuse](https://github.com/sondree/b2_fuse) - FUSE integration for Backblaze B2 Cloud storage
@@ -3637,6 +3643,7 @@
 
 ## Shell 
 
+- [cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
 - [asdf-hashicorp](https://github.com/Banno/asdf-hashicorp) - HashiCorp tools plugin for asdf version manager
 - [midi2hid](https://github.com/tripodsan/midi2hid) - MIDI to HID Keyboard on BeagleBone Black
 - [firefox-wayland-testing](https://github.com/stransky/firefox-wayland-testing) - Scripts used to test Firefox on Wayland
@@ -4331,7 +4338,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
