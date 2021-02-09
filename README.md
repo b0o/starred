@@ -763,6 +763,7 @@
 
 ## Go 
 
+- [neuron-language-server](https://github.com/aca/neuron-language-server) - Language server implementation for neuron
 - [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [grump](https://github.com/dhulihan/grump) - CLI audio player written in go.
 - [testfs](https://github.com/caarlos0/testfs) - A simple `fs.FS` implementation to be used inside tests.
@@ -2688,6 +2689,7 @@
 
 ## Objective-C 
 
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
 - [teleport](https://github.com/johndbritton/teleport) - Virtual KVM for OS X
@@ -3873,7 +3875,6 @@
 - [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) - 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Allows users to pull in new song releases from their favorite artists and provides users with important metrics like their top tracks, top artists, and recently played tracks, queryable by time range.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
@@ -4081,6 +4082,7 @@
 
 ## Vim script 
 
+- [vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
 - [edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [mru](https://github.com/yegappan/mru) - Most Recently Used (MRU) Vim Plugin
 - [vim-scrolloff-fraction](https://github.com/drzel/vim-scrolloff-fraction) - scrolloff as a fraction of window height
