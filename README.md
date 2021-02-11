@@ -705,6 +705,7 @@
 
 ## Elixir 
 
+- [analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [mjpeg](https://github.com/lawik/mjpeg) - A simple example of how you can do MJPEG in Elixir
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
@@ -763,6 +764,10 @@
 
 ## Go 
 
+- [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
+- [hemlock](https://github.com/gschier/hemlock) - Go Web Framework 🌲
+- [shieldwall](https://github.com/evilsocket/shieldwall) - shieldwall.me agent and api service
+- [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [neuron-language-server](https://github.com/aca/neuron-language-server) - Language server implementation for neuron
 - [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [grump](https://github.com/dhulihan/grump) - CLI audio player written in go.
@@ -1823,10 +1828,10 @@
 
 ## JavaScript 
 
+- [rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for ractive-player
 - [complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
 - [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
-- [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [lowlight](https://github.com/wooorm/lowlight) - Virtual syntax highlighting for virtual DOMs and non-HTML things
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -2720,6 +2725,7 @@
 
 ## Others 
 
+- [UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
 - [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) - A curated list of awesome F# frameworks, libraries, software and resources.
 - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [xast](https://github.com/syntax-tree/xast) - Extensible Abstract Syntax Tree
@@ -2937,6 +2943,12 @@
 
 ## Python 
 
+- [Yin-Yang](https://github.com/l0drex/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budige, VSCode, Atom and more
+- [astral](https://github.com/sffjunkie/astral) - Python calculations for the position of the sun and moon.
+- [AutomaThemely](https://github.com/mlvnt/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
+- [pip](https://github.com/pypa/pip) - The Python package installer
+- [AutomaThemely](https://github.com/C2N14/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
+- [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
 - [b2_count_versions](https://github.com/Backblaze-B2-Samples/b2_count_versions) - This script spiders through a B2 bucket (using the B2 API) to find files with multiple versions.
 - [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
@@ -3404,6 +3416,7 @@
 - [iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js
+- [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [img2utf](https://github.com/lf94/img2utf) - Converts images into textual line art.
 - [kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
@@ -3646,6 +3659,8 @@
 
 ## Shell 
 
+- [launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
+- [hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
 - [cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
 - [asdf-hashicorp](https://github.com/Banno/asdf-hashicorp) - HashiCorp tools plugin for asdf version manager
 - [midi2hid](https://github.com/tripodsan/midi2hid) - MIDI to HID Keyboard on BeagleBone Black
@@ -3899,6 +3914,11 @@
 
 ## TypeScript 
 
+- [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
+- [ractive-player](https://github.com/ysulyma/ractive-player) - Library for playing interactive videos using HTML/CSS/Javascript
+- [browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [moti](https://github.com/nandorojo/moti) - 🐼 The universal React Native animation library, powered by Reanimated 2.
 - [tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
@@ -4001,7 +4021,7 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [fx_cast](https://github.com/hensm/fx_cast) - Implementation of the Google Cast Chrome Sender SDK within Firefox
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
@@ -4082,6 +4102,7 @@
 
 ## Vim script 
 
+- [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
 - [edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [mru](https://github.com/yegappan/mru) - Most Recently Used (MRU) Vim Plugin
