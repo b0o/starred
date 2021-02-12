@@ -2079,7 +2079,7 @@
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [aether](https://github.com/aethereans/aether) - Aether is a peer-to-peer network of independent, self-moderated communities.
+- [aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
 - [chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [grapesjs-mjml](https://github.com/artf/grapesjs-mjml) - Newsletter Builder with MJML components in GrapesJS
@@ -3410,6 +3410,7 @@
 
 ## Rust 
 
+- [lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache
 - [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [fast-float-rust](https://github.com/aldanor/fast-float-rust) - Super-fast float parser in Rust
@@ -3887,6 +3888,7 @@
 
 ## Swift 
 
+- [PGPro](https://github.com/lucanaef/PGPro) - OpenPGP En- & Decryption App for iOS
 - [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
@@ -3920,7 +3922,7 @@
 - [browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [moti](https://github.com/nandorojo/moti) - 🐼 The universal React Native animation library, powered by Reanimated 2.
+- [moti](https://github.com/nandorojo/moti) - 🐼  The universal React Native animation library, powered by Reanimated 2.
 - [tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
