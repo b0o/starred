@@ -407,6 +407,7 @@
 
 ## C++ 
 
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [envoy-mobile](https://github.com/envoyproxy/envoy-mobile) - Client networking libraries based on the Envoy project
@@ -1832,6 +1833,7 @@
 - [complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
 - [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
+- [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [lowlight](https://github.com/wooorm/lowlight) - Virtual syntax highlighting for virtual DOMs and non-HTML things
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -3411,13 +3413,12 @@
 ## Rust 
 
 - [lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache
-- [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone
+- [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [fast-float-rust](https://github.com/aldanor/fast-float-rust) - Super-fast float parser in Rust
 - [iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js
-- [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [img2utf](https://github.com/lf94/img2utf) - Converts images into textual line art.
 - [kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
@@ -4023,7 +4024,7 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [fx_cast](https://github.com/hensm/fx_cast) - Implementation of the Google Cast Chrome Sender SDK within Firefox
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15: https://discourse.mozilla.org/t/update-on-common-voice-mozilla-foundation/74526/] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
