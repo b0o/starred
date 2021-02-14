@@ -765,6 +765,7 @@
 
 ## Go 
 
+- [pcp](https://github.com/dennis-tra/pcp) - 📦 Command line peer-to-peer data transfer tool based on libp2p.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [hemlock](https://github.com/gschier/hemlock) - Go Web Framework 🌲
 - [shieldwall](https://github.com/evilsocket/shieldwall) - shieldwall.me agent and api service
@@ -2478,6 +2479,7 @@
 
 ## Lua 
 
+- [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [octo.nvim](https://github.com/pwntester/octo.nvim) - 
 - [nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
 - [nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5)
@@ -3412,6 +3414,16 @@
 
 ## Rust 
 
+- [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+- [nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
+- [comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
+- [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
+- [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+- [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
+- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+- [kuchiki](https://github.com/kuchiki-rs/kuchiki) - (朽木) HTML/XML tree manipulation library for Rust
+- [dotrix](https://github.com/lowenware/dotrix) - A 3D Engine written in Rust
+- [bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache
 - [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -3491,7 +3503,7 @@
 - [libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
 - [rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
-- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
+- [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [sonyflake-rs](https://github.com/bahlo/sonyflake-rs) - 🃏 A distributed unique ID generator inspired by Twitter's Snowflake.
 - [stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -3635,7 +3647,6 @@
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
-- [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 
 ## SCSS 
 
@@ -3661,6 +3672,7 @@
 
 ## Shell 
 
+- [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
 - [cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
@@ -3919,7 +3931,7 @@
 
 - [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
-- [ractive-player](https://github.com/ysulyma/ractive-player) - Library for playing interactive videos using HTML/CSS/Javascript
+- [ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React
 - [browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
@@ -4375,6 +4387,7 @@
 
 ## Zig 
 
+- [ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [river](https://github.com/ifreund/river) - A dynamic tiling wayland compositor
 - [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
