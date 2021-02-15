@@ -120,6 +120,7 @@
 
 ## C 
 
+- [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
 - [s3backer](https://github.com/archiecobbs/s3backer) - FUSE-based single file backing store via Amazon S3
 - [drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module
@@ -1830,6 +1831,8 @@
 
 ## JavaScript 
 
+- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for ractive-player
 - [complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
@@ -2452,6 +2455,7 @@
 
 ## Jupyter Notebook 
 
+- [learning-tensorflow](https://github.com/michaelmendoza/learning-tensorflow) - Simple Tensorflow tutorials for learning by example
 - [covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
 - [covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
@@ -2947,6 +2951,8 @@
 
 ## Python 
 
+- [refind-btrfs](https://github.com/Venom1991/refind-btrfs) - Generate rEFInd manual boot stanzas from Btrfs snapshots
+- [khan-dl](https://github.com/rand-net/khan-dl) - Python script for downloading khanacademy.org videos and naming them.
 - [Yin-Yang](https://github.com/l0drex/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budige, VSCode, Atom and more
 - [astral](https://github.com/sffjunkie/astral) - Python calculations for the position of the sun and moon.
 - [AutomaThemely](https://github.com/mlvnt/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
@@ -3414,6 +3420,7 @@
 
 ## Rust 
 
+- [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
 - [comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
@@ -3650,6 +3657,7 @@
 
 ## SCSS 
 
+- [makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [true](https://github.com/oddbird/true) - Sass unit tests
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -4082,13 +4090,12 @@
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 
 ## V 
