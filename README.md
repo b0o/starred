@@ -769,7 +769,7 @@
 - [pcp](https://github.com/dennis-tra/pcp) - 📦 Command line peer-to-peer data transfer tool based on libp2p.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [hemlock](https://github.com/gschier/hemlock) - Go Web Framework 🌲
-- [shieldwall](https://github.com/evilsocket/shieldwall) - shieldwall.me agent and api service
+- [shieldwall](https://github.com/evilsocket/shieldwall) - zero-trust remote firewall instrumentation
 - [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [neuron-language-server](https://github.com/aca/neuron-language-server) - Language server implementation for neuron
 - [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
@@ -2044,7 +2044,7 @@
 - [bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [basic-lru](https://github.com/WebReflection/basic-lru) - A fast and lightweight Map based LRU implementation.
 - [Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
-- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application
+- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [NanoDefenderFirefox](https://github.com/LiCybora/NanoDefenderFirefox) - An anti-adblock defuser for uBlock Origin on Firefox
 - [rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
@@ -2952,7 +2952,7 @@
 ## Python 
 
 - [refind-btrfs](https://github.com/Venom1991/refind-btrfs) - Generate rEFInd manual boot stanzas from Btrfs snapshots
-- [khan-dl](https://github.com/rand-net/khan-dl) - Python script for downloading khanacademy.org videos and naming them.
+- [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [Yin-Yang](https://github.com/l0drex/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budige, VSCode, Atom and more
 - [astral](https://github.com/sffjunkie/astral) - Python calculations for the position of the sun and moon.
 - [AutomaThemely](https://github.com/mlvnt/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
@@ -3546,7 +3546,7 @@
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
-- [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust.
+- [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust (doh-proxy).
 - [encrypted-dns-server](https://github.com/jedisct1/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
