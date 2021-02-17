@@ -766,6 +766,8 @@
 
 ## Go 
 
+- [maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
+- [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [pcp](https://github.com/dennis-tra/pcp) - 📦 Command line peer-to-peer data transfer tool based on libp2p.
 - [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [hemlock](https://github.com/gschier/hemlock) - Go Web Framework 🌲
@@ -1837,7 +1839,6 @@
 - [complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
 - [firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
-- [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [lowlight](https://github.com/wooorm/lowlight) - Virtual syntax highlighting for virtual DOMs and non-HTML things
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -2164,7 +2165,7 @@
 - [nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
-- [a11y-dialog](https://github.com/edenspiekermann/a11y-dialog) - A very lightweight and flexible accessible modal dialog.
+- [a11y-dialog](https://github.com/HugoGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
@@ -2733,6 +2734,7 @@
 
 ## Others 
 
+- [types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
 - [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) - A curated list of awesome F# frameworks, libraries, software and resources.
 - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -3420,6 +3422,8 @@
 
 ## Rust 
 
+- [zebra](https://github.com/ZcashFoundation/zebra) - An ongoing Rust implementation of a Zcash node. 🦓
+- [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
@@ -3438,6 +3442,7 @@
 - [iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js
+- [optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [img2utf](https://github.com/lf94/img2utf) - Converts images into textual line art.
 - [kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
@@ -3680,6 +3685,7 @@
 
 ## Shell 
 
+- [slip](https://github.com/Toqozz/slip) - Select and upload screenshots, gifs, and screencasts to imgur and gfycat with help of slop.
 - [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
@@ -3887,7 +3893,7 @@
 - [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nord-termite](https://github.com/arcticicestudio/nord-termite) - An arctic, north-bluish clean and elegant Termite color theme.
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
