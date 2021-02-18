@@ -766,6 +766,7 @@
 
 ## Go 
 
+- [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [pcp](https://github.com/dennis-tra/pcp) - 📦 Command line peer-to-peer data transfer tool based on libp2p.
@@ -3685,6 +3686,7 @@
 
 ## Shell 
 
+- [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [slip](https://github.com/Toqozz/slip) - Select and upload screenshots, gifs, and screencasts to imgur and gfycat with help of slop.
 - [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
