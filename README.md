@@ -70,6 +70,7 @@
   - [Raku](#raku)
   - [Reason](#reason)
   - [Red](#red)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -409,6 +410,7 @@
 
 ## C++ 
 
+- [znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -2954,6 +2956,7 @@
 
 ## Python 
 
+- [gpgfs](https://github.com/jseppanen/gpgfs) - GPG encrypted files through FUSE
 - [refind-btrfs](https://github.com/Venom1991/refind-btrfs) - Generate rEFInd manual boot stanzas from Btrfs snapshots
 - [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [Yin-Yang](https://github.com/l0drex/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budige, VSCode, Atom and more
@@ -3373,6 +3376,10 @@
 
 - [red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
 
+## Roff 
+
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 ## Ruby 
 
 - [haven](https://github.com/havenweb/haven) - Self-hostable private blogging
@@ -3423,6 +3430,7 @@
 
 ## Rust 
 
+- [reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [zebra](https://github.com/ZcashFoundation/zebra) - An ongoing Rust implementation of a Zcash node. 🦓
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
@@ -3704,7 +3712,6 @@
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite.
 - [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
-- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
 - [scripts](https://github.com/epitron/scripts) - Scripts; handy.
@@ -3945,6 +3952,7 @@
 
 ## TypeScript 
 
+- [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
 - [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
 - [ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React
