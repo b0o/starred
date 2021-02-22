@@ -121,6 +121,7 @@
 
 ## C 
 
+- [uu](https://github.com/pranomostro/uu) - [stable] unsorted uniq that does not lock up your pipeline
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
 - [s3backer](https://github.com/archiecobbs/s3backer) - FUSE-based single file backing store via Amazon S3
@@ -1836,6 +1837,7 @@
 
 ## JavaScript 
 
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for ractive-player
@@ -3127,7 +3129,6 @@
 - [nightshift](https://github.com/maandree/nightshift) - [UNMAINTAINED] A terminal user interface for redshift
 - [sgtk-menu](https://github.com/nwg-piotr/sgtk-menu) - GTK launchers for sway & other WMs w/ menu, dmenu, application grid and button bar
 - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line application for working with CSV files.
-- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [shavar-prod-lists](https://github.com/mozilla-services/shavar-prod-lists) - Shavar/tracking protection lists used in prod
 - [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
@@ -3192,7 +3193,6 @@
 - [inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
-- [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
 - [dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
 - [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
@@ -3297,7 +3297,7 @@
 - [weechat-vimode](https://github.com/GermainZ/weechat-vimode) - A WeeChat script that adds vi-like modes, commands and keybindings.
 - [weechat-notify-send](https://github.com/s3rvac/weechat-notify-send) - A WeeChat script that sends highlight and message notifications through notify-send.
 - [qrenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
-- [erpnext](https://github.com/frappe/erpnext) - Free and Open Source Alternative to SAP
+- [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [resume](https://github.com/klange/resume) - The source for my CV/résumé, in LaTeX and Python scripts.
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
@@ -3431,6 +3431,8 @@
 
 ## Rust 
 
+- [passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code.
+- [starlight](https://github.com/Starlight-JS/starlight) - JS engine in Rust
 - [reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [zebra](https://github.com/ZcashFoundation/zebra) - An ongoing Rust implementation of a Zcash node. 🦓
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
@@ -3828,6 +3830,7 @@
 - [mgsloan-dotfiles](https://github.com/mgsloan/mgsloan-dotfiles) - Linux and xmonad configuration files
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
+- [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [zsh-hooks](https://github.com/zsh-hooks/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
@@ -4252,6 +4255,7 @@
 - [lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 - [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 - [gomod.vim](https://github.com/johejo/gomod.vim) - Vim syntax highlight for go.mod
+- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [vim9](https://github.com/brammool/vim9) - An experimental fork of Vim, exploring ways to make Vim script faster and better.
 - [vim-fetch](https://github.com/wsdjeg/vim-fetch) - Make Vim handle line and column numbers in file names with a minimum of fuss
 - [agit.vim](https://github.com/cohama/agit.vim) - A powerful Git log viewer
