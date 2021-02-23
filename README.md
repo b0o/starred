@@ -410,6 +410,7 @@
 
 ## C++ 
 
+- [dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
@@ -846,7 +847,7 @@
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
 - [go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SNS).
-- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
 - [miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
@@ -2250,7 +2251,6 @@
 - [code-snippets](https://github.com/bahmutov/code-snippets) - Chrome DevTools code snippets
 - [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.JS
 - [Git-Enforcer](https://github.com/Schachte/Git-Enforcer) - :cop: GitHub Bot For Validating Pull Request Mergability Requirements and Issues Structure
-- [react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [Performance-Analysis-JS](https://github.com/dg92/Performance-Analysis-JS) - Map/Reduce/Filter/Find Vs For loop Vs For each Vs Lodash vs Ramda
 - [micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!
 - [findup-sync](https://github.com/gulpjs/findup-sync) - Find the first file matching a given pattern in the current directory or the nearest ancestor directory.
@@ -2959,6 +2959,8 @@
 
 ## Python 
 
+- [rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
+- [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [gpgfs](https://github.com/jseppanen/gpgfs) - GPG encrypted files through FUSE
 - [refind-btrfs](https://github.com/Venom1991/refind-btrfs) - Generate rEFInd manual boot stanzas from Btrfs snapshots
 - [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
@@ -3383,6 +3385,7 @@
 
 ## Ruby 
 
+- [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
@@ -3431,6 +3434,8 @@
 
 ## Rust 
 
+- [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
+- [mozlz4](https://github.com/jusw85/mozlz4) - Decompress / compress mozlz4 files, with precompiled binaries for Windows and Linux
 - [passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code.
 - [starlight](https://github.com/Starlight-JS/starlight) - JS engine in Rust
 - [reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
@@ -3928,6 +3933,7 @@
 
 ## Swift 
 
+- [eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [PGPro](https://github.com/lucanaef/PGPro) - OpenPGP En- & Decryption App for iOS
 - [vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -4093,6 +4099,7 @@
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [nighthawk](https://github.com/quantumkv/nighthawk) - A stealthy, simple, unobtrusive music player that stays out of your way
+- [react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
 - [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
@@ -4144,6 +4151,7 @@
 
 ## Vim script 
 
+- [vim-ragtag](https://github.com/tpope/vim-ragtag) - ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)
 - [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
 - [edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
