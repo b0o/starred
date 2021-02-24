@@ -595,7 +595,6 @@
 - [ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
-- [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
 - [repohealth.info](https://github.com/pelson/repohealth.info) - Service which collects indicators of a repository's health into a single report
 - [dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 - [detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
@@ -637,7 +636,7 @@
 - [apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
 - [datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/babashka/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -770,6 +769,7 @@
 
 ## Go 
 
+- [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
 - [logr](https://github.com/go-logr/logr) - A simple logging interface for Go
@@ -1838,6 +1838,7 @@
 
 ## JavaScript 
 
+- [This-Repo-Has-1370-Stars](https://github.com/RealPeha/This-Repo-Has-1370-Stars) - Yes, it's true :orange_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2121,7 +2122,7 @@
 - [Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [node_lite](https://github.com/grasslandnetwork/node_lite) - Grassland Node Lite. Optimized for use on low-end computers. Requires Grassland's 'Node Lite Object Detection'
-- [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Available for React, Angular, and Vue.
+- [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -3498,7 +3499,7 @@
 - [hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib
 - [MLA](https://github.com/ANSSI-FR/MLA) - Multi Layer Archive - A pure rust encrypted and compressed archive file format
-- [wasm-language-server](https://github.com/wasm-lsp/wasm-language-server) - A language server for WebAssembly
+- [wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - A language server for WebAssembly
 - [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
 - [rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
@@ -3682,6 +3683,7 @@
 - [makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [true](https://github.com/oddbird/true) - Sass unit tests
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
+- [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [gallery](https://github.com/ggplot2-exts/gallery) - Gallery of ggplot2 extensions
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -3702,6 +3704,7 @@
 
 ## Shell 
 
+- [xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
 - [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [slip](https://github.com/Toqozz/slip) - Select and upload screenshots, gifs, and screencasts to imgur and gfycat with help of slop.
 - [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
