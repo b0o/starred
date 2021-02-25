@@ -354,7 +354,6 @@
 - [v86d](https://github.com/mjanusz/v86d) - Userspace helper for uvesafb.
 - [streamit](https://github.com/bthies/streamit) - The StreamIt compiler infrastructure.
 - [arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
-- [moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -559,6 +558,7 @@
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [screengrab](https://github.com/DOOMer/screengrab) - Crossplatform tool for fast making screenshots.
@@ -1102,7 +1102,7 @@
 - [db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
-- [ale](https://github.com/kode4food/ale) - Ale is a Lisp Environment
+- [ale](https://github.com/kode4food/ale) - Ale is a Lisp Environment for Go applications
 - [generics](https://github.com/faiface/generics) - A proof-of-concept implementation of my generics proposal for Go
 - [subcommands](https://github.com/google/subcommands) - Go subcommand library.
 - [godolint](https://github.com/zabio3/godolint) - Dockerfile linter, written in Golang 🐳
@@ -1817,7 +1817,6 @@
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [umple](https://github.com/umple/umple) - Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
 - [runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
@@ -1838,7 +1837,7 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1370-Stars](https://github.com/RealPeha/This-Repo-Has-1370-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1439-Stars](https://github.com/RealPeha/This-Repo-Has-1439-Stars) - Yes, it's true :orange_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2490,6 +2489,7 @@
 
 ## Lua 
 
+- [focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing Splits/Windows for Neovim written in Lua!
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [octo.nvim](https://github.com/pwntester/octo.nvim) - 
 - [nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
@@ -2615,6 +2615,7 @@
 - [ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
 - [engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
 - [ppx_regexp](https://github.com/paurkedal/ppx_regexp) - Matching Regular Expressions with OCaml Patterns
 - [ppx](https://github.com/ocaml-ppx/ppx) - The future of ppx https://discuss.ocaml.org/t/the-future-of-ppx/
