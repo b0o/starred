@@ -146,7 +146,7 @@
 - [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [plpgsql_check](https://github.com/okbob/plpgsql_check) - plpgsql_check is linter tool for language PL/pgSQL (native language for PostgreSQL store procedures).
-- [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
+- [pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [compton](https://github.com/chjj/compton) - A compositor for X11.
@@ -1837,7 +1837,7 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1439-Stars](https://github.com/RealPeha/This-Repo-Has-1439-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1467-Stars](https://github.com/RealPeha/This-Repo-Has-1467-Stars) - Yes, it's true :orange_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3159,7 +3159,7 @@
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-- [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI, coming soon to Google Fonts
+- [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
