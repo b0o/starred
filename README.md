@@ -121,6 +121,7 @@
 
 ## C 
 
+- [hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly
 - [uu](https://github.com/pranomostro/uu) - [stable] unsorted uniq that does not lock up your pipeline
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
@@ -638,7 +639,7 @@
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
-- [babashka](https://github.com/babashka/babashka) - A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+- [babashka](https://github.com/babashka/babashka) - Native Clojure interpreter for scripting
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
@@ -769,6 +770,8 @@
 
 ## Go 
 
+- [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+- [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones:
 - [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
@@ -1837,7 +1840,7 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1467-Stars](https://github.com/RealPeha/This-Repo-Has-1467-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1492-Stars](https://github.com/RealPeha/This-Repo-Has-1492-Stars) - Yes, it's true :orange_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2489,6 +2492,8 @@
 
 ## Lua 
 
+- [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
+- [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
 - [focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing Splits/Windows for Neovim written in Lua!
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [octo.nvim](https://github.com/pwntester/octo.nvim) - 
@@ -2711,6 +2716,7 @@
 
 ## Objective-C 
 
+- [HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
@@ -3436,6 +3442,7 @@
 
 ## Rust 
 
+- [moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
 - [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [mozlz4](https://github.com/jusw85/mozlz4) - Decompress / compress mozlz4 files, with precompiled binaries for Windows and Linux
 - [passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code.
@@ -4001,7 +4008,7 @@
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
-- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
