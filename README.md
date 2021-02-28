@@ -1840,7 +1840,7 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1492-Stars](https://github.com/RealPeha/This-Repo-Has-1492-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1519-Stars](https://github.com/RealPeha/This-Repo-Has-1519-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2174,7 +2174,7 @@
 - [nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
-- [a11y-dialog](https://github.com/HugoGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog.
+- [a11y-dialog](https://github.com/HugoGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
@@ -3712,6 +3712,7 @@
 
 ## Shell 
 
+- [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
 - [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [slip](https://github.com/Toqozz/slip) - Select and upload screenshots, gifs, and screencasts to imgur and gfycat with help of slop.
