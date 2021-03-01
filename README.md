@@ -718,7 +718,7 @@
 - [elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [dress](https://github.com/veelenga/dress) - :dress: Dress up your stdout
 - [table_rex](https://github.com/djm/table_rex) - An Elixir app which generates text-based tables for display
-- [mix-test.watch](https://github.com/lpil/mix-test.watch) - 🎁   Because TDD is awesome
+- [mix-test.watch](https://github.com/lpil/mix-test.watch) - 🎠   Because TDD is awesome
 - [manifold](https://github.com/discord/manifold) - Fast batch message passing between nodes for Erlang/Elixir.
 - [ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects
 - [alchemist-server](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects
@@ -819,7 +819,7 @@
 - [Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
 - [ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-- [galene](https://github.com/jech/galene) - The Galène videoconferencing server
+- [galene](https://github.com/jech/galene) - The Galène videoconference server
 - [fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
@@ -1840,7 +1840,7 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1519-Stars](https://github.com/RealPeha/This-Repo-Has-1519-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1539-Stars](https://github.com/RealPeha/This-Repo-Has-1539-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3373,13 +3373,13 @@
 - [hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
-- [reasonml.org](https://github.com/reason-association/reasonml.org) - Deprecated in favor of rescript-lang.org
-- [reanalyze](https://github.com/reason-association/reanalyze) - Experimental analyses for OCaml/Reason: for globally dead values/types, exception analysis, and termination analysis.
+- [reasonml.org](https://github.com/rescript-association/reasonml.org) - Deprecated in favor of rescript-lang.org
+- [reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/Reason: for globally dead values/types, exception analysis, and termination analysis.
 - [morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
 - [grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
-- [genType](https://github.com/reason-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
+- [genType](https://github.com/rescript-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
 - [reason-react-native](https://github.com/reason-react-native/reason-react-native) - ReScript bindings for React Native
 
@@ -3822,7 +3822,7 @@
 - [expect-lite](https://github.com/cvmiller/expect-lite) - Automation for the rest of us
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
-- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
+- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
 - [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
@@ -3974,6 +3974,7 @@
 
 ## TypeScript 
 
+- [multi-token-standard](https://github.com/0xsequence/multi-token-standard) - Ethereum Multi-Token Standard (ERC-1155)
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
 - [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
@@ -4103,7 +4104,7 @@
 - [ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
-- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
 - [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
