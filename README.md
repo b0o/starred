@@ -50,6 +50,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
+  - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
   - [OCaml](#ocaml)
@@ -410,6 +411,7 @@
 
 ## C++ 
 
+- [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -770,6 +772,7 @@
 
 ## Go 
 
+- [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones:
 - [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
@@ -801,7 +804,6 @@
 - [walk](https://github.com/ejholmes/walk) - A fast, general purpose, graph based build and task execution utility.
 - [backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
 - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
-- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [uulid.go](https://github.com/sudhirj/uulid.go) - ULID-UUID compatibility library for generating and parsing ULIDs.
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
@@ -1690,7 +1692,6 @@
 - [hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [megadesk](https://github.com/gcormier/megadesk) - Open-source IKEA Bekant controller board
 - [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
-- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [responsive.style](https://github.com/tomhodgins/responsive.style) - A Fresh Approach to Extending CSS
@@ -1840,7 +1841,7 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1539-Stars](https://github.com/RealPeha/This-Repo-Has-1539-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1560-Stars](https://github.com/RealPeha/This-Repo-Has-1560-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2174,7 +2175,7 @@
 - [nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
-- [a11y-dialog](https://github.com/HugoGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
+- [a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
@@ -2537,6 +2538,7 @@
 
 ## Makefile 
 
+- [verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) - Smart contracts which are formally verified
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [tu-bylaws](https://github.com/archlinux/tu-bylaws) - The bylaws which govern the Arch Linux Trusted Users (read-only mirror)
@@ -2552,6 +2554,10 @@
 ## Markdown 
 
 - [neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
+
+## Mustache 
+
+- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## Nim 
 
@@ -2576,6 +2582,8 @@
 
 ## OCaml 
 
+- [fmlib](https://github.com/hbr/fmlib) - Functional Monadic Library for Ocaml
+- [ocoi](https://github.com/roddyyaga/ocoi) - OCaml On Ice - web framework for OCaml in the style of Ruby on Rails
 - [dark](https://github.com/darklang/dark) - 
 - [ocaml-aws](https://github.com/inhabitedtype/ocaml-aws) - Generated OCaml bindings for Amazon Web Services
 - [timere](https://github.com/daypack-dev/timere) - OCaml time handling and reasoning library
@@ -2748,6 +2756,7 @@
 
 ## Others 
 
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
 - [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) - A curated list of awesome F# frameworks, libraries, software and resources.
@@ -2967,6 +2976,7 @@
 
 ## Python 
 
+- [uniswap-v1](https://github.com/Uniswap/uniswap-v1) - 🐍Uniswap V1 smart contracts
 - [rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [gpgfs](https://github.com/jseppanen/gpgfs) - GPG encrypted files through FUSE
@@ -3662,7 +3672,6 @@
 - [zr](https://github.com/jedahan/zr) - zsh plugin manager written in rust
 - [xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [scl](https://github.com/Keats/scl) - A simple configuration language
-- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [wmfocus](https://github.com/svenstaro/wmfocus) - Visually focus windows by label
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -3731,7 +3740,7 @@
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite.
-- [aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua)
+- [aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
 - [scripts](https://github.com/epitron/scripts) - Scripts; handy.
@@ -4083,6 +4092,7 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [fx_cast](https://github.com/hensm/fx_cast) - Implementation of the Google Cast Chrome Sender SDK within Firefox
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
+- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15: https://discourse.mozilla.org/t/update-on-common-voice-mozilla-foundation/74526/] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
