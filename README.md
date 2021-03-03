@@ -772,6 +772,7 @@
 
 ## Go 
 
+- [depaware](https://github.com/tailscale/depaware) - depaware makes you aware of your Go dependencies
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones:
@@ -786,7 +787,7 @@
 - [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [neuron-language-server](https://github.com/aca/neuron-language-server) - Language server implementation for neuron
 - [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
-- [grump](https://github.com/dhulihan/grump) - CLI audio player written in go.
+- [grump](https://github.com/dhulihan/grump) - A CLI audio player written in go.
 - [testfs](https://github.com/caarlos0/testfs) - A simple fs.FS implementation to be used inside tests.
 - [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1841,7 +1842,8 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1560-Stars](https://github.com/RealPeha/This-Repo-Has-1560-Stars) - Yes, it's true :purple_heart:
+- [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
+- [This-Repo-Has-1569-Stars](https://github.com/RealPeha/This-Repo-Has-1569-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -1855,7 +1857,7 @@
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
-- [sharedrop](https://github.com/cowbell/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [build-an-atom](https://github.com/phetsims/build-an-atom) - "Build an Atom" is an educational simulation in HTML5, by PhET Interactive Simulations.
@@ -3372,6 +3374,7 @@
 
 ## Reason 
 
+- [reason-nodejs](https://github.com/sikanhe/reason-nodejs) - Node bindings for Reason and Bucklescript
 - [reason-relay](https://github.com/zth/reason-relay) - Use Relay with ReasonML.
 - [ocaml_webapp](https://github.com/jchavarri/ocaml_webapp) - A minimal example of a lightweight webapp in OCaml
 - [reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
@@ -3452,6 +3455,8 @@
 
 ## Rust 
 
+- [treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
+- [rust-rescript-demo](https://github.com/shakacode/rust-rescript-demo) - 
 - [moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
 - [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [mozlz4](https://github.com/jusw85/mozlz4) - Decompress / compress mozlz4 files, with precompiled binaries for Windows and Linux
