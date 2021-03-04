@@ -772,6 +772,11 @@
 
 ## Go 
 
+- [gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) - Simple golang mitm proxy implementation
+- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
+- [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
+- [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [depaware](https://github.com/tailscale/depaware) - depaware makes you aware of your Go dependencies
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -1315,7 +1320,7 @@
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [lumen](https://github.com/0xfe/lumen) - A commandline client for the Stellar blockchain
 - [errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
-- [benthos](https://github.com/Jeffail/benthos) - Declarative streaming ETL for mundane tasks, written in Go
+- [benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and ETL, written in Go
 - [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gscript](https://github.com/gen0cide/gscript) - framework to rapidly implement custom droppers for all three major operating systems
@@ -1664,6 +1669,7 @@
 - [proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
 - [proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [cuberule.com](https://github.com/indirect/cuberule.com) - the cube rule of food identification, explained
 - [components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
 - [awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
@@ -1843,8 +1849,8 @@
 ## JavaScript 
 
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1569-Stars](https://github.com/RealPeha/This-Repo-Has-1569-Stars) - Yes, it's true :purple_heart:
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
+- [This-Repo-Has-1570-Stars](https://github.com/RealPeha/This-Repo-Has-1570-Stars) - Yes, it's true :purple_heart:
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for ractive-player
@@ -2078,7 +2084,7 @@
 - [car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -2127,7 +2133,7 @@
 - [Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [node_lite](https://github.com/grasslandnetwork/node_lite) - Grassland Node Lite. Optimized for use on low-end computers. Requires Grassland's 'Node Lite Object Detection'
-- [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue.
+- [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -2356,7 +2362,7 @@
 - [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -2758,6 +2764,7 @@
 
 ## Others 
 
+- [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
@@ -2978,6 +2985,8 @@
 
 ## Python 
 
+- [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
+- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [uniswap-v1](https://github.com/Uniswap/uniswap-v1) - 🐍Uniswap V1 smart contracts
 - [rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -3041,7 +3050,6 @@
 - [futurecoder](https://github.com/alexmojaki/futurecoder) - A platform for beginners to learn programming in Python
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
-- [tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [orgformat](https://github.com/novoid/orgformat) - Utility library for providing functions to generate and modify Org mode syntax elements like links, time-stamps, or date-stamps.
 - [archmanweb](https://github.com/archlinux/archmanweb) - Codebase for the Arch manual pages repository (read-only mirror)
 - [Zydra](https://github.com/hamedA2/Zydra) - 
@@ -3455,6 +3463,7 @@
 
 ## Rust 
 
+- [shoop](https://github.com/mcginty/shoop) - scp has a run-in with mosh (alpha)
 - [treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
 - [rust-rescript-demo](https://github.com/shakacode/rust-rescript-demo) - 
 - [moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
@@ -3726,6 +3735,7 @@
 
 ## Shell 
 
+- [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
 - [Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
@@ -3988,6 +3998,9 @@
 
 ## TypeScript 
 
+- [jerd](https://github.com/jaredly/jerd) - 
+- [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+- [hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
 - [multi-token-standard](https://github.com/0xsequence/multi-token-standard) - Ethereum Multi-Token Standard (ERC-1155)
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
 - [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
