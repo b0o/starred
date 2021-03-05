@@ -122,6 +122,8 @@
 
 ## C 
 
+- [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
+- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly
 - [uu](https://github.com/pranomostro/uu) - [stable] unsorted uniq that does not lock up your pipeline
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
@@ -284,7 +286,7 @@
 - [multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [xremap](https://github.com/k0kubun/xremap) - Dynamic key remapper for X Window System
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
 - [solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
@@ -382,7 +384,7 @@
 - [howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
 - [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
-- [cups](https://github.com/apple/cups) - Official CUPS Sources
+- [cups](https://github.com/apple/cups) - Apple CUPS Sources
 - [mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.
 - [gousb](https://github.com/karalabe/gousb) - Idiomatic Go bindings for libusb
 - [dgsh](https://github.com/dspinellis/dgsh) - Shell supporting pipelines to and from multiple processes
@@ -1155,7 +1157,7 @@
 - [pty](https://github.com/creack/pty) - PTY interface for Go
 - [leaven](https://github.com/andybalholm/leaven) - translate LLVM IR to Go
 - [srvfb](https://github.com/Merovius/srvfb) - Stream a framebuffer device over HTTP
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
@@ -1848,8 +1850,9 @@
 
 ## JavaScript 
 
+- [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1570-Stars](https://github.com/RealPeha/This-Repo-Has-1570-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1576-Stars](https://github.com/RealPeha/This-Repo-Has-1576-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2535,7 +2538,7 @@
 - [luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [opm](https://github.com/openresty/opm) - OpenResty Package Manager
-- [dotfiles](https://github.com/huyvohcmc/dotfiles) - personal dotfiles backup
+- [dotfiles](https://github.com/huyvohcmc/dotfiles) - backup of my personal dotfiles
 - [lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -3463,6 +3466,7 @@
 
 ## Rust 
 
+- [pipes-rs](https://github.com/CookieCoder15/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
 - [shoop](https://github.com/mcginty/shoop) - scp has a run-in with mosh (alpha)
 - [treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
 - [rust-rescript-demo](https://github.com/shakacode/rust-rescript-demo) - 
