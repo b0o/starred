@@ -90,6 +90,7 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
+  - [XSLT](#xslt)
   - [YARA](#yara)
   - [Zig](#zig)
   - [sed](#sed)
@@ -122,6 +123,7 @@
 
 ## C 
 
+- [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly
@@ -413,6 +415,7 @@
 
 ## C++ 
 
+- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
@@ -774,6 +777,7 @@
 
 ## Go 
 
+- [senv](https://github.com/SpectralOps/senv) - Friends don't let friends leak secrets on their terminal window :see_no_evil:
 - [gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) - Simple golang mitm proxy implementation
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
@@ -1656,6 +1660,7 @@
 
 ## HTML 
 
+- [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Draft proposal for smart pipelines, including formal specification.
 - [proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
 - [proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
@@ -1850,9 +1855,11 @@
 
 ## JavaScript 
 
+- [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
+- [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1576-Stars](https://github.com/RealPeha/This-Repo-Has-1576-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1587-Stars](https://github.com/RealPeha/This-Repo-Has-1587-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2005,7 +2012,7 @@
 - [better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
 - [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
-- [link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser
+- [link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser; create hidden bookmarks without a browser extension
 - [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
@@ -2549,6 +2556,7 @@
 
 ## Makefile 
 
+- [floc](https://github.com/WICG/floc) - FLoC
 - [verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) - Smart contracts which are formally verified
 - [personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -2767,6 +2775,7 @@
 
 ## Others 
 
+- [awesome-ppx-deriving](https://github.com/davesnx/awesome-ppx-deriving) - A collection of ppx-deriving plugins
 - [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
@@ -3466,6 +3475,7 @@
 
 ## Rust 
 
+- [rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
 - [pipes-rs](https://github.com/CookieCoder15/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
 - [shoop](https://github.com/mcginty/shoop) - scp has a run-in with mosh (alpha)
 - [treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
@@ -3739,6 +3749,7 @@
 
 ## Shell 
 
+- [raw-thumbnailer](https://github.com/erlendd/raw-thumbnailer) - Automatically exported from code.google.com/p/raw-thumbnailer
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
@@ -4002,6 +4013,8 @@
 
 ## TypeScript 
 
+- [react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
+- [svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [jerd](https://github.com/jaredly/jerd) - 
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
@@ -4221,7 +4234,7 @@
 - [vim-cutlass](https://github.com/svermeulen/vim-cutlass) - Plugin that adds a 'cut' operation separate from 'delete'
 - [vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 - [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
-- [wilder.nvim](https://github.com/gelguy/wilder.nvim) - 🏕️ A more adventurous wildmenu
+- [wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
 - [reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
 - [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Text Properties
@@ -4461,6 +4474,10 @@
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## XSLT 
+
+- [xhtml2man](https://github.com/jyujin/xhtml2man) - XSLT to turn proper XHTML documents into man pages.
 
 ## YARA 
 
