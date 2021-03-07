@@ -123,6 +123,7 @@
 
 ## C 
 
+- [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -1855,11 +1856,13 @@
 
 ## JavaScript 
 
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
+- [scrollycoding-preview](https://github.com/pomber/scrollycoding-preview) - 
 - [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1587-Stars](https://github.com/RealPeha/This-Repo-Has-1587-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1593-Stars](https://github.com/RealPeha/This-Repo-Has-1593-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2511,6 +2514,7 @@
 
 ## Lua 
 
+- [tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
 - [focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing Splits/Windows for Neovim written in Lua!
@@ -2775,6 +2779,7 @@
 
 ## Others 
 
+- [eco-nft](https://github.com/memo/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
 - [awesome-ppx-deriving](https://github.com/davesnx/awesome-ppx-deriving) - A collection of ppx-deriving plugins
 - [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -2997,6 +3002,7 @@
 
 ## Python 
 
+- [xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [uniswap-v1](https://github.com/Uniswap/uniswap-v1) - 🐍Uniswap V1 smart contracts
@@ -3373,6 +3379,7 @@
 
 ## R 
 
+- [tibble](https://github.com/tidyverse/tibble) - A modern re-imagining of the data frame
 - [ggx](https://github.com/brandmaier/ggx) - ggx
 - [splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
 - [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
@@ -3475,6 +3482,7 @@
 
 ## Rust 
 
+- [traits](https://github.com/RustCrypto/traits) - Collection of cryptography-related traits
 - [rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
 - [pipes-rs](https://github.com/CookieCoder15/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
 - [shoop](https://github.com/mcginty/shoop) - scp has a run-in with mosh (alpha)
