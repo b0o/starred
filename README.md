@@ -175,6 +175,7 @@
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
+- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
@@ -448,7 +449,6 @@
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 - [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
@@ -1862,7 +1862,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1593-Stars](https://github.com/RealPeha/This-Repo-Has-1593-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1597-Stars](https://github.com/RealPeha/This-Repo-Has-1597-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2670,7 +2670,7 @@
 - [dune-release](https://github.com/ocamllabs/dune-release) - Streamlining the release of dune packages to opam
 - [ocaml-posix](https://github.com/savonet/ocaml-posix) - Bindings to the various POSIX APIs
 - [pp](https://github.com/ocaml-dune/pp) - Pretty printing library
-- [bisect_ppx](https://github.com/aantron/bisect_ppx) - Code coverage for OCaml and Reason
+- [bisect_ppx](https://github.com/aantron/bisect_ppx) - Code coverage for OCaml and ReScript
 - [wlroots-ocaml](https://github.com/swaywm/wlroots-ocaml) - OCaml bindings to wlroots [experimental]
 - [csexp](https://github.com/ocaml-dune/csexp) - Minimal support for Canonical S-expressions
 - [ptime](https://github.com/dbuenzli/ptime) - POSIX time for OCaml
@@ -3482,6 +3482,7 @@
 
 ## Rust 
 
+- [systemd-manager](https://github.com/venam/systemd-manager) - Fork of https://gitlab.com/mmstick/systemd-manager to add switch between session and system bus
 - [traits](https://github.com/RustCrypto/traits) - Collection of cryptography-related traits
 - [rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
 - [pipes-rs](https://github.com/CookieCoder15/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
@@ -3757,6 +3758,7 @@
 
 ## Shell 
 
+- [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [raw-thumbnailer](https://github.com/erlendd/raw-thumbnailer) - Automatically exported from code.google.com/p/raw-thumbnailer
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
@@ -4027,7 +4029,7 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
 - [multi-token-standard](https://github.com/0xsequence/multi-token-standard) - Ethereum Multi-Token Standard (ERC-1155)
-- [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
+- [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand strokes.
 - [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
 - [ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React
