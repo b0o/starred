@@ -645,7 +645,7 @@
 - [apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
 - [datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/babashka/babashka) - Native Clojure interpreter for scripting
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -1086,7 +1086,7 @@
 - [dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
-- [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Complaint Window Managers
+- [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
 - [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -1461,6 +1461,7 @@
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
 - [vixl44](https://github.com/sebashwa/vixl44) - Create pixel art inside your terminal using vim movements
 - [jv](https://github.com/maxzender/jv) - Helps you view JSON on the command-line.
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -1662,7 +1663,7 @@
 ## HTML 
 
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
-- [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Draft proposal for smart pipelines, including formal specification.
+- [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Old archived draft proposal for smart pipelines. Go to the new Hack-pipes proposal at js-choi/proposal-hack-pipes.
 - [proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
 - [proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -1856,13 +1857,14 @@
 
 ## JavaScript 
 
+- [perfy](https://github.com/onury/perfy) - A simple, light-weight NodeJS utility for measuring code execution in high-resolution real times.
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [scrollycoding-preview](https://github.com/pomber/scrollycoding-preview) - 
 - [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1597-Stars](https://github.com/RealPeha/This-Repo-Has-1597-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1608-Stars](https://github.com/RealPeha/This-Repo-Has-1608-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2035,7 +2037,7 @@
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [mini_racer](https://github.com/rubyjs/mini_racer) - Minimal embedded v8
 - [fulldom-server](https://github.com/strugee/fulldom-server) - Proxy-like server that will show you the DOM of a page after JS runs
-- [cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
+- [cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
 - [development_favicon](https://github.com/ao5357/development_favicon) - A chrome extension to add color effects to favicons based on URL regex match patterns.
 - [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
@@ -2514,6 +2516,7 @@
 
 ## Lua 
 
+- [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
@@ -2756,7 +2759,6 @@
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [Fluid-for-Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) - [Sketch Plugin] Sketch-flavored Auto Layout-like Constraints
 - [teleport](https://github.com/symless/teleport) - Virtual KVM for OS X
-- [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [gpu-switch](https://github.com/0xbb/gpu-switch) - gpu-switch is an application that allows to switch between the graphic cards of dual-GPU Macbook Pro models
 - [Telegram](https://github.com/peter-iakovlev/Telegram) - Telegram Messenger for iOS
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
@@ -3482,6 +3484,8 @@
 
 ## Rust 
 
+- [num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
+- [maple](https://github.com/lukechu10/maple) - A reactive DOM library for Rust in WASM
 - [systemd-manager](https://github.com/venam/systemd-manager) - Fork of https://gitlab.com/mmstick/systemd-manager to add switch between session and system bus
 - [traits](https://github.com/RustCrypto/traits) - Collection of cryptography-related traits
 - [rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
@@ -4023,6 +4027,7 @@
 
 ## TypeScript 
 
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [jerd](https://github.com/jaredly/jerd) - 
