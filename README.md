@@ -533,7 +533,7 @@
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [gandiva](https://github.com/dremio/gandiva) - Vectorized processing for Apache Arrow
-- [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+- [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -778,6 +778,13 @@
 
 ## Go 
 
+- [wsd](https://github.com/alexanderGugel/wsd) - :facepunch: cURL for WebSocket Servers
+- [httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
+- [go-car](https://github.com/ipld/go-car) - A content addressible archive utility
+- [taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
+- [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
+- [steampipe](https://github.com/turbot/steampipe) - Steampipe command line interface (CLI)
 - [senv](https://github.com/SpectralOps/senv) - Friends don't let friends leak secrets on their terminal window :see_no_evil:
 - [gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) - Simple golang mitm proxy implementation
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
@@ -1864,7 +1871,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1608-Stars](https://github.com/RealPeha/This-Repo-Has-1608-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1614-Stars](https://github.com/RealPeha/This-Repo-Has-1614-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2516,6 +2523,8 @@
 
 ## Lua 
 
+- [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
+- [nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline for Neovim
 - [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
@@ -2608,6 +2617,10 @@
 
 ## OCaml 
 
+- [domainslib](https://github.com/ocaml-multicore/domainslib) - Parallel Programming over Domains
+- [hello-native-bucklescript](https://github.com/ahrefs/hello-native-bucklescript) - Skeleton of a shared library for bucklescript and native OCaml/Reason
+- [modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
+- [incr_dom_reason](https://github.com/jchavarri/incr_dom_reason) - Example project of janestreet/incr_dom with Reason
 - [fmlib](https://github.com/hbr/fmlib) - Functional Monadic Library for Ocaml
 - [ocoi](https://github.com/roddyyaga/ocoi) - OCaml On Ice - web framework for OCaml in the style of Ruby on Rails
 - [dark](https://github.com/darklang/dark) - 
@@ -2781,6 +2794,7 @@
 
 ## Others 
 
+- [ocaml2020-workshop-parallel](https://github.com/ocaml-multicore/ocaml2020-workshop-parallel) - Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"
 - [eco-nft](https://github.com/memo/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
 - [awesome-ppx-deriving](https://github.com/davesnx/awesome-ppx-deriving) - A collection of ppx-deriving plugins
 - [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -3381,6 +3395,7 @@
 
 ## R 
 
+- [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [tibble](https://github.com/tidyverse/tibble) - A modern re-imagining of the data frame
 - [ggx](https://github.com/brandmaier/ggx) - ggx
 - [splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
@@ -3404,7 +3419,7 @@
 ## Reason 
 
 - [reason-nodejs](https://github.com/sikanhe/reason-nodejs) - Node bindings for Reason and Bucklescript
-- [reason-relay](https://github.com/zth/reason-relay) - Use Relay with ReasonML.
+- [rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReasonML.
 - [ocaml_webapp](https://github.com/jchavarri/ocaml_webapp) - A minimal example of a lightweight webapp in OCaml
 - [reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [fullstack-reason](https://github.com/yawaramin/fullstack-reason) - A demo project that shows a fullstack ReasonML/OCaml app–native binary + webapp
@@ -3484,6 +3499,8 @@
 
 ## Rust 
 
+- [goose](https://github.com/tag1consulting/goose) - Load testing tool, inspired by Locust
+- [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
 - [maple](https://github.com/lukechu10/maple) - A reactive DOM library for Rust in WASM
 - [systemd-manager](https://github.com/venam/systemd-manager) - Fork of https://gitlab.com/mmstick/systemd-manager to add switch between session and system bus
@@ -3503,7 +3520,7 @@
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
-- [nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
+- [nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Text Correction library written in Rust.
 - [comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -3762,6 +3779,8 @@
 
 ## Shell 
 
+- [tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
+- [pa](https://github.com/biox/pa) - A simple password manager using age written in POSIX sh
 - [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [raw-thumbnailer](https://github.com/erlendd/raw-thumbnailer) - Automatically exported from code.google.com/p/raw-thumbnailer
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -4027,6 +4046,7 @@
 
 ## TypeScript 
 
+- [repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
