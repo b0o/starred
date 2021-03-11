@@ -645,7 +645,7 @@
 - [apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
 - [datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-m1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/babashka/babashka) - Native Clojure interpreter for scripting
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -778,6 +778,7 @@
 
 ## Go 
 
+- [netaddr](https://github.com/inetaf/netaddr) - Network address types
 - [wsd](https://github.com/alexanderGugel/wsd) - :facepunch: cURL for WebSocket Servers
 - [httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
 - [go-car](https://github.com/ipld/go-car) - A content addressible archive utility
@@ -1871,7 +1872,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1614-Stars](https://github.com/RealPeha/This-Repo-Has-1614-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1616-Stars](https://github.com/RealPeha/This-Repo-Has-1616-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3034,7 +3035,6 @@
 - [AutomaThemely](https://github.com/C2N14/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
-- [b2_count_versions](https://github.com/Backblaze-B2-Samples/b2_count_versions) - This script spiders through a B2 bucket (using the B2 API) to find files with multiple versions.
 - [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
 - [b2_fuse](https://github.com/sondree/b2_fuse) - FUSE integration for Backblaze B2 Cloud storage
