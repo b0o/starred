@@ -645,7 +645,7 @@
 - [apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
 - [datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-m1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka](https://github.com/babashka/babashka) - Native Clojure interpreter for scripting
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -778,6 +778,8 @@
 
 ## Go 
 
+- [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [letsdane](https://github.com/buffrr/letsdane) - 🔒 Let's DANE is an experimental way to enable the use of DANE/TLSA in browsers and other apps using a lightweight proxy.
 - [netaddr](https://github.com/inetaf/netaddr) - Network address types
 - [wsd](https://github.com/alexanderGugel/wsd) - :facepunch: cURL for WebSocket Servers
 - [httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
@@ -868,7 +870,7 @@
 - [dtn7-go](https://github.com/dtn7/dtn7-go) - Delay-tolerant networking software suite, Bundle Protocol Version 7
 - [Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
 - [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
-- [diode_go_client](https://github.com/diodechain/diode_go_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diodechain.
+- [diode_client](https://github.com/diodechain/diode_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diodechain.
 - [woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
 - [cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
@@ -1464,7 +1466,7 @@
 - [amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
+- [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [govisor](https://github.com/gdamore/govisor) - govisor is a service management framework for Go and processes, inspired by Solaris SMF
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -1670,6 +1672,7 @@
 
 ## HTML 
 
+- [xsltdev.com](https://github.com/xsltdev/xsltdev.com) - XSLT Documentation and examples
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Old archived draft proposal for smart pipelines. Go to the new Hack-pipes proposal at js-choi/proposal-hack-pipes.
 - [proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
@@ -1700,7 +1703,7 @@
 - [blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [christmas](https://github.com/shannonmoeller/christmas) - Is it Christmas?
-- [THC-Archive](https://github.com/vanhauser-thc/THC-Archive) - All releases of the security research group (a.k.a. hackers) The Hacker's Choice
+- [THC-Archive](https://github.com/hackerschoice/THC-Archive) - All releases of the security research group (a.k.a. hackers) The Hacker's Choice
 - [codem-ipsum](https://github.com/pomber/codem-ipsum) - Lorem ipsum for code
 - [pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
 - [ocaml.org](https://github.com/ocaml/ocaml.org) - Implementation of the ocaml.org website.
@@ -1744,6 +1747,7 @@
 
 ## Haskell 
 
+- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [tasty-bench](https://github.com/Bodigrim/tasty-bench) - Featherlight benchmark framework, drop-in replacement for criterion and gauge.
 - [conduit](https://github.com/snoyberg/conduit) - A streaming data library
@@ -1865,6 +1869,7 @@
 
 ## JavaScript 
 
+- [regex-crossword](https://github.com/Jimbly/regex-crossword) - Implementation of a RegExp crossword.
 - [perfy](https://github.com/onury/perfy) - A simple, light-weight NodeJS utility for measuring code execution in high-resolution real times.
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [scrollycoding-preview](https://github.com/pomber/scrollycoding-preview) - 
@@ -1872,7 +1877,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1616-Stars](https://github.com/RealPeha/This-Repo-Has-1616-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1620-Stars](https://github.com/RealPeha/This-Repo-Has-1620-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -1986,7 +1991,6 @@
 - [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [tracker-radar-collector](https://github.com/duckduckgo/tracker-radar-collector) - 🕸 Modular, multithreaded, puppeteer-based crawler
 - [textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
-- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
@@ -2515,7 +2519,7 @@
 ## Kotlin 
 
 - [Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-- [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
+- [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
 - [gpt2-discord](https://github.com/ScottPeterJohnson/gpt2-discord) - Discord bot that generates messages using GPT-2
 
 ## Less 
@@ -2795,6 +2799,7 @@
 
 ## Others 
 
+- [awesome-alt-langs](https://github.com/ostera/awesome-alt-langs) - Just a list of Awesome Alt Langs to check out
 - [ocaml2020-workshop-parallel](https://github.com/ocaml-multicore/ocaml2020-workshop-parallel) - Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"
 - [eco-nft](https://github.com/memo/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
 - [awesome-ppx-deriving](https://github.com/davesnx/awesome-ppx-deriving) - A collection of ppx-deriving plugins
@@ -3019,6 +3024,7 @@
 
 ## Python 
 
+- [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -3431,7 +3437,7 @@
 - [odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
 - [reasonml.org](https://github.com/rescript-association/reasonml.org) - Deprecated in favor of rescript-lang.org
-- [reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/Reason: for globally dead values/types, exception analysis, and termination analysis.
+- [reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/ReScript: for globally dead values/types, exception analysis, and termination analysis.
 - [morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
@@ -4107,6 +4113,7 @@
 - [figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
 - [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
@@ -4502,6 +4509,7 @@
 
 ## Vue 
 
+- [tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
