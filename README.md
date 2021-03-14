@@ -1869,6 +1869,7 @@
 
 ## JavaScript 
 
+- [hs-client](https://github.com/handshake-org/hs-client) - REST, websocket, and RPC client for hsd
 - [regex-crossword](https://github.com/Jimbly/regex-crossword) - Implementation of a RegExp crossword.
 - [perfy](https://github.com/onury/perfy) - A simple, light-weight NodeJS utility for measuring code execution in high-resolution real times.
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
@@ -1877,7 +1878,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1620-Stars](https://github.com/RealPeha/This-Repo-Has-1620-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1623-Stars](https://github.com/RealPeha/This-Repo-Has-1623-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2528,6 +2529,10 @@
 
 ## Lua 
 
+- [nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
+- [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
+- [nvim-fzf-commands](https://github.com/vijaymarupudi/nvim-fzf-commands) - Assorted commands using nvim-fzf
+- [nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - 
 - [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
 - [nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline for Neovim
 - [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
@@ -2877,6 +2882,7 @@
 - [nist-inject](https://github.com/opentimestamps/nist-inject) - An injection of the NIST, ETH, LTC, and ZEC Random Beacons into Bitcoin
 - [betrusted-wiki](https://github.com/betrusted-io/betrusted-wiki) - Wiki for the betrusted project
 - [Electronics](https://github.com/pepaslabs/Electronics) - A central place to organize and publish all of my hobbyist electronics knowledge and projects.
+- [Texturina](https://github.com/Omnibus-Type/Texturina) - 
 - [ocaml-lsp](https://github.com/rgrinberg/ocaml-lsp) - OCaml Language Server Protocol implementation
 - [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [kernel-tutorial](https://github.com/gregkh/kernel-tutorial) - Basic "How to write a Linux kernel patch and submit it" tutorial
@@ -3203,7 +3209,6 @@
 - [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project
-- [Texturina](https://github.com/Omnibus-Type/Texturina) - 
 - [weneeda.name](https://github.com/evilham/weneeda.name) - 
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
@@ -3505,6 +3510,7 @@
 
 ## Rust 
 
+- [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [goose](https://github.com/tag1consulting/goose) - Load testing tool, inspired by Locust
 - [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
@@ -3785,6 +3791,7 @@
 
 ## Shell 
 
+- [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (With out API)
 - [tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [pa](https://github.com/biox/pa) - A simple password manager using age written in POSIX sh
 - [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
@@ -3818,7 +3825,7 @@
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
-- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash, zsh and all POSIX shells)
 - [shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [tutorial](https://github.com/shellfire-dev/tutorial) - tutorial for shellfire
