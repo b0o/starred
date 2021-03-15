@@ -123,6 +123,7 @@
 
 ## C 
 
+- [audit-userspace](https://github.com/linux-audit/audit-userspace) - Linux audit userspace repository
 - [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
@@ -525,7 +526,6 @@
 - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
-- [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
@@ -1672,7 +1672,6 @@
 
 ## HTML 
 
-- [xsltdev.com](https://github.com/xsltdev/xsltdev.com) - XSLT Documentation and examples
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Old archived draft proposal for smart pipelines. Go to the new Hack-pipes proposal at js-choi/proposal-hack-pipes.
 - [proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
@@ -1878,7 +1877,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1623-Stars](https://github.com/RealPeha/This-Repo-Has-1623-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1621-Stars](https://github.com/RealPeha/This-Repo-Has-1621-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2208,6 +2207,7 @@
 - [glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
@@ -2804,6 +2804,8 @@
 
 ## Others 
 
+- [audit-documentation](https://github.com/linux-audit/audit-documentation) - Documentation and specifications
+- [xsltdev.com](https://github.com/xsltdev/xsltdev.com) - XSLT Documentation and examples
 - [awesome-alt-langs](https://github.com/ostera/awesome-alt-langs) - Just a list of Awesome Alt Langs to check out
 - [ocaml2020-workshop-parallel](https://github.com/ocaml-multicore/ocaml2020-workshop-parallel) - Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"
 - [eco-nft](https://github.com/memo/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
@@ -3791,7 +3793,7 @@
 
 ## Shell 
 
-- [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (With out API)
+- [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [pa](https://github.com/biox/pa) - A simple password manager using age written in POSIX sh
 - [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
@@ -4066,7 +4068,7 @@
 - [jerd](https://github.com/jaredly/jerd) - 
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
-- [multi-token-standard](https://github.com/0xsequence/multi-token-standard) - Ethereum Multi-Token Standard (ERC-1155)
+- [erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Multi-Token Standard (ERC-1155)
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand strokes.
 - [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
@@ -4300,7 +4302,7 @@
 - [vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
 - [dotfiles](https://github.com/junegunn/dotfiles) - :house_with_garden: It's personal
 - [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
-- [aergia](https://github.com/retenh/aergia) - Snippet manager.
+- [aergia](https://github.com/henricattoire/aergia) - Snippet manager.
 - [vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
@@ -4521,7 +4523,7 @@
 - [squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
 - [github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
