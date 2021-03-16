@@ -647,7 +647,7 @@
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 - [org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
-- [babashka](https://github.com/babashka/babashka) - Native Clojure interpreter for scripting
+- [babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
@@ -778,6 +778,11 @@
 
 ## Go 
 
+- [libaudit-go](https://github.com/mozilla/libaudit-go) - go package for interfacing with Linux audit
+- [go-sway](https://github.com/harrisonthorne/go-sway) - Golang IPC client for the sway window manager
+- [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports
+- [tz](https://github.com/oz/tz) - 🌐 A time zone helper
+- [dasel](https://github.com/TomWright/dasel) - Query, update and convert data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML, XML and CSV with zero runtime dependencies.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [letsdane](https://github.com/buffrr/letsdane) - 🔒 Let's DANE is an experimental way to enable the use of DANE/TLSA in browsers and other apps using a lightweight proxy.
 - [netaddr](https://github.com/inetaf/netaddr) - Network address types
@@ -1877,7 +1882,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1621-Stars](https://github.com/RealPeha/This-Repo-Has-1621-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1626-Stars](https://github.com/RealPeha/This-Repo-Has-1626-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2627,6 +2632,8 @@
 
 ## OCaml 
 
+- [confuzz](https://github.com/SumitPadhiyar/confuzz) - Concurrency property fuzzing tool for Lwt-based OCaml programs
+- [aws-lambda-ocaml-runtime](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) - An OCaml custom runtime for AWS Lambda
 - [domainslib](https://github.com/ocaml-multicore/domainslib) - Parallel Programming over Domains
 - [hello-native-bucklescript](https://github.com/ahrefs/hello-native-bucklescript) - Skeleton of a shared library for bucklescript and native OCaml/Reason
 - [modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
@@ -3032,6 +3039,7 @@
 
 ## Python 
 
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
