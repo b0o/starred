@@ -123,6 +123,8 @@
 
 ## C 
 
+- [wl-gammactl](https://github.com/mischw/wl-gammactl) - 
+- [wlr-brightness](https://github.com/mherzberg/wlr-brightness) - Adjust the brightness of wlroots-based compositors such as sway.
 - [audit-userspace](https://github.com/linux-audit/audit-userspace) - Linux audit userspace repository
 - [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
@@ -1191,7 +1193,7 @@
 - [go-lcss](https://github.com/vmarkovtsev/go-lcss) - Fast Longest Common Substring in Go
 - [runtime](https://github.com/kata-containers/runtime) - Kata Containers version 1.x runtime (for version 2.x see https://github.com/kata-containers/kata-containers).
 - [agent](https://github.com/kata-containers/agent) - Kata Containers version 1.x agent (for version 2.x see https://github.com/kata-containers/kata-containers). Virtual Machine agent for hardware virtualized containers
-- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [tap-go](https://github.com/mndrix/tap-go) - Test Anything Protocol for Go
 - [go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
@@ -1476,7 +1478,7 @@
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [vixl44](https://github.com/sebashwa/vixl44) - Create pixel art inside your terminal using vim movements
 - [jv](https://github.com/maxzender/jv) - Helps you view JSON on the command-line.
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -1882,7 +1884,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1626-Stars](https://github.com/RealPeha/This-Repo-Has-1626-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1630-Stars](https://github.com/RealPeha/This-Repo-Has-1630-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2005,7 +2007,6 @@
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [create-snowpack-app](https://github.com/snowpackjs/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
 - [squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
@@ -2632,6 +2633,7 @@
 
 ## OCaml 
 
+- [bucklescript](https://github.com/anmonteiro/bucklescript) - A backend for the OCaml compiler which emits JavaScript.
 - [confuzz](https://github.com/SumitPadhiyar/confuzz) - Concurrency property fuzzing tool for Lwt-based OCaml programs
 - [aws-lambda-ocaml-runtime](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) - An OCaml custom runtime for AWS Lambda
 - [domainslib](https://github.com/ocaml-multicore/domainslib) - Parallel Programming over Domains
@@ -3552,7 +3554,7 @@
 - [dotrix](https://github.com/lowenware/dotrix) - A 3D Engine written in Rust
 - [bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache
-- [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
+- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [fast-float-rust](https://github.com/aldanor/fast-float-rust) - Super-fast float parser in Rust
 - [iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
@@ -3801,6 +3803,8 @@
 
 ## Shell 
 
+- [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+- [fetch](https://github.com/KittyKatt/fetch) - A BASH screenshot, system information, and logo display tool.
 - [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [pa](https://github.com/biox/pa) - A simple password manager using age written in POSIX sh
@@ -4133,6 +4137,7 @@
 - [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
