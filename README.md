@@ -676,6 +676,7 @@
 
 ## Common Lisp 
 
+- [lisp-koans](https://github.com/google/lisp-koans) - Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features.
 - [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 - [weir](https://github.com/inconvergent/weir) - A system for making generative systems
 - [ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
@@ -1884,7 +1885,7 @@
 - [url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [This-Repo-Has-1634-Stars](https://github.com/RealPeha/This-Repo-Has-1634-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1636-Stars](https://github.com/RealPeha/This-Repo-Has-1636-Stars) - Yes, it's true :purple_heart:
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -1936,7 +1937,7 @@
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify) - gulp plugin to send messages based on Vinyl Files or Errors to Mac OS X, Linux or Windows using the node-notifier module. Fallbacks to Growl or simply logging
 - [es6-base](https://github.com/Jezzamonn/es6-base) - Base project for creating interactive things in modern JavaScript
 - [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
-- [timeline](https://github.com/nicbou/timeline) - Utilities to help backup my data from different sources
+- [timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [node-fetch-retry](https://github.com/adobe/node-fetch-retry) - Node Module for performing retries using node-fetch
 - [http-echo-server](https://github.com/watson/http-echo-server) - A simple HTTP echo server
@@ -3041,6 +3042,7 @@
 
 ## Python 
 
+- [sql-koans](https://github.com/phillipjohnson/sql-koans) - A set of Koans to teach SQL http://sqlkoans.com
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
@@ -3782,7 +3784,7 @@
 - [makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [true](https://github.com/oddbird/true) - Sass unit tests
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
-- [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
+- [ShellMagic](https://github.com/blue-hexagon/ShellMagic) - My shell notes :memo:
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [gallery](https://github.com/ggplot2-exts/gallery) - Gallery of ggplot2 extensions
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -3803,6 +3805,7 @@
 
 ## Shell 
 
+- [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [fetch](https://github.com/KittyKatt/fetch) - A BASH screenshot, system information, and logo display tool.
 - [ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
@@ -4274,6 +4277,7 @@
 
 ## Vim script 
 
+- [vim-visual-increment](https://github.com/triglav/vim-visual-increment) - visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode
 - [vim-ragtag](https://github.com/tpope/vim-ragtag) - ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)
 - [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
