@@ -69,6 +69,7 @@
   - [R](#r)
   - [Racket](#racket)
   - [Raku](#raku)
+  - [ReScript](#rescript)
   - [Reason](#reason)
   - [Red](#red)
   - [Roff](#roff)
@@ -420,6 +421,7 @@
 
 ## C++ 
 
+- [darling-dmg](https://github.com/darlinghq/darling-dmg) - FUSE module for .dmg files (containing an HFS+ filesystem)
 - [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -771,6 +773,7 @@
 
 ## F# # 
 
+- [FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans) - A simple, fun, and interactive way to learn the F# language through testing.
 - [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 - [elmish-spreadsheet](https://github.com/tpetricek/elmish-spreadsheet) - Implement your own Excel 365 in 100 lines of F#!
 - [The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
@@ -781,6 +784,16 @@
 
 ## Go 
 
+- [go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
+- [cob](https://github.com/knqyf263/cob) - Continuous Benchmark for Go Project
+- [kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
+- [overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
+- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
+- [math](https://github.com/pkg/math) - Ancillary Mathematical functions
+- [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively
+- [pid-go](https://github.com/einride/pid-go) - PID controllers for Go.
+- [go-koans](https://github.com/cdarwin/go-koans) - koans for go
 - [libaudit-go](https://github.com/mozilla/libaudit-go) - go package for interfacing with Linux audit
 - [go-sway](https://github.com/harrisonthorne/go-sway) - Golang IPC client for the sway window manager
 - [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports
@@ -1680,6 +1693,7 @@
 
 ## HTML 
 
+- [charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [proposal-smart-pipelines](https://github.com/js-choi/proposal-smart-pipelines) - Old archived draft proposal for smart pipelines. Go to the new Hack-pipes proposal at js-choi/proposal-hack-pipes.
 - [proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
@@ -1849,6 +1863,8 @@
 
 ## Java 
 
+- [bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
+- [coinex_exchange_api](https://github.com/coinexcom/coinex_exchange_api) - The global digital coin exchange.
 - [redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
 - [tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
@@ -1876,6 +1892,8 @@
 
 ## JavaScript 
 
+- [learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) - valuable sources for TA, FA, Algorithmic \ Quant Trading
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support
 - [hs-client](https://github.com/handshake-org/hs-client) - REST, websocket, and RPC client for hsd
 - [regex-crossword](https://github.com/Jimbly/regex-crossword) - Implementation of a RegExp crossword.
 - [perfy](https://github.com/onury/perfy) - A simple, light-weight NodeJS utility for measuring code execution in high-resolution real times.
@@ -2536,6 +2554,7 @@
 
 ## Lua 
 
+- [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - lsp signature hint when you type
 - [nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
 - [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
 - [nvim-fzf-commands](https://github.com/vijaymarupudi/nvim-fzf-commands) - Assorted commands using nvim-fzf
@@ -2634,6 +2653,8 @@
 
 ## OCaml 
 
+- [TelegraML](https://github.com/nv-vn/TelegraML) - OCaml implementation of the Telegram Bot API
+- [atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
 - [bucklescript](https://github.com/anmonteiro/bucklescript) - A backend for the OCaml compiler which emits JavaScript.
 - [confuzz](https://github.com/SumitPadhiyar/confuzz) - Concurrency property fuzzing tool for Lwt-based OCaml programs
 - [aws-lambda-ocaml-runtime](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) - An OCaml custom runtime for AWS Lambda
@@ -3042,6 +3063,7 @@
 
 ## Python 
 
+- [chainbreaker](https://github.com/n0fate/chainbreaker) - Mac OS X Keychain Forensic Tool
 - [sql-koans](https://github.com/phillipjohnson/sql-koans) - A set of Koans to teach SQL http://sqlkoans.com
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
@@ -3441,6 +3463,10 @@
 
 - [rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
 
+## ReScript 
+
+- [rescript-react-native](https://github.com/rescript-react-native/rescript-react-native) - ReScript bindings for React Native
+
 ## Reason 
 
 - [reason-nodejs](https://github.com/sikanhe/reason-nodejs) - Node bindings for Reason and Bucklescript
@@ -3463,7 +3489,6 @@
 - [grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
 - [genType](https://github.com/rescript-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
-- [reason-react-native](https://github.com/reason-react-native/reason-react-native) - ReScript bindings for React Native
 
 ## Red 
 
@@ -3475,6 +3500,7 @@
 
 ## Ruby 
 
+- [ruby_koans](https://github.com/edgecase/ruby_koans) - Learn Ruby with the Edgecase Ruby Koans
 - [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
@@ -3524,6 +3550,10 @@
 
 ## Rust 
 
+- [borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing
+- [Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
+- [frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
+- [erd-rs](https://github.com/davechallis/erd-rs) - Rust version of the Haskell ERD tool. Translates a plain text description of a relational database schema to dot files representing an entity relation diagram.
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [goose](https://github.com/tag1consulting/goose) - Load testing tool, inspired by Locust
 - [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
@@ -3805,6 +3835,8 @@
 
 ## Shell 
 
+- [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
+- [gitleaks-action](https://github.com/zricethezav/gitleaks-action) - run gitleaks in a gitleaks action
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [fetch](https://github.com/KittyKatt/fetch) - A BASH screenshot, system information, and logo display tool.
@@ -4076,6 +4108,7 @@
 
 ## TypeScript 
 
+- [studio](https://github.com/mathigon/studio) - A customisable NodeJS server for creating and hosting highly interactive online courses.
 - [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) - 🎛 Core smart contracts of Uniswap V2
 - [repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
@@ -4340,7 +4373,6 @@
 - [base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
 - [vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match
-- [Dotfiles](https://github.com/t89/Dotfiles) - There is no place like ~/
 - [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 - [lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
 - [gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
