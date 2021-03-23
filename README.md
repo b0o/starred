@@ -299,7 +299,6 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [MycroftAI/mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 - [arjun024/mkeykernel](https://github.com/arjun024/mkeykernel) - A kernel that can read from keyboard and print on-screen
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -535,6 +534,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
+- [solokeys/solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -1909,8 +1909,8 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1634-Stars](https://github.com/RealPeha/This-Repo-Has-1634-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
+- [RealPeha/This-Repo-Has-1638-Stars](https://github.com/RealPeha/This-Repo-Has-1638-Stars) - Yes, it's true :purple_heart:
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [ysulyma/rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for ractive-player
@@ -3486,7 +3486,7 @@
 ## Reason 
 
 - [sikanhe/reason-nodejs](https://github.com/sikanhe/reason-nodejs) - Node bindings for Reason and Bucklescript
-- [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReasonML.
+- [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 - [jchavarri/ocaml_webapp](https://github.com/jchavarri/ocaml_webapp) - A minimal example of a lightweight webapp in OCaml
 - [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [yawaramin/fullstack-reason](https://github.com/yawaramin/fullstack-reason) - A demo project that shows a fullstack ReasonML/OCaml app–native binary + webapp
@@ -4248,7 +4248,7 @@
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Implementation of the Google Cast Chrome Sender SDK within Firefox
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15: https://discourse.mozilla.org/t/update-on-common-voice-mozilla-foundation/74526/] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [naveedgol/music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
