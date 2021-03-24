@@ -786,6 +786,7 @@
 
 ## Go 
 
+- [RRethy/hexokinase](https://github.com/RRethy/hexokinase) - Fast text scraper to find and convert colours (hex, rgb, rgb, hsl, web colours, custom patterns, etc.) into hex values
 - [h2non/bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [lukechampine/uint128](https://github.com/lukechampine/uint128) - uint128 for Go
@@ -818,7 +819,7 @@
 - [AdguardTeam/gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) - Simple golang mitm proxy implementation
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [tailscale/depaware](https://github.com/tailscale/depaware) - depaware makes you aware of your Go dependencies
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
@@ -2567,7 +2568,7 @@
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
 - [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
 - [vijaymarupudi/nvim-fzf-commands](https://github.com/vijaymarupudi/nvim-fzf-commands) - Assorted commands using nvim-fzf
-- [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - 
+- [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using fzf in neovim.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
 - [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline for Neovim
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
@@ -2844,6 +2845,7 @@
 
 ## Others 
 
+- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
 - [joelowj/awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
 - [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - Federated Learning Library: https://fedml.ai
@@ -3097,7 +3099,7 @@
 - [mlvnt/AutomaThemely](https://github.com/mlvnt/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [C2N14/AutomaThemely](https://github.com/C2N14/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
-- [daehruoydeef/Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
+- [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [s3ql/s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
@@ -3566,6 +3568,7 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [mrDIMAS/rusty-editor](https://github.com/mrDIMAS/rusty-editor) - Scene editor for rg3d engine
 - [near/borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing
