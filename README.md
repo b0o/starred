@@ -422,6 +422,7 @@
 
 ## C++ 
 
+- [facebook/hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [darlinghq/darling-dmg](https://github.com/darlinghq/darling-dmg) - FUSE module for .dmg files (containing an HFS+ filesystem)
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -729,6 +730,7 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [lawik/mjpeg](https://github.com/lawik/mjpeg) - A simple example of how you can do MJPEG in Elixir
+- [bontaq/textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [veelenga/dress](https://github.com/veelenga/dress) - :dress: Dress up your stdout
@@ -1899,6 +1901,8 @@
 
 ## JavaScript 
 
+- [lexfridman/deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
+- [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [learn-crypto-trading/learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) - valuable sources for TA, FA, Algorithmic \ Quant Trading
 - [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support
 - [handshake-org/hs-client](https://github.com/handshake-org/hs-client) - REST, websocket, and RPC client for hsd
@@ -1910,7 +1914,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1638-Stars](https://github.com/RealPeha/This-Repo-Has-1638-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1640-Stars](https://github.com/RealPeha/This-Repo-Has-1640-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -1995,7 +1999,6 @@
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [bontaq/textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
 - [Perdu/Cookie-Glasses](https://github.com/Perdu/Cookie-Glasses) - This browser extension shows you whether consent registered by cookie banners of IAB Europe's Transparency & Consent Framework corresponds to your choice
 - [liangzan/aws-glacier-calculator](https://github.com/liangzan/aws-glacier-calculator) - A single page angular js app for calculating the rates for AWS glacier.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
@@ -2533,6 +2536,7 @@
 
 ## Jupyter Notebook 
 
+- [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [michaelmendoza/learning-tensorflow](https://github.com/michaelmendoza/learning-tensorflow) - Simple Tensorflow tutorials for learning by example
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [source-separation/tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
@@ -2845,7 +2849,6 @@
 
 ## Others 
 
-- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
 - [joelowj/awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
 - [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - Federated Learning Library: https://fedml.ai
@@ -3857,6 +3860,8 @@
 
 ## Shell 
 
+- [AndreBL/ip6neigh](https://github.com/AndreBL/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
+- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [zricethezav/gitleaks-action](https://github.com/zricethezav/gitleaks-action) - run gitleaks in a gitleaks action
 - [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
@@ -4597,7 +4602,7 @@
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [jperals/zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
 - [zircleUI/github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
