@@ -255,7 +255,6 @@
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [emmericp/ixy](https://github.com/emmericp/ixy) - A simple yet fast user space network driver for Intel 10 Gbit/s NICs written from scratch
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
-- [cyclopsian/wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [aligrudi/fbpad](https://github.com/aligrudi/fbpad) - A small Linux framebuffer virtual terminal
@@ -781,7 +780,6 @@
 - [ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans) - A simple, fun, and interactive way to learn the F# language through testing.
 - [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 - [tpetricek/elmish-spreadsheet](https://github.com/tpetricek/elmish-spreadsheet) - Implement your own Excel 365 in 100 lines of F#!
-- [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 
 ## F* 
 
@@ -1878,6 +1876,7 @@
 
 ## Java 
 
+- [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
 - [bitcoinj/bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
 - [coinexcom/coinex_exchange_api](https://github.com/coinexcom/coinex_exchange_api) - The global digital coin exchange.
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
@@ -2857,6 +2856,9 @@
 
 ## Others 
 
+- [Valodim/zsh-socat-completion](https://github.com/Valodim/zsh-socat-completion) - zsh completion for socat
+- [ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling) - OpenSSF Security Tooling Working Group
+- [ossf/wg-identifying-security-threats](https://github.com/ossf/wg-identifying-security-threats) - The purpose of the Identifying Security Threats working group is to enable stakeholders to have informed confidence in the security of open source projects. We do this by collecting, curating, and communicating relevant metrics and metadata from open source projects and the ecosystems of which they are a part.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
@@ -3385,6 +3387,7 @@
 - [alphagov/archive-github-events](https://github.com/alphagov/archive-github-events) - 
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+- [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
@@ -3600,7 +3603,7 @@
 - [venam/systemd-manager](https://github.com/venam/systemd-manager) - Fork of https://gitlab.com/mmstick/systemd-manager to add switch between session and system bus
 - [RustCrypto/traits](https://github.com/RustCrypto/traits) - Collection of cryptography-related traits
 - [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
-- [CookieCoder15/pipes-rs](https://github.com/CookieCoder15/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
+- [lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
 - [mcginty/shoop](https://github.com/mcginty/shoop) - scp has a run-in with mosh (alpha)
 - [numtide/treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
 - [shakacode/rust-rescript-demo](https://github.com/shakacode/rust-rescript-demo) - 
@@ -3874,6 +3877,7 @@
 
 ## Shell 
 
+- [lrvl/tunnel-wireguard-udp2tcp](https://github.com/lrvl/tunnel-wireguard-udp2tcp) - Tunnel WireGuard UDP traffic over TCP using socat
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
 - [cvmiller/v6disc](https://github.com/cvmiller/v6disc) - IPv6 auto discovery tool
 - [AndreBL/ip6neigh](https://github.com/AndreBL/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
