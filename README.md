@@ -1010,7 +1010,7 @@
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [boreq/eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [progrium/go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs
-- [brimdata/zq](https://github.com/brimdata/zq) - Search and analysis tooling for structured logs
+- [brimdata/zed](https://github.com/brimdata/zed) - Search and analysis tooling for structured logs
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
 - [kamildrazkiewicz/go-flow](https://github.com/kamildrazkiewicz/go-flow) - Simply way to control goroutines execution order based on dependencies
@@ -1925,7 +1925,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1650-Stars](https://github.com/RealPeha/This-Repo-Has-1650-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2151,7 +2151,7 @@
 - [dtube/dtube](https://github.com/dtube/dtube) - :tv: d.tube app. A full-featured video sharing website, decentralized.
 - [mozilla/libdweb](https://github.com/mozilla/libdweb) - Extension containing an experimental libdweb APIs
 - [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
-- [ipfs-shipyard/ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
+- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
 - [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 - [pakastin/car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
@@ -2689,7 +2689,7 @@
 - [jchavarri/incr_dom_reason](https://github.com/jchavarri/incr_dom_reason) - Example project of janestreet/incr_dom with Reason
 - [hbr/fmlib](https://github.com/hbr/fmlib) - Functional Monadic Library for Ocaml
 - [roddyyaga/ocoi](https://github.com/roddyyaga/ocoi) - OCaml On Ice - web framework for OCaml in the style of Ruby on Rails
-- [darklang/dark](https://github.com/darklang/dark) - 
+- [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
 - [inhabitedtype/ocaml-aws](https://github.com/inhabitedtype/ocaml-aws) - Generated OCaml bindings for Amazon Web Services
 - [daypack-dev/timere](https://github.com/daypack-dev/timere) - OCaml date time handling and reasoning library
 - [mhallin/graphql_ppx](https://github.com/mhallin/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML
@@ -2859,6 +2859,7 @@
 
 ## Others 
 
+- [neargle/public-dns-list](https://github.com/neargle/public-dns-list) - Public Verified DNS List (Keep updating).
 - [Valodim/zsh-socat-completion](https://github.com/Valodim/zsh-socat-completion) - zsh completion for socat
 - [ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling) - OpenSSF Security Tooling Working Group
 - [ossf/wg-identifying-security-threats](https://github.com/ossf/wg-identifying-security-threats) - The purpose of the Identifying Security Threats working group is to enable stakeholders to have informed confidence in the security of open source projects. We do this by collecting, curating, and communicating relevant metrics and metadata from open source projects and the ecosystems of which they are a part.
@@ -3900,7 +3901,7 @@
 - [tckmn/xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
 - [drduh/Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [Toqozz/slip](https://github.com/Toqozz/slip) - Select and upload screenshots, gifs, and screencasts to imgur and gfycat with help of slop.
-- [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
+- [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
 - [system76/launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [plausible/hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
 - [gilbertchen/cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
