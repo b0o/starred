@@ -62,7 +62,6 @@
   - [Perl](#perl)
   - [Processing](#processing)
   - [Prolog](#prolog)
-  - [PureBasic](#purebasic)
   - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
@@ -511,6 +510,7 @@
 - [Dushistov/sdcv](https://github.com/Dushistov/sdcv) - 
 - [steven-michaud/HookCase](https://github.com/steven-michaud/HookCase) - Tool for reverse engineering macOS/OS X
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [blend2d/blend2d](https://github.com/blend2d/blend2d) - 2D Vector Graphics Engine Powered by a JIT Compiler
 - [unruhschuh/MrWriter](https://github.com/unruhschuh/MrWriter) - Notetaking and blackboard replacement application. Inspired by Xournal. Written in C++/Qt for Linux / Windows / Mac.
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
@@ -787,6 +787,8 @@
 
 ## Go 
 
+- [containerd/btrfs](https://github.com/containerd/btrfs) - Btrfs bindings for Go
+- [mmcloughlin/mathfmt](https://github.com/mmcloughlin/mathfmt) - Document mathematical Go code beautifully
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -1705,7 +1707,7 @@
 
 ## HTML 
 
-- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
+- [noiseprotocol/noise_spec](https://github.com/noiseprotocol/noise_spec) - Noise Specification
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -1925,7 +1927,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1654-Stars](https://github.com/RealPeha/This-Repo-Has-1654-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2130,7 +2132,7 @@
 - [WebReflection/wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [WebReflection/assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
@@ -2138,7 +2140,6 @@
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [LiCybora/NanoDefenderFirefox](https://github.com/LiCybora/NanoDefenderFirefox) - An anti-adblock defuser for uBlock Origin on Firefox
-- [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [itsecurityco/to-google-translate](https://github.com/itsecurityco/to-google-translate) - Highlight text on a web page and send it to Google Translate
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
@@ -2859,6 +2860,7 @@
 
 ## Others 
 
+- [noiseprotocol/noise_wiki](https://github.com/noiseprotocol/noise_wiki) - Wiki for Noise development
 - [neargle/public-dns-list](https://github.com/neargle/public-dns-list) - Public Verified DNS List (Keep updating).
 - [Valodim/zsh-socat-completion](https://github.com/Valodim/zsh-socat-completion) - zsh completion for socat
 - [ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling) - OpenSSF Security Tooling Working Group
@@ -3086,10 +3088,6 @@
 
 - [c-cube/datalog](https://github.com/c-cube/datalog) - An in-memory datalog implementation for OCaml.
 
-## PureBasic 
-
-- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-
 ## PureScript 
 
 - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
@@ -3247,7 +3245,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [Vimjas/vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [freedomofpress/securedrop-workstation](https://github.com/freedomofpress/securedrop-workstation) - Qubes-based SecureDrop Journalist Workstation environment for submission handling
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
@@ -3590,6 +3588,8 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
@@ -4159,6 +4159,7 @@
 
 ## TypeScript 
 
+- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [mathigon/studio](https://github.com/mathigon/studio) - A customisable NodeJS server for creating and hosting highly interactive online courses.
 - [Uniswap/uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) - 🎛 Core smart contracts of Uniswap V2
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
@@ -4250,6 +4251,7 @@
 - [rematch/rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
+- [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [pathephone/pathephone-web](https://github.com/pathephone/pathephone-web) - Distributed audio player for web
 - [intuit/design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
@@ -4626,7 +4628,7 @@
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [jperals/zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
 - [zircleUI/github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
