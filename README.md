@@ -160,7 +160,6 @@
 - [okbob/plpgsql_check](https://github.com/okbob/plpgsql_check) - plpgsql_check is linter tool for language PL/pgSQL (native language for PostgreSQL store procedures).
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [bbidulock/xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
-- [dekuNukem/pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
 - [jkulesza/usbreset](https://github.com/jkulesza/usbreset) - 
 - [glouw/paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
@@ -420,6 +419,7 @@
 
 ## C++ 
 
+- [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [facebook/hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [darlinghq/darling-dmg](https://github.com/darlinghq/darling-dmg) - FUSE module for .dmg files (containing an HFS+ filesystem)
@@ -439,12 +439,13 @@
 - [vgc/vgc](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [dekuNukem/pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [chellmuth/gpu-motunui](https://github.com/chellmuth/gpu-motunui) - GPU-Motunui is a path tracer that renders Disney Animation's Moana Island scene.
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
-- [netxs-group/VTM](https://github.com/netxs-group/VTM) - A text-based multi-user desktop environment
+- [netxs-group/VTM](https://github.com/netxs-group/VTM) - Terminal multiplexer with floating window manager and multi-party session sharing
 - [google/makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.
 - [arnholm/angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller
 - [aetilius/pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
@@ -599,6 +600,7 @@
 
 ## CSS 
 
+- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) - 
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -652,7 +654,7 @@
 - [juxt/apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/athens/
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -787,6 +789,10 @@
 
 ## Go 
 
+- [WillAbides/benchdiff](https://github.com/WillAbides/benchdiff) - 
+- [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - 
+- [cronokirby/safenum](https://github.com/cronokirby/safenum) - Constant time big numbers for Go
+- [adonovan/spaghetti](https://github.com/adonovan/spaghetti) - Spaghetti: a dependency analysis tool for Go packages
 - [containerd/btrfs](https://github.com/containerd/btrfs) - Btrfs bindings for Go
 - [mmcloughlin/mathfmt](https://github.com/mmcloughlin/mathfmt) - Document mathematical Go code beautifully
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -1192,7 +1198,7 @@
 - [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go.
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [hako/durafmt](https://github.com/hako/durafmt) - :clock8:  Better time duration formatting in Go!
-- [bruno-chavez/go-web-template](https://github.com/bruno-chavez/go-web-template) - Template for Go web APIs, includes custom authentication, cookie-based sessions with Redis, CORS support and more
+- [bruno-chavez/go-microservice-template](https://github.com/bruno-chavez/go-microservice-template) - Template for Go REST HTTP microservices, includes minimal dependencies, ready to use Dockerfile, graceful shutdown and more
 - [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
@@ -1437,7 +1443,7 @@
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [AndrewVos/vbar](https://github.com/AndrewVos/vbar) - A bar
 - [technosophos/dashing](https://github.com/technosophos/dashing) - A Dash Generator Script for Any HTML
-- [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
+- [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [mlabouardy/swaggymnia](https://github.com/mlabouardy/swaggymnia) - Generate Swagger 🌀 documentation for your existing API in Insomnia
 - [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
@@ -1910,6 +1916,7 @@
 
 ## JavaScript 
 
+- [bartveneman/wallace-cli](https://github.com/bartveneman/wallace-cli) - Pretty CSS analytics on the CLI
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [chromium/permission.site](https://github.com/chromium/permission.site) - A site to test the interaction of web APIs and browser permissions.
@@ -1927,7 +1934,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1654-Stars](https://github.com/RealPeha/This-Repo-Has-1654-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2651,6 +2658,7 @@
 ## Markdown 
 
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
 
@@ -4084,7 +4092,6 @@
 - [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
 - [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux) - PlayOnLinux install script for Adobe Creative Cloud
 - [agherzan/yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [jez/dotfiles](https://github.com/jez/dotfiles) - My personal collection of configuration files.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
@@ -4159,6 +4166,8 @@
 
 ## TypeScript 
 
+- [voldikss/coc-browser](https://github.com/voldikss/coc-browser) - 🍬Webpage completion source for coc.nvim
+- [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [mathigon/studio](https://github.com/mathigon/studio) - A customisable NodeJS server for creating and hosting highly interactive online courses.
 - [Uniswap/uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) - 🎛 Core smart contracts of Uniswap V2
@@ -4363,6 +4372,8 @@
 
 ## Vim script 
 
+- [vn-ki/coc-clap](https://github.com/vn-ki/coc-clap) - clap :heart: coc.nvim
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
 - [prabirshrestha/quickpick.vim](https://github.com/prabirshrestha/quickpick.vim) - experimental quick picker for vim
 - [triglav/vim-visual-increment](https://github.com/triglav/vim-visual-increment) - visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode
