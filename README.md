@@ -43,6 +43,7 @@
   - [JSONiq](#jsoniq)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
@@ -123,6 +124,7 @@
 
 ## C 
 
+- [matrix/hashcat](https://github.com/matrix/hashcat) - World's fastest and most advanced GPGPU-based password recovery utility
 - [Tarsnap/libcperciva](https://github.com/Tarsnap/libcperciva) - BSD-licensed C99/POSIX library code shared between tarsnap, scrypt, kivaloo, spiped, and bsdiff.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [furrtek/PrecIR](https://github.com/furrtek/PrecIR) - You know what this is for ;-)
@@ -790,8 +792,10 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [cuelang/cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [WillAbides/benchdiff](https://github.com/WillAbides/benchdiff) - 
-- [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - 
+- [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - GTK3-based dock for sway
 - [cronokirby/safenum](https://github.com/cronokirby/safenum) - Constant time big numbers for Go
 - [adonovan/spaghetti](https://github.com/adonovan/spaghetti) - Spaghetti: a dependency analysis tool for Go packages
 - [containerd/btrfs](https://github.com/containerd/btrfs) - Btrfs bindings for Go
@@ -2552,6 +2556,10 @@
 - [pump-io/pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API
 - [lbebber/lbebber.github.io](https://github.com/lbebber/lbebber.github.io) - 
 
+## Jsonnet 
+
+- [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
+
 ## Julia 
 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
@@ -3107,6 +3115,7 @@
 
 ## Python 
 
+- [doronz88/harlogger](https://github.com/doronz88/harlogger) - Simple utlity for sniffing decrypted HTTP/HTTPS traffic on a jailbroken iOS device into an HAR format.
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [eliben/deep-learning-samples](https://github.com/eliben/deep-learning-samples) - Sample code for deep learning & neural networks
@@ -3600,6 +3609,7 @@
 
 ## Rust 
 
+- [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
@@ -4170,6 +4180,7 @@
 
 ## TypeScript 
 
+- [t-eckert/open-api-editor](https://github.com/t-eckert/open-api-editor) - A web-based editor for creating Open API documents without needing to know the details of the spec.
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
 - [voldikss/coc-browser](https://github.com/voldikss/coc-browser) - 🍬Webpage completion source for coc.nvim
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
