@@ -124,6 +124,7 @@
 
 ## C 
 
+- [dojoe/Twonkie](https://github.com/dojoe/Twonkie) - A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mortals.
 - [matrix/hashcat](https://github.com/matrix/hashcat) - World's fastest and most advanced GPGPU-based password recovery utility
 - [Tarsnap/libcperciva](https://github.com/Tarsnap/libcperciva) - BSD-licensed C99/POSIX library code shared between tarsnap, scrypt, kivaloo, spiped, and bsdiff.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -1945,7 +1946,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1654-Stars](https://github.com/RealPeha/This-Repo-Has-1654-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1651-Stars](https://github.com/RealPeha/This-Repo-Has-1651-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2156,7 +2157,6 @@
 - [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [WebReflection/basic-lru](https://github.com/WebReflection/basic-lru) - A fast and lightweight Map based LRU implementation.
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
-- [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [LiCybora/NanoDefenderFirefox](https://github.com/LiCybora/NanoDefenderFirefox) - An anti-adblock defuser for uBlock Origin on Firefox
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [itsecurityco/to-google-translate](https://github.com/itsecurityco/to-google-translate) - Highlight text on a web page and send it to Google Translate
@@ -2702,7 +2702,7 @@
 
 ## OCaml 
 
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework for OCaml and ReasonML
 - [nv-vn/TelegraML](https://github.com/nv-vn/TelegraML) - OCaml implementation of the Telegram Bot API
 - [ahrefs/atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
@@ -4283,6 +4283,7 @@
 - [rematch/rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
+- [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [pathephone/pathephone-web](https://github.com/pathephone/pathephone-web) - Distributed audio player for web
