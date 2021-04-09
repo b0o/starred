@@ -124,6 +124,7 @@
 
 ## C 
 
+- [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [dojoe/Twonkie](https://github.com/dojoe/Twonkie) - A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mortals.
 - [matrix/hashcat](https://github.com/matrix/hashcat) - World's fastest and most advanced GPGPU-based password recovery utility
 - [Tarsnap/libcperciva](https://github.com/Tarsnap/libcperciva) - BSD-licensed C99/POSIX library code shared between tarsnap, scrypt, kivaloo, spiped, and bsdiff.
@@ -206,7 +207,7 @@
 - [karelzak/mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [Siguza/psychicpaper](https://github.com/Siguza/psychicpaper) - iOS &lt;13.5 sandbox escape/entitlement 0day
-- [johanmalm/labwc](https://github.com/johanmalm/labwc) - Openbox alternative for Wayland
+- [johanmalm/labwc](https://github.com/johanmalm/labwc) - A Wayland stacking compositor
 - [jglim/IRTool](https://github.com/jglim/IRTool) - Use your Gameboy Color to control National air-conditioners!
 - [CreativeDesigner3D/BlenderSource](https://github.com/CreativeDesigner3D/BlenderSource) - This is my modified version of Blenders Source Code. Mainly used for testing and trying out new ideas
 - [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
@@ -793,6 +794,8 @@
 
 ## Go 
 
+- [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
+- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
 - [peterhellberg/gfx](https://github.com/peterhellberg/gfx) - Convenience package for dealing with graphics in my pixel drawing experiments.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
@@ -2888,6 +2891,7 @@
 
 ## Others 
 
+- [ory/status](https://github.com/ory/status) - 📈 Uptime monitor and status page for ORY
 - [noiseprotocol/noise_wiki](https://github.com/noiseprotocol/noise_wiki) - Wiki for Noise development
 - [neargle/public-dns-list](https://github.com/neargle/public-dns-list) - Public Verified DNS List (Keep updating).
 - [Valodim/zsh-socat-completion](https://github.com/Valodim/zsh-socat-completion) - zsh completion for socat
@@ -3617,6 +3621,7 @@
 
 ## Rust 
 
+- [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - A library for interpreting IEE 802.11 packets
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
@@ -4667,7 +4672,7 @@
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [jperals/zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [zircleUI/github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
