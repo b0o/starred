@@ -124,6 +124,7 @@
 
 ## C 
 
+- [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [dojoe/Twonkie](https://github.com/dojoe/Twonkie) - A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mortals.
 - [matrix/hashcat](https://github.com/matrix/hashcat) - World's fastest and most advanced GPGPU-based password recovery utility
@@ -1803,6 +1804,7 @@
 
 ## Haskell 
 
+- [jameshaydon/lawvere](https://github.com/jameshaydon/lawvere) - A categorical programming language with effects
 - [utdemir/qualified-imports-plugin](https://github.com/utdemir/qualified-imports-plugin) - 
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [jgm/commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
@@ -1855,7 +1857,7 @@
 - [lspitzner/brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 - [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) - The engine for haskell ide-integration. Not an IDE
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
-- [jaspervdj/stylish-haskell](https://github.com/jaspervdj/stylish-haskell) - Haskell code prettifier
+- [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier
 - [purebred-mua/purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.
 - [benl23x5/gloss](https://github.com/benl23x5/gloss) - Painless 2D vector graphics, animations and simulations.
@@ -1952,7 +1954,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1651-Stars](https://github.com/RealPeha/This-Repo-Has-1651-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2709,6 +2711,7 @@
 
 ## OCaml 
 
+- [aantron/lambdasoup](https://github.com/aantron/lambdasoup) - Functional HTML scraping and rewriting with CSS in OCaml
 - [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML rewriting
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
 - [nv-vn/TelegraML](https://github.com/nv-vn/TelegraML) - OCaml implementation of the Telegram Bot API
@@ -3128,6 +3131,7 @@
 
 ## Python 
 
+- [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [doronz88/harlogger](https://github.com/doronz88/harlogger) - Simple utlity for sniffing decrypted HTTP/HTTPS traffic on a jailbroken iOS device into an HAR format.
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -3540,6 +3544,7 @@
 
 ## Reason 
 
+- [aantron/promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
 - [sikanhe/reason-nodejs](https://github.com/sikanhe/reason-nodejs) - Node bindings for Reason and Bucklescript
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 - [jchavarri/ocaml_webapp](https://github.com/jchavarri/ocaml_webapp) - A minimal example of a lightweight webapp in OCaml
@@ -4195,6 +4200,7 @@
 
 ## TypeScript 
 
+- [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [t-eckert/open-api-editor](https://github.com/t-eckert/open-api-editor) - A web-based editor for creating Open API documents without needing to know the details of the spec.
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
@@ -4405,6 +4411,7 @@
 
 ## Vim script 
 
+- [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [vn-ki/coc-clap](https://github.com/vn-ki/coc-clap) - clap :heart: coc.nvim
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
