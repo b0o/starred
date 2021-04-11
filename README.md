@@ -124,6 +124,8 @@
 
 ## C 
 
+- [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
+- [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
 - [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [dojoe/Twonkie](https://github.com/dojoe/Twonkie) - A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mortals.
@@ -1932,6 +1934,8 @@
 
 ## JavaScript 
 
+- [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
+- [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
 - [mafintosh/bogon](https://github.com/mafintosh/bogon) - Check if an IP is a bogon
 - [jychp/cloudflare-bypass](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare bot protection using Cloudflare Workers
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -1954,7 +1958,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1651-Stars](https://github.com/RealPeha/This-Repo-Has-1651-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2122,7 +2126,6 @@
 - [cironunes/reasonreact-starter](https://github.com/cironunes/reasonreact-starter) - Minimal yet powerful ReasonReact template
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [rubyjs/mini_racer](https://github.com/rubyjs/mini_racer) - Minimal embedded v8
 - [strugee/fulldom-server](https://github.com/strugee/fulldom-server) - Proxy-like server that will show you the DOM of a page after JS runs
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
@@ -3131,6 +3134,8 @@
 
 ## Python 
 
+- [usb-tools/ViewSB](https://github.com/usb-tools/ViewSB) - open-source USB analyzer toolkit with support for a variety of capture hardware
+- [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [doronz88/harlogger](https://github.com/doronz88/harlogger) - Simple utlity for sniffing decrypted HTTP/HTTPS traffic on a jailbroken iOS device into an HAR format.
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
@@ -3572,6 +3577,7 @@
 
 ## Roff 
 
+- [andrewchambers/ddmin](https://github.com/andrewchambers/ddmin) - A no frills delta debugger written in myrddin.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -3626,6 +3632,8 @@
 
 ## Rust 
 
+- [hidva/KuiBaDB](https://github.com/hidva/KuiBaDB) - Another OLAP database
+- [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - A library for interpreting IEE 802.11 packets
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
@@ -3766,7 +3774,7 @@
 - [meilisearch/demo-finding-crates](https://github.com/meilisearch/demo-finding-crates) - Expose all crates from crates.io with MeiliSearch
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [ogham/dog](https://github.com/ogham/dog) - Command-line DNS client
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
@@ -4285,6 +4293,7 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
@@ -4411,7 +4420,6 @@
 
 ## Vim script 
 
-- [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [vn-ki/coc-clap](https://github.com/vn-ki/coc-clap) - clap :heart: coc.nvim
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
