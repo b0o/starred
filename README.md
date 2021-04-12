@@ -797,6 +797,8 @@
 
 ## Go 
 
+- [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
+- [fearful-symmetry/garlic](https://github.com/fearful-symmetry/garlic) - GArLIC: GolAng LInux Connector: A Proc Connector library for go
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
@@ -1958,7 +1960,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1651-Stars](https://github.com/RealPeha/This-Repo-Has-1651-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1649-Stars](https://github.com/RealPeha/This-Repo-Has-1649-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2699,6 +2701,7 @@
 
 ## Nix 
 
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [mjstewart/nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
 - [cachix/ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
@@ -4420,6 +4423,8 @@
 
 ## Vim script 
 
+- [wesQ3/vim-windowswap](https://github.com/wesQ3/vim-windowswap) - Swap your windows without ruining your layout
+- [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 - [vn-ki/coc-clap](https://github.com/vn-ki/coc-clap) - clap :heart: coc.nvim
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
