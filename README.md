@@ -261,6 +261,7 @@
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [emmericp/ixy](https://github.com/emmericp/ixy) - A simple yet fast user space network driver for Intel 10 Gbit/s NICs written from scratch
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [aligrudi/fbpad](https://github.com/aligrudi/fbpad) - A small Linux framebuffer virtual terminal
@@ -797,6 +798,7 @@
 
 ## Go 
 
+- [metalmatze/archsecure](https://github.com/metalmatze/archsecure) - Check your machine for issues posted on https://security.archlinux.org
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [fearful-symmetry/garlic](https://github.com/fearful-symmetry/garlic) - GArLIC: GolAng LInux Connector: A Proc Connector library for go
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
@@ -1787,7 +1789,6 @@
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [tc39/proposal-object-from-entries](https://github.com/tc39/proposal-object-from-entries) - TC39 proposal for Object.fromEntries
 - [js-org/js.org.old](https://github.com/js-org/js.org.old) - Dedicated to JavaScript and its awesome community since 2015
-- [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
 - [geonnave/primg](https://github.com/geonnave/primg) - Generate prime numbers whose binary representation looks like any image
 - [base16-builder/base16-builder](https://github.com/base16-builder/base16-builder) - :hammer: Base16 Builder is a nimble command-line tool that generates themes for your favourite programs.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
@@ -1936,6 +1937,7 @@
 
 ## JavaScript 
 
+- [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
 - [mafintosh/bogon](https://github.com/mafintosh/bogon) - Check if an IP is a bogon
@@ -1960,7 +1962,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1649-Stars](https://github.com/RealPeha/This-Repo-Has-1649-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1648-Stars](https://github.com/RealPeha/This-Repo-Has-1648-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2156,7 +2158,6 @@
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
-- [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [WebReflection/uce](https://github.com/WebReflection/uce) - µhtml based Custom Elements
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [WebReflection/clock-scheduler](https://github.com/WebReflection/clock-scheduler) - Same as setTimeout and setInterval but pinned to the clock
@@ -2761,6 +2762,7 @@
 - [tmattio/spin](https://github.com/tmattio/spin) - Reason and OCaml project generator.
 - [Armael/doggybag](https://github.com/Armael/doggybag) - take-away binaries
 - [sneeuwballen/benchpress](https://github.com/sneeuwballen/benchpress) - Testing and benchmarking tool for logic-related programs.
+- [rescript-association/reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/ReScript: for globally dead values/types, exception analysis, and termination analysis.
 - [mirage/alcotest](https://github.com/mirage/alcotest) - A lightweight and colourful test framework
 - [realworldocaml/mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside markdown files
 - [ocsigen/ocsigen-start](https://github.com/ocsigen/ocsigen-start) - Ocsigen-start: an Eliom application skeleton ready to use to build your own application with users, (pre)registration, notifications, etc.
@@ -3137,6 +3139,9 @@
 
 ## Python 
 
+- [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [usb-tools/ViewSB](https://github.com/usb-tools/ViewSB) - open-source USB analyzer toolkit with support for a variety of capture hardware
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
@@ -3566,7 +3571,6 @@
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [davesnx/query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
 - [rescript-association/reasonml.org](https://github.com/rescript-association/reasonml.org) - Deprecated in favor of rescript-lang.org
-- [rescript-association/reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/ReScript: for globally dead values/types, exception analysis, and termination analysis.
 - [reason-native-web/morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [chess-tea/bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
@@ -3635,6 +3639,8 @@
 
 ## Rust 
 
+- [jmacdonald/scribe](https://github.com/jmacdonald/scribe) - Text editor components
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [hidva/KuiBaDB](https://github.com/hidva/KuiBaDB) - Another OLAP database
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
@@ -3959,7 +3965,7 @@
 - [system76/launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [plausible/hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
 - [gilbertchen/cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
-- [Banno/asdf-hashicorp](https://github.com/Banno/asdf-hashicorp) - HashiCorp tools plugin for asdf version manager
+- [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp) - HashiCorp plugin for the asdf version manager
 - [tripodsan/midi2hid](https://github.com/tripodsan/midi2hid) - MIDI to HID Keyboard on BeagleBone Black
 - [stransky/firefox-wayland-testing](https://github.com/stransky/firefox-wayland-testing) - Scripts used to test Firefox on Wayland
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
@@ -4119,6 +4125,7 @@
 - [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [Stratus3D/dotfiles](https://github.com/Stratus3D/dotfiles) - My dotfiles
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -4304,6 +4311,7 @@
 - [rcjsuen/dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
 - [edtr-io/edtr-io](https://github.com/edtr-io/edtr-io) - Edtr.io is an open source WYSIWYG in-line web editor written in React. Its plugin architecture makes Edtr.io lean and extensive at the same time.
+- [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
@@ -4708,7 +4716,6 @@
 
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ifreund/river](https://github.com/ifreund/river) - A dynamic tiling wayland compositor
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## sed 
 
