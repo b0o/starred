@@ -79,6 +79,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Solidity](#solidity)
   - [Starlark](#starlark)
   - [Swift](#swift)
   - [Tcl](#tcl)
@@ -91,6 +92,7 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
   - [YARA](#yara)
   - [Zig](#zig)
@@ -124,6 +126,8 @@
 
 ## C 
 
+- [vincenthz/libjson](https://github.com/vincenthz/libjson) - a JSON parser and printer library in C. easy to integrate with any model.
+- [Tarsnap/tarsnap](https://github.com/Tarsnap/tarsnap) - Command-line client code for Tarsnap.
 - [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
 - [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
 - [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
@@ -660,6 +664,8 @@
 
 ## Clojure 
 
+- [technomancy/lein-licenses](https://github.com/technomancy/lein-licenses) - List the license of each of your dependencies.
+- [juxt/tick](https://github.com/juxt/tick) - Time as a value.
 - [zestdocs/zest](https://github.com/zestdocs/zest) - [UNMAINTAINED] Zest documentation browser
 - [juxt/apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
@@ -799,6 +805,7 @@
 
 ## Go 
 
+- [encoredev/encore](https://github.com/encoredev/encore) - The Go backend framework with superpowers
 - [metalmatze/archsecure](https://github.com/metalmatze/archsecure) - Check your machine for issues posted on https://security.archlinux.org
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [fearful-symmetry/garlic](https://github.com/fearful-symmetry/garlic) - GArLIC: GolAng LInux Connector: A Proc Connector library for go
@@ -1732,6 +1739,7 @@
 
 ## HTML 
 
+- [tc39/proposal-hashbang](https://github.com/tc39/proposal-hashbang) - #! for JS
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [noiseprotocol/noise_spec](https://github.com/noiseprotocol/noise_spec) - Noise Specification
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -1937,6 +1945,7 @@
 
 ## JavaScript 
 
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [wntrblm/winterjs](https://github.com/wntrblm/winterjs) - Common JavaScript used across Winterbloom's documentation
 - [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
@@ -1945,7 +1954,7 @@
 - [jychp/cloudflare-bypass](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare bot protection using Cloudflare Workers
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [Hau-Hau/firefox-tab-suspender](https://github.com/Hau-Hau/firefox-tab-suspender) - A Firefox extension that automatic suspend tabs and saves memory
-- [bartveneman/wallace-cli](https://github.com/bartveneman/wallace-cli) - Pretty CSS analytics on the CLI
+- [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [chromium/permission.site](https://github.com/chromium/permission.site) - A site to test the interaction of web APIs and browser permissions.
@@ -2674,7 +2683,6 @@
 ## Makefile 
 
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
-- [runtimeverification/verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) - Smart contracts which are formally verified
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [archlinux/tu-bylaws](https://github.com/archlinux/tu-bylaws) - The bylaws which govern the Arch Linux Trusted Users (read-only mirror)
@@ -2720,6 +2728,7 @@
 
 ## OCaml 
 
+- [EduardoRFS/ppx_implicits](https://github.com/EduardoRFS/ppx_implicits) - 
 - [aantron/lambdasoup](https://github.com/aantron/lambdasoup) - Functional HTML scraping and rewriting with CSS in OCaml
 - [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML rewriting
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
@@ -2904,6 +2913,7 @@
 
 ## Others 
 
+- [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [ory/status](https://github.com/ory/status) - 📈 Uptime monitor and status page for ORY
 - [noiseprotocol/noise_wiki](https://github.com/noiseprotocol/noise_wiki) - Wiki for Noise development
 - [neargle/public-dns-list](https://github.com/neargle/public-dns-list) - Public Verified DNS List (Keep updating).
@@ -3141,6 +3151,7 @@
 
 ## Python 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
@@ -3642,9 +3653,11 @@
 
 ## Rust 
 
+- [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
+- [Avarel/mini-me](https://github.com/Avarel/mini-me) - Inline multiline text-editor/prompt written in Rust.
 - [jmacdonald/scribe](https://github.com/jmacdonald/scribe) - Text editor components
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
-- [hidva/KuiBaDB](https://github.com/hidva/KuiBaDB) - Another OLAP database
+- [KuiBaDB/KuiBaDB](https://github.com/KuiBaDB/KuiBaDB) - Another OLAP database
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - A library for interpreting IEE 802.11 packets
@@ -3790,7 +3803,6 @@
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [rust-analyzer/ungrammar](https://github.com/rust-analyzer/ungrammar) - 
 - [chmln/i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
@@ -4186,6 +4198,10 @@
 - [Xeoncross/macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
 
+## Solidity 
+
+- [runtimeverification/verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) - Smart contracts which are formally verified
+
 ## Starlark 
 
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
@@ -4221,6 +4237,7 @@
 
 ## TypeScript 
 
+- [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
 - [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [t-eckert/open-api-editor](https://github.com/t-eckert/open-api-editor) - A web-based editor for creating Open API documents without needing to know the details of the spec.
@@ -4372,7 +4389,7 @@
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [hanford/trends](https://github.com/hanford/trends) - ultra high performance github trending application
 - [segmentio/ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
-- [Polymer/lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
+- [Polymer/lit-html](https://github.com/Polymer/lit-html) - Lit is a simple library for building fast, lightweight web components.
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
 - [sourcegraph/javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
@@ -4706,6 +4723,10 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [zircleUI/github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## WebAssembly 
+
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 ## XSLT 
 
