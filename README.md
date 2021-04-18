@@ -434,6 +434,7 @@
 
 ## C++ 
 
+- [dekuNukem/duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
@@ -1466,7 +1467,7 @@
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [AlekSi/gocov-xml](https://github.com/AlekSi/gocov-xml) - 
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
@@ -1744,6 +1745,7 @@
 
 ## HTML 
 
+- [project-lovelace/lovelace-website](https://github.com/project-lovelace/lovelace-website) - 📜 Back end and front end code for the Project Lovelace website.
 - [tc39/proposal-hashbang](https://github.com/tc39/proposal-hashbang) - #! for JS
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [noiseprotocol/noise_spec](https://github.com/noiseprotocol/noise_spec) - Noise Specification
@@ -1920,6 +1922,7 @@
 
 ## Java 
 
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
 - [bitcoinj/bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
 - [coinexcom/coinex_exchange_api](https://github.com/coinexcom/coinex_exchange_api) - The global digital coin exchange.
@@ -1950,6 +1953,7 @@
 
 ## JavaScript 
 
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -1980,7 +1984,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1648-Stars](https://github.com/RealPeha/This-Repo-Has-1648-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1647-Stars](https://github.com/RealPeha/This-Repo-Has-1647-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2689,6 +2693,7 @@
 
 ## Makefile 
 
+- [nicinabox/lets-split-guide](https://github.com/nicinabox/lets-split-guide) - This guide covers building a Let's Split v2
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -2831,6 +2836,7 @@
 - [yallop/ocaml-pb-plugin](https://github.com/yallop/ocaml-pb-plugin) - A protoc plugin for generating OCaml code from protobuf (.proto) files.
 - [c-cube/tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads + blocking IO, with small request router.
 - [cedlemo/ctypes-stubs-generation-notes](https://github.com/cedlemo/ctypes-stubs-generation-notes) - OCaml Ctypes stubs generation notes
+- [rescript-association/genType](https://github.com/rescript-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [janestreet/core_kernel](https://github.com/janestreet/core_kernel) - Jane Street's standard library overlay (kernel)
 - [murmour/mparser](https://github.com/murmour/mparser) - A simple monadic parser combinator library for OCaml
 - [b0-system/b0caml](https://github.com/b0-system/b0caml) - Easy OCaml scripts (unreleased)
@@ -3160,6 +3166,7 @@
 
 ## Python 
 
+- [project-lovelace/lovelace-engine](https://github.com/project-lovelace/lovelace-engine) - 🚜 Automated and secure testing of code submissions in multiple languages for Project Lovelace.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -3601,7 +3608,6 @@
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [chess-tea/bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
 - [chess-tea/grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
-- [rescript-association/genType](https://github.com/rescript-association/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [jaredly/milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
 
 ## Red 
@@ -3675,7 +3681,7 @@
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - A library for interpreting IEE 802.11 packets
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client written in Rust.
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -3957,6 +3963,7 @@
 
 ## Scala 
 
+- [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
 - [topshell-language/topshell](https://github.com/topshell-language/topshell) - TopShell - a purely functional, reactive scripting language
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
@@ -4255,6 +4262,7 @@
 
 ## TypeScript 
 
+- [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [clangd/coc-clangd](https://github.com/clangd/coc-clangd) - clangd extension for coc.nvim
 - [weirongxu/coc-calc](https://github.com/weirongxu/coc-calc) - Calculate extension for coc.nvim
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
