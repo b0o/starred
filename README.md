@@ -232,6 +232,7 @@
 - [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [scandum/quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [chipx86/gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [andreasgal/darkhttpd](https://github.com/andreasgal/darkhttpd) - darkhttpd for B2G
 - [eworm-de/pacredir](https://github.com/eworm-de/pacredir) - redirect pacman requests, assisted by avahi service discovery
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
@@ -266,7 +267,6 @@
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [emmericp/ixy](https://github.com/emmericp/ixy) - A simple yet fast user space network driver for Intel 10 Gbit/s NICs written from scratch
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [aligrudi/fbpad](https://github.com/aligrudi/fbpad) - A small Linux framebuffer virtual terminal
@@ -451,6 +451,7 @@
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [CarVac/filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [smallstepforman/Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
+- [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [vgc/vgc](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation
@@ -1811,6 +1812,7 @@
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [stripe/elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [jariz/tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 
@@ -1986,7 +1988,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1649-Stars](https://github.com/RealPeha/This-Repo-Has-1649-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1650-Stars](https://github.com/RealPeha/This-Repo-Has-1650-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3224,7 +3226,6 @@
 - [petegallagher/plugin.video.zoneminder](https://github.com/petegallagher/plugin.video.zoneminder) - Zoneminder addon for Kodi
 - [bionade24/abs_cd](https://github.com/bionade24/abs_cd) - CI/CD for the Arch build system with webinterface.
 - [apple/ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
-- [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [cuducos/twitter-cleanup](https://github.com/cuducos/twitter-cleanup) - 🛁 Clean-up inactive accounts and bots from your Twitter
 - [openstack/bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
@@ -3526,7 +3527,6 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [djrrb/Bungee](https://github.com/djrrb/Bungee) - A chromatic signage typeface for vertical and horizontal setting.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [GermainZ/weechat-vimode](https://github.com/GermainZ/weechat-vimode) - A WeeChat script that adds vi-like modes, commands and keybindings.
 - [s3rvac/weechat-notify-send](https://github.com/s3rvac/weechat-notify-send) - A WeeChat script that sends highlight and message notifications through notify-send.
 - [chubin/qrenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
@@ -3591,6 +3591,7 @@
 
 ## Reason 
 
+- [anmonteiro/youtube](https://github.com/anmonteiro/youtube) - 
 - [aantron/promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
 - [sikanhe/reason-nodejs](https://github.com/sikanhe/reason-nodejs) - Node bindings for Reason and Bucklescript
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
@@ -3672,6 +3673,7 @@
 
 ## Rust 
 
+- [tweag/nickel](https://github.com/tweag/nickel) - Cheap configuration language
 - [artempyanykh/zeta-note](https://github.com/artempyanykh/zeta-note) - Markdown LSP server for easy note-taking with cross-references and diagnostics.
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
@@ -4094,7 +4096,6 @@
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [momo-lab/zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [slashbeast/better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [bash-my-aws/bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
@@ -4771,6 +4772,7 @@
 
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ifreund/river](https://github.com/ifreund/river) - A dynamic tiling wayland compositor
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## sed 
 
