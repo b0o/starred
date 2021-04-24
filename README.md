@@ -126,6 +126,7 @@
 
 ## C 
 
+- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
@@ -813,6 +814,8 @@
 
 ## Go 
 
+- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+- [willf/bloom](https://github.com/willf/bloom) - Go package implementing Bloom filters
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [f-secure-foundry/tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [encoredev/encore](https://github.com/encoredev/encore) - The Go backend framework with superpowers
@@ -2649,6 +2652,10 @@
 
 ## Lua 
 
+- [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
+- [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
+- [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily write your .vimrc in lua or any lua based language
+- [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [mfussenegger/nvim-lua-debugger](https://github.com/mfussenegger/nvim-lua-debugger) - a Debug Adapter that allows debugging lua plugins written for Neovim
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [Odie/gitabra](https://github.com/Odie/gitabra) - Magit-lite for neovim
@@ -2753,6 +2760,7 @@
 
 ## OCaml 
 
+- [aantron/dream-serve](https://github.com/aantron/dream-serve) - Hot-reloading server for static sites (eventually also dynamic)
 - [rescript-lang/syntax](https://github.com/rescript-lang/syntax) - ReScript's syntax as a standalone repo.
 - [rescript-lang/rescript-editor-support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.
 - [EduardoRFS/ppx_implicits](https://github.com/EduardoRFS/ppx_implicits) - 
@@ -3688,6 +3696,8 @@
 
 ## Rust 
 
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [tweag/nickel](https://github.com/tweag/nickel) - Cheap configuration language
 - [artempyanykh/zeta-note](https://github.com/artempyanykh/zeta-note) - Markdown LSP server for easy note-taking with cross-references and diagnostics.
@@ -3700,7 +3710,7 @@
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - A library for parsing IEE 802.11 frames
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client written in Rust.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client.
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -3751,7 +3761,7 @@
 - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust) - Super-fast float parser in Rust
 - [bheisler/iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
-- [mersinvald/aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js
+- [mersinvald/aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermaid.js
 - [opticdev/optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
 - [lf94/img2utf](https://github.com/lf94/img2utf) - Converts images into textual line art.
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
@@ -3885,7 +3895,6 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [akeru-inc/xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
@@ -4498,6 +4507,7 @@
 
 ## Vim script 
 
+- [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
 - [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - A git mirror of gundo.vim
