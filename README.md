@@ -126,6 +126,8 @@
 
 ## C 
 
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -561,7 +563,7 @@
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
+- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -817,6 +819,14 @@
 
 ## Go 
 
+- [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
+- [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
+- [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go
+- [integrii/flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
+- [cosiner/flag](https://github.com/cosiner/flag) - Flag is a simple but powerful command line option parsing library for Go support infinite level subcommand
+- [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
+- [mattn/go-getopt](https://github.com/mattn/go-getopt) - getopt for golang
+- [kesselborn/go-getopt](https://github.com/kesselborn/go-getopt) - getopt implementation in go (flags-alternative closer to gnu getopt)
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [willf/bloom](https://github.com/willf/bloom) - Go package implementing Bloom filters
@@ -1228,7 +1238,7 @@
 - [rsc/diff](https://github.com/rsc/diff) - Diff(1)
 - [olivere/elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
 - [griesemer/tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Build a digital writing community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
 - [paulmach/orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [myitcv/gobin](https://github.com/myitcv/gobin) - gobin is an experimental, module-aware command to install/run main packages.
@@ -3194,6 +3204,7 @@
 
 ## Python 
 
+- [airbus-seclab/diffware](https://github.com/airbus-seclab/diffware) - An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.
 - [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) - PyTorch implementation of Super SloMo by Jiang et al.
 - [coala/git-url-parse](https://github.com/coala/git-url-parse) - A simple GIT URL parser.
 - [bpython/bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
@@ -4521,6 +4532,7 @@
 
 ## Vim script 
 
+- [ferrine/md-img-paste.vim](https://github.com/ferrine/md-img-paste.vim) - paste image to markdown
 - [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
