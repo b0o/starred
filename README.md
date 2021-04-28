@@ -819,6 +819,8 @@
 
 ## Go 
 
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+- [vincent-petithory/dataurl](https://github.com/vincent-petithory/dataurl) - Data URL Schemes in Golang
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go
@@ -3204,6 +3206,8 @@
 
 ## Python 
 
+- [luismartingarcia/protocol](https://github.com/luismartingarcia/protocol) - An ASCII Header Generator for Network Protocols
+- [hanschen/vim-ipython-cell](https://github.com/hanschen/vim-ipython-cell) - Seamlessly run Python code in IPython from Vim
 - [airbus-seclab/diffware](https://github.com/airbus-seclab/diffware) - An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.
 - [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) - PyTorch implementation of Super SloMo by Jiang et al.
 - [coala/git-url-parse](https://github.com/coala/git-url-parse) - A simple GIT URL parser.
@@ -3734,7 +3738,7 @@
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - A library for parsing IEE 802.11 frames
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 The CLI email client.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -4076,7 +4080,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [mbucc/shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
-- [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (full support for all POSIX shells)
+- [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [shellfire-dev/tutorial](https://github.com/shellfire-dev/tutorial) - tutorial for shellfire
