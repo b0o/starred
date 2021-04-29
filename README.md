@@ -126,6 +126,8 @@
 
 ## C 
 
+- [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -237,7 +239,6 @@
 - [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [scandum/quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
 - [chipx86/gtkparasite](https://github.com/chipx86/gtkparasite) - A utility similar to Firebug but for GTK+ applications.
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [andreasgal/darkhttpd](https://github.com/andreasgal/darkhttpd) - darkhttpd for B2G
 - [eworm-de/pacredir](https://github.com/eworm-de/pacredir) - redirect pacman requests, assisted by avahi service discovery
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
@@ -819,6 +820,9 @@
 
 ## Go 
 
+- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
+- [storj/drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [vincent-petithory/dataurl](https://github.com/vincent-petithory/dataurl) - Data URL Schemes in Golang
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -831,7 +835,7 @@
 - [kesselborn/go-getopt](https://github.com/kesselborn/go-getopt) - getopt implementation in go (flags-alternative closer to gnu getopt)
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
-- [willf/bloom](https://github.com/willf/bloom) - Go package implementing Bloom filters
+- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [f-secure-foundry/tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [encoredev/encore](https://github.com/encoredev/encore) - The Go backend framework with superpowers
@@ -1980,6 +1984,7 @@
 
 ## JavaScript 
 
+- [doersino/tixyz](https://github.com/doersino/tixyz) - A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -2019,7 +2024,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2640,6 +2645,7 @@
 
 ## Jupyter Notebook 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [michaelmendoza/learning-tensorflow](https://github.com/michaelmendoza/learning-tensorflow) - Simple Tensorflow tutorials for learning by example
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
@@ -2669,6 +2675,8 @@
 
 ## Lua 
 
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily write your .vimrc in lua or any lua based language
@@ -2778,7 +2786,8 @@
 
 ## OCaml 
 
-- [aantron/dream-serve](https://github.com/aantron/dream-serve) - Hot-reloading server for static sites (eventually also dynamic)
+- [ocurrent/ocaml-multicore-ci](https://github.com/ocurrent/ocaml-multicore-ci) - OCurrent CI for multicore OCaml trees
+- [aantron/dream-serve](https://github.com/aantron/dream-serve) - Live-reloading server for static sites (eventually also dynamic)
 - [rescript-lang/syntax](https://github.com/rescript-lang/syntax) - ReScript's syntax as a standalone repo.
 - [rescript-lang/rescript-editor-support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.
 - [EduardoRFS/ppx_implicits](https://github.com/EduardoRFS/ppx_implicits) - 
@@ -2966,6 +2975,9 @@
 
 ## Others 
 
+- [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
 - [cevr/overnight](https://github.com/cevr/overnight) - A soft vibrant VSCode theme - Based on Sarah Drasner's Night Owl and Dan Abramov's Overreacted blog
 - [seanstrom/rescript-deno](https://github.com/seanstrom/rescript-deno) - A demo to show use ReScript with Deno
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces and GitHub Sponsors
@@ -3158,6 +3170,7 @@
 
 ## PHP 
 
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
@@ -3206,6 +3219,9 @@
 
 ## Python 
 
+- [ColinDuquesnoy/QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet) - A dark style sheet for QtWidgets application
+- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [luismartingarcia/protocol](https://github.com/luismartingarcia/protocol) - An ASCII Header Generator for Network Protocols
 - [hanschen/vim-ipython-cell](https://github.com/hanschen/vim-ipython-cell) - Seamlessly run Python code in IPython from Vim
 - [airbus-seclab/diffware](https://github.com/airbus-seclab/diffware) - An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.
@@ -3218,7 +3234,6 @@
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
@@ -3720,6 +3735,8 @@
 
 ## Rust 
 
+- [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
+- [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [amethyst/serde-diff](https://github.com/amethyst/serde-diff) - Utility for comparing two structs and re-applying the differences to other structs
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -4149,6 +4166,7 @@
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [momo-lab/zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [slashbeast/better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [bash-my-aws/bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
@@ -4319,6 +4337,8 @@
 
 ## TypeScript 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [Redcrafter/verilog2factorio](https://github.com/Redcrafter/verilog2factorio) - This project will compile verilog (a hardware description language) into factorio blueprints.
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [clangd/coc-clangd](https://github.com/clangd/coc-clangd) - clangd extension for coc.nvim
