@@ -820,6 +820,9 @@
 
 ## Go 
 
+- [jstrieb/bruteforce-link-lock](https://github.com/jstrieb/bruteforce-link-lock) - Brute force protected Link Lock URLs in parallel on the CPU
+- [LdDl/gan-go](https://github.com/LdDl/gan-go) - Generative Adversarial Network in Go via Gorgonia
+- [blevesearch/vellum](https://github.com/blevesearch/vellum) - A Go library implementing an FST (finite state transducer)
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [storj/drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC
@@ -1984,6 +1987,7 @@
 
 ## JavaScript 
 
+- [aurora-is-near/aurora-cli](https://github.com/aurora-is-near/aurora-cli) - Aurora Engine command-line interface (CLI).
 - [doersino/tixyz](https://github.com/doersino/tixyz) - A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
@@ -2786,6 +2790,7 @@
 
 ## OCaml 
 
+- [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
 - [ocurrent/ocaml-multicore-ci](https://github.com/ocurrent/ocaml-multicore-ci) - OCurrent CI for multicore OCaml trees
 - [aantron/dream-serve](https://github.com/aantron/dream-serve) - Live-reloading server for static sites (eventually also dynamic)
 - [rescript-lang/syntax](https://github.com/rescript-lang/syntax) - ReScript's syntax as a standalone repo.
@@ -3735,6 +3740,7 @@
 
 ## Rust 
 
+- [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [amethyst/serde-diff](https://github.com/amethyst/serde-diff) - Utility for comparing two structs and re-applying the differences to other structs
@@ -4556,6 +4562,7 @@
 
 ## Vim script 
 
+- [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [ferrine/md-img-paste.vim](https://github.com/ferrine/md-img-paste.vim) - paste image to markdown
 - [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
