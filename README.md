@@ -1987,6 +1987,7 @@
 
 ## JavaScript 
 
+- [shuding/cc](https://github.com/shuding/cc) - Shu's Creative Coding template.
 - [aurora-is-near/aurora-cli](https://github.com/aurora-is-near/aurora-cli) - Aurora Engine command-line interface (CLI).
 - [doersino/tixyz](https://github.com/doersino/tixyz) - A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
@@ -4344,6 +4345,7 @@
 
 ## TypeScript 
 
+- [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [Redcrafter/verilog2factorio](https://github.com/Redcrafter/verilog2factorio) - This project will compile verilog (a hardware description language) into factorio blueprints.
