@@ -2029,7 +2029,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1652-Stars](https://github.com/RealPeha/This-Repo-Has-1652-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2681,6 +2681,7 @@
 
 ## Lua 
 
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface to easily cycle through diffs for all modified files for any git rev.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
@@ -3742,6 +3743,8 @@
 
 ## Rust 
 
+- [joshua-maros/ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
