@@ -822,6 +822,7 @@
 
 ## Go 
 
+- [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
@@ -1886,7 +1887,7 @@
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [ndmitchell/shake](https://github.com/ndmitchell/shake) - Shake build system
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
-- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
+- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by Ema)
 - [srid/Taut](https://github.com/srid/Taut) - An ambitious Slack JSON export viewer.
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
@@ -1996,6 +1997,7 @@
 
 ## JavaScript 
 
+- [hicetnunc2000/hicetnunc](https://github.com/hicetnunc2000/hicetnunc) - hicetnunc UI/UX
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [shuding/cc](https://github.com/shuding/cc) - Shu's Creative Coding template.
 - [aurora-is-near/aurora-cli](https://github.com/aurora-is-near/aurora-cli) - Aurora Engine command-line interface (CLI).
@@ -2039,7 +2041,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1655-Stars](https://github.com/RealPeha/This-Repo-Has-1655-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2123,7 +2125,6 @@
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [Perdu/Cookie-Glasses](https://github.com/Perdu/Cookie-Glasses) - This browser extension shows you whether consent registered by cookie banners of IAB Europe's Transparency & Consent Framework corresponds to your choice
 - [liangzan/aws-glacier-calculator](https://github.com/liangzan/aws-glacier-calculator) - A single page angular js app for calculating the rates for AWS glacier.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
@@ -2993,7 +2994,7 @@
 
 ## Others 
 
-- [specs-sh/Specs](https://github.com/specs-sh/Specs) - 🔬 Shell Specifications
+- [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) - A list of public Send instances. Mirror.
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
@@ -3190,6 +3191,7 @@
 
 ## PHP 
 
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
@@ -4080,6 +4082,11 @@
 
 ## Shell 
 
+- [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored Youtube content on all local Chromecasts
+- [stephen304/castblock](https://github.com/stephen304/castblock) - Automatically skip integrated ads on youtube playing on chromecast
+- [tchebb/chromecast-tools](https://github.com/tchebb/chromecast-tools) - A set of simple utilities for working with Chromecast USB boot image files
+- [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
+- [specs-sh/Specs](https://github.com/specs-sh/Specs) - 🔬 Shell Specifications
 - [bx-sh/specs.sh](https://github.com/bx-sh/specs.sh) - 🔬 Simple Shell Specifications
 - [fnichol/names](https://github.com/fnichol/names) - Random name generator for Rust
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -4372,6 +4379,8 @@
 
 ## TypeScript 
 
+- [cuvent/react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
@@ -4381,7 +4390,6 @@
 - [weirongxu/coc-calc](https://github.com/weirongxu/coc-calc) - Calculate extension for coc.nvim
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
 - [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
-- [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [t-eckert/open-api-editor](https://github.com/t-eckert/open-api-editor) - A web-based editor for creating Open API documents without needing to know the details of the spec.
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
 - [voldikss/coc-browser](https://github.com/voldikss/coc-browser) - 🍬Webpage completion source for coc.nvim
@@ -4437,6 +4445,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [tesseralis/polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
@@ -4855,7 +4864,7 @@
 - [vim-scripts/SrchRplcHiGrp.vim](https://github.com/vim-scripts/SrchRplcHiGrp.vim) - Search and/or replace based on a syntax highlight group
 - [deris/vim-shot-f](https://github.com/deris/vim-shot-f) - highlight the character which can move directly to (by `f`,`F`,`t`,`T`)
 - [vim-scripts/utl.vim](https://github.com/vim-scripts/utl.vim) - Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas
-- [aouelete/sway-vim-syntax](https://github.com/aouelete/sway-vim-syntax) - Vim syntax file for sway config files
+- [ajouellette/sway-vim-syntax](https://github.com/ajouellette/sway-vim-syntax) - Vim syntax file for sway config files
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 - [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --&gt; .h etc)
 - [gerw/vim-HiLinkTrace](https://github.com/gerw/vim-HiLinkTrace) - vim plugin to trace syntax highlight
