@@ -612,7 +612,7 @@
 - [DOOMer/screengrab](https://github.com/DOOMer/screengrab) - Crossplatform tool for fast making screenshots.
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [ColinDuquesnoy/MellowPlayer](https://github.com/ColinDuquesnoy/MellowPlayer) - Moved to gitlab
-- [thestinger/termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+- [thestinger/termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
 - [steemit/steem](https://github.com/steemit/steem) - The blockchain for Smart Media Tokens (SMTs) and decentralized applications.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
@@ -680,12 +680,13 @@
 
 ## Clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [dainiusjocas/lucene-grep](https://github.com/dainiusjocas/lucene-grep) - Grep-like utility based on Lucene Monitor compiled with GraalVM native-image
 - [technomancy/lein-licenses](https://github.com/technomancy/lein-licenses) - List the license of each of your dependencies.
 - [juxt/tick](https://github.com/juxt/tick) - Time as a value.
 - [zestdocs/zest](https://github.com/zestdocs/zest) - [UNMAINTAINED] Zest documentation browser
 - [juxt/apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
-- [replikativ/datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution.
+- [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
@@ -1997,6 +1998,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hicetnunc2000/hicetnunc](https://github.com/hicetnunc2000/hicetnunc) - hicetnunc UI/UX
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [shuding/cc](https://github.com/shuding/cc) - Shu's Creative Coding template.
@@ -2803,6 +2805,10 @@
 
 ## OCaml 
 
+- [lemaetech/otr](https://github.com/lemaetech/otr) - 
+- [jobjo/popper](https://github.com/jobjo/popper) - An OCaml testing library in the spirit of Karl Popper
+- [tmattio/dream-cli](https://github.com/tmattio/dream-cli) - Command Line Interface for Dream applications.
+- [tmattio/dream-livereload](https://github.com/tmattio/dream-livereload) - Live reloading for Dream applications
 - [tmattio/dream-analytics](https://github.com/tmattio/dream-analytics) - Analytics framework and dashboard for your Dream applications.
 - [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
 - [ocurrent/ocaml-multicore-ci](https://github.com/ocurrent/ocaml-multicore-ci) - OCurrent CI for multicore OCaml trees
