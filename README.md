@@ -1770,7 +1770,7 @@
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [cloudfoundry-attic/cf-mysql-benchmark-app](https://github.com/cloudfoundry-attic/cf-mysql-benchmark-app) - A CF app used to perform benchmarking against the cf-mysql system
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
-- [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
+- [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [tj/go-search](https://github.com/tj/go-search) - Search Godoc.org via the command-line.
 - [cubicdaiya/slackboard](https://github.com/cubicdaiya/slackboard) - A slack proxy server
 - [joeshaw/gengen](https://github.com/joeshaw/gengen) - A Go source transformation tool for generics
@@ -2043,7 +2043,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1655-Stars](https://github.com/RealPeha/This-Repo-Has-1655-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1654-Stars](https://github.com/RealPeha/This-Repo-Has-1654-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2549,7 +2549,7 @@
 - [electronicwhisper/recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
 - [messutied/colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [sindresorhus/noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -2806,7 +2806,7 @@
 ## OCaml 
 
 - [lemaetech/otr](https://github.com/lemaetech/otr) - 
-- [jobjo/popper](https://github.com/jobjo/popper) - An OCaml testing library in the spirit of Karl Popper
+- [jobjo/popper](https://github.com/jobjo/popper) - Property-based testing at ease
 - [tmattio/dream-cli](https://github.com/tmattio/dream-cli) - Command Line Interface for Dream applications.
 - [tmattio/dream-livereload](https://github.com/tmattio/dream-livereload) - Live reloading for Dream applications
 - [tmattio/dream-analytics](https://github.com/tmattio/dream-analytics) - Analytics framework and dashboard for your Dream applications.
@@ -3212,7 +3212,6 @@
 
 ## Perl 
 
-- [9ary/dotfiles](https://github.com/9ary/dotfiles) - Miscellaneous config files
 - [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [carnager/clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
@@ -3305,6 +3304,7 @@
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [concurrencylabs/aws-pricing-tools](https://github.com/concurrencylabs/aws-pricing-tools) - Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
+- [9ary/dotfiles](https://github.com/9ary/dotfiles) - Miscellaneous config files
 - [facebook/codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
