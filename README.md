@@ -823,6 +823,7 @@
 
 ## Go 
 
+- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
@@ -1204,7 +1205,7 @@
 - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
-- [c-bata/goptuna](https://github.com/c-bata/goptuna) - Decentralized hyperparameter optimization framework, inspired by Optuna.
+- [c-bata/goptuna](https://github.com/c-bata/goptuna) - A hyperparameter optimization framework, inspired by Optuna.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -1805,6 +1806,7 @@
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [rust-lang/arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust’s readiness for Web-related things.
 - [secretGeek/html_wysiwyg](https://github.com/secretGeek/html_wysiwyg) - A truly naked, brutalist html quine
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
@@ -1998,6 +2000,8 @@
 
 ## JavaScript 
 
+- [project-serum/awesome-serum](https://github.com/project-serum/awesome-serum) - 
+- [remy/inliner](https://github.com/remy/inliner) - Node utility to inline images, CSS and JavaScript for a web page - useful for mobile sites
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hicetnunc2000/hicetnunc](https://github.com/hicetnunc2000/hicetnunc) - hicetnunc UI/UX
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -2603,7 +2607,6 @@
 - [atom/teletype-crdt](https://github.com/atom/teletype-crdt) - String-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom.
 - [Samirla/xmlview](https://github.com/Samirla/xmlview) - Powerful XML viewer for Google Chrome and Safari
 - [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [CalumJEadie/usefluid.com](https://github.com/CalumJEadie/usefluid.com) - 
@@ -2692,6 +2695,8 @@
 
 ## Lua 
 
+- [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
+- [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [shadmansaleh/IRC.nvim](https://github.com/shadmansaleh/IRC.nvim) - IRC client for neovim
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface to easily cycle through diffs for all modified files for any git rev.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
@@ -2760,7 +2765,6 @@
 
 - [nicinabox/lets-split-guide](https://github.com/nicinabox/lets-split-guide) - This guide covers building a Let's Split v2
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [archlinux/tu-bylaws](https://github.com/archlinux/tu-bylaws) - The bylaws which govern the Arch Linux Trusted Users (read-only mirror)
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
@@ -2805,7 +2809,7 @@
 
 ## OCaml 
 
-- [lemaetech/otr](https://github.com/lemaetech/otr) - 
+- [lemaetech/otr](https://github.com/lemaetech/otr) - A typed router for OCaml web applications.
 - [jobjo/popper](https://github.com/jobjo/popper) - Property-based testing at ease
 - [tmattio/dream-cli](https://github.com/tmattio/dream-cli) - Command Line Interface for Dream applications.
 - [tmattio/dream-livereload](https://github.com/tmattio/dream-livereload) - Live reloading for Dream applications
@@ -2832,7 +2836,7 @@
 - [roddyyaga/ocoi](https://github.com/roddyyaga/ocoi) - OCaml On Ice - web framework for OCaml in the style of Ruby on Rails
 - [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
 - [inhabitedtype/ocaml-aws](https://github.com/inhabitedtype/ocaml-aws) - Generated OCaml bindings for Amazon Web Services
-- [daypack-dev/timere](https://github.com/daypack-dev/timere) - OCaml date time handling and reasoning library
+- [daypack-dev/timere](https://github.com/daypack-dev/timere) - OCaml date time handling and reasoning suite
 - [mhallin/graphql_ppx](https://github.com/mhallin/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML
 - [paurkedal/ocaml-caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
 - [rgrinberg/opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml
@@ -3000,6 +3004,7 @@
 
 ## Others 
 
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) - A list of public Send instances. Mirror.
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
@@ -3246,6 +3251,7 @@
 
 ## Python 
 
+- [tobixen/thrash-protect](https://github.com/tobixen/thrash-protect) - Simple-Stupid user-space program doing "kill -STOP" and "kill -CONT" to protect from thrashing
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ColinDuquesnoy/QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet) - A dark style sheet for QtWidgets application
 - [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
@@ -3679,6 +3685,7 @@
 
 ## Reason 
 
+- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Typed styled components in Reason, OCaml and ReScript
 - [esy/esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml
 - [anmonteiro/youtube](https://github.com/anmonteiro/youtube) - 
 - [aantron/promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
@@ -3764,6 +3771,10 @@
 
 ## Rust 
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [o2sh/provok](https://github.com/o2sh/provok) - Text rendering
 - [dfrg/swash](https://github.com/dfrg/swash) - Font introspection, complex text shaping and glyph rendering.
@@ -4092,7 +4103,6 @@
 - [stephen304/castblock](https://github.com/stephen304/castblock) - Automatically skip integrated ads on youtube playing on chromecast
 - [tchebb/chromecast-tools](https://github.com/tchebb/chromecast-tools) - A set of simple utilities for working with Chromecast USB boot image files
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
-- [specs-sh/Specs](https://github.com/specs-sh/Specs) - 🔬 Shell Specifications
 - [bx-sh/specs.sh](https://github.com/bx-sh/specs.sh) - 🔬 Simple Shell Specifications
 - [fnichol/names](https://github.com/fnichol/names) - Random name generator for Rust
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -4385,6 +4395,9 @@
 
 ## TypeScript 
 
+- [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
+- [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [cuvent/react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
@@ -4579,6 +4592,7 @@
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 
