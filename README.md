@@ -126,6 +126,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [janestreet/spawn](https://github.com/janestreet/spawn) - Spawning sub-processes
@@ -1975,6 +1976,7 @@
 
 ## Java 
 
+- [jolie/jolie](https://github.com/jolie/jolie) - The Jolie programming language
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
 - [bitcoinj/bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
@@ -2006,6 +2008,7 @@
 
 ## JavaScript 
 
+- [vegetableman/vandal](https://github.com/vegetableman/vandal) - Navigator for Web Archive
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [Lej77/tab-unloader-for-tree-style-tab](https://github.com/Lej77/tab-unloader-for-tree-style-tab) - 
@@ -2065,7 +2068,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2713,6 +2716,8 @@
 
 ## Lua 
 
+- [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
+- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin for Neovim
 - [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [shadmansaleh/IRC.nvim](https://github.com/shadmansaleh/IRC.nvim) - IRC client for neovim
@@ -2849,6 +2854,7 @@
 - [SumitPadhiyar/confuzz](https://github.com/SumitPadhiyar/confuzz) - Concurrency property fuzzing tool for Lwt-based OCaml programs
 - [anmonteiro/aws-lambda-ocaml-runtime](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) - An OCaml custom runtime for AWS Lambda
 - [ocaml-multicore/domainslib](https://github.com/ocaml-multicore/domainslib) - Parallel Programming over Domains
+- [ocaml-multicore/multicore-talks](https://github.com/ocaml-multicore/multicore-talks) - Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"
 - [ahrefs/hello-native-bucklescript](https://github.com/ahrefs/hello-native-bucklescript) - Skeleton of a shared library for bucklescript and native OCaml/Reason
 - [Khady/modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 - [jchavarri/incr_dom_reason](https://github.com/jchavarri/incr_dom_reason) - Example project of janestreet/incr_dom with Reason
@@ -3024,6 +3030,7 @@
 
 ## Others 
 
+- [33kk/uso-archive](https://github.com/33kk/uso-archive) - Preserving styles from the slow and unmaintained UserStyles.org
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
@@ -3050,7 +3057,6 @@
 - [linux-audit/audit-documentation](https://github.com/linux-audit/audit-documentation) - Documentation and specifications
 - [xsltdev/xsltdev.com](https://github.com/xsltdev/xsltdev.com) - XSLT Documentation and examples
 - [ostera/awesome-alt-langs](https://github.com/ostera/awesome-alt-langs) - Just a list of Awesome Alt Langs to check out
-- [ocaml-multicore/ocaml2020-workshop-parallel](https://github.com/ocaml-multicore/ocaml2020-workshop-parallel) - Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"
 - [memo/eco-nft](https://github.com/memo/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
 - [davesnx/awesome-ppx-deriving](https://github.com/davesnx/awesome-ppx-deriving) - A collection of ppx-deriving plugins
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -3845,7 +3851,7 @@
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [davechallis/erd-rs](https://github.com/davechallis/erd-rs) - Rust version of the Haskell ERD tool. Translates a plain text description of a relational database schema to dot files representing an entity relation diagram.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing tool, inspired by Locust
+- [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [rust-num/num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
 - [lukechu10/maple](https://github.com/lukechu10/maple) - A reactive DOM library for Rust in WASM
@@ -4534,7 +4540,7 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [rematch/rematch](https://github.com/rematch/rematch) - A Redux Framework
+- [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
