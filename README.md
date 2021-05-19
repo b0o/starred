@@ -2008,6 +2008,7 @@
 
 ## JavaScript 
 
+- [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync) - Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
 - [vegetableman/vandal](https://github.com/vegetableman/vandal) - Navigator for Web Archive
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
@@ -2068,7 +2069,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2493,7 +2494,7 @@
 - [ramda/ramda-fantasy](https://github.com/ramda/ramda-fantasy) - :ram::sparkles: Fantasy-Land compatible types for easy integration with Ramda.js
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
-- [stylelint/stylelint](https://github.com/stylelint/stylelint) - 
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [FormidableLabs/radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling.
 - [koenbok/Framer](https://github.com/koenbok/Framer) - Framer - Design Everything
@@ -2816,6 +2817,7 @@
 
 ## Nix 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [mjstewart/nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
@@ -3370,7 +3372,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
-- [ms-jpq/isomorphic-copy](https://github.com/ms-jpq/isomorphic-copy) - Cross platform clipboard | networkless! remote copy
+- [ms-jpq/isomorphic_copy](https://github.com/ms-jpq/isomorphic_copy) - Cross platform clipboard | networkless! remote copy
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [lukabuz/BlockView](https://github.com/lukabuz/BlockView) - A python script that can be used to track transactions on the bitcoin blockchain
 - [sigvef/sigvehtml](https://github.com/sigvef/sigvehtml) - Finally a HTML that you can sight-read.
