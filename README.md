@@ -126,6 +126,7 @@
 
 ## C 
 
+- [jsoftware/jsource](https://github.com/jsoftware/jsource) - J engine source mirror
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
@@ -1795,6 +1796,7 @@
 
 ## HTML 
 
+- [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [whatwg/dom](https://github.com/whatwg/dom) - DOM Standard
@@ -2071,7 +2073,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -4887,7 +4889,7 @@
 - [jlanzarotta/bufexplorer](https://github.com/jlanzarotta/bufexplorer) - BufExplorer Plugin for Vim
 - [farazdagi/vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
 - [lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords) - ☀️ A vim plugin for highlighting and navigating through different words in a buffer.
-- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A file searching plugin mimics Ctrl-Shift-F on Sublime Text 2
+- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [rleppink/dotfiles](https://github.com/rleppink/dotfiles) - Collection of dotfiles for my NixOS machine
 - [diepm/vim-rest-console](https://github.com/diepm/vim-rest-console) - A REST console for Vim.
