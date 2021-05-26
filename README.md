@@ -4150,6 +4150,7 @@
 
 ## Shell 
 
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [mikeswain/cmdfs](https://github.com/mikeswain/cmdfs) - Command File System
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored Youtube content on all local Chromecasts
 - [stephen304/castblock](https://github.com/stephen304/castblock) - Automatically skip integrated ads on youtube playing on chromecast
@@ -4341,6 +4342,7 @@
 - [kaihendry/dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
 - [tj/n](https://github.com/tj/n) - Node version management
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [drothlis/clang-ctags](https://github.com/drothlis/clang-ctags) - Generate tag file for C++ source code, using the clang C++ compiler's parsing libraries
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
@@ -4447,6 +4449,7 @@
 
 ## TypeScript 
 
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [electron/universal](https://github.com/electron/universal) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing
@@ -4853,7 +4856,6 @@
 - [Shougo/echodoc.vim](https://github.com/Shougo/echodoc.vim) - Print documents in echo area.
 - [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [Shougo/neco-vim](https://github.com/Shougo/neco-vim) - The vim source for neocomplete/deoplete
-- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [da-x/vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
