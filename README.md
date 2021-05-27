@@ -81,6 +81,7 @@
   - [Shell](#shell)
   - [Solidity](#solidity)
   - [Starlark](#starlark)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [TeX](#tex)
@@ -389,7 +390,7 @@
 - [polachok/skb](https://github.com/polachok/skb) - simple keyboard indicator
 - [eworm-de/mkinitcpio-ykfde](https://github.com/eworm-de/mkinitcpio-ykfde) - Full disk encryption with Yubikey (Yubico key)
 - [l3ib/fsniper](https://github.com/l3ib/fsniper) - A tool that monitors a given set of directories for new or modified files then applies rule based scripts.
-- [neomutt/neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [rwestlund/freesweep](https://github.com/rwestlund/freesweep) - A console minesweeper-style game written in C for Unix-like systems
 - [carld/micro-lisp](https://github.com/carld/micro-lisp) - 🎄A very small Lisp programming language 😀that used to be under 200 lines of C🎄
 - [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
@@ -1358,7 +1359,7 @@
 - [seenaburns/picofeed](https://github.com/seenaburns/picofeed) - A minimal terminal rss reader
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [kaihendry/picofeed](https://github.com/kaihendry/picofeed) - A minimal terminal & Web rss reader
-- [oragono/oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
+- [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [zalando-stups/skrop](https://github.com/zalando-stups/skrop) - Image transformation service using libvips, based on Skipper.
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - [hashicorp/go-hclog](https://github.com/hashicorp/go-hclog) - A common logging package for HashiCorp tools
@@ -2080,7 +2081,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1674-Stars](https://github.com/RealPeha/This-Repo-Has-1674-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3491,7 +3492,7 @@
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT so you can focus on analysis.
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
-- [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
@@ -4418,6 +4419,10 @@
 
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 
+## Svelte 
+
+- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain droplet from any point in the contiguous United States to its endpoint.
+
 ## Swift 
 
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -4449,6 +4454,7 @@
 
 ## TypeScript 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [electron/universal](https://github.com/electron/universal) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
