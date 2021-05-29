@@ -2076,7 +2076,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1675-Stars](https://github.com/RealPeha/This-Repo-Has-1675-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1676-Stars](https://github.com/RealPeha/This-Repo-Has-1676-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3041,7 +3041,8 @@
 
 ## Others 
 
-- [33kk/uso-archive](https://github.com/33kk/uso-archive) - Preserving styles from the slow and unmaintained UserStyles.org
+- [pgMustard/pgMustard](https://github.com/pgMustard/pgMustard) - pgMustard public repository (for issues)
+- [33kk/uso-archive](https://github.com/33kk/uso-archive) - Full mirror of UserStyles.org
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
@@ -4450,6 +4451,7 @@
 
 ## TypeScript 
 
+- [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [electron/universal](https://github.com/electron/universal) - 
