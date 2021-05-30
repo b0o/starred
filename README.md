@@ -59,6 +59,7 @@
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
+  - [POV-Ray SDL](#pov-ray-sdl)
   - [Perl](#perl)
   - [Processing](#processing)
   - [Prolog](#prolog)
@@ -453,6 +454,7 @@
 
 ## C++ 
 
+- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [anthwlock/untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [dekuNukem/duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
@@ -639,6 +641,7 @@
 
 ## CSS 
 
+- [Circadiaware/wearadian](https://github.com/Circadiaware/wearadian) - Non-invasive wearable circadian rhythm monitors
 - [remake/kanban-starter](https://github.com/remake/kanban-starter) - 
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) - 
@@ -1799,6 +1802,7 @@
 
 ## HTML 
 
+- [Circadiaware/VLiDACMel-entrainment-therapy-non24](https://github.com/Circadiaware/VLiDACMel-entrainment-therapy-non24) - Work-in-progress draft of an entrainment protocol for the Non-24 circadian rhythm disorder.
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
@@ -3247,7 +3251,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
-- [phacility/phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
+- [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [captn3m0/jqaas](https://github.com/captn3m0/jqaas) - jq as a service
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
@@ -3255,6 +3259,10 @@
 - [TidalLabs/Slacker](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI
 - [shouldbee/reserved-usernames](https://github.com/shouldbee/reserved-usernames) - 590+ usernames in this dictionary! A list of reserved usernames to prevent url collision with resource paths. This repository hosts the list in multiple formats like JSON, CSV, SQL and plain text. You can use its just download its by wget.
 - [ndejong/pfsense_fauxapi](https://github.com/ndejong/pfsense_fauxapi) - REST based API interface for pfSense 2.3.x and 2.4.x to facilitate devops
+
+## POV-Ray SDL 
+
+- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
 
 ## Perl 
 
@@ -3815,6 +3823,7 @@
 
 ## Rust 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [orogene/orogene](https://github.com/orogene/orogene) - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
 - [utam0k/youki](https://github.com/utam0k/youki) - An experimental container runtime written in Rust
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
