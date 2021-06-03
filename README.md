@@ -2729,6 +2729,8 @@
 
 ## Lua 
 
+- [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) - A NeoVim plugin for managing several debuggers for Nvim-dap
+- [tjdevries/vimterface.nvim](https://github.com/tjdevries/vimterface.nvim) - An interface for plugins. Vaporware
 - [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - Just Another Buffer Switcher for Neovim
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
@@ -3048,6 +3050,7 @@
 
 ## Others 
 
+- [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) - Deliver Go binaries as fast, easily and pro as possible.
 - [admin-ch/CovidCertificate-Documents](https://github.com/admin-ch/CovidCertificate-Documents) - Documents related to covid certificate system in Switzerland
 - [eliemichel/HoudiniEngineForBlender](https://github.com/eliemichel/HoudiniEngineForBlender) - Branch of Blender featuring a Houdini Engine based modifier
 - [pgMustard/pgMustard](https://github.com/pgMustard/pgMustard) - pgMustard public repository (for issues)
@@ -3217,7 +3220,7 @@
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [andrea-rosa/conky-config](https://github.com/andrea-rosa/conky-config) - Conky config with Font Awesome
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) - Collect and spend money transparently. Please report issues there. Feature requests and ideas welcome!
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) - Collect and spend money transparently. Please report issues or bugs on this repository. Feature requests and ideas welcome!
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [reactjs/react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -4387,7 +4390,7 @@
 - [agherzan/yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
 - [jez/dotfiles](https://github.com/jez/dotfiles) - My personal collection of configuration files.
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
-- [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [subnixr/minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
 - [felixonmars/aur3-mirror](https://github.com/felixonmars/aur3-mirror) - Git archive of the Arch User Repository 3. (Cloned from pkgbuild.com/git/aur-mirror.git)
 - [hak5/packetsquirrel-payloads](https://github.com/hak5/packetsquirrel-payloads) - The Official Packet Squirrel Payload Repository
@@ -4978,7 +4981,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative ( Works with any database )
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
