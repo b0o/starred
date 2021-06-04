@@ -23,6 +23,7 @@
   - [Crystal](#crystal)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
+  - [DTrace](#dtrace)
   - [Dart](#dart)
   - [Dhall](#dhall)
   - [Dockerfile](#dockerfile)
@@ -127,6 +128,11 @@
 
 ## C 
 
+- [brendangregg/Dump2PNG](https://github.com/brendangregg/Dump2PNG) - Visualize file data as a PNG
+- [brendangregg/perf-labs](https://github.com/brendangregg/perf-labs) - Performance analysis labs
+- [brendangregg/wss](https://github.com/brendangregg/wss) - Working Set Size tools
+- [brendangregg/BPF-tools](https://github.com/brendangregg/BPF-tools) - Performance Tools using Linux eBPF
+- [Igalia/cog](https://github.com/Igalia/cog) - WPE launcher and webapp container
 - [mjsottile/sfsexp](https://github.com/mjsottile/sfsexp) - Small Fast S-Expression Library
 - [jsoftware/jsource](https://github.com/jsoftware/jsource) - J engine source mirror
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -751,12 +757,17 @@
 
 ## D 
 
+- [brendangregg/dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - Some DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based)
 - [CyberShadow/DFeed](https://github.com/CyberShadow/DFeed) - D news aggregator, newsgroup client, web newsreader and IRC bot
 - [ldc-developers/ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D Compiler.
 
 ## DIGITAL Command Language 
 
 - [jmdugan/blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
+
+## DTrace 
+
+- [brendangregg/DTrace-tools](https://github.com/brendangregg/DTrace-tools) - DTrace tools for FreeBSD
 
 ## Dart 
 
@@ -2018,6 +2029,8 @@
 
 ## JavaScript 
 
+- [brendangregg/d3-flame-graph](https://github.com/brendangregg/d3-flame-graph) - A d3.js library to produce flame graphs.
+- [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [mnot/rfc.fyi](https://github.com/mnot/rfc.fyi) - Browseable, searchable RFC index
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -2144,7 +2157,7 @@
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [soundshader/soundshader.github.io](https://github.com/soundshader/soundshader.github.io) - Sound GLSL
-- [Grew-dev/console-chat](https://github.com/Grew-dev/console-chat) - consolechat.io source codes
+- [ihmissuti/console-chat](https://github.com/ihmissuti/console-chat) - consolechat.io source codes
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -2729,7 +2742,10 @@
 
 ## Lua 
 
-- [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) - A NeoVim plugin for managing several debuggers for Nvim-dap
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+- [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
+- [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
+- [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) - 🦆 A NeoVim plugin for managing several debuggers for Nvim-dap
 - [tjdevries/vimterface.nvim](https://github.com/tjdevries/vimterface.nvim) - An interface for plugins. Vaporware
 - [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - Just Another Buffer Switcher for Neovim
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
@@ -2825,6 +2841,7 @@
 
 ## Mustache 
 
+- [hypothesis/client](https://github.com/hypothesis/client) - The Hypothesis web-based annotation client.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## Nim 
@@ -3050,6 +3067,9 @@
 
 ## Others 
 
+- [brendangregg/DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
+- [brendangregg/systemtap-lwtools](https://github.com/brendangregg/systemtap-lwtools) - SystemTap Lightweight Tools
+- [brendangregg/Chaosreader](https://github.com/brendangregg/Chaosreader) - An any-snarf program that processes application protocols (HTTP/FTP/...) from tcpdump or snoop files and stores session and file data
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) - Deliver Go binaries as fast, easily and pro as possible.
 - [admin-ch/CovidCertificate-Documents](https://github.com/admin-ch/CovidCertificate-Documents) - Documents related to covid certificate system in Switzerland
 - [eliemichel/HoudiniEngineForBlender](https://github.com/eliemichel/HoudiniEngineForBlender) - Branch of Blender featuring a Houdini Engine based modifier
@@ -3274,6 +3294,9 @@
 
 ## Perl 
 
+- [brendangregg/proc-profiler](https://github.com/brendangregg/proc-profiler) - Linux /proc/PID/stack profiler
+- [brendangregg/HeatMap](https://github.com/brendangregg/HeatMap) - Heat map generation tools
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [carnager/clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
@@ -3308,6 +3331,8 @@
 
 ## Python 
 
+- [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book
+- [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [BoukeHaarsma23/WattmanGTK](https://github.com/BoukeHaarsma23/WattmanGTK) - A Wattman-like GTK3+ GUI
 - [sezanzeb/key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [tobixen/thrash-protect](https://github.com/tobixen/thrash-protect) - Simple-Stupid user-space program doing "kill -STOP" and "kill -CONT" to protect from thrashing
@@ -3831,11 +3856,12 @@
 
 ## Rust 
 
+- [nathom/youchoose](https://github.com/nathom/youchoose) - A lightweight terminal menu for Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [orogene/orogene](https://github.com/orogene/orogene) - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
-- [utam0k/youki](https://github.com/utam0k/youki) - An experimental container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) - An experimental container runtime written in Rust
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -4167,6 +4193,9 @@
 
 ## Shell 
 
+- [brendangregg/msr-cloud-tools](https://github.com/brendangregg/msr-cloud-tools) - MSR Cloud Tools
+- [brendangregg/pmc-cloud-tools](https://github.com/brendangregg/pmc-cloud-tools) - PMC (Performance Monitoring Counter) tools for the cloud
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier.
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [mikeswain/cmdfs](https://github.com/mikeswain/cmdfs) - Command File System
@@ -4442,6 +4471,7 @@
 
 ## Swift 
 
+- [cuvent/react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [lucanaef/PGPro](https://github.com/lucanaef/PGPro) - OpenPGP En- & Decryption App for iOS
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -4480,7 +4510,6 @@
 - [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [cuvent/react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -4642,7 +4671,7 @@
 - [hanford/trends](https://github.com/hanford/trends) - ultra high performance github trending application
 - [segmentio/ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [sourcegraph/javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [zendeskgarden/react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
