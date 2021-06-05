@@ -94,7 +94,6 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
-  - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
   - [YARA](#yara)
   - [Zig](#zig)
@@ -4039,6 +4038,7 @@
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [rust-analyzer/ungrammar](https://github.com/rust-analyzer/ungrammar) - 
 - [chmln/i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
@@ -5019,10 +5019,6 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [zircleUI/github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-
-## WebAssembly 
-
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 ## XSLT 
 
