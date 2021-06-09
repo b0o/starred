@@ -649,6 +649,7 @@
 
 - [Circadiaware/wearadian](https://github.com/Circadiaware/wearadian) - Non-invasive wearable circadian rhythm monitors
 - [remake/kanban-starter](https://github.com/remake/kanban-starter) - 
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) - 
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -846,6 +847,12 @@
 
 ## Go 
 
+- [knipferrc/fm](https://github.com/knipferrc/fm) - A terminal based file manager
+- [ermanimer/log](https://github.com/ermanimer/log) - Simple, customizable, leveled and efficient logging in Go
+- [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
+- [jfreymuth/pulse](https://github.com/jfreymuth/pulse) - PulseAudio client implementation in pure Go
+- [sqp/pulseaudio](https://github.com/sqp/pulseaudio) - pulseaudio dbus client for go
+- [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
 - [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent MySQL/PostgreSQL schema management by SQL
 - [schemalex/schemalex](https://github.com/schemalex/schemalex) - Generate difference sql of two mysql schema
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
@@ -2028,6 +2035,8 @@
 
 ## JavaScript 
 
+- [Snowtrack/snowtrack-docs](https://github.com/Snowtrack/snowtrack-docs) - The official documentation of Snowtrack
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨 A web component for drawing patterns with CSS.
 - [brendangregg/d3-flame-graph](https://github.com/brendangregg/d3-flame-graph) - A d3.js library to produce flame graphs.
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -2094,8 +2103,8 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
+- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [ysulyma/rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for ractive-player
@@ -2741,6 +2750,8 @@
 
 ## Lua 
 
+- [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
+- [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [cwebster2/github-coauthors.nvim](https://github.com/cwebster2/github-coauthors.nvim) - A neovim extension for populating coauthors when comitting
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -3067,6 +3078,7 @@
 
 ## Others 
 
+- [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [brendangregg/DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
 - [brendangregg/systemtap-lwtools](https://github.com/brendangregg/systemtap-lwtools) - SystemTap Lightweight Tools
 - [brendangregg/Chaosreader](https://github.com/brendangregg/Chaosreader) - An any-snarf program that processes application protocols (HTTP/FTP/...) from tcpdump or snoop files and stores session and file data
@@ -3077,7 +3089,6 @@
 - [33kk/uso-archive](https://github.com/33kk/uso-archive) - Full mirror of UserStyles.org
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
-- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) - A list of public Send instances. Mirror.
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
@@ -3335,6 +3346,9 @@
 
 ## Python 
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
+- [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [BoukeHaarsma23/WattmanGTK](https://github.com/BoukeHaarsma23/WattmanGTK) - A Wattman-like GTK3+ GUI
@@ -3419,7 +3433,7 @@
 - [LuminosoInsight/python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
-- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test and use models without writing code
+- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [MoserMichael/duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -3435,7 +3449,7 @@
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - A platform for beginners to learn programming in Python
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [sencer/i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
-- [mtlynch/tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
+- [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [novoid/orgformat](https://github.com/novoid/orgformat) - Utility library for providing functions to generate and modify Org mode syntax elements like links, time-stamps, or date-stamps.
 - [archlinux/archmanweb](https://github.com/archlinux/archmanweb) - Codebase for the Arch manual pages repository (read-only mirror)
 - [hamedA2/Zydra](https://github.com/hamedA2/Zydra) - 
@@ -3860,6 +3874,13 @@
 
 ## Rust 
 
+- [alecmocatta/cap](https://github.com/alecmocatta/cap) - An allocator that can track and limit memory usage.
+- [bnjjj/chicon-rs](https://github.com/bnjjj/chicon-rs) - A file abstraction system for Rust
+- [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+- [mkatychev/darkroom](https://github.com/mkatychev/darkroom) - A VCR contract testing tool built in Rust
+- [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository
+- [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [nathom/youchoose](https://github.com/nathom/youchoose) - A lightweight terminal menu for Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -3919,7 +3940,7 @@
 - [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [rust-num/num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
-- [lukechu10/maple](https://github.com/lukechu10/maple) - A reactive DOM library for Rust in WASM
+- [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A reactive DOM library for Rust in WASM
 - [venam/systemd-manager](https://github.com/venam/systemd-manager) - Fork of https://gitlab.com/mmstick/systemd-manager to add switch between session and system bus
 - [RustCrypto/traits](https://github.com/RustCrypto/traits) - Collection of cryptography-related traits
 - [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
@@ -4062,7 +4083,7 @@
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
-- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust (doh-proxy).
+- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [jedisct1/encrypted-dns-server](https://github.com/jedisct1/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
@@ -4198,6 +4219,7 @@
 
 ## Shell 
 
+- [shellkr/pachist](https://github.com/shellkr/pachist) - A small bash program to show the installed package history in Arch Linux.
 - [brendangregg/msr-cloud-tools](https://github.com/brendangregg/msr-cloud-tools) - MSR Cloud Tools
 - [brendangregg/pmc-cloud-tools](https://github.com/brendangregg/pmc-cloud-tools) - PMC (Performance Monitoring Counter) tools for the cloud
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
@@ -4476,6 +4498,7 @@
 
 ## Swift 
 
+- [cuvent/react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [lucanaef/PGPro](https://github.com/lucanaef/PGPro) - OpenPGP En- & Decryption App for iOS
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -4505,6 +4528,9 @@
 
 ## TypeScript 
 
+- [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+- [Snowtrack/SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
+- [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
@@ -4514,7 +4540,6 @@
 - [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [cuvent/react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -4738,6 +4763,7 @@
 
 ## Vim script 
 
+- [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: Granular project configuration
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text from anywhere with OSC52
 - [kiteco/vim-plugin](https://github.com/kiteco/vim-plugin) - The Kite plugin for Vim.
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
@@ -4988,6 +5014,7 @@
 
 ## VimL 
 
+- [wsdjeg/luarefvim](https://github.com/wsdjeg/luarefvim) - Lua reference manual
 - [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 - [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent) - Vim plugin: Text objects for indented blocks of lines
 - [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
