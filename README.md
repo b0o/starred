@@ -132,6 +132,7 @@
 
 ## C 
 
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [lmatteis/torrent-net](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite
 - [brendangregg/Dump2PNG](https://github.com/brendangregg/Dump2PNG) - Visualize file data as a PNG
 - [brendangregg/perf-labs](https://github.com/brendangregg/perf-labs) - Performance analysis labs
@@ -1301,7 +1302,7 @@
 - [rsc/diff](https://github.com/rsc/diff) - Diff(1)
 - [olivere/elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
 - [griesemer/tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, minimalist publishing platform made for writers. Write together, and build a community.
 - [paulmach/orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [myitcv/gobin](https://github.com/myitcv/gobin) - gobin is an experimental, module-aware command to install/run main packages.
@@ -1781,7 +1782,7 @@
 - [lafikl/liblb](https://github.com/lafikl/liblb) - A golang library that implements load balancing algorithms.
 - [lafikl/consistent](https://github.com/lafikl/consistent) - A Go library that implements Consistent Hashing and Consistent Hashing With Bounded Loads.
 - [kryptco/kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
-- [kashav/fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [aryann/difflib](https://github.com/aryann/difflib) - 
 - [BurntSushi/xgb](https://github.com/BurntSushi/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -1857,6 +1858,7 @@
 - [vuetailwind/components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [thatguystone/swan](https://github.com/thatguystone/swan) - An implementation of the Goose HTML Content / Article Extractor algorithm in golang
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
@@ -2109,7 +2111,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1670-Stars](https://github.com/RealPeha/This-Repo-Has-1670-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2226,7 +2228,6 @@
 - [ocaml-sf/learn-ocaml](https://github.com/ocaml-sf/learn-ocaml) - A Web Application for Learning OCaml
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [enrico-kaack/markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [snowpackjs/create-snowpack-app](https://github.com/snowpackjs/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
 - [cameron/squirt](https://github.com/cameron/squirt) - Speed read the web.
@@ -2378,7 +2379,7 @@
 - [good-lly/gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
 - [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [pliablepixels/zmNinja](https://github.com/pliablepixels/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
-- [mcnuttandrew/forum-explorer](https://github.com/mcnuttandrew/forum-explorer) - Explore Forum Structured Data Visually
+- [mcnuttandrew/forum-explorer](https://github.com/mcnuttandrew/forum-explorer) - Explore Forum Structured Data (on HackerNews) Visually
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [Schachte/Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [keraf/NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
@@ -3082,6 +3083,7 @@
 
 ## Others 
 
+- [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [brendangregg/DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
 - [brendangregg/systemtap-lwtools](https://github.com/brendangregg/systemtap-lwtools) - SystemTap Lightweight Tools
@@ -4537,6 +4539,7 @@
 
 ## TypeScript 
 
+- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [Snowtrack/SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
@@ -4567,7 +4570,7 @@
 - [mathigon/studio](https://github.com/mathigon/studio) - A customisable NodeJS server for creating and hosting highly interactive online courses.
 - [Uniswap/uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) - 🎛 Core smart contracts of Uniswap V2
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
-- [talentlessguy/tinyhttp](https://github.com/talentlessguy/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
+- [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [jaredly/jerd](https://github.com/jaredly/jerd) - 
@@ -4576,7 +4579,7 @@
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Multi-Token Standard (ERC-1155)
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand strokes.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [JonnyBurger/remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [ysulyma/ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React
 - [hediet/browser-ext-github-monaco](https://github.com/hediet/browser-ext-github-monaco) - This extension brings the famous Monaco editor to Github
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
