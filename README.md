@@ -132,6 +132,8 @@
 
 ## C 
 
+- [schirmeier/rampage](https://github.com/schirmeier/rampage) - RAMpage -- An online memory tester for Linux
+- [danceos/rampage](https://github.com/danceos/rampage) - RAMpage -- An online memory tester for Linux
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [lmatteis/torrent-net](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite
 - [brendangregg/Dump2PNG](https://github.com/brendangregg/Dump2PNG) - Visualize file data as a PNG
@@ -468,6 +470,7 @@
 
 ## C++ 
 
+- [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [anthwlock/untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -858,7 +861,7 @@
 - [google/gousb](https://github.com/google/gousb) - gousb provides low-level interface for accessing USB devices
 - [CAFxX/gcnotifier](https://github.com/CAFxX/gcnotifier) - Know when GC runs from inside your golang code
 - [anatol/devmapper.go](https://github.com/anatol/devmapper.go) - 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [yifanbian/pam-mfa](https://github.com/yifanbian/pam-mfa) - Multi-factor Authentication module for PAM
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
@@ -2125,7 +2128,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3654,7 +3657,7 @@
 - [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
 - [MaryHal/dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
@@ -4085,7 +4088,7 @@
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [linebender/spline](https://github.com/linebender/spline) - A spline for interactive 2D curve design
 - [adder46/hstr-rs](https://github.com/adder46/hstr-rs) - hstr, but with paging, Unicode, and fuzzy matching
-- [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
+- [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [casey/intermodal](https://github.com/casey/intermodal) - 📦 Intermodal: A 40' foot shipping container for the internet
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
