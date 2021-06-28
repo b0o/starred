@@ -859,6 +859,7 @@
 
 ## Go 
 
+- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (originally github.com/theckman/go-flock)
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
@@ -1320,7 +1321,7 @@
 - [rsc/diff](https://github.com/rsc/diff) - Diff(1)
 - [olivere/elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
 - [griesemer/tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, minimalist publishing platform made for writers. Write together, and build a community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [paulmach/orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [myitcv/gobin](https://github.com/myitcv/gobin) - gobin is an experimental, module-aware command to install/run main packages.
@@ -3838,6 +3839,7 @@
 
 ## Reason 
 
+- [rolandpeelen/bs-pancake](https://github.com/rolandpeelen/bs-pancake) - A lens library so small in use you'd hardly notice it's there...
 - [cometkim/reason-todomvc](https://github.com/cometkim/reason-todomvc) - TodoMVC implementation written in ReasonML
 - [shakacode/re-formality](https://github.com/shakacode/re-formality) - Form validation tool for reason-react
 - [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Typed styled components in Reason, OCaml and ReScript
