@@ -861,6 +861,7 @@
 
 ## Go 
 
+- [forPelevin/gomoji](https://github.com/forPelevin/gomoji) - Helpful functions to work with emoji in Golang
 - [alta/insecure](https://github.com/alta/insecure) - Secure your dev servers, insecurely!
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (originally github.com/theckman/go-flock)
@@ -2147,7 +2148,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1667-Stars](https://github.com/RealPeha/This-Repo-Has-1667-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2761,6 +2762,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 24 lessons, classic Machine Learning for all
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [michaelmendoza/learning-tensorflow](https://github.com/michaelmendoza/learning-tensorflow) - Simple Tensorflow tutorials for learning by example
@@ -2982,7 +2984,7 @@
 - [AbstractMachinesLab/caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
 - [jordwalke/rehp](https://github.com/jordwalke/rehp) - ReHp
 - [mirage/decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
-- [tmattio/spin](https://github.com/tmattio/spin) - Reason and OCaml project generator.
+- [tmattio/spin](https://github.com/tmattio/spin) - OCaml project generator.
 - [Armael/doggybag](https://github.com/Armael/doggybag) - take-away binaries
 - [sneeuwballen/benchpress](https://github.com/sneeuwballen/benchpress) - Testing and benchmarking tool for logic-related programs.
 - [rescript-association/reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/ReScript: for globally dead values/types, exception analysis, and termination analysis.
@@ -3125,6 +3127,7 @@
 
 ## Others 
 
+- [tldraw/app](https://github.com/tldraw/app) - A tiny little discussion, issue tracking and roadmap repo.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim written in Lua.
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -3399,6 +3402,8 @@
 
 ## Python 
 
+- [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
+- [amezin/amdgpu-tweakd](https://github.com/amezin/amdgpu-tweakd) - amdgpu fan speed control and power limit tweak on Linux
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
