@@ -2793,7 +2793,7 @@
 
 ## Lua 
 
-- [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) - telescope npm stuff, yada yada yada, some description, idk
+- [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) - npm integration for telescope.nvim, WIP
 - [kikito/middleclass](https://github.com/kikito/middleclass) - Object-orientation for Lua
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - It makes a quickfix list editable in both content and file path.
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
@@ -3127,7 +3127,6 @@
 
 ## Others 
 
-- [tldraw/app](https://github.com/tldraw/app) - A tiny little discussion, issue tracking and roadmap repo.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim written in Lua.
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -3941,6 +3940,7 @@
 
 ## Rust 
 
+- [HeroicKatora/stealth-paint](https://github.com/HeroicKatora/stealth-paint) - Image operations, so quick and embeddable that you might barely notice it running
 - [hyperledger/transact](https://github.com/hyperledger/transact) - Transact is a transaction execution platform designed to be used as a library or component when implementing distributed ledgers, including blockchains.
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) - 🔐 Encrypts all the Serialize.
