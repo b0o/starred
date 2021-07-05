@@ -279,7 +279,7 @@
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [minus7/redshift](https://github.com/minus7/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
-- [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
+- [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
@@ -861,6 +861,7 @@
 
 ## Go 
 
+- [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go "sum types."
 - [forPelevin/gomoji](https://github.com/forPelevin/gomoji) - Helpful functions to work with emoji in Golang
 - [alta/insecure](https://github.com/alta/insecure) - Secure your dev servers, insecurely!
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -1943,6 +1944,7 @@
 
 ## Haskell 
 
+- [typeclasses/haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook) - The Haskell Phrasebook: a quick intro to Haskell via small annotated example programs
 - [jameshaydon/lawvere](https://github.com/jameshaydon/lawvere) - A categorical programming language with effects
 - [utdemir/qualified-imports-plugin](https://github.com/utdemir/qualified-imports-plugin) - 
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -2074,6 +2076,7 @@
 
 ## JavaScript 
 
+- [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator.
 - [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
 - [ryyppy/rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - Opinionated Boilerplate for NextJS, Tailwind and ReScript
 - [alyssaxuu/carden](https://github.com/alyssaxuu/carden) - Flashcards with spaced repetition and gamification 🌱
@@ -2790,10 +2793,18 @@
 
 ## Less 
 
-- [ipfs/website](https://github.com/ipfs/website) - This repo has been replaced by https://github.com/ipfs/ipfs-website/
+- [ipfs-inactive/website](https://github.com/ipfs-inactive/website) - This repo has been replaced by https://github.com/ipfs/ipfs-website/
 
 ## Lua 
 
+- [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
+- [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
+- [windwp/lsp-fastaction.nvim](https://github.com/windwp/lsp-fastaction.nvim) - lsp codeaction UI for neovim
+- [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) - npm integration for telescope.nvim, WIP
 - [kikito/middleclass](https://github.com/kikito/middleclass) - Object-orientation for Lua
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - It makes a quickfix list editable in both content and file path.
@@ -3402,6 +3413,7 @@
 
 ## Python 
 
+- [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [amezin/amdgpu-tweakd](https://github.com/amezin/amdgpu-tweakd) - amdgpu fan speed control and power limit tweak on Linux
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
@@ -4768,7 +4780,7 @@
 - [mathigon/textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-- [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Google Cast implementation for Firefox
