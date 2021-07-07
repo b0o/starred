@@ -64,6 +64,7 @@
   - [PHP](#php)
   - [POV-Ray SDL](#pov-ray-sdl)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Processing](#processing)
   - [Prolog](#prolog)
   - [Pug](#pug)
@@ -2042,6 +2043,7 @@
 
 ## Java 
 
+- [open-osrs/runelite](https://github.com/open-osrs/runelite) - Actually open source Old School RuneScape client
 - [ShprAlex/SproutLife](https://github.com/ShprAlex/SproutLife) - Evolving version of Conway’s Game of Life.
 - [jolie/jolie](https://github.com/jolie/jolie) - The Jolie programming language
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
@@ -2152,7 +2154,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3393,6 +3395,10 @@
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [pbrisbin/wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
+
+## PowerShell 
+
+- [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 
 ## Processing 
 
