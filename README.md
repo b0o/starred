@@ -134,6 +134,7 @@
 
 ## C 
 
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that!
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null
 - [nsayer/Crazy-Clock](https://github.com/nsayer/Crazy-Clock) - An ATTiny85 based variable-rate (with long-term accuracy) clock movement
@@ -862,6 +863,7 @@
 
 ## Go 
 
+- [fogleman/ease](https://github.com/fogleman/ease) - Easing functions in #golang.
 - [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go "sum types."
 - [forPelevin/gomoji](https://github.com/forPelevin/gomoji) - Helpful functions to work with emoji in Golang
 - [alta/insecure](https://github.com/alta/insecure) - Secure your dev servers, insecurely!
@@ -1921,7 +1923,7 @@
 - [athityakumar/github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [tomhodgins/responsive.style](https://github.com/tomhodgins/responsive.style) - A Fresh Approach to Extending CSS
-- [LeNPaul/Lagrange](https://github.com/LeNPaul/Lagrange) - A minimalist Jekyll theme for running a personal blog
+- [LeNPaul/Lagrange](https://github.com/LeNPaul/Lagrange) - A minimalist Jekyll theme for running a personal blog powered by Jekyll and GitHub Pages
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [tc39/proposal-object-from-entries](https://github.com/tc39/proposal-object-from-entries) - TC39 proposal for Object.fromEntries
 - [js-org/js.org.old](https://github.com/js-org/js.org.old) - Dedicated to JavaScript and its awesome community since 2015
@@ -2079,6 +2081,7 @@
 
 ## JavaScript 
 
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator.
 - [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
 - [ryyppy/rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - Opinionated Boilerplate for NextJS, Tailwind and ReScript
@@ -2155,7 +2158,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2799,6 +2802,7 @@
 
 ## Lua 
 
+- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim that written in Lua.
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -3959,6 +3963,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
