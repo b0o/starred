@@ -2081,6 +2081,8 @@
 
 ## JavaScript 
 
+- [qntm/base2048](https://github.com/qntm/base2048) - Binary encoding optimised for Twitter
+- [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator.
 - [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
@@ -3966,6 +3968,7 @@
 
 ## Rust 
 
+- [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [not-an-aardvark/every-git-commit-shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash) - Git repository with a commit for every single shorthash
 - [alessandrod/aya](https://github.com/alessandrod/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
@@ -3984,7 +3987,7 @@
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [jeffzh4ng/matey](https://github.com/jeffzh4ng/matey) - BitTorrent 🏴‍☠️ client
-- [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries.
+- [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
 - [rail44/neu](https://github.com/rail44/neu) - A vi-like text editor for terminal
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
