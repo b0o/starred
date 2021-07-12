@@ -134,7 +134,7 @@
 
 ## C 
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, MacOS, GNU/Linux and other operating systems and is developed by a group of volunteers as an open source software that respects user privacy.
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, MacOS, GNU/Linux and other operating systems. It is developed by a wide group of volunteers. Contributions welcome!
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null
 - [nsayer/Crazy-Clock](https://github.com/nsayer/Crazy-Clock) - An ATTiny85 based variable-rate (with long-term accuracy) clock movement
@@ -475,6 +475,7 @@
 
 ## C++ 
 
+- [cmuratori/termbench](https://github.com/cmuratori/termbench) - Simple benchmark for terminal output
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
@@ -863,6 +864,7 @@
 
 ## Go 
 
+- [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
 - [fogleman/ease](https://github.com/fogleman/ease) - Easing functions in #golang.
 - [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go "sum types."
@@ -1060,7 +1062,7 @@
 - [amit-davidson/Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
 - [rakyll/golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
 - [diodechain/diode_client](https://github.com/diodechain/diode_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diodechain.
-- [get-woke/woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
+- [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 - [DopplerHQ/cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
 - [martinsirbe/go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SNS).
@@ -2081,6 +2083,7 @@
 
 ## JavaScript 
 
+- [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi
 - [qntm/base2048](https://github.com/qntm/base2048) - Binary encoding optimised for Twitter
 - [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
@@ -2160,8 +2163,8 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [ysulyma/rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for ractive-player
@@ -2804,8 +2807,9 @@
 
 ## Lua 
 
+- [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) - A neovim lua plugin to help easily manage multiple terminal windows
 - [nvim-telescope/telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim) - A history implementation that memorizes prompt input for a specific context
-- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim that written in Lua.
+- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -2840,7 +2844,7 @@
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
-- [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily write your .vimrc in lua or any lua based language
+- [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [mfussenegger/nvim-lua-debugger](https://github.com/mfussenegger/nvim-lua-debugger) - a Debug Adapter that allows debugging lua plugins written for Neovim
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
@@ -3427,6 +3431,7 @@
 
 ## Python 
 
+- [cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python scripts that are short but useful or interesting
 - [nwg-piotr/nwg-wrapper](https://github.com/nwg-piotr/nwg-wrapper) - Wrapper to display a script output or a text file content on the desktop in sway or other wlroots-based compositors
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
@@ -3958,7 +3963,7 @@
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [sunaku/tamzen-font](https://github.com/sunaku/tamzen-font) - 💌 Bitmapped programming font, based on Tamsyn
 - [gousiosg/github-mirror](https://github.com/gousiosg/github-mirror) - Scripts to mirror Github in a cloudy fashion
-- [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
@@ -4439,7 +4444,7 @@
 - [grmat/amdgpu-fancontrol](https://github.com/grmat/amdgpu-fancontrol) - 
 - [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS - Package Manager
+- [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [chiraag-nataraj/firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
 - [pigmonkey/firewarden](https://github.com/pigmonkey/firewarden) - Open a file via the specified application within a private Firejail sandbox.
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
@@ -4652,6 +4657,7 @@
 
 ## TypeScript 
 
+- [ExpressiveSuite/ExpressiveAnimator](https://github.com/ExpressiveSuite/ExpressiveAnimator) - Create amazing 2D motion graphics and vector animations
 - [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic that connects to Apple Music and Spotify. Built with React & Styled Components
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
@@ -4894,6 +4900,7 @@
 
 ## Vim script 
 
+- [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon) - Vim plugin for generating images of source code using https://github.com/Aloxaf/silicon
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [rescript-lang/vim-rescript](https://github.com/rescript-lang/vim-rescript) - 
 - [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: Granular project configuration
