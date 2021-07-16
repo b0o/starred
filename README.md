@@ -637,7 +637,6 @@
 - [nonpop/xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [grwlf/xkb-switch](https://github.com/grwlf/xkb-switch) - Switch your X keyboard layouts from the command line
 - [etodd/lasercrabs](https://github.com/etodd/lasercrabs) - Launch your LASERCRAB at walls, ceilings, and enemy heads in this indie multiplayer shooter where "move" and "attack" are synonymous.
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [discord/lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -701,6 +700,7 @@
 - [PrestaShop/prestashop-icon-font](https://github.com/PrestaShop/prestashop-icon-font) - An open source icon pack made with love by the PrestaShop design team. You can use it everywhere to make your designs and websites look awesome.
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+- [hail2u/vim-css3-syntax](https://github.com/hail2u/vim-css3-syntax) - CSS3 syntax (and syntax defined in some foreign specifications) support for Vim's built-in syntax/css.vim
 - [flukeout/css-diner](https://github.com/flukeout/css-diner) - CSS Diner
 - [mor10/kuhn](https://github.com/mor10/kuhn) - WordPress theme featuring CSS Grid layouts via aggressive progressive enhancement. Proof of concept to get the conversation about what CSS Grid means for WordPress themes started. Currently running live at https://mor10.com
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -793,6 +793,7 @@
 
 - [pointless-lang/pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 
 ## Dhall 
 
@@ -867,6 +868,9 @@
 
 ## Go 
 
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
+- [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore) - a sharded store to hold large IPLD graphs efficiently, packaged as location-transparent attachable CAR files, with mechanical sympathy
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
@@ -1059,7 +1063,6 @@
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [uw-ictd/haulage](https://github.com/uw-ictd/haulage) - A golang tool for measuring and logging network usage to allow billing and analysis
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -2824,6 +2827,8 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-hop.nvim](https://github.com/nvim-telescope/telescope-hop.nvim) - (Teles-)Hopping to the moon.
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
@@ -3452,6 +3457,7 @@
 
 ## Python 
 
+- [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python scripts that are short but useful or interesting
 - [nwg-piotr/nwg-wrapper](https://github.com/nwg-piotr/nwg-wrapper) - Wrapper to display a script output or a text file content on the desktop in sway or other wlroots-based compositors
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
@@ -3942,6 +3948,7 @@
 
 ## Ruby 
 
+- [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
 - [tckmn/i3bang](https://github.com/tckmn/i3bang) - A preprocessor for i3 config files aimed to drastically reduce their length.
 - [edgecase/ruby_koans](https://github.com/edgecase/ruby_koans) - Learn Ruby with the Edgecase Ruby Koans
@@ -3994,6 +4001,10 @@
 
 ## Rust 
 
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
+- [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🌊 A dynamic SQL query builder for MySQL, Postgres and SQLite
+- [ethanhs/cce](https://github.com/ethanhs/cce) - commandline compiler explorer - use https://godbolt.org from your terminal!
+- [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
 - [ukmrs/smokey](https://github.com/ukmrs/smokey) - keyboard typing test TUI program
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
@@ -4211,6 +4222,7 @@
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [rust-analyzer/ungrammar](https://github.com/rust-analyzer/ungrammar) - 
+- [uw-ictd/haulage](https://github.com/uw-ictd/haulage) - A single-node tool for measuring and logging network usage to allow billing and analysis
 - [chmln/i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
@@ -4366,6 +4378,7 @@
 
 ## Shell 
 
+- [rupa/z](https://github.com/rupa/z) - z - jump around
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
 - [ckp95/fzed](https://github.com/ckp95/fzed) - Interactively create sed/awk/grep/jq/etc commands with immediate feedback
@@ -4646,6 +4659,7 @@
 
 ## Svelte 
 
+- [ExpressiveSuite/ExpressiveAnimator](https://github.com/ExpressiveSuite/ExpressiveAnimator) - Create amazing 2D motion graphics and vector animations
 - [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain droplet from any point in the contiguous United States to its endpoint.
 
 ## Swift 
@@ -4681,7 +4695,6 @@
 
 ## TypeScript 
 
-- [ExpressiveSuite/ExpressiveAnimator](https://github.com/ExpressiveSuite/ExpressiveAnimator) - Create amazing 2D motion graphics and vector animations
 - [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic that connects to Apple Music and Spotify. Built with React & Styled Components
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
@@ -5128,7 +5141,6 @@
 - [styled-components/vim-styled-components](https://github.com/styled-components/vim-styled-components) - Vim bundle for http://styled-components.com based javascript files.
 - [lifepillar/pgsql.vim](https://github.com/lifepillar/pgsql.vim) - The best PostgreSQL plugin for Vim!
 - [tpope/vim-jdaddy](https://github.com/tpope/vim-jdaddy) - jdaddy.vim: JSON manipulation and pretty printing
-- [hail2u/vim-css3-syntax](https://github.com/hail2u/vim-css3-syntax) - CSS3 syntax (and syntax defined in some foreign specifications) support for Vim's built-in syntax/css.vim
 - [mxw/vim-jsx](https://github.com/mxw/vim-jsx) - React JSX syntax highlighting and indenting for vim.
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [KabbAmine/vCoolor.vim](https://github.com/KabbAmine/vCoolor.vim) - Simple color selector/picker plugin for Vim.
