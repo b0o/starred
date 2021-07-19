@@ -135,6 +135,7 @@
 
 ## C 
 
+- [mupuf/libwsm](https://github.com/mupuf/libwsm) - Wayland Security Module library for wayland compositors
 - [Manawyrm/fxIP](https://github.com/Manawyrm/fxIP) - TCP/IP for Casio fx-9860 graphical calculators (with SLIP support, uIP stack)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
@@ -868,6 +869,7 @@
 
 ## Go 
 
+- [driusan/dkim](https://github.com/driusan/dkim) - Pure Go tools for managing DKIM headers
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
@@ -2829,6 +2831,7 @@
 
 ## Lua 
 
+- [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [nvim-telescope/telescope-hop.nvim](https://github.com/nvim-telescope/telescope-hop.nvim) - (Teles-)Hopping to the moon.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
@@ -4004,6 +4007,7 @@
 
 ## Rust 
 
+- [avinassh/fast-sqlite3-inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [blyxxyz/lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser
@@ -4696,7 +4700,7 @@
 
 ## TeX 
 
-- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
+- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 - [gpoore/minted](https://github.com/gpoore/minted) - minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
