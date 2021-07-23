@@ -1965,6 +1965,7 @@
 
 ## Haskell 
 
+- [srid/emanote](https://github.com/srid/emanote) - WIP: Spiritual successor to neuron, based on Ema.
 - [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [koka-lang/koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
@@ -2834,6 +2835,8 @@
 
 ## Lua 
 
+- [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) - killring-alike plugin for neovim and vim 8 with no default mappings
+- [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [nvim-telescope/telescope-hop.nvim](https://github.com/nvim-telescope/telescope-hop.nvim) - (Teles-)Hopping to the moon.
@@ -3155,6 +3158,7 @@
 
 ## Objective-C 
 
+- [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick) - Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
@@ -4014,6 +4018,7 @@
 
 ## Rust 
 
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a script language in Rust.
 - [aruncveli/isitup](https://github.com/aruncveli/isitup) - Rust-based CLI utility to check if a website/domain is up or down, leveraging isitup API
 - [avinassh/fast-sqlite3-inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -4667,7 +4672,7 @@
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [dbpedia/virtuoso-sparql-endpoint-quickstart](https://github.com/dbpedia/virtuoso-sparql-endpoint-quickstart) - creates a docker image with Virtuoso preloaded with the latest DBpedia dataset
 - [Xeoncross/macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
-- [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
+- [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 
 ## Solidity 
 
@@ -4715,6 +4720,7 @@
 
 ## TypeScript 
 
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [netspeak/netspeak-client-web](https://github.com/netspeak/netspeak-client-web) - The web interface of Netspeak
 - [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic that connects to Apple Music and Spotify. Built with React & Styled Components
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
@@ -4957,6 +4963,7 @@
 
 ## Vim script 
 
+- [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [arzg/vim-substrata](https://github.com/arzg/vim-substrata) - A cold, dark colourscheme for Vim
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon) - Vim plugin for generating images of source code using https://github.com/Aloxaf/silicon
@@ -5163,7 +5170,6 @@
 - [lifepillar/pgsql.vim](https://github.com/lifepillar/pgsql.vim) - The best PostgreSQL plugin for Vim!
 - [tpope/vim-jdaddy](https://github.com/tpope/vim-jdaddy) - jdaddy.vim: JSON manipulation and pretty printing
 - [mxw/vim-jsx](https://github.com/mxw/vim-jsx) - React JSX syntax highlighting and indenting for vim.
-- [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [KabbAmine/vCoolor.vim](https://github.com/KabbAmine/vCoolor.vim) - Simple color selector/picker plugin for Vim.
 - [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
 - [christoomey/your-first-vim-plugin](https://github.com/christoomey/your-first-vim-plugin) - Samples and notes for my Aug 2014 'Your First Vim Plugin' talk
