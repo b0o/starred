@@ -2191,7 +2191,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3005,7 +3005,7 @@
 - [rescript-lang/rescript-editor-support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.
 - [EduardoRFS/ppx_implicits](https://github.com/EduardoRFS/ppx_implicits) - 
 - [aantron/lambdasoup](https://github.com/aantron/lambdasoup) - Functional HTML scraping and rewriting with CSS in OCaml
-- [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML rewriting
+- [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML element tree rewriting
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
 - [nv-vn/TelegraML](https://github.com/nv-vn/TelegraML) - OCaml implementation of the Telegram Bot API
 - [ahrefs/atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
@@ -5250,7 +5250,7 @@
 ## Vue 
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
