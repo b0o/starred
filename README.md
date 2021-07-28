@@ -135,6 +135,7 @@
 
 ## C 
 
+- [rxseger/rx_tools](https://github.com/rxseger/rx_tools) - rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs, based on rtl_fm, rtl_power, and rtl_sdr from librtlsdr, but using the SoapySDR vendor-neutral SDR support library instead, intended to support a wider range of devices than RTL-SDR
 - [mupuf/libwsm](https://github.com/mupuf/libwsm) - Wayland Security Module library for wayland compositors
 - [Manawyrm/fxIP](https://github.com/Manawyrm/fxIP) - TCP/IP for Casio fx-9860 graphical calculators (with SLIP support, uIP stack)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
@@ -2110,6 +2111,7 @@
 
 ## JavaScript 
 
+- [71104/rwlock](https://github.com/71104/rwlock) - Asynchronous read / write lock implementation for Node.js
 - [kufii/img-clipboard](https://github.com/kufii/img-clipboard) - A cross platform Node.js utility to copy images to clipboard.
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
@@ -2198,7 +2200,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2843,6 +2845,8 @@
 
 ## Lua 
 
+- [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
+- [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) - A starter template for a Neovim plugin written in Lua
 - [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) - killring-alike plugin for neovim and vim 8 with no default mappings
 - [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
@@ -3941,6 +3945,7 @@
 
 ## Reason 
 
+- [davesnx/counter-as-a-service](https://github.com/davesnx/counter-as-a-service) - An example of a "real world" app written entirely with Reason
 - [davesnx/ocaml-box](https://github.com/davesnx/ocaml-box) - Render boxes in the terminal with OCaml or Reason
 - [rolandpeelen/bs-pancake](https://github.com/rolandpeelen/bs-pancake) - A lens library so small in use you'd hardly notice it's there...
 - [cometkim/reason-todomvc](https://github.com/cometkim/reason-todomvc) - TodoMVC implementation written in ReasonML
@@ -4983,6 +4988,7 @@
 
 ## Vim script 
 
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [arzg/vim-substrata](https://github.com/arzg/vim-substrata) - A cold, dark colourscheme for Vim
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
