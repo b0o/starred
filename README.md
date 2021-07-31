@@ -874,6 +874,7 @@
 
 ## Go 
 
+- [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go
 - [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) - Exports speedtest-cli metrics in the prometheus format
 - [shellbear/web-watcher](https://github.com/shellbear/web-watcher) - A discord bot which monitor and send alerts on website changes.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: Secure Boot key manager
@@ -1459,7 +1460,7 @@
 - [octago/sflags](https://github.com/octago/sflags) - Generate flags by parsing structures
 - [Zaba505/sand](https://github.com/Zaba505/sand) - Package for creating interpreters
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
-- [liamg/aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
+- [liamg/darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [genuinetools/weather](https://github.com/genuinetools/weather) - Weather via the command line.
 - [genuinetools/releases](https://github.com/genuinetools/releases) - Server to show latest GitHub Releases for a set of repositories.
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
@@ -1973,6 +1974,7 @@
 
 ## Haskell 
 
+- [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [srid/emanote](https://github.com/srid/emanote) - WIP: Spiritual successor to neuron, based on Ema.
 - [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
@@ -2116,6 +2118,8 @@
 
 ## JavaScript 
 
+- [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
+- [christoomey/boston-react-conf-2018-graphql-talk](https://github.com/christoomey/boston-react-conf-2018-graphql-talk) - Sample repo for my Boston React Conf 2018 talk on React & GraphQL
 - [71104/rwlock](https://github.com/71104/rwlock) - Asynchronous read / write lock implementation for Node.js
 - [kufii/img-clipboard](https://github.com/kufii/img-clipboard) - A cross platform Node.js utility to copy images to clipboard.
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
@@ -3489,6 +3493,7 @@
 
 ## Python 
 
+- [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [alexellis/growlab](https://github.com/alexellis/growlab) - A global contest to grow and monitor your own food with Raspberry Pi
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos in a Google Sheet.
 - [bellingcat/instagram-location-search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.
@@ -5000,6 +5005,7 @@
 
 ## Vim script 
 
+- [christoomey/vim-presentation-mode](https://github.com/christoomey/vim-presentation-mode) - 
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [arzg/vim-substrata](https://github.com/arzg/vim-substrata) - A cold, dark colourscheme for Vim
