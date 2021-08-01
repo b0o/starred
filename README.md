@@ -135,6 +135,9 @@
 
 ## C 
 
+- [cy384/ssheven](https://github.com/cy384/ssheven) - A modern SSH client for Mac OS 7/8/9
+- [antirez/pngtostl](https://github.com/antirez/pngtostl) - Turn PNG images into STL 3D models that will "develop" in front of a light source
+- [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
 - [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools) - The source repository for the Trusted Platform Module (TPM2.0) tools
 - [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
 - [rxseger/rx_tools](https://github.com/rxseger/rx_tools) - rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs, based on rtl_fm, rtl_power, and rtl_sdr from librtlsdr, but using the SoapySDR vendor-neutral SDR support library instead, intended to support a wider range of devices than RTL-SDR
@@ -453,6 +456,7 @@
 - [venam/2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources
 - [cesanta/mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [karalabe/gousb](https://github.com/karalabe/gousb) - Idiomatic Go bindings for libusb
 - [dspinellis/dgsh](https://github.com/dspinellis/dgsh) - Shell supporting pipelines to and from multiple processes
 
@@ -481,6 +485,7 @@
 
 ## C++ 
 
+- [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - A (file-) journal for your shell
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
@@ -874,6 +879,9 @@
 
 ## Go 
 
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
+- [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go
 - [caarlos0/speedtest-exporter](https://github.com/caarlos0/speedtest-exporter) - Exports speedtest-cli metrics in the prometheus format
 - [shellbear/web-watcher](https://github.com/shellbear/web-watcher) - A discord bot which monitor and send alerts on website changes.
@@ -1853,7 +1861,6 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [mailgun/godebug](https://github.com/mailgun/godebug) - DEPRECATED! https://github.com/derekparker/delve
 - [kyokomi/emoji](https://github.com/kyokomi/emoji) - :sushi: emoji terminal output for golang
 - [golang-collections/collections](https://github.com/golang-collections/collections) - 
@@ -2118,6 +2125,17 @@
 
 ## JavaScript 
 
+- [jlyonsmith/readline-password](https://github.com/jlyonsmith/readline-password) - A Node.js readline package for password entry
+- [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and open-source. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+- [nprapps/elections20-interactive](https://github.com/nprapps/elections20-interactive) - Front-end graphics for the 2020 general election
+- [nprapps/sidechain](https://github.com/nprapps/sidechain) - Modern responsive iframes
+- [nprapps/interactive-template](https://github.com/nprapps/interactive-template) - A Node-based template for starting news apps and interactive pages
+- [nprapps/dailygraphics-next](https://github.com/nprapps/dailygraphics-next) - NPR's daily graphics rig, 2.0
+- [gritzko/citrea-model](https://github.com/gritzko/citrea-model) - A CRDT-based collaborative editor engine of letters.yandex.ru (2012, historical)
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [christoomey/boston-react-conf-2018-graphql-talk](https://github.com/christoomey/boston-react-conf-2018-graphql-talk) - Sample repo for my Boston React Conf 2018 talk on React & GraphQL
 - [71104/rwlock](https://github.com/71104/rwlock) - Asynchronous read / write lock implementation for Node.js
@@ -2601,7 +2619,6 @@
 - [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
 - [luvmex/Sketch-Guides](https://github.com/luvmex/Sketch-Guides) - Add Guides to edges and midpoints at once.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
-- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [nodemailer/mailparser](https://github.com/nodemailer/mailparser) - Decode mime formatted e-mails
 - [ment-mx/Prism](https://github.com/ment-mx/Prism) - Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [andrewfiorillo/sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) - A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and pattern fills.
@@ -3213,6 +3230,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [bellingcat/open-questions](https://github.com/bellingcat/open-questions) - Want to contribute? These are difficult, long-term projects that could be valuable to open source investigators at Bellingcat and around the world.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim written in Lua.
@@ -4729,6 +4747,7 @@
 
 ## Swift 
 
+- [markusmoenig/Signed](https://github.com/markusmoenig/Signed) - Signed will be an GPL licensed editor and renderer for procedural Signed Distance Functions (SDFs). Signed will be available for macOS and iOS and is heavily optimized for Metal.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -4760,6 +4779,7 @@
 
 ## TypeScript 
 
+- [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [netspeak/netspeak-client-web](https://github.com/netspeak/netspeak-client-web) - The web interface of Netspeak
