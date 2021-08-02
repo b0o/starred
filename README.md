@@ -3473,7 +3473,7 @@
 - [carnager/clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
-- [dkogan/vnlog](https://github.com/dkogan/vnlog) - Toolkit for manipulating data in an ASCII table
+- [dkogan/vnlog](https://github.com/dkogan/vnlog) - Process labelled tabular ASCII data using normal UNIX tools
 - [Tarrasch/zsh-functional](https://github.com/Tarrasch/zsh-functional) - Higher order functions for zsh
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) - lm-sensors repository
@@ -4067,6 +4067,7 @@
 
 ## Rust 
 
+- [alilleybrinker/woah](https://github.com/alilleybrinker/woah) - A Result type that differentiates between local errors (which can be handled) and fatal errors (which can't)
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust
@@ -4428,6 +4429,7 @@
 
 ## SCSS 
 
+- [andy-piccalilli/gorko](https://github.com/andy-piccalilli/gorko) - A tiny Sass token class generator.
 - [awesomephant/blog](https://github.com/awesomephant/blog) - 
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [oddbird/true](https://github.com/oddbird/true) - Sass unit tests
