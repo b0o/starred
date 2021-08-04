@@ -884,6 +884,8 @@
 
 ## Go 
 
+- [raverrr/plution](https://github.com/raverrr/plution) - Prototype pollution scanner using headless chrome
+- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
@@ -1896,6 +1898,7 @@
 
 ## HTML 
 
+- [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [Circadiaware/VLiDACMel-entrainment-therapy-non24](https://github.com/Circadiaware/VLiDACMel-entrainment-therapy-non24) - Work-in-progress draft of an entrainment protocol for the Non-24 circadian rhythm disorder.
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
@@ -2129,6 +2132,7 @@
 
 ## JavaScript 
 
+- [pistom/ddghur](https://github.com/pistom/ddghur) - Firefox web-ext for hide unwanted DuckDuckGo search results
 - [jlyonsmith/readline-password](https://github.com/jlyonsmith/readline-password) - A Node.js readline package for password entry
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -2874,6 +2878,7 @@
 
 ## Lua 
 
+- [tjdevries/lazy.nvim](https://github.com/tjdevries/lazy.nvim) - Require as little as possible. Do as little work as possible. Spend hours shaving off milliseconds
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
@@ -2899,6 +2904,7 @@
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) - npm integration for telescope.nvim, WIP
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim written in Lua.
 - [kikito/middleclass](https://github.com/kikito/middleclass) - Object-orientation for Lua
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - It makes a quickfix list editable in both content and file path.
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
@@ -3235,10 +3241,10 @@
 
 ## Others 
 
+- [BlackFan/client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution) - Prototype Pollution and useful Script Gadgets
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [bellingcat/open-questions](https://github.com/bellingcat/open-questions) - Want to contribute? These are difficult, long-term projects that could be valuable to open source investigators at Bellingcat and around the world.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
-- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim written in Lua.
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
@@ -3477,7 +3483,7 @@
 - [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [carnager/clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
-- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [dkogan/vnlog](https://github.com/dkogan/vnlog) - Process labelled tabular ASCII data using normal UNIX tools
 - [Tarrasch/zsh-functional](https://github.com/Tarrasch/zsh-functional) - Higher order functions for zsh
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
@@ -4464,6 +4470,7 @@
 
 ## Shell 
 
+- [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [jsthomas/simple-ocaml-shell](https://github.com/jsthomas/simple-ocaml-shell) - Build a simple shell in OCaml
