@@ -486,6 +486,7 @@
 
 ## C++ 
 
+- [icethrush/repulsive-curves](https://github.com/icethrush/repulsive-curves) - 
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - A (file-) journal for your shell
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
@@ -524,7 +525,7 @@
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [chellmuth/gpu-motunui](https://github.com/chellmuth/gpu-motunui) - GPU-Motunui is a path tracer that renders Disney Animation's Moana Island scene.
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
-- [netxs-group/VTM](https://github.com/netxs-group/VTM) - Terminal multiplexer with TUI window manager and multi-party session sharing
+- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with TUI window manager and multi-party session sharing
 - [google/makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.
 - [arnholm/angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller
 - [aetilius/pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
@@ -1027,7 +1028,7 @@
 - [tailscale/depaware](https://github.com/tailscale/depaware) - depaware makes you aware of your Go dependencies
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [liamg/traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones:
+- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket
 - [tidwall/pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [mdempsky/maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
@@ -1475,7 +1476,7 @@
 - [octago/sflags](https://github.com/octago/sflags) - Generate flags by parsing structures
 - [Zaba505/sand](https://github.com/Zaba505/sand) - Package for creating interpreters
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
-- [liamg/darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [genuinetools/weather](https://github.com/genuinetools/weather) - Weather via the command line.
 - [genuinetools/releases](https://github.com/genuinetools/releases) - Server to show latest GitHub Releases for a set of repositories.
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
@@ -1989,6 +1990,7 @@
 
 ## Haskell 
 
+- [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Vim plug-ins
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 - [srid/emanote](https://github.com/srid/emanote) - WIP: Spiritual successor to neuron, based on Ema.
 - [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
@@ -2235,7 +2237,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2878,6 +2880,8 @@
 
 ## Lua 
 
+- [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
+- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [tjdevries/lazy.nvim](https://github.com/tjdevries/lazy.nvim) - Require as little as possible. Do as little work as possible. Spend hours shaving off milliseconds
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
@@ -3522,6 +3526,7 @@
 
 ## Python 
 
+- [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [alexellis/growlab](https://github.com/alexellis/growlab) - A global contest to grow and monitor your own food with Raspberry Pi
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos in a Google Sheet.
@@ -4077,6 +4082,7 @@
 
 ## Rust 
 
+- [aahancoc/tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
 - [alilleybrinker/woah](https://github.com/alilleybrinker/woah) - A Result type that differentiates between local errors (which can be handled) and fatal errors (which can't)
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
@@ -4085,7 +4091,7 @@
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [yaahc/eyre](https://github.com/yaahc/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a script language in Rust.
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [aruncveli/isitup](https://github.com/aruncveli/isitup) - Rust-based CLI utility to check if a website/domain is up or down, leveraging isitup API
 - [avinassh/fast-sqlite3-inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -4792,6 +4798,7 @@
 
 ## TypeScript 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
