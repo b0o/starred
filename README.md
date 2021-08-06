@@ -875,6 +875,8 @@
 
 ## F# # 
 
+- [dsyme/guido-learns-fsharp](https://github.com/dsyme/guido-learns-fsharp) - 
+- [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
 - [ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans) - A simple, fun, and interactive way to learn the F# language through testing.
 - [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 - [tpetricek/elmish-spreadsheet](https://github.com/tpetricek/elmish-spreadsheet) - Implement your own Excel 365 in 100 lines of F#!
@@ -885,6 +887,7 @@
 
 ## Go 
 
+- [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [raverrr/plution](https://github.com/raverrr/plution) - Prototype pollution scanner using headless chrome
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -2134,6 +2137,7 @@
 
 ## JavaScript 
 
+- [theori-io/pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [pistom/ddghur](https://github.com/pistom/ddghur) - Firefox web-ext for hide unwanted DuckDuckGo search results
 - [jlyonsmith/readline-password](https://github.com/jlyonsmith/readline-password) - A Node.js readline package for password entry
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
@@ -2169,7 +2173,7 @@
 - [mrmurphy/nova-rescript](https://github.com/mrmurphy/nova-rescript) - 
 - [franzenzenhofer/ddd](https://github.com/franzenzenhofer/ddd) - ddd - dot dot dot - a game of dots
 - [Snowtrack/Snowtrack-Docs](https://github.com/Snowtrack/Snowtrack-Docs) - The official documentation of Snowtrack
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨 A web component for drawing patterns with CSS.
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [brendangregg/d3-flame-graph](https://github.com/brendangregg/d3-flame-graph) - A d3.js library to produce flame graphs.
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -2237,7 +2241,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2880,6 +2884,7 @@
 
 ## Lua 
 
+- [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - A dead simple completion framework
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [tjdevries/lazy.nvim](https://github.com/tjdevries/lazy.nvim) - Require as little as possible. Do as little work as possible. Spend hours shaving off milliseconds
@@ -3526,6 +3531,7 @@
 
 ## Python 
 
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [alexellis/growlab](https://github.com/alexellis/growlab) - A global contest to grow and monitor your own food with Raspberry Pi
