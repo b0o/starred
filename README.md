@@ -50,6 +50,7 @@
   - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [KakouneScript](#kakounescript)
   - [Kotlin](#kotlin)
   - [Less](#less)
   - [Lua](#lua)
@@ -486,6 +487,7 @@
 
 ## C++ 
 
+- [EyeTribe/tet-cpp-client](https://github.com/EyeTribe/tet-cpp-client) - C++ SDK for The Eye Tribe Tracker
 - [icethrush/repulsive-curves](https://github.com/icethrush/repulsive-curves) - 
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - A (file-) journal for your shell
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
@@ -887,6 +889,7 @@
 
 ## Go 
 
+- [rivo/duplo](https://github.com/rivo/duplo) - Detect duplicate (or similar) images. Written in Go.
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [raverrr/plution](https://github.com/raverrr/plution) - Prototype pollution scanner using headless chrome
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
@@ -2137,6 +2140,7 @@
 
 ## JavaScript 
 
+- [Alephbet/alephbet](https://github.com/Alephbet/alephbet) - AlephBet is a pure-javascript A/B (multivariate) testing framework for developers.
 - [theori-io/pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [pistom/ddghur](https://github.com/pistom/ddghur) - Firefox web-ext for hide unwanted DuckDuckGo search results
 - [jlyonsmith/readline-password](https://github.com/jlyonsmith/readline-password) - A Node.js readline package for password entry
@@ -2872,6 +2876,10 @@
 - [kmather73/NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) - What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
 - [babylonhealth/fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) - Multilingual word vectors in 78 languages
 
+## KakouneScript 
+
+- [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
+
 ## Kotlin 
 
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
@@ -2999,6 +3007,7 @@
 
 ## Makefile 
 
+- [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [nicinabox/lets-split-guide](https://github.com/nicinabox/lets-split-guide) - This guide covers building a Let's Split v2
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -3217,6 +3226,7 @@
 
 ## Objective-C 
 
+- [mszoek/airyx](https://github.com/mszoek/airyx) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 - [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick) - Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -3250,6 +3260,7 @@
 
 ## Others 
 
+- [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 - [BlackFan/client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution) - Prototype Pollution and useful Script Gadgets
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [bellingcat/open-questions](https://github.com/bellingcat/open-questions) - Want to contribute? These are difficult, long-term projects that could be valuable to open source investigators at Bellingcat and around the world.
@@ -3388,7 +3399,6 @@
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
-- [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [slightlyoff/never_slow_mode](https://github.com/slightlyoff/never_slow_mode) - Never-Slow Mode (a.k.a. Slightly-Fast Mode)
@@ -3531,6 +3541,8 @@
 
 ## Python 
 
+- [pupil-labs/pupil](https://github.com/pupil-labs/pupil) - Open source eye tracking
+- [Alephbet/lamed](https://github.com/Alephbet/lamed) - an A/B testing backend using AWS Lambda/API Gateway + Redis.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -4804,6 +4816,7 @@
 
 ## TypeScript 
 
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -5338,6 +5351,7 @@
 
 ## Vue 
 
+- [dandavison/trogon](https://github.com/dandavison/trogon) - Learn to identify bird vocalizations at any location in the world
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
