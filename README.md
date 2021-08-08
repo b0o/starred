@@ -35,6 +35,7 @@
   - [Erlang](#erlang)
   - [F#](#f#)
   - [F*](#f*)
+  - [Fennel](#fennel)
   - [Go](#go)
   - [Groff](#groff)
   - [HTML](#html)
@@ -887,6 +888,10 @@
 
 - [FStarLang/FStar](https://github.com/FStarLang/FStar) - Verification system for effectful programs
 
+## Fennel 
+
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
+
 ## Go 
 
 - [rivo/duplo](https://github.com/rivo/duplo) - Detect duplicate (or similar) images. Written in Go.
@@ -1720,7 +1725,7 @@
 - [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [nanohard/gotime](https://github.com/nanohard/gotime) - CUI project/task/time tracker written in golang
 - [MichaelThessel/gomainr](https://github.com/MichaelThessel/gomainr) - Terminal cli app that checks the availability of domains for different configurations of keywords.
-- [gchaincl/httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [nsf/termbox-go](https://github.com/nsf/termbox-go) - Pure Go termbox implementation
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
@@ -1984,6 +1989,7 @@
 - [jariz/tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+- [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 
 ## Haml 
@@ -2140,6 +2146,7 @@
 
 ## JavaScript 
 
+- [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [Alephbet/alephbet](https://github.com/Alephbet/alephbet) - AlephBet is a pure-javascript A/B (multivariate) testing framework for developers.
 - [theori-io/pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [pistom/ddghur](https://github.com/pistom/ddghur) - Firefox web-ext for hide unwanted DuckDuckGo search results
@@ -2363,6 +2370,7 @@
 - [ocaml-sf/learn-ocaml](https://github.com/ocaml-sf/learn-ocaml) - A Web Application for Learning OCaml
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
+- [mapillary/OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [enrico-kaack/markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [snowpackjs/create-snowpack-app](https://github.com/snowpackjs/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
 - [cameron/squirt](https://github.com/cameron/squirt) - Speed read the web.
@@ -2455,6 +2463,7 @@
 - [itsecurityco/to-google-translate](https://github.com/itsecurityco/to-google-translate) - Highlight text on a web page and send it to Google Translate
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [WebReflection/essential-md](https://github.com/WebReflection/essential-md) - An essential markdown-like utility for console logs
 - [oldweb-today/netcapsule](https://github.com/oldweb-today/netcapsule) - Browse old web pages the old way with virtual browsers in the browser
 - [fazo96/ipfs-drive](https://github.com/fazo96/ipfs-drive) - in browser file manager for IPFS
@@ -2892,6 +2901,8 @@
 
 ## Lua 
 
+- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
+- [mfussenegger/nvim-ts-hint-textobject](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - A dead simple completion framework
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
@@ -2992,7 +3003,6 @@
 - [mnemnion/orb](https://github.com/mnemnion/orb) - A metalanguage for magic spells
 - [norcalli/nvim_utils](https://github.com/norcalli/nvim_utils) - 
 - [norcalli/lua-sway](https://github.com/norcalli/lua-sway) - A Lua module for interfacing with sway via IPC.
-- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [openresty/opm](https://github.com/openresty/opm) - OpenResty Package Manager
@@ -3516,7 +3526,6 @@
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [pbrisbin/wat](https://github.com/pbrisbin/wat) - Show upgrades since recent -Syu
-- [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 
 ## PowerShell 
 
@@ -3541,6 +3550,7 @@
 
 ## Python 
 
+- [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [pupil-labs/pupil](https://github.com/pupil-labs/pupil) - Open source eye tracking
 - [Alephbet/lamed](https://github.com/Alephbet/lamed) - an A/B testing backend using AWS Lambda/API Gateway + Redis.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
@@ -3680,7 +3690,6 @@
 - [simonw/disaster-scrapers](https://github.com/simonw/disaster-scrapers) - Scrapers for disaster data - writes to https://github.com/simonw/disaster-data
 - [IgnoredAmbience/twitter-followers-tracker](https://github.com/IgnoredAmbience/twitter-followers-tracker) - Tracking my twitter followers/followings
 - [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
-- [mapillary/OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [tmccombs/swaytools](https://github.com/tmccombs/swaytools) - Collection of simple tools for sway (and i3)
 - [armory3d/armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
@@ -4100,6 +4109,7 @@
 
 ## Rust 
 
+- [DanCardin/sauce](https://github.com/DanCardin/sauce) - Context specific everything
 - [aahancoc/tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
 - [alilleybrinker/woah](https://github.com/alilleybrinker/woah) - A Result type that differentiates between local errors (which can be handled) and fatal errors (which can't)
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
@@ -4116,7 +4126,7 @@
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [blyxxyz/lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
-- [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🌊 A dynamic SQL query builder for MySQL, Postgres and SQLite in Rust
+- [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🌊 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [ethanhs/cce](https://github.com/ethanhs/cce) - commandline compiler explorer - use https://godbolt.org from your terminal!
 - [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
 - [ukmrs/smokey](https://github.com/ukmrs/smokey) - keyboard typing test TUI program
@@ -4494,6 +4504,7 @@
 
 ## Shell 
 
+- [AndydeCleyre/zpy](https://github.com/AndydeCleyre/zpy) - Zsh helpers for Python venvs, with pip-tools
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
@@ -4950,7 +4961,6 @@
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [pathephone/pathephone-web](https://github.com/pathephone/pathephone-web) - Distributed audio player for web
 - [intuit/design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
