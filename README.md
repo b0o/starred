@@ -896,6 +896,7 @@
 
 ## Go 
 
+- [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo
 - [rivo/duplo](https://github.com/rivo/duplo) - Detect duplicate (or similar) images. Written in Go.
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
@@ -2149,6 +2150,8 @@
 
 ## JavaScript 
 
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [Alephbet/alephbet](https://github.com/Alephbet/alephbet) - AlephBet is a pure-javascript A/B (multivariate) testing framework for developers.
@@ -2905,6 +2908,7 @@
 
 ## Lua 
 
+- [mjlbach/defaults.nvim](https://github.com/mjlbach/defaults.nvim) - A small, featureful neovim template
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [ingram1107/aedile.nvim](https://github.com/ingram1107/aedile.nvim) - A Neovim plugin that open REPL in a split window according to the current buffer filetype
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - 
@@ -3013,7 +3017,7 @@
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [openresty/opm](https://github.com/openresty/opm) - OpenResty Package Manager
-- [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - backup of my personal dotfiles
+- [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - backup or it doesn't exist
 - [neovim/lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [SimonLarsen/mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -3045,6 +3049,7 @@
 
 ## Mustache 
 
+- [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty) - Base16 for Alacritty
 - [hypothesis/client](https://github.com/hypothesis/client) - The Hypothesis web-based annotation client.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
@@ -5093,6 +5098,9 @@
 
 ## Vim script 
 
+- [kevinoid/vim-jsonc](https://github.com/kevinoid/vim-jsonc) - Vim syntax highlighting plugin for JSON with C-style line (//) and block (/* */) comments.
+- [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
+- [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
