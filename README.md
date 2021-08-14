@@ -139,6 +139,8 @@
 
 ## C 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+- [vigoux/tree-sitter-vimdoc](https://github.com/vigoux/tree-sitter-vimdoc) - A tree-sitter parser for Vim help files
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents
 - [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk
 - [cy384/ssheven](https://github.com/cy384/ssheven) - A modern SSH client for Mac OS 7/8/9
@@ -898,6 +900,7 @@
 
 ## Go 
 
+- [peterbourgon/unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
 - [rhysd/gocaml](https://github.com/rhysd/gocaml) - :camel: Practical statically typed functional programming language implementation with Go and LLVM
 - [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [nikitavoloboev/gitupdate](https://github.com/nikitavoloboev/gitupdate) - Commit and push updated files with file names as commit message
@@ -1921,6 +1924,7 @@
 
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [Circadiaware/VLiDACMel-entrainment-therapy-non24](https://github.com/Circadiaware/VLiDACMel-entrainment-therapy-non24) - Work-in-progress draft of an entrainment protocol for the Non-24 circadian rhythm disorder.
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
@@ -2543,7 +2547,7 @@
 - [keraf/NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [grasslandnetwork/node_lite](https://github.com/grasslandnetwork/node_lite) - Grassland Node Lite. Optimized for use on low-end computers. Requires Grassland's 'Node Lite Object Detection'
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
-- [ReactTraining/react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [WebReflection/lighterhtml](https://github.com/WebReflection/lighterhtml) - The hyperHTML strength & experience without its complexity 🎉
@@ -2915,6 +2919,7 @@
 
 ## Lua 
 
+- [libvips/lua-vips](https://github.com/libvips/lua-vips) - Lua binding for the libvips image processing library
 - [mjlbach/defaults.nvim](https://github.com/mjlbach/defaults.nvim) - A small, featureful neovim template
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [ingram1107/aedile.nvim](https://github.com/ingram1107/aedile.nvim) - A Neovim plugin that open REPL in a split window according to the current buffer filetype
@@ -2992,7 +2997,7 @@
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
-- [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing Splits/Windows for Neovim written in Lua!
+- [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua! Vim splits on steroids.
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
@@ -3296,7 +3301,6 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [bellingcat/open-questions](https://github.com/bellingcat/open-questions) - Want to contribute? These are difficult, long-term projects that could be valuable to open source investigators at Bellingcat and around the world.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
@@ -3948,7 +3952,7 @@
 - [jvns/svg2notability](https://github.com/jvns/svg2notability) - convert from svg to notability format
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
 - [keredson/gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
-- [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
+- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
@@ -4393,7 +4397,7 @@
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
-- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
+- [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
@@ -4666,7 +4670,7 @@
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh
 - [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-- [RubenKelevra/pacman.store](https://github.com/RubenKelevra/pacman.store) - Pacman Mirror via IPFS for ArchLinux and Endeavouros
+- [RubenKelevra/pacman.store](https://github.com/RubenKelevra/pacman.store) - Pacman Mirror via IPFS for ArchLinux, Endeavouros and Manjaro
 - [IvanMalison/rofi-systemd](https://github.com/IvanMalison/rofi-systemd) - 
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
