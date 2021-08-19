@@ -138,6 +138,7 @@
 
 ## C 
 
+- [pllua/pllua](https://github.com/pllua/pllua) - Re-implementation of pllua, embedded Lua for postgresql
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [vigoux/tree-sitter-vimdoc](https://github.com/vigoux/tree-sitter-vimdoc) - A tree-sitter parser for Vim help files
 - [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk
@@ -522,7 +523,7 @@
 - [smallstepforman/Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
 - [pixie-labs/pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [vgc/vgc](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -686,6 +687,7 @@
 
 ## CSS 
 
+- [ream88/stylelint-config-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order) - stylelint + idiomatic-css = ❤️
 - [Circadiaware/wearadian](https://github.com/Circadiaware/wearadian) - Non-invasive wearable circadian rhythm monitors
 - [remake/kanban-starter](https://github.com/remake/kanban-starter) - 
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
@@ -894,6 +896,8 @@
 
 ## Go 
 
+- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
 - [peterbourgon/unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
 - [rhysd/gocaml](https://github.com/rhysd/gocaml) - :camel: Practical statically typed functional programming language implementation with Go and LLVM
 - [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
@@ -1916,6 +1920,7 @@
 
 ## HTML 
 
+- [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
@@ -2153,6 +2158,10 @@
 
 ## JavaScript 
 
+- [hudochenkov/stylelint-order](https://github.com/hudochenkov/stylelint-order) - A plugin pack of order related linting rules for stylelint.
+- [constverum/stylelint-config-rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order :vertical_traffic_light:
+- [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - An IndieWeb publishing toolkit
+- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [mellson/rescript-intro](https://github.com/mellson/rescript-intro) - Repo for ReScript intro workshop
 - [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
@@ -2915,7 +2924,7 @@
 
 ## Lua 
 
-- [jbyuki/safe.nvim](https://github.com/jbyuki/safe.nvim) - A plugin for file encryption in Neovim
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - vscode-like pictograms for neovim lsp completion items
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
 - [libvips/lua-vips](https://github.com/libvips/lua-vips) - Lua binding for the libvips image processing library
@@ -3578,6 +3587,9 @@
 
 ## Python 
 
+- [hanikesn/woff2otf](https://github.com/hanikesn/woff2otf) - Converts woff files to otf files
+- [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
+- [epilys/sic](https://github.com/epilys/sic) - link aggregator community organised by tags (with no javascript)
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
@@ -4146,6 +4158,10 @@
 
 ## Rust 
 
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [ChillFish8/lnx](https://github.com/ChillFish8/lnx) - ⚡ Blazingly fast, 🌟 Feature-rich searching. lnx is the adaptable deployment of the tantivy search engine you never knew you wanted.  Standing on the shoulders of giants.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [dmerejkowsky/rusync](https://github.com/dmerejkowsky/rusync) - Minimalist rsync implementation in Rust
 - [stephaneyfx/enum-iterator](https://github.com/stephaneyfx/enum-iterator) - Tools to iterate over the variants of a field-less enum
@@ -4301,7 +4317,6 @@
 - [lf94/img2utf](https://github.com/lf94/img2utf) - Converts images into textual line art.
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [rust-num/num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
-- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [crockeo/envoy-mobile-rs](https://github.com/crockeo/envoy-mobile-rs) - Rustic bindings to envoy-mobile
 - [abonander/img_hash](https://github.com/abonander/img_hash) - A Rust library for calculating perceptual hash values of images
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
@@ -4515,6 +4530,7 @@
 
 ## SCSS 
 
+- [webfinger/webfinger.net](https://github.com/webfinger/webfinger.net) - webfinger.net website
 - [andy-piccalilli/gorko](https://github.com/andy-piccalilli/gorko) - A tiny Sass token class generator.
 - [awesomephant/blog](https://github.com/awesomephant/blog) - 
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
@@ -5390,6 +5406,7 @@
 
 ## VimL 
 
+- [spolu/dwm.vim](https://github.com/spolu/dwm.vim) - Tiled Window Management for Vim
 - [thinca/vim-visualstar](https://github.com/thinca/vim-visualstar) - star for Visual-mode.
 - [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [wsdjeg/luarefvim](https://github.com/wsdjeg/luarefvim) - Lua reference manual
