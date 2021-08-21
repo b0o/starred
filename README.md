@@ -2803,7 +2803,7 @@
 - [gilby125/swa-dashboard](https://github.com/gilby125/swa-dashboard) - Dashboard to monitor and receive alerts for changes in Southwest fare prices
 - [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [ssbc/ssb-db](https://github.com/ssbc/ssb-db) - A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [gulpjs/fancy-log](https://github.com/gulpjs/fancy-log) - Log things, prefixed with a timestamp.
@@ -4892,6 +4892,7 @@
 
 ## TypeScript 
 
+- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
 - [schemar/obsidian-tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
