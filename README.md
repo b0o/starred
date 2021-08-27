@@ -899,7 +899,7 @@
 
 ## Go 
 
-- [WithGJR/regit-go](https://github.com/WithGJR/regit-go) - A Tiny Git-compatible Git Implementation
+- [WithGJR/regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-compatible Git Implementation
 - [riesinger/golorem](https://github.com/riesinger/golorem) - CLI lorem ipsum generator written in Go
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
@@ -2290,7 +2290,7 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [ysulyma/rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for Liqvid
@@ -2940,6 +2940,9 @@
 
 ## Lua 
 
+- [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) - 
+- [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
+- [f3fora/cmp-spell](https://github.com/f3fora/cmp-spell) - spell source for nvim-cmp based on vim's spellsuggest.
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
 - [lua-stdlib/lua-stdlib](https://github.com/lua-stdlib/lua-stdlib) - General Lua libraries
 - [lunarmodules/Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.
@@ -3127,6 +3130,7 @@
 
 ## OCaml 
 
+- [jsthomas/tidy-email](https://github.com/jsthomas/tidy-email) - An OCaml wrapper library that makes it easy to send email with different services.
 - [charlesetc/feather](https://github.com/charlesetc/feather) - A shell library for OCaml
 - [ocaml/v3.ocaml.org-server](https://github.com/ocaml/v3.ocaml.org-server) - Server-side of the next version of the ocaml.org website. See  https://github.com/ocaml/v3.ocaml.org for the frontend.
 - [RedPRL/cooltt](https://github.com/RedPRL/cooltt) - 😎TT
@@ -3337,6 +3341,7 @@
 
 ## Others 
 
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem
 - [styfle/breaking-changes-web](https://github.com/styfle/breaking-changes-web) - 💢 A list of breaking changes to the web platform
 - [fhammerschmidt/awesome-rescript](https://github.com/fhammerschmidt/awesome-rescript) - A collection of materials about the ReScript programming language and toolchain.
 - [Letscoder/PlayCover](https://github.com/Letscoder/PlayCover) - PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)
@@ -4197,12 +4202,13 @@
 
 ## Rust 
 
+- [rust-lang-nursery/glob](https://github.com/rust-lang-nursery/glob) - Support for matching file paths against Unix shell style patterns.
 - [magiclen/qrcode-generator](https://github.com/magiclen/qrcode-generator) - Generate QR Code matrices and images in RAW, PNG and SVG formats.
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [ChillFish8/lnx](https://github.com/ChillFish8/lnx) - ⚡ Blazingly fast, 🌟 Feature-rich searching. lnx is the adaptable deployment of the tantivy search engine you never knew you wanted.  Standing on the shoulders of giants.
+- [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Blazingly fast, 🌟 Feature-rich searching. lnx is the adaptable deployment of the tantivy search engine you never knew you wanted.  Standing on the shoulders of giants.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [dmerejkowsky/rusync](https://github.com/dmerejkowsky/rusync) - Minimalist rsync implementation in Rust
 - [stephaneyfx/enum-iterator](https://github.com/stephaneyfx/enum-iterator) - Tools to iterate over the variants of a field-less enum
@@ -5380,7 +5386,7 @@
 - [kristijanhusak/vim-project-lint](https://github.com/kristijanhusak/vim-project-lint) - Project level lint status right in your favorite file explorer
 - [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
 - [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
-- [nightsense/snow](https://github.com/nightsense/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
+- [androidhaystack/snow](https://github.com/androidhaystack/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
 - [alx741/vinfo](https://github.com/alx741/vinfo) - Vim info documentation reader, lets you read info pages within Vim or start it from the shell prompt (instead of Info)
 - [danishprakash/vim-githubinator](https://github.com/danishprakash/vim-githubinator) - Show selected text in Vim on Github
 - [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool
