@@ -146,6 +146,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [vigoux/tree-sitter-vimdoc](https://github.com/vigoux/tree-sitter-vimdoc) - A tree-sitter parser for Vim help files
 - [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk
+- [markusmoenig/Signed](https://github.com/markusmoenig/Signed) - Signed will be an GPL licensed editor and renderer for procedural Signed Distance Functions (SDFs). Signed will be available for macOS and iOS and is heavily optimized for Metal.
 - [cy384/ssheven](https://github.com/cy384/ssheven) - A modern SSH client for Mac OS 7/8/9
 - [antirez/pngtostl](https://github.com/antirez/pngtostl) - Turn PNG images into STL 3D models that will "develop" in front of a light source
 - [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
@@ -502,6 +503,7 @@
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [cmuratori/termbench](https://github.com/cmuratori/termbench) - Simple benchmark for terminal output
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
@@ -3130,6 +3132,9 @@
 
 ## OCaml 
 
+- [jacobaustin123/Coral](https://github.com/jacobaustin123/Coral) - The Coral Programming Language: a blazingly-fast, gradually-typed Python compiler with optional static typing for optimization and safety.
+- [wlitwin/graphv](https://github.com/wlitwin/graphv) - A real time 2D graphics renderer for OCaml
+- [ocaml/ood](https://github.com/ocaml/ood) - OCaml.org v3 data repository
 - [jsthomas/tidy-email](https://github.com/jsthomas/tidy-email) - An OCaml wrapper library that makes it easy to send email with different services.
 - [charlesetc/feather](https://github.com/charlesetc/feather) - A shell library for OCaml
 - [ocaml/v3.ocaml.org-server](https://github.com/ocaml/v3.ocaml.org-server) - Server-side of the next version of the ocaml.org website. See  https://github.com/ocaml/v3.ocaml.org for the frontend.
@@ -3333,7 +3338,6 @@
 
 ## OpenSCAD 
 
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [tenderlove/analog-terminal-bell](https://github.com/tenderlove/analog-terminal-bell) - A bell for your terminal that is analog
 - [DaveDavenport/SensorBox](https://github.com/DaveDavenport/SensorBox) - 3D printable box for sensors,   sensor compartment, battery compartment en electronics.
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
@@ -4208,7 +4212,7 @@
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Blazingly fast, 🌟 Feature-rich searching. lnx is the adaptable deployment of the tantivy search engine you never knew you wanted.  Standing on the shoulders of giants.
+- [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable deployment of the tantivy search engine you never knew you wanted.  Standing on the shoulders of giants.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [dmerejkowsky/rusync](https://github.com/dmerejkowsky/rusync) - Minimalist rsync implementation in Rust
 - [stephaneyfx/enum-iterator](https://github.com/stephaneyfx/enum-iterator) - Tools to iterate over the variants of a field-less enum
@@ -4909,7 +4913,6 @@
 ## Swift 
 
 - [jaredly/qmoji](https://github.com/jaredly/qmoji) - 🙃 Like mojibar, but written in reasonml
-- [markusmoenig/Signed](https://github.com/markusmoenig/Signed) - Signed will be an GPL licensed editor and renderer for procedural Signed Distance Functions (SDFs). Signed will be available for macOS and iOS and is heavily optimized for Metal.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
