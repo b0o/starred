@@ -901,7 +901,7 @@
 
 ## Go 
 
-- [WithGJR/regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-compatible Git Implementation
+- [WithGJR/regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-Compatible Git Implementation
 - [riesinger/golorem](https://github.com/riesinger/golorem) - CLI lorem ipsum generator written in Go
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
@@ -2479,7 +2479,7 @@
 - [Allicolyer/real-birthday](https://github.com/Allicolyer/real-birthday) - The most accurate real birthday
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
-- [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js) - Full portable & lightweight ZIM reader in Javascript
+- [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js) - Fully portable & lightweight ZIM reader in Javascript
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
