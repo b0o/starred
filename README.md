@@ -2942,6 +2942,7 @@
 
 ## Lua 
 
+- [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) - 
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
 - [f3fora/cmp-spell](https://github.com/f3fora/cmp-spell) - spell source for nvim-cmp based on vim's spellsuggest.
@@ -3345,6 +3346,7 @@
 
 ## Others 
 
+- [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem
 - [styfle/breaking-changes-web](https://github.com/styfle/breaking-changes-web) - 💢 A list of breaking changes to the web platform
 - [fhammerschmidt/awesome-rescript](https://github.com/fhammerschmidt/awesome-rescript) - A collection of materials about the ReScript programming language and toolchain.
@@ -3583,6 +3585,7 @@
 
 ## Perl 
 
+- [jwr/ccheck](https://github.com/jwr/ccheck) - Simple, easy to use, minimal consistency checker (hasher) for file archives.
 - [brendangregg/proc-profiler](https://github.com/brendangregg/proc-profiler) - Linux /proc/PID/stack profiler
 - [brendangregg/HeatMap](https://github.com/brendangregg/HeatMap) - Heat map generation tools
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -4206,6 +4209,8 @@
 
 ## Rust 
 
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
+- [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [rust-lang-nursery/glob](https://github.com/rust-lang-nursery/glob) - Support for matching file paths against Unix shell style patterns.
 - [magiclen/qrcode-generator](https://github.com/magiclen/qrcode-generator) - Generate QR Code matrices and images in RAW, PNG and SVG formats.
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
@@ -4615,6 +4620,8 @@
 
 ## Shell 
 
+- [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+- [tmux-plugins/tmux-example-plugin](https://github.com/tmux-plugins/tmux-example-plugin) - Example Tmux plugin that actually demonstrates how to build plugins for Tmux. The accompanying tutorial is here: https://github.com/tmux-plugins/tpm/blob/master/HOW_TO_PLUGIN.md
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
