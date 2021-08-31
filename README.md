@@ -146,7 +146,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [vigoux/tree-sitter-vimdoc](https://github.com/vigoux/tree-sitter-vimdoc) - A tree-sitter parser for Vim help files
 - [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk
-- [markusmoenig/Signed](https://github.com/markusmoenig/Signed) - Signed will be an GPL licensed editor and renderer for procedural Signed Distance Functions (SDFs). Signed will be available for macOS and iOS and is heavily optimized for Metal.
+- [markusmoenig/Signed](https://github.com/markusmoenig/Signed) - Signed is a 3D modeling and construction language based on Lua and SDFs. Signed will be available for macOS and iOS and is heavily optimized for Metal.
 - [cy384/ssheven](https://github.com/cy384/ssheven) - A modern SSH client for Mac OS 7/8/9
 - [antirez/pngtostl](https://github.com/antirez/pngtostl) - Turn PNG images into STL 3D models that will "develop" in front of a light source
 - [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
@@ -496,6 +496,7 @@
 
 ## C++ 
 
+- [virtualsecureplatform/Iyokan](https://github.com/virtualsecureplatform/Iyokan) - Generic engine to evaluate logical circuits on homomorphic encryption
 - [rhysd/Dachs](https://github.com/rhysd/Dachs) - Dachs; A Doggy :dog: Programming Language
 - [EyeTribe/tet-cpp-client](https://github.com/EyeTribe/tet-cpp-client) - C++ SDK for The Eye Tribe Tracker
 - [icethrush/repulsive-curves](https://github.com/icethrush/repulsive-curves) - 
@@ -997,7 +998,7 @@
 - [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [f-secure-foundry/tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
-- [encoredev/encore](https://github.com/encoredev/encore) - The Go backend framework with superpowers
+- [encoredev/encore](https://github.com/encoredev/encore) - The Cloud Native Development Platform built for Go
 - [metalmatze/archsecure](https://github.com/metalmatze/archsecure) - Check your machine for issues posted on https://security.archlinux.org
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [fearful-symmetry/garlic](https://github.com/fearful-symmetry/garlic) - GArLIC: GolAng LInux Connector: A Proc Connector library for go
@@ -2141,7 +2142,7 @@
 - [bitcoinj/bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
 - [coinexcom/coinex_exchange_api](https://github.com/coinexcom/coinex_exchange_api) - The global digital coin exchange.
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
-- [envoyproxy/envoy-mobile](https://github.com/envoyproxy/envoy-mobile) - Client networking libraries based on the Envoy project
+- [envoyproxy/envoy-mobile](https://github.com/envoyproxy/envoy-mobile) - Client HTTP and networking library based on the Envoy project for iOS, Android, and more.
 - [OxfordHCC/tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -3346,6 +3347,7 @@
 
 ## Others 
 
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem
 - [styfle/breaking-changes-web](https://github.com/styfle/breaking-changes-web) - 💢 A list of breaking changes to the web platform
@@ -4209,6 +4211,7 @@
 
 ## Rust 
 
+- [sumeet/Zac](https://github.com/sumeet/Zac) - Interactive scripting language
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [rust-lang-nursery/glob](https://github.com/rust-lang-nursery/glob) - Support for matching file paths against Unix shell style patterns.
@@ -4655,7 +4658,7 @@
 - [Igrom/i3-persist](https://github.com/Igrom/i3-persist) - Extends i3 window management with persistent containers
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
-- [joehillen/sysz](https://github.com/joehillen/sysz) - An interactive fuzzy matching TUI for systemctl using fzf written entirely in Bash
+- [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
 - [jlhonora/lsusb](https://github.com/jlhonora/lsusb) - lsusb command for Mac OS X
