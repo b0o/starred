@@ -2744,7 +2744,7 @@
 - [miniyarov/insomnia-plugin-js-eval](https://github.com/miniyarov/insomnia-plugin-js-eval) - 
 - [Gabb1995/insomnia-plugin-customtimestamp](https://github.com/Gabb1995/insomnia-plugin-customtimestamp) - Create a custom timestamp in insomnia rest client
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
@@ -3048,7 +3048,7 @@
 - [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5)
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
-- [tami5/sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim
+- [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [FreeMasen/luxure](https://github.com/FreeMasen/luxure) - An HTTP server framework for lua
 - [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:
@@ -3347,6 +3347,7 @@
 
 ## Others 
 
+- [traumverloren/camping-in-iceland](https://github.com/traumverloren/camping-in-iceland) - My guide to camping solo in Iceland.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem
@@ -4724,7 +4725,7 @@
 - [cirala/lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [b4b4r07/emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
-- [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality written in (almost POSIX-compliant) shell
+- [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
 - [crian/dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
 - [alyssais/dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
@@ -5329,7 +5330,7 @@
 - [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
-- [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
+- [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [wincent/vcs-jump](https://github.com/wincent/vcs-jump) - 🤾🏻‍♀️ Jump to interesting places with a Git or Mercurial repo
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
