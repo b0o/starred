@@ -904,6 +904,8 @@
 
 ## Go 
 
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang
 - [WithGJR/regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-Compatible Git Implementation
 - [riesinger/golorem](https://github.com/riesinger/golorem) - CLI lorem ipsum generator written in Go
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
@@ -1986,7 +1988,6 @@
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - Implementation of the ocaml.org website.
 - [chrisalbon/notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
-- [toptal/colourco.de](https://github.com/toptal/colourco.de) - Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
 - [EmailThis/typographic-email](https://github.com/EmailThis/typographic-email) - Responsive email template that is optimised for readability.
 - [oblitum/typographic-email](https://github.com/oblitum/typographic-email) - Responsive email template that is optimised for readability.
 - [coryhouse/a11y](https://github.com/coryhouse/a11y) - Repository on accessibility
@@ -2944,10 +2945,13 @@
 
 ## Lua 
 
+- [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
+- [kyazdani42/nvim-config](https://github.com/kyazdani42/nvim-config) - my nvim configuration files
+- [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
-- [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) - 
+- [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) - A simple and fast file explorer written in Lua.
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
 - [f3fora/cmp-spell](https://github.com/f3fora/cmp-spell) - spell source for nvim-cmp based on vim's spellsuggest.
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
@@ -4217,6 +4221,7 @@
 
 ## Rust 
 
+- [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [sumeet/Zac](https://github.com/sumeet/Zac) - Interactive scripting language
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
@@ -4928,6 +4933,7 @@
 
 ## Swift 
 
+- [MengTo/Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 - [jaredly/qmoji](https://github.com/jaredly/qmoji) - 🙃 Like mojibar, but written in reasonml
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
@@ -4960,6 +4966,7 @@
 
 ## TypeScript 
 
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: A comprehensive toolkit for developing Figma plugins
@@ -5217,6 +5224,7 @@
 
 ## Vim script 
 
+- [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - 
 - [ellisonleao/from-vimscript-to-lua](https://github.com/ellisonleao/from-vimscript-to-lua) - 
@@ -5306,7 +5314,7 @@
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [Termplexed/vfix](https://github.com/Termplexed/vfix) - Vfix : Vim, Debugging, Vim-scripts
-- [ihsanturk/neuron.vim](https://github.com/ihsanturk/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
+- [0ihsan/neuron.vim](https://github.com/0ihsan/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [stapelberg/configfiles](https://github.com/stapelberg/configfiles) - My own personal collection of configfiles. ⚠ Copy bits and pieces at your own risk. ⚠ Might be broken or break your computer. You have been warned :)
