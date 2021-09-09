@@ -106,6 +106,7 @@
   - [XSLT](#xslt)
   - [YARA](#yara)
   - [Zig](#zig)
+  - [sed](#sed)
 
 ## ActionScript 
 
@@ -496,6 +497,7 @@
 
 ## C++ 
 
+- [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [virtualsecureplatform/Iyokan](https://github.com/virtualsecureplatform/Iyokan) - Generic engine to evaluate logical circuits on homomorphic encryption
 - [rhysd/Dachs](https://github.com/rhysd/Dachs) - Dachs; A Doggy :dog: Programming Language
@@ -762,7 +764,7 @@
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [jpmonettas/clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [tshort/dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
-- [juxt/crux](https://github.com/juxt/crux) - General purpose bitemporal database for SQL, Datalog & graph queries
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - General purpose bitemporal database for SQL, Datalog & graph queries
 - [clojure/spec.alpha](https://github.com/clojure/spec.alpha) - 
 - [farrellm/scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -905,6 +907,8 @@
 
 ## Go 
 
+- [jschaf/pggen](https://github.com/jschaf/pggen) - Generate type-safe Go for any Postgres query. If Postgres can run the query, pggen can generate code for it.
+- [warpfork/go-testmark](https://github.com/warpfork/go-testmark) - Parse data and test fixtures from markdown files, and patch them programmatically, too.
 - [suntong/cascadia](https://github.com/suntong/cascadia) - Go cascadia package command line CSS selector
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - A session manager for tmux written in Go
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
@@ -2219,7 +2223,7 @@
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [geekprojects/nuTensor](https://github.com/geekprojects/nuTensor) - nuTensor: Point and click matrix to filter net requests according to source, destination and type
 - [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [qntm/base2048](https://github.com/qntm/base2048) - Binary encoding optimised for Twitter
@@ -2953,6 +2957,9 @@
 
 ## Lua 
 
+- [teal-language/teal-types](https://github.com/teal-language/teal-types) - Teal type definitions of Lua libraries!
+- [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim (&gt;= 0.5) complementary to the built-in Language Server Protocol support.
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
 - [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [sunjon/extmark-toy.nvim](https://github.com/sunjon/extmark-toy.nvim) - Graphical experiments in Neovim
@@ -4241,6 +4248,8 @@
 
 ## Rust 
 
+- [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects
+- [lotabout/tuikit](https://github.com/lotabout/tuikit) - Tool kit for writing TUI applications in Rust.
 - [lotabout/rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -4377,7 +4386,7 @@
 - [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [rust-num/num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
-- [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A reactive DOM library for Rust in WASM
+- [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly
 - [venam/systemd-manager](https://github.com/venam/systemd-manager) - Fork of https://gitlab.com/mmstick/systemd-manager to add switch between session and system bus
 - [RustCrypto/traits](https://github.com/RustCrypto/traits) - Collection of cryptography-related traits
 - [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
@@ -5057,7 +5066,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Multi-Token Standard (ERC-1155)
-- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand strokes.
+- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [liqvidjs/player](https://github.com/liqvidjs/player) - Library for interactive videos in React
@@ -5585,6 +5594,10 @@
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ifreund/river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## sed 
+
+- [vlajos/misspell-fixer](https://github.com/vlajos/misspell-fixer) - Simple tool for fixing common misspellings, typos in source code
 
 
 ## License
