@@ -497,6 +497,7 @@
 
 ## C++ 
 
+- [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [virtualsecureplatform/Iyokan](https://github.com/virtualsecureplatform/Iyokan) - Generic engine to evaluate logical circuits on homomorphic encryption
@@ -908,6 +909,7 @@
 
 ## Go 
 
+- [mattn/go-pkg-xmlx](https://github.com/mattn/go-pkg-xmlx) - 
 - [jschaf/pggen](https://github.com/jschaf/pggen) - Generate type-safe Go for any Postgres query. If Postgres can run the query, pggen can generate code for it.
 - [warpfork/go-testmark](https://github.com/warpfork/go-testmark) - Parse data and test fixtures from markdown files, and patch them programmatically, too.
 - [suntong/cascadia](https://github.com/suntong/cascadia) - Go cascadia package command line CSS selector
@@ -2958,6 +2960,7 @@
 
 ## Lua 
 
+- [andersevenrud/compe-tmux](https://github.com/andersevenrud/compe-tmux) - Tmux completion source for nvim-compe and nvim-cmp
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
 - [teal-language/teal-types](https://github.com/teal-language/teal-types) - Teal type definitions of Lua libraries!
@@ -4251,6 +4254,7 @@
 
 ## Rust 
 
+- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust  inspired by Ansible syntax
 - [ryankurte/cargo-binstall](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects
 - [lotabout/tuikit](https://github.com/lotabout/tuikit) - Tool kit for writing TUI applications in Rust.
