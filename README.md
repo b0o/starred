@@ -3542,7 +3542,6 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [PiotrGrochowski/Consolas](https://github.com/PiotrGrochowski/Consolas) - The Consolas font since I became a designer of it starting at version 8.0. It's of course open source.
 - [guardrailsio/awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐
-- [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
@@ -4004,6 +4003,7 @@
 - [tedyapo/serial-port-sdr](https://github.com/tedyapo/serial-port-sdr) - Experimental software-defined radio using a serial port
 - [ptresearch/IntelTXE-PoC](https://github.com/ptresearch/IntelTXE-PoC) - Intel Management Engine JTAG Proof of Concept
 - [tbodt/deoplete-tabnine](https://github.com/tbodt/deoplete-tabnine) - Deoplete source for TabNine
+- [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim
 - [foone/sound2twitter](https://github.com/foone/sound2twitter) - Converts sound files to mp4s for twitter upload
 - [sepandhaghighi/gitfollow](https://github.com/sepandhaghighi/gitfollow) - Github follower and following
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
@@ -4263,7 +4263,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [chipsenkbeil/distant](https://github.com/chipsenkbeil/distant) - 🚧 (Alpha stage software) Binary that supports remote filesystem and process operations. 🚧
-- [hkmatsumoto/roogle](https://github.com/hkmatsumoto/roogle) - Hoogle for Rust
+- [hkmatsumoto/roogle](https://github.com/hkmatsumoto/roogle) - A Rust API search engine
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [sumeet/Zac](https://github.com/sumeet/Zac) - Interactive scripting language
@@ -4494,7 +4494,7 @@
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler.
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
-- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
+- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
