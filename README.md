@@ -474,6 +474,7 @@
 
 ## C# # 
 
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [keijiro/Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
 - [UniversalSplitScreen/UniversalSplitScreen](https://github.com/UniversalSplitScreen/UniversalSplitScreen) - Split screen multiplayer for any game with multiple keyboards, mice and controllers.
@@ -1896,7 +1897,7 @@
 - [lafikl/liblb](https://github.com/lafikl/liblb) - A golang library that implements load balancing algorithms.
 - [lafikl/consistent](https://github.com/lafikl/consistent) - A Go library that implements Consistent Hashing and Consistent Hashing With Bounded Loads.
 - [kryptco/kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
-- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL.
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [aryann/difflib](https://github.com/aryann/difflib) - 
 - [BurntSushi/xgb](https://github.com/BurntSushi/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -2960,6 +2961,11 @@
 
 ## Lua 
 
+- [fengari-lua/fengari.io](https://github.com/fengari-lua/fengari.io) - The source of the fengari.io website
+- [AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.
+- [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
+- [notomo/piemenu.nvim](https://github.com/notomo/piemenu.nvim) - Pie menu plugin for neovim
+- [Pocco81/Catppuccino.nvim](https://github.com/Pocco81/Catppuccino.nvim) - 🍨 An eye-candy and full-featured Neovim theme with support for native LSP, Trees-sitter, and more!
 - [andersevenrud/compe-tmux](https://github.com/andersevenrud/compe-tmux) - Tmux completion source for nvim-compe and nvim-cmp
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
@@ -3383,6 +3389,7 @@
 
 ## Others 
 
+- [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [graphcdn/future-founder-promise](https://github.com/graphcdn/future-founder-promise) - A list of startups that offer the Future Founder Promise to their employees
 - [traumverloren/camping-in-iceland](https://github.com/traumverloren/camping-in-iceland) - My guide to camping solo in Iceland.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
@@ -3390,7 +3397,7 @@
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem
 - [styfle/breaking-changes-web](https://github.com/styfle/breaking-changes-web) - 💢 A list of breaking changes to the web platform
 - [fhammerschmidt/awesome-rescript](https://github.com/fhammerschmidt/awesome-rescript) - A collection of materials about the ReScript programming language and toolchain.
-- [Letscoder/PlayCover](https://github.com/Letscoder/PlayCover) - PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)
+- [iVoider/PlayCover](https://github.com/iVoider/PlayCover) - PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 - [BlackFan/client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution) - Prototype Pollution and useful Script Gadgets
@@ -3675,6 +3682,7 @@
 
 ## Python 
 
+- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
@@ -4144,6 +4152,7 @@
 
 ## ReScript 
 
+- [chris-armstrong/funicular](https://github.com/chris-armstrong/funicular) - ReScript JSON layer for building simple, typesafe, result-based parsers
 - [rescriptbr/rescript-conduit](https://github.com/rescriptbr/rescript-conduit) - :zap: The mother of all demo apps built with ReScript & React
 - [rescriptbr/ancestor](https://github.com/rescriptbr/ancestor) - :skull:  UI primitives for ReScript and React
 - [jeddeloh/rescript-apollo-client](https://github.com/jeddeloh/rescript-apollo-client) - ReScript bindings for the Apollo Client ecosystem
@@ -4320,7 +4329,7 @@
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) - 🔐 Encrypts all the Serialize.
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
-- [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [jeffzh4ng/matey](https://github.com/jeffzh4ng/matey) - BitTorrent 🏴‍☠️ client
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
@@ -4348,6 +4357,7 @@
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
+- [fnichol/names](https://github.com/fnichol/names) - Random name generator for Rust
 - [o2sh/provok](https://github.com/o2sh/provok) - Text rendering
 - [dfrg/swash](https://github.com/dfrg/swash) - Font introspection, complex text shaping and glyph rendering.
 - [timvisee/advent-of-code-2020](https://github.com/timvisee/advent-of-code-2020) - :christmas_tree: My Advent of Code solutions in Rust. http://adventofcode.com/2020
@@ -4710,7 +4720,6 @@
 - [tchebb/chromecast-tools](https://github.com/tchebb/chromecast-tools) - A set of simple utilities for working with Chromecast USB boot image files
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
 - [bx-sh/specs.sh](https://github.com/bx-sh/specs.sh) - 🔬 Simple Shell Specifications
-- [fnichol/names](https://github.com/fnichol/names) - Random name generator for Rust
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [Igrom/i3-persist](https://github.com/Igrom/i3-persist) - Extends i3 window management with persistent containers
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
@@ -5012,6 +5021,7 @@
 
 ## TypeScript 
 
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task runner for Node.js
 - [graphcdn/is-this-graphql-extension](https://github.com/graphcdn/is-this-graphql-extension) - The "Is This GraphQL" Chrome extension
 - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins
@@ -5272,6 +5282,7 @@
 
 ## Vim script 
 
+- [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) - A fork of textobj-parameter 0.1.0
 - [Jarmos-san/editorconfig.nvim](https://github.com/Jarmos-san/editorconfig.nvim) - A Neovim plugin for EditorConfig written in Lua with ❤️
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
@@ -5462,7 +5473,7 @@
 - [kristijanhusak/vim-project-lint](https://github.com/kristijanhusak/vim-project-lint) - Project level lint status right in your favorite file explorer
 - [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
 - [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
-- [androidhaystack/snow](https://github.com/androidhaystack/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
+- [haystackandroid/snow](https://github.com/haystackandroid/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
 - [alx741/vinfo](https://github.com/alx741/vinfo) - Vim info documentation reader, lets you read info pages within Vim or start it from the shell prompt (instead of Info)
 - [danishprakash/vim-githubinator](https://github.com/danishprakash/vim-githubinator) - Show selected text in Vim on Github
 - [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool
