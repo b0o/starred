@@ -140,6 +140,7 @@
 
 ## C 
 
+- [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
@@ -499,6 +500,9 @@
 
 ## C++ 
 
+- [linuxenko/chkservice](https://github.com/linuxenko/chkservice) - Systemd units manager with ncurses, terminal interface
+- [traumverloren/morse-code-ring](https://github.com/traumverloren/morse-code-ring) - Ring powered by an adafruit gemma + neopixel that sends a positive affirmation message to me via morse code
+- [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
@@ -2838,7 +2842,7 @@
 - [mraleph/moe-js](https://github.com/mraleph/moe-js) - Automatically exported from code.google.com/p/moe-js
 - [OverZealous/run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [anders94/public-private-key-demo](https://github.com/anders94/public-private-key-demo) - Demonstrates public / private key pairs and signing in a blockchain context. This is part 2 of my Blockchain 101 video explainer.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕
@@ -2960,6 +2964,7 @@
 
 ## Kotlin 
 
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [google/accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
 - [ScottPeterJohnson/gpt2-discord](https://github.com/ScottPeterJohnson/gpt2-discord) - Discord bot that generates messages using GPT-2
@@ -3706,6 +3711,8 @@
 
 ## Python 
 
+- [jnaulty/metermaid-monitor](https://github.com/jnaulty/metermaid-monitor) - Avoidance, Awareness, and Prevention. Tensorflow, PiCamera, and Metermaids. A Citizen's lovestory.
+- [ccontavalli/ssh-ident](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with ssh.
 - [cxxr/LiveStats](https://github.com/cxxr/LiveStats) - Online Statistical Algorithms for Python
 - [edent/RGB_Colours](https://github.com/edent/RGB_Colours) - This is the code which powers the Twitter Bot https://twitter.com/RGB_Colours
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
