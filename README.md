@@ -625,7 +625,6 @@
 - [microsoft/BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
-- [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
 - [google/sandboxed-api](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically
 - [thinkyhead/TabletMagic](https://github.com/thinkyhead/TabletMagic) - Mac OS X driver for Wacom serial tablets and TabletPC digitizers
 - [mapbox/tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
@@ -1831,7 +1830,7 @@
 - [weberc2/gallium](https://github.com/weberc2/gallium) - A proposal for a programming language that compiles to Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [stripe/safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections
+- [stripe-archive/safesql](https://github.com/stripe-archive/safesql) - Static analysis tool for Golang that protects against SQL injections
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
@@ -1953,6 +1952,7 @@
 
 ## HTML 
 
+- [w3c/manual-of-style](https://github.com/w3c/manual-of-style) - The W3C Manual of Style
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - FlowBite is an open-source component and interactive elements library based on Tailwind CSS.
 - [saylordotorg/text_intermediate-algebra](https://github.com/saylordotorg/text_intermediate-algebra) - Intermediate Algebra
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -2224,7 +2224,7 @@
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [dosyago/ViewFinder](https://github.com/dosyago/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [nprapps/elections20-interactive](https://github.com/nprapps/elections20-interactive) - Front-end graphics for the 2020 general election
 - [nprapps/sidechain](https://github.com/nprapps/sidechain) - Modern responsive iframes
@@ -2287,7 +2287,6 @@
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [cutenode/encites](https://github.com/cutenode/encites) - Fetches GitHub Activtiy, providing an API for that activity and rendering it prettily in Markdown
-- [esy/esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml
 - [0vercl0k/CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708) - Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
@@ -2976,7 +2975,7 @@
 
 ## Lua 
 
-- [GustavoKatel/sidebar.nvim](https://github.com/GustavoKatel/sidebar.nvim) - 
+- [GustavoKatel/sidebar.nvim](https://github.com/GustavoKatel/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 - [wqferr/functional](https://github.com/wqferr/functional) - Functional programming utilities implemented in pure Lua.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
@@ -3160,6 +3159,7 @@
 - [archlinux/tu-bylaws](https://github.com/archlinux/tu-bylaws) - The bylaws which govern the Arch Linux Trusted Users (read-only mirror)
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
+- [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -4213,6 +4213,7 @@
 - [cometkim/reason-todomvc](https://github.com/cometkim/reason-todomvc) - TodoMVC implementation written in ReasonML
 - [shakacode/re-formality](https://github.com/shakacode/re-formality) - Form validation tool for reason-react
 - [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Typed styled components in Reason, OCaml and ReScript
+- [esy/esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml
 - [anmonteiro/youtube](https://github.com/anmonteiro/youtube) - 
 - [aantron/promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
 - [sikanhe/reason-nodejs](https://github.com/sikanhe/reason-nodejs) - Node bindings for Reason and Bucklescript
