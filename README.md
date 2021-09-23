@@ -2976,6 +2976,10 @@
 
 ## Lua 
 
+- [samrath2007/kyoto.nvim](https://github.com/samrath2007/kyoto.nvim) - kyoto.nvim is a fast ⚡, functional, beautiful, and highly customizable neovim configuration
+- [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for personal markdown notebook navigation and management
+- [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim http client written in Lua
+- [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) - Keep buffer dimensions in proportion when terminal window is resized
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [GustavoKatel/sidebar.nvim](https://github.com/GustavoKatel/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
@@ -4301,6 +4305,8 @@
 
 ## Rust 
 
+- [smolck/spotify.nvim](https://github.com/smolck/spotify.nvim) - WIP Spotify plugin w/Telescope integration: don't use this yet!
+- [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - A Decimal Implementation written in pure Rust suitable for financial calculations.
 - [varunsrin/rusty_money](https://github.com/varunsrin/rusty_money) - Money library for Rust
@@ -4635,7 +4641,7 @@
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -5064,6 +5070,7 @@
 
 ## TypeScript 
 
+- [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task runner for Node.js
@@ -5323,6 +5330,7 @@
 
 ## Vim script 
 
+- [ervandew/supertab](https://github.com/ervandew/supertab) - Perform all your vim insert mode completions with Tab
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
 - [tsuyoshicho/vim-efm-langserver-settings](https://github.com/tsuyoshicho/vim-efm-langserver-settings) - vim lsp client - efm-langserver link and configure settings
 - [axlebedev/footprints](https://github.com/axlebedev/footprints) - Vim plugin: footprints. Highlight last edited lines.
@@ -5632,7 +5640,7 @@
 ## Vue 
 
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
-- [dandavison/trogon](https://github.com/dandavison/trogon) - Learn to identify bird vocalizations at any location in the world
+- [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
