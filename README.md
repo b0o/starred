@@ -918,6 +918,7 @@
 
 ## Go 
 
+- [binwiederhier/replbot](https://github.com/binwiederhier/replbot) - Slack/Discord bot for running interactive REPLs and shells from a chat.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [mattn/go-pkg-xmlx](https://github.com/mattn/go-pkg-xmlx) - 
 - [jschaf/pggen](https://github.com/jschaf/pggen) - Generate type-safe Go for any Postgres query. If Postgres can run the query, pggen can generate code for it.
@@ -1214,7 +1215,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
+- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [cmpxchg16/go-sslterminator](https://github.com/cmpxchg16/go-sslterminator) - SSL termination proxy
 - [bluele/factory-go](https://github.com/bluele/factory-go) - A library for setting up Golang objects inspired by factory_bot.
 - [purpledb/purple](https://github.com/purpledb/purple) - An all-in-one data service (caching + K/V + flags + counters + sets) for microservices and FaaS functions. gRPC and HTTP interfaces.
@@ -2976,6 +2977,8 @@
 
 ## Lua 
 
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
+- [yatli/gui-widgets.nvim](https://github.com/yatli/gui-widgets.nvim) - 
 - [samrath2007/kyoto.nvim](https://github.com/samrath2007/kyoto.nvim) - kyoto.nvim is a fast ⚡, functional, beautiful, and highly customizable neovim configuration
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for personal markdown notebook navigation and management
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim http client written in Lua
@@ -3423,6 +3426,7 @@
 
 ## Others 
 
+- [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [stebunovd/blog](https://github.com/stebunovd/blog) - 
 - [RecordReplay/chromium](https://github.com/RecordReplay/chromium) - The official GitHub mirror of the Chromium source
 - [RecordReplay/gecko-dev](https://github.com/RecordReplay/gecko-dev) - Record Replay gecko based browser source
@@ -4212,6 +4216,7 @@
 
 ## Reason 
 
+- [davesnx/dune-fmt](https://github.com/davesnx/dune-fmt) - An opinionated dune file formatter CLI
 - [believer/color](https://github.com/believer/color) - Ratio and score for colors according to WCAG
 - [davesnx/counter-as-a-service](https://github.com/davesnx/counter-as-a-service) - An example of a "real world" app written entirely with Reason
 - [davesnx/ocaml-box](https://github.com/davesnx/ocaml-box) - Render boxes in the terminal with OCaml or Reason
@@ -4252,6 +4257,7 @@
 
 ## Ruby 
 
+- [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
 - [tckmn/i3bang](https://github.com/tckmn/i3bang) - A preprocessor for i3 config files aimed to drastically reduce their length.
@@ -4305,6 +4311,7 @@
 
 ## Rust 
 
+- [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) bindings to Rust with async/await support
 - [smolck/spotify.nvim](https://github.com/smolck/spotify.nvim) - WIP Spotify plugin w/Telescope integration: don't use this yet!
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
