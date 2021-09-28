@@ -1120,7 +1120,7 @@
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [honeytrap/honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
 - [cbix/gotubecast](https://github.com/cbix/gotubecast) - DIY YouTube TV
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [bonjourmalware/melody](https://github.com/bonjourmalware/melody) - Melody is a transparent internet sensor built for threat intelligence. Supports custom tagging rules and vulnerable application simulation.
 - [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
@@ -2983,6 +2983,10 @@
 
 ## Lua 
 
+- [eckon/treesitter-current-functions](https://github.com/eckon/treesitter-current-functions) - Quickly search through and jump to function definitions in the current neovim buffer
+- [kyoh86/telescope-windows.nvim](https://github.com/kyoh86/telescope-windows.nvim) - 
+- [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
 - [iskolbin/lbase64](https://github.com/iskolbin/lbase64) - Lua base64 decoder/encoder
 - [jbyuki/ntangle.nvim](https://github.com/jbyuki/ntangle.nvim) - literate programming for neovim
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
@@ -2998,7 +3002,7 @@
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim http client written in Lua
 - [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) - Keep buffer dimensions in proportion when terminal window is resized
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
-- [GustavoKatel/sidebar.nvim](https://github.com/GustavoKatel/sidebar.nvim) - A generic and modular lua sidebar for Neovim
+- [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 - [wqferr/functional](https://github.com/wqferr/functional) - Functional programming utilities implemented in pure Lua.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
