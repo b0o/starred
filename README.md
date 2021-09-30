@@ -367,7 +367,7 @@
 - [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
 - [arp242/find-cursor](https://github.com/arp242/find-cursor) - Highlight the cursor position in X11
 - [Ancurio/colorpicker](https://github.com/Ancurio/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
-- [mossmann/hackrf](https://github.com/mossmann/hackrf) - low cost software radio platform
+- [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [k0kubun/xremap](https://github.com/k0kubun/xremap) - Dynamic key remapper for X Window System
@@ -465,7 +465,7 @@
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
 - [libyal/libfvde](https://github.com/libyal/libfvde) - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
-- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
 - [HarveyHunt/howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
@@ -915,10 +915,12 @@
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin with incremental input processing, allowing for unparalleled speed with near-zero cognitive effort
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
+- [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## Go 
 
+- [pallavJha/chaakoo](https://github.com/pallavJha/chaakoo) - Slice and dice your TMUX windows and panes
 - [binwiederhier/replbot](https://github.com/binwiederhier/replbot) - Slack/Discord bot for running interactive REPLs and shells from a chat.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [mattn/go-pkg-xmlx](https://github.com/mattn/go-pkg-xmlx) - 
@@ -1980,7 +1982,7 @@
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [tc39/proposal-smart-pipelines](https://github.com/tc39/proposal-smart-pipelines) - Old archived draft proposal for smart pipelines. Go to the new Hack-pipes proposal at js-choi/proposal-hack-pipes.
 - [valtech-nyc/proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
-- [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
+- [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [tinyvision-ai-inc/UPduino-v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) - UPduino 3.0: new 4 layer layout, various other improvements
 - [mfitzp/List_of_SMS_gateways](https://github.com/mfitzp/List_of_SMS_gateways) - This content was previously available on WikiPedia but deleted as not really encylopaedia-worthy. Since an article of mine was originally a major source for the data in the page, I took a copy for posterity. It's now here on Github, reformatted as an editable CSV file and publicly editable by all.
@@ -2983,6 +2985,7 @@
 
 ## Lua 
 
+- [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks!
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
 - [windwp/floatline.nvim](https://github.com/windwp/floatline.nvim) - Make 1 global statusline on floating window
 - [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
@@ -3144,7 +3147,6 @@
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5)
-- [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [FreeMasen/luxure](https://github.com/FreeMasen/luxure) - An HTTP server framework for lua
@@ -3746,6 +3748,8 @@
 
 ## Python 
 
+- [ms-jpq/vim.bench](https://github.com/ms-jpq/vim.bench) - Reproducible nvim completion framework benchmarks.
+- [thoppe/NansAreNumbers](https://github.com/thoppe/NansAreNumbers) - An esoteric data type built entirely of NaNs.
 - [heraldofsolace/VimHelpBot](https://github.com/heraldofsolace/VimHelpBot) - VimHelpBot is a bot that replies to r/vim and r/neovim comments with link to Vim Help page
 - [jnaulty/metermaid-monitor](https://github.com/jnaulty/metermaid-monitor) - Avoidance, Awareness, and Prevention. Tensorflow, PiCamera, and Metermaids. A Citizen's lovestory.
 - [ccontavalli/ssh-ident](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with ssh.
@@ -5389,6 +5393,7 @@
 - [arzg/vim-substrata](https://github.com/arzg/vim-substrata) - A cold, dark colourscheme for Vim
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon) - Vim plugin for generating images of source code using https://github.com/Aloxaf/silicon
+- [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [rescript-lang/vim-rescript](https://github.com/rescript-lang/vim-rescript) - 
 - [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: Granular project configuration
@@ -5643,7 +5648,6 @@
 - [vim-scripts/RelOps](https://github.com/vim-scripts/RelOps) - Relative line numbers for pending operations
 - [spolu/dwm.vim](https://github.com/spolu/dwm.vim) - Tiled Window Management for Vim
 - [thinca/vim-visualstar](https://github.com/thinca/vim-visualstar) - star for Visual-mode.
-- [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [wsdjeg/luarefvim](https://github.com/wsdjeg/luarefvim) - Lua reference manual
 - [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 - [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent) - Vim plugin: Text objects for indented blocks of lines
