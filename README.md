@@ -1363,7 +1363,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
-- [FastFilter/xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing xor filters
+- [FastFilter/xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing binary fuse and xor filters
 - [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [moznion/gonstructor](https://github.com/moznion/gonstructor) - A command-line tool to generate a constructor for the struct.
 - [mercari/go-circuitbreaker](https://github.com/mercari/go-circuitbreaker) - A context aware circuit breaker library in Go.
@@ -3685,6 +3685,8 @@
 
 ## PHP 
 
+- [omeka/omeka-s](https://github.com/omeka/omeka-s) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata.
+- [omeka/Omeka](https://github.com/omeka/Omeka) - A flexible web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
@@ -3753,6 +3755,7 @@
 
 ## Python 
 
+- [artefactual/archivematica](https://github.com/artefactual/archivematica) - Free and open-source digital preservation system designed to maintain standards-based, long-term access to collections of digital objects.
 - [ms-jpq/vim.bench](https://github.com/ms-jpq/vim.bench) - Reproducible nvim completion framework benchmarks.
 - [thoppe/NansAreNumbers](https://github.com/thoppe/NansAreNumbers) - An esoteric data type built entirely of NaNs.
 - [heraldofsolace/VimHelpBot](https://github.com/heraldofsolace/VimHelpBot) - VimHelpBot is a bot that replies to r/vim and r/neovim comments with link to Vim Help page
@@ -4288,6 +4291,7 @@
 
 ## Ruby 
 
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
@@ -4342,6 +4346,7 @@
 
 ## Rust 
 
+- [MiSawa/xq](https://github.com/MiSawa/xq) - Pure rust implementation of jq
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) bindings to Rust with async/await support
 - [smolck/spotify.nvim](https://github.com/smolck/spotify.nvim) - WIP Spotify plugin w/Telescope integration: don't use this yet!
@@ -5121,7 +5126,7 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: A comprehensive toolkit for developing Figma plugins
+- [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: A comprehensive toolkit for developing plugins for Figma and FigJam
 - [snowjs/cli](https://github.com/snowjs/cli) - CLI tool for dead-simple serverless Docker deployments on managed Kubernetes services. A self-hosted PaaS. ⚡️
 - [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
 - [schemar/obsidian-tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
@@ -5143,7 +5148,7 @@
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,5 KB) color picker component for React and Preact apps
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
-- [Snowtrack/SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
+- [Snowtrack/snowfs](https://github.com/Snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
