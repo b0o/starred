@@ -260,7 +260,6 @@
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
-- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [Harvey-OS/harvey](https://github.com/Harvey-OS/harvey) - A distributed operating system
@@ -923,6 +922,7 @@
 
 ## Go 
 
+- [bots-house/github-actions-upstream-watch](https://github.com/bots-house/github-actions-upstream-watch) - 👀 Trigger Github Actions Workflow when commit to another repo
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
 - [pallavJha/chaakoo](https://github.com/pallavJha/chaakoo) - Slice and dice your TMUX windows and panes
 - [binwiederhier/replbot](https://github.com/binwiederhier/replbot) - Slack/Discord bot for running interactive REPLs and shells from a chat.
@@ -2204,6 +2204,7 @@
 
 ## JavaScript 
 
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [awto/effectfuljs](https://github.com/awto/effectfuljs) - JavaScript embedded effects compiler
@@ -4282,6 +4283,7 @@
 - [rescript-association/reasonml.org](https://github.com/rescript-association/reasonml.org) - Deprecated in favor of rescript-lang.org
 - [reason-native-web/morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [chess-tea/bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
 - [chess-tea/grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
 - [jaredly/milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
@@ -4352,6 +4354,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
 - [danii/hematita](https://github.com/danii/hematita) - A memory safe Lua interpreter
 - [chipsenkbeil/vimwiki-rs](https://github.com/chipsenkbeil/vimwiki-rs) - Rust library and tooling to parse, render, and modify vimwiki text and files.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
@@ -4700,7 +4703,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) - `$ mdsh` # a markdown shell pre-processor
 - [plietar/librespot](https://github.com/plietar/librespot) - Open Source Spotify client library
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -5059,7 +5062,7 @@
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [arcticicestudio/nord-termite](https://github.com/arcticicestudio/nord-termite) - An arctic, north-bluish clean and elegant Termite color theme.
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
@@ -5703,7 +5706,7 @@
 - [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  Free & Open Source Airtable Alternative !
 - [drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
