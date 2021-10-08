@@ -132,6 +132,7 @@
 
 ## Awk 
 
+- [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Blade 
@@ -375,6 +376,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [MycroftAI/mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
+- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 - [arjun024/mkeykernel](https://github.com/arjun024/mkeykernel) - A kernel that can read from keyboard and print on-screen
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -643,7 +645,6 @@
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -1629,7 +1630,7 @@
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [0xfe/lumen](https://github.com/0xfe/lumen) - A commandline client for the Stellar blockchain
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
 - [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gen0cide/gscript](https://github.com/gen0cide/gscript) - framework to rapidly implement custom droppers for all three major operating systems
@@ -2178,7 +2179,6 @@
 - [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
 - [bitcoinj/bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
 - [coinexcom/coinex_exchange_api](https://github.com/coinexcom/coinex_exchange_api) - The global digital coin exchange.
-- [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
 - [envoyproxy/envoy-mobile](https://github.com/envoyproxy/envoy-mobile) - Client HTTP and networking library based on the Envoy project for iOS, Android, and more.
 - [OxfordHCC/tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
@@ -2746,6 +2746,7 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [DWilliames/paddy-sketch-plugin](https://github.com/DWilliames/paddy-sketch-plugin) - Automated padding, spacing and alignment for your Sketch layers
+- [adambisek/string-pixel-width](https://github.com/adambisek/string-pixel-width) - Blazingly fast measure string width in pixels on the server in Javascript (Node.Js)
 - [auchenberg/chrome-devtools-app](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app via Electron
 - [bahmutov/code-snippets](https://github.com/bahmutov/code-snippets) - Chrome DevTools code snippets
 - [Automattic/cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.JS
@@ -2995,6 +2996,9 @@
 
 ## Lua 
 
+- [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim.
+- [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and Powerful comment plugin for neovim. Supports commentstring, dot repeat, left-right/up-down motions, hooks, and more
+- [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [chipsenkbeil/vimwiki.nvim](https://github.com/chipsenkbeil/vimwiki.nvim) - Neovim plugin that offers enhanced and alternative functionality for the vimwiki language.
 - [Furkanzmc/options.nvim](https://github.com/Furkanzmc/options.nvim) - A small library to create custom options
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
@@ -3055,6 +3059,7 @@
 - [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
 - [kyazdani42/nvim-config](https://github.com/kyazdani42/nvim-config) - my nvim configuration files
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
+- [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) - A simple and fast file explorer written in Lua.
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
@@ -3811,6 +3816,7 @@
 - [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book
+- [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [BoukeHaarsma23/WattmanGTK](https://github.com/BoukeHaarsma23/WattmanGTK) - A Wattman-like GTK3+ GUI
 - [sezanzeb/key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [tobixen/thrash-protect](https://github.com/tobixen/thrash-protect) - Simple-Stupid user-space program doing "kill -STOP" and "kill -CONT" to protect from thrashing
@@ -3854,6 +3860,7 @@
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [jseppanen/gpgfs](https://github.com/jseppanen/gpgfs) - GPG encrypted files through FUSE
 - [Venom1991/refind-btrfs](https://github.com/Venom1991/refind-btrfs) - Generate rEFInd manual boot stanzas from Btrfs snapshots
+- [rand-net/khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [l0drex/Yin-Yang](https://github.com/l0drex/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budige, VSCode, Atom and more
 - [sffjunkie/astral](https://github.com/sffjunkie/astral) - Python calculations for the position of the sun and moon.
 - [mlvnt/AutomaThemely](https://github.com/mlvnt/AutomaThemely) - Simple, set-and-forget python application for changing between desktop themes according to light and dark hours
@@ -4246,7 +4253,6 @@
 - [jeddeloh/rescript-apollo-client](https://github.com/jeddeloh/rescript-apollo-client) - ReScript bindings for the Apollo Client ecosystem
 - [tkovs/pomodoro](https://github.com/tkovs/pomodoro) - Simple pomodoro application. Written in ReScript and ReactJS.
 - [johnridesabike/coronate](https://github.com/johnridesabike/coronate) - A Swiss-style chess tournament management app.
-- [johnridesabike/coronate](https://github.com/johnridesabike/coronate) - A Swiss-style chess tournament management app.
 - [RawToast/ReTurbo](https://github.com/RawToast/ReTurbo) - Pseudo 3D racing game built with Reprocessing
 - [alanrsoares/rescript-game-of-life](https://github.com/alanrsoares/rescript-game-of-life) - Game of Life in ReasonML with ReasonReact in 2020
 - [ocaml/v3.ocaml.org](https://github.com/ocaml/v3.ocaml.org) - The next implementation of ocaml.org, built on OCaml, ReScript, NextJS, and Tailwind.
@@ -4475,7 +4481,6 @@
 - [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [amethyst/serde-diff](https://github.com/amethyst/serde-diff) - Utility for comparing two structs and re-applying the differences to other structs
-- [amethyst/serde-diff](https://github.com/amethyst/serde-diff) - Utility for comparing two structs and re-applying the differences to other structs
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [timothyandrew/gh-stack](https://github.com/timothyandrew/gh-stack) - Manage PR stacks/chains on Github
@@ -4619,7 +4624,7 @@
 - [bahlo/sonyflake-rs](https://github.com/bahlo/sonyflake-rs) - 🃏 A distributed unique ID generator inspired by Twitter's Snowflake.
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [linebender/spline](https://github.com/linebender/spline) - A spline for interactive 2D curve design
-- [adder46/hstr-rs](https://github.com/adder46/hstr-rs) - hstr, but with paging, Unicode, and fuzzy matching
+- [xdb64/hstr-rs](https://github.com/xdb64/hstr-rs) - hstr, but with paging, Unicode, and fuzzy matching
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [casey/intermodal](https://github.com/casey/intermodal) - 📦 Intermodal: A 40' foot shipping container for the internet
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -5131,6 +5136,8 @@
 
 ## TypeScript 
 
+- [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Add & commit files from a path directly from GitHub Actions
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
@@ -5348,7 +5355,6 @@
 - [palantir/tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-- [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
