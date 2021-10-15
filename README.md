@@ -3006,6 +3006,7 @@
 
 ## Lua 
 
+- [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - A contrast-focused vim/neovim colorscheme
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession
 - [chentau/marks.nvim](https://github.com/chentau/marks.nvim) - A better user experience for interacting with and manipulating Vim marks
 - [nvim-treesitter/nvim-tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs) - Code documentation built with treesitter
