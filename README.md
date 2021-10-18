@@ -191,6 +191,7 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [dekuNukem/duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
@@ -765,6 +766,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [dainiusjocas/lucene-grep](https://github.com/dainiusjocas/lucene-grep) - Grep-like utility based on Lucene Monitor compiled with GraalVM native-image
@@ -2633,7 +2635,7 @@
 - [Schachte/Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [keraf/NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 - [grasslandnetwork/node_lite](https://github.com/grasslandnetwork/node_lite) - Grassland Node Lite. Optimized for use on low-end computers. Requires Grassland's 'Node Lite Object Detection'
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [WebReflection/lighterhtml](https://github.com/WebReflection/lighterhtml) - The hyperHTML strength & experience without its complexity 🎉
@@ -3756,6 +3758,7 @@
 
 ## Perl 
 
+- [torbiak/git-autofixup](https://github.com/torbiak/git-autofixup) - create fixup commits for topic branches
 - [jwr/ccheck](https://github.com/jwr/ccheck) - Simple, easy to use, minimal consistency checker (hasher) for file archives.
 - [brendangregg/proc-profiler](https://github.com/brendangregg/proc-profiler) - Linux /proc/PID/stack profiler
 - [brendangregg/HeatMap](https://github.com/brendangregg/HeatMap) - Heat map generation tools
@@ -4401,6 +4404,7 @@
 
 ## Rust 
 
+- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search output
 - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
@@ -4436,7 +4440,7 @@
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable deployment of the tantivy search engine.  Standing on the shoulders of giants.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [dmerejkowsky/rusync](https://github.com/dmerejkowsky/rusync) - Minimalist rsync implementation in Rust
@@ -4841,6 +4845,7 @@
 
 ## Shell 
 
+- [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
 - [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
@@ -4879,7 +4884,6 @@
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [Igrom/i3-persist](https://github.com/Igrom/i3-persist) - Extends i3 window management with persistent containers
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
-- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -5178,6 +5182,7 @@
 
 ## TypeScript 
 
+- [churichard/notabase](https://github.com/churichard/notabase) - A personal knowledge base for networked thinking.
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [EqualMa/gitpkg](https://github.com/EqualMa/gitpkg) - use a sub directory of a github repo as yarn / npm dependency directly
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
@@ -5767,7 +5772,7 @@
 - [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
