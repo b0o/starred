@@ -1800,7 +1800,7 @@
 - [gobuffalo/plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [nbutton23/zxcvbn-go](https://github.com/nbutton23/zxcvbn-go) - zxcvbn password complexity algorithm in golang
-- [olebedev/go-starter-kit](https://github.com/olebedev/go-starter-kit) - Golang isomorphic react/hot reloadable/redux/css-modules/SSR  starter kit
+- [olebedev/go-starter-kit](https://github.com/olebedev/go-starter-kit) - [abandoned] Golang isomorphic react/hot reloadable/redux/css-modules/SSR  starter kit
 - [ruben2020/tags2uml](https://github.com/ruben2020/tags2uml) - Generates UML class diagrams, from source code. Command line tool to convert from a Exuberant-ctags tags file to a UML class diagram, through Graphviz DOT, for all object oriented languages supported by ctags
 - [yosssi/gohtml](https://github.com/yosssi/gohtml) - HTML formatter for Go
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
@@ -3025,6 +3025,7 @@
 ## Lua 
 
 - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
+- [AyeSpacey/Nvimfy](https://github.com/AyeSpacey/Nvimfy) - 🔮 Neovim for Android !
 - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
 - [hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc) - nvim-cmp source for math calculation
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
@@ -3032,7 +3033,6 @@
 - [mnabila/nvimrc](https://github.com/mnabila/nvimrc) - vimrc for neovim written in lua
 - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
-- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🔭 Search Dash.app from Neovim with Telescope. Built with Lua and Rust 🦀
 - [tami5/lspsaga.nvim](https://github.com/tami5/lspsaga.nvim) - till  glepnir goes back online
 - [ingram1107/souvenir.nvim](https://github.com/ingram1107/souvenir.nvim) - A Neovim plugin that manages Neovim sessions
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A minimal, configurable, neovim style tabline. Use your nvim tabs as workspace multiplexer.
@@ -4447,9 +4447,11 @@
 
 ## Rust 
 
+- [raffomania/songsonar](https://github.com/raffomania/songsonar) - 📻 A smart spotify playlist with new releases from artists you follow
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
+- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🔭 Search Dash.app from Neovim with Telescope. Built with Rust 🦀 and Lua
 - [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL 📈
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
@@ -5514,7 +5516,6 @@
 
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - ⠀
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
-- [AyeSpacey/Nvimfy](https://github.com/AyeSpacey/Nvimfy) - 🔮 Neovim for Android !
 - [dosimple/workspace.vim](https://github.com/dosimple/workspace.vim) - Workspace (as in i3wm) for Vim
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
