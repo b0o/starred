@@ -91,6 +91,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Solidity](#solidity)
+  - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
@@ -312,7 +313,6 @@
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [minus7/redshift](https://github.com/minus7/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -2500,7 +2500,7 @@
 - [ds300/jetzt](https://github.com/ds300/jetzt) - Speed reader extension for chrome
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [astashov/tixi](https://github.com/astashov/tixi) - Ascii charts editor
-- [contra/are-you-a-cop](https://github.com/contra/are-you-a-cop) - Blocks cops from visiting your site. If they are they have to tell you.
+- [yocontra/are-you-a-cop](https://github.com/yocontra/are-you-a-cop) - Blocks cops from visiting your site. If they are they have to tell you.
 - [WebReflection/ucompress](https://github.com/WebReflection/ucompress) - A micro, all-in-one, compressor for common Web files.
 - [WebReflection/ucdn](https://github.com/WebReflection/ucdn) - A µcompress based CDN utility, compatible with both Express and native http module
 - [WebReflection/uhtml](https://github.com/WebReflection/uhtml) - A micro HTML/SVG render
@@ -5009,7 +5009,6 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [mbrock/wd](https://github.com/mbrock/wd) - Use WebDriver from the command line
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [zdharma/zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [asppsa/archlinux-nix](https://github.com/asppsa/archlinux-nix) - Bash script for managing the Nix package manager on Arch Linux
 - [grmat/amdgpu-fancontrol](https://github.com/grmat/amdgpu-fancontrol) - 
 - [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
@@ -5027,7 +5026,6 @@
 - [deoplete-plugins/deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
-- [zdharma/Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
 - [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [pigmonkey/hostsctl](https://github.com/pigmonkey/hostsctl) - 🙈 Control your /etc/hosts file easily, block ads, soical networks, etc...
@@ -5042,10 +5040,6 @@
 - [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
 - [zunit-zsh/zunit](https://github.com/zunit-zsh/zunit) - A powerful testing framework for ZSH projects
 - [okdana/shu2](https://github.com/okdana/shu2) - A general-purpose utility library for zsh scripts
-- [zsh-IDE/zide](https://github.com/zsh-IDE/zide) - 
-- [zdharma/zui](https://github.com/zdharma/zui) - ⬢ Zsh User Interface library – CGI+DHTML-like rapid application development with Zsh
-- [zdharma/zbrowse](https://github.com/zdharma/zbrowse) - Browse interactive variables and other structures of Zshell
-- [zinit-zsh/z-a-man](https://github.com/zinit-zsh/z-a-man) - A Zsh-Zinit extension that automatically generates man pages out of plugin README.md files
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [momo-lab/zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
@@ -5065,11 +5059,9 @@
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
-- [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
 - [zsh-users/zaw](https://github.com/zsh-users/zaw) - zsh anything.el-like widget.
 - [bebehei/akulm](https://github.com/bebehei/akulm) - After KernelUpgrade Loadable Modules
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
-- [zdharma/zconvey](https://github.com/zdharma/zconvey) - Send notifications and commands to all or selected Zshell instances
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [yurikoles-aur/linux-amd-staging-drm-next-git](https://github.com/yurikoles-aur/linux-amd-staging-drm-next-git) - Package for Arch AUR
@@ -5161,7 +5153,6 @@
 - [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [TheDen/TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -5184,6 +5175,10 @@
 ## Solidity 
 
 - [runtimeverification/verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) - Smart contracts which are formally verified
+
+## Standard ML 
+
+- [minoki/LunarML](https://github.com/minoki/LunarML) - A Standard ML compiler that produces Lua
 
 ## Starlark 
 
@@ -5662,7 +5657,6 @@
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [rbong/vim-buffest](https://github.com/rbong/vim-buffest) - Edit vim registers/macros and lists as buffers.
 - [wincent/replay](https://github.com/wincent/replay) - 🔁 Convenient re-run of last recorded Vim macro
-- [zinit-zsh/zinit-vim-syntax](https://github.com/zinit-zsh/zinit-vim-syntax) - A Vim syntax definition for Zinit commands in any ft=zsh file
 - [goerz/jupytext.vim](https://github.com/goerz/jupytext.vim) - Vim plugin for editing Jupyter ipynb files via jupytext
 - [julienr/vim-cellmode](https://github.com/julienr/vim-cellmode) - Vim MATLAB-like cell execution for tmux/ipython
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
