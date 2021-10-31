@@ -552,7 +552,7 @@
 - [smallstepforman/Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [vgc/vgc](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1075,7 +1075,7 @@
 - [lukechampine/uint128](https://github.com/lukechampine/uint128) - uint128 for Go
 - [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 - [knqyf263/cob](https://github.com/knqyf263/cob) - Continuous Benchmark for Go Project
-- [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager with sessions
+- [GGP1/kure](https://github.com/GGP1/kure) - Secure and private CLI password manager with sessions
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
@@ -1915,7 +1915,7 @@
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
-- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
+- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 - [campoy/justforfunc](https://github.com/campoy/justforfunc) - The repository for the YouTube series JustForFunc
 - [mmcloughlin/globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
@@ -2220,6 +2220,9 @@
 
 ## JavaScript 
 
+- [inaturalist/iNaturalistAPI](https://github.com/inaturalist/iNaturalistAPI) - Node.js API for iNaturalist.org
+- [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative) - Cross-platform version of the iNat mobile app
+- [inaturalist/inaturalist](https://github.com/inaturalist/inaturalist) - The Rails app behind iNaturalist.org
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [framer/next.js](https://github.com/framer/next.js) - Framer Next.js Quickstart
 - [testdouble/testdouble.js](https://github.com/testdouble/testdouble.js) - A minimal test double library for TDD with JavaScript
@@ -2374,7 +2377,7 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1k social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Analyze & find profiles across +1k social media \ websites (SFW & NSFW Detections are updated regularly by automated systems)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [ysulyma/rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for Liqvid
@@ -2407,6 +2410,7 @@
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [jefftham/email-to-phone](https://github.com/jefftham/email-to-phone) - Lookup the carrier and sms / mms gateway email addresses for a given company name
+- [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [greg-js/offline-arch-wiki](https://github.com/greg-js/offline-arch-wiki) - Tool for scraping the arch wiki and keeping a local version updated
 - [dataarts/webgl-globe](https://github.com/dataarts/webgl-globe) - WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.
 - [felixpalmer/procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - Mobile-first 3D mapping engine with emphasis on user experience
@@ -3494,6 +3498,7 @@
 
 ## Objective-C 
 
+- [inaturalist/INaturalistIOS](https://github.com/inaturalist/INaturalistIOS) - iNaturalist iOS app
 - [mszoek/airyx](https://github.com/mszoek/airyx) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 - [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick) - Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
@@ -3837,6 +3842,7 @@
 
 ## Python 
 
+- [ms-jpq/gay](https://github.com/ms-jpq/gay) - Colour your text / terminal to be more gay. 🏳️‍🌈
 - [blueOkiris/bgrm](https://github.com/blueOkiris/bgrm) - Virtual webcam that takes real webcam footage and replaces the background in order to have Virtual Backgrounds in MS Teams for Linux where the feature is unimplemented.
 - [outreachy/website](https://github.com/outreachy/website) - Code for the Outreachy website, based on Python, Django, and Bootstrap.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -4225,7 +4231,7 @@
 - [HexHive/T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [amazon-archives/amazon-polly-sample](https://github.com/amazon-archives/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
 - [aaronpenne/data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -4403,7 +4409,6 @@
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [licensee/licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
-- [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [alexch/rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 - [guard/guard](https://github.com/guard/guard) - Guard is a command line tool to easily handle events on file system modifications.
 - [cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:
