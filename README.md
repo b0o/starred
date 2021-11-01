@@ -143,6 +143,7 @@
 
 ## C 
 
+- [jstrieb/quickserv-examples](https://github.com/jstrieb/quickserv-examples) - Example applications to run with QuickServ
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A small X program which provides novel methods for keyboard driven cursor manipulation.
 - [pallene-lang/pallene](https://github.com/pallene-lang/pallene) - Pallene Compiler
@@ -933,6 +934,7 @@
 
 ## Go 
 
+- [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview README looks the same as GitHub.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers
@@ -2377,7 +2379,7 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Analyze & find profiles across +1k social media \ websites (SFW & NSFW Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [ysulyma/rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for Liqvid
@@ -3028,6 +3030,7 @@
 
 ## Lua 
 
+- [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) - Simplistic chain completion plugin for Neovim
 - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
 - [AyeSpacey/Nvimfy](https://github.com/AyeSpacey/Nvimfy) - 🔮 Neovim for Android !
 - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
@@ -4456,7 +4459,7 @@
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
-- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🔭 Search Dash.app from Neovim with Telescope. Built with Rust 🦀 and Lua
+- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🔭 Search Dash.app from Neovim with Telescope or fzf-lua. Built with Rust 🦀 and Lua
 - [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL 📈
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
@@ -5260,7 +5263,7 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: A comprehensive toolkit for developing plugins for Figma and FigJam
+- [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: A comprehensive toolkit for developing plugins and widgets for Figma and FigJam
 - [snowjs/cli](https://github.com/snowjs/cli) - CLI tool for dead-simple serverless Docker deployments on managed Kubernetes services. A self-hosted PaaS. ⚡️
 - [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
 - [schemar/obsidian-tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
@@ -5494,6 +5497,7 @@
 
 ## Vala 
 
+- [elementary/photos](https://github.com/elementary/photos) - Photo viewer and organizer designed for elementary OS
 - [elementary/applications-menu](https://github.com/elementary/applications-menu) - Applications Menu for elementary OS and the Pantheon desktop environment
 - [elementary/calendar](https://github.com/elementary/calendar) - Desktop calendar app designed for elementary OS
 - [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
