@@ -934,6 +934,8 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
+- [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview README looks the same as GitHub.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
@@ -1425,7 +1427,7 @@
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
 - [MichaelTJones/gg](https://github.com/MichaelTJones/gg) - gg is smart grep for Go-language source code
-- [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ
+- [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ -- process various formats with libjq
 - [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
 - [pilosa/tools](https://github.com/pilosa/tools) - Tools for development and ops
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -2604,7 +2606,7 @@
 - [pakastin/car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [this-fifo/stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
+- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile, SingleFileZ, and WebMemex, but gooderer. Full text search coming soon
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -3030,6 +3032,7 @@
 
 ## Lua 
 
+- [lua-rocks/proto](https://github.com/lua-rocks/proto) - 
 - [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) - Simplistic chain completion plugin for Neovim
 - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
 - [AyeSpacey/Nvimfy](https://github.com/AyeSpacey/Nvimfy) - 🔮 Neovim for Android !
@@ -3088,7 +3091,7 @@
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 - [yatli/gui-widgets.nvim](https://github.com/yatli/gui-widgets.nvim) - 
 - [samrath2007/kyoto.nvim](https://github.com/samrath2007/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
-- [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for personal markdown notebook navigation and management
+- [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for markdown notebook navigation and management
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim http client written in Lua
 - [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) - Keep buffer dimensions in proportion when terminal window is resized
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
@@ -4459,7 +4462,7 @@
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
-- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🔭 Search Dash.app from Neovim with Telescope or fzf-lua. Built with Rust 🦀 and Lua
+- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🔭 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
 - [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL 📈
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
@@ -5857,7 +5860,7 @@
 ## Zig 
 
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
-- [ifreund/river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## sed 
