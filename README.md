@@ -363,7 +363,7 @@
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source operating system from Apple that forms the basis for OS X, and PureDarwin is a community project to make Darwin more usable. See the Wiki for more information.
+- [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
 - [dancor/wmctrl](https://github.com/dancor/wmctrl) - wmctrl with extensions and 64bit support
 - [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -512,6 +512,7 @@
 
 ## C++ 
 
+- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [linuxenko/chkservice](https://github.com/linuxenko/chkservice) - Systemd units manager with ncurses, terminal interface
 - [traumverloren/morse-code-ring](https://github.com/traumverloren/morse-code-ring) - Ring powered by an adafruit gemma + neopixel that sends a positive affirmation message to me via morse code
@@ -1190,6 +1191,7 @@
 - [DopplerHQ/cli](https://github.com/DopplerHQ/cli) - The official Doppler CLI
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
 - [martinsirbe/go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SNS).
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [cockroachdb/apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
@@ -2228,6 +2230,7 @@
 
 ## JavaScript 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [inaturalist/iNaturalistAPI](https://github.com/inaturalist/iNaturalistAPI) - Node.js API for iNaturalist.org
 - [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative) - Cross-platform version of the iNat mobile app
 - [inaturalist/inaturalist](https://github.com/inaturalist/inaturalist) - The Rails app behind iNaturalist.org
@@ -3147,6 +3150,7 @@
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
+- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline written in Lua
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [ironhouzi/starlite-nvim](https://github.com/ironhouzi/starlite-nvim) - Expedient and simple text highlighting using built in Neovim commands:  |*|, |g*|, |#|, |g#|. Written in Lua.
@@ -3309,6 +3313,7 @@
 
 ## Nix 
 
+- [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
@@ -3546,6 +3551,7 @@
 
 ## Others 
 
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [JoeWDavies/geoblender](https://github.com/JoeWDavies/geoblender) - Tutorials for making 3D-looking maps with Blender and QGIS
@@ -3989,7 +3995,6 @@
 - [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [MoserMichael/duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -4468,7 +4473,7 @@
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
-- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🔭 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
+- [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
 - [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL 📈
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
@@ -4904,7 +4909,6 @@
 ## Scheme 
 
 - [mjlbach/babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) - The answer to the ultimate question is :help 42
-- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
