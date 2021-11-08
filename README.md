@@ -512,6 +512,7 @@
 
 ## C++ 
 
+- [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [linuxenko/chkservice](https://github.com/linuxenko/chkservice) - Systemd units manager with ncurses, terminal interface
@@ -792,7 +793,6 @@
 - [farrellm/scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
 ## CodeQL 
 
@@ -936,6 +936,7 @@
 
 ## Go 
 
+- [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [a-h/templ](https://github.com/a-h/templ) - A language, command line tool and set of IDE extensions that makes it easier to write HTML user interfaces and websites using Go.
 - [vilmibm/gh-oblique](https://github.com/vilmibm/gh-oblique) - a gh extension that prints out an oblique strategy
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
@@ -1084,7 +1085,7 @@
 - [lukechampine/uint128](https://github.com/lukechampine/uint128) - uint128 for Go
 - [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 - [knqyf263/cob](https://github.com/knqyf263/cob) - Continuous Benchmark for Go Project
-- [GGP1/kure](https://github.com/GGP1/kure) - Secure and private CLI password manager with sessions
+- [GGP1/kure](https://github.com/GGP1/kure) - Multi-platform, secure and private CLI password manager with sessions
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
@@ -2195,6 +2196,7 @@
 
 ## Java 
 
+- [openstreetmap/osmosis](https://github.com/openstreetmap/osmosis) - Osmosis is a command line Java application for processing OSM data.
 - [senx/warp10-platform](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [open-osrs/runelite](https://github.com/open-osrs/runelite) - Actually open source Old School RuneScape client
@@ -2389,7 +2391,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3037,6 +3039,7 @@
 ## Less 
 
 - [ipfs-inactive/website](https://github.com/ipfs-inactive/website) - This repo has been replaced by https://github.com/ipfs/ipfs-website/
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
 ## Lua 
 
@@ -3165,7 +3168,7 @@
 - [ingram1107/aedile.nvim](https://github.com/ingram1107/aedile.nvim) - A Neovim plugin that open REPL in a split window according to the current buffer filetype
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - 
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
-- [mfussenegger/nvim-ts-hint-textobject](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by treesitter
+- [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - A dead simple completion framework
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
@@ -3551,6 +3554,7 @@
 
 ## Others 
 
+- [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap projects
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
@@ -3858,6 +3862,7 @@
 
 ## Python 
 
+- [njanakiev/openstreetmap-heatmap](https://github.com/njanakiev/openstreetmap-heatmap) - Visualization of OpenStreetMap Data with Blender and Python
 - [ms-jpq/gay](https://github.com/ms-jpq/gay) - Colour your text / terminal to be more gay. 🏳️‍🌈
 - [blueOkiris/bgrm](https://github.com/blueOkiris/bgrm) - Virtual webcam that takes real webcam footage and replaces the background in order to have Virtual Backgrounds in MS Teams for Linux where the feature is unimplemented.
 - [outreachy/website](https://github.com/outreachy/website) - Code for the Outreachy website, based on Python, Django, and Bootstrap.
