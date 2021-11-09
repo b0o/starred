@@ -608,7 +608,7 @@
 - [IdleHandsProject/diycamera](https://github.com/IdleHandsProject/diycamera) - An Arduino Based DIY Image Sensor and Camera Body
 - [Nitrokey/nitrokey-app](https://github.com/Nitrokey/nitrokey-app) - Nitrokey's Application (Win, Linux, Mac)
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
-- [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface
+- [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [apache/singa](https://github.com/apache/singa) - a distributed deep learning platform
 - [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere.
 - [build2/build2](https://github.com/build2/build2) - build2 build system
@@ -913,6 +913,7 @@
 
 ## F# # 
 
+- [ocsigen/ts2ocaml](https://github.com/ocsigen/ts2ocaml) - Generate OCaml bindings from TypeScript definitions via the TypeScript compiler API
 - [vain0x/milone-lang](https://github.com/vain0x/milone-lang) - Self-hosting F#-subset compiler
 - [dsyme/guido-learns-fsharp](https://github.com/dsyme/guido-learns-fsharp) - 
 - [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
@@ -2136,7 +2137,6 @@
 - [Javran/xmonad-javran](https://github.com/Javran/xmonad-javran) - Javran's xmonad config
 - [Javran/xmonad-entryhelper](https://github.com/Javran/xmonad-entryhelper) - xmonad-entryhelper makes your compiled XMonad config a standalone binary.
 - [MrElendig/dotfiles-alice](https://github.com/MrElendig/dotfiles-alice) - dotfiles from the 'Alice' box
-- [pbrisbin/dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [radicle-dev/radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
 - [xmonad/xmonad-contrib](https://github.com/xmonad/xmonad-contrib) - Contributed modules for xmonad
@@ -3521,7 +3521,7 @@
 - [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick) - Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [citruspi/Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
 - [johndbritton/teleport](https://github.com/johndbritton/teleport) - Virtual KVM for OS X
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -5107,6 +5107,7 @@
 - [mgsloan/mgsloan-dotfiles](https://github.com/mgsloan/mgsloan-dotfiles) - Linux and xmonad configuration files
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [nerdgeneration/www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
+- [pbrisbin/dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
 - [archlinux/contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [zsh-hooks/zsh-hooks](https://github.com/zsh-hooks/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
