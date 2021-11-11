@@ -219,7 +219,7 @@
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [jstrieb/hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly
 - [pranomostro/uu](https://github.com/pranomostro/uu) - [stable] unsorted uniq that does not lock up your pipeline
 - [jbush001/NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
@@ -938,6 +938,7 @@
 
 ## Go 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [a-h/templ](https://github.com/a-h/templ) - A language, command line tool and set of IDE extensions that makes it easier to write HTML user interfaces and websites using Go.
@@ -1995,7 +1996,7 @@
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [proudier/sysctl-explorer](https://github.com/proudier/sysctl-explorer) - Easy access to Linux' sysctl documentation
 - [w3c/manual-of-style](https://github.com/w3c/manual-of-style) - The W3C Manual of Style
-- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Tailwind CSS components and interactive elements library.
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source library of components built with Tailwind CSS
 - [saylordotorg/text_intermediate-algebra](https://github.com/saylordotorg/text_intermediate-algebra) - Intermediate Algebra
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
@@ -2276,7 +2277,7 @@
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
 - [hudochenkov/stylelint-order](https://github.com/hudochenkov/stylelint-order) - A plugin pack of order related linting rules for Stylelint.
 - [constverum/stylelint-config-rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order :vertical_traffic_light:
@@ -3596,7 +3597,7 @@
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
-- [timvisee/send-instances](https://github.com/timvisee/send-instances) - A list of public Send instances. Mirror.
+- [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror.
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
@@ -3864,6 +3865,8 @@
 
 ## Python 
 
+- [andy-lang/tmux-omnivim](https://github.com/andy-lang/tmux-omnivim) - Vim and Tmux, together as one.
+- [jceb/vmux](https://github.com/jceb/vmux) - vim/neovim session handler within tmux
 - [njanakiev/openstreetmap-heatmap](https://github.com/njanakiev/openstreetmap-heatmap) - Visualization of OpenStreetMap Data with Blender and Python
 - [ms-jpq/gay](https://github.com/ms-jpq/gay) - Colour your text / terminal to be more gay. 🏳️‍🌈
 - [blueOkiris/bgrm](https://github.com/blueOkiris/bgrm) - Virtual webcam that takes real webcam footage and replaces the background in order to have Virtual Backgrounds in MS Teams for Linux where the feature is unimplemented.
@@ -4508,7 +4511,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [chipsenkbeil/distant](https://github.com/chipsenkbeil/distant) - 🚧 (Alpha stage software) Library and tooling that supports remote filesystem and process operations. 🚧
-- [hkmatsumoto/roogle](https://github.com/hkmatsumoto/roogle) - A Rust API search engine
+- [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [sumeet/Zac](https://github.com/sumeet/Zac) - Interactive scripting language
@@ -4924,6 +4927,7 @@
 
 ## Shell 
 
+- [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word) - 
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature rich syntax highlighting for Zsh.
 - [rnorth/gh-combine-prs](https://github.com/rnorth/gh-combine-prs) - A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one.
@@ -5411,7 +5415,7 @@
 - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
-- [LessWrong2/Lesswrong2](https://github.com/LessWrong2/Lesswrong2) - The development repository for LessWrong2, based on Vulcan JS
+- [ForumMagnum/ForumMagnum](https://github.com/ForumMagnum/ForumMagnum) - The development repository for LessWrong2, based on Vulcan JS
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
@@ -5548,6 +5552,7 @@
 
 ## Vim script 
 
+- [yatli/vmux.vim](https://github.com/yatli/vmux.vim) - Better window management for Vim.
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - ⠀
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [dosimple/workspace.vim](https://github.com/dosimple/workspace.vim) - Workspace (as in i3wm) for Vim
@@ -5867,7 +5872,7 @@
 - [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
 - [drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
