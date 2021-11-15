@@ -941,6 +941,7 @@
 
 ## Go 
 
+- [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [kevinschoon/pomo](https://github.com/kevinschoon/pomo) - Pomodoro CLI
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -2240,6 +2241,7 @@
 
 ## JavaScript 
 
+- [reasonml/reasonml.github.io](https://github.com/reasonml/reasonml.github.io) - Reason's documentation site
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which sites to block and when to block them.
 - [abhinaba-ghosh/cypress-react-selector](https://github.com/abhinaba-ghosh/cypress-react-selector) - :zap: cypress plugin to locate react elements by component, props and state
@@ -3049,7 +3051,7 @@
 ## Less 
 
 - [ipfs-inactive/website](https://github.com/ipfs-inactive/website) - This repo has been replaced by https://github.com/ipfs/ipfs-website/
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 
 ## Lua 
 
@@ -4364,6 +4366,7 @@
 
 ## ReScript 
 
+- [mobily/rescript-date](https://github.com/mobily/rescript-date) - 📆 Date manipulation in ReScript.
 - [jihchi/rescript-react-realworld-example-app](https://github.com/jihchi/rescript-react-realworld-example-app) - Exemplary real world application built with ReScript and React
 - [shakacode/rescript-classnames](https://github.com/shakacode/rescript-classnames) - Reimplementation of classnames in ReScript
 - [reasonml-community/bs-express](https://github.com/reasonml-community/bs-express) - Express bindings in Reason
@@ -4843,7 +4846,7 @@
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -4938,6 +4941,7 @@
 
 ## Shell 
 
+- [justinesmithies/sway-dotfiles](https://github.com/justinesmithies/sway-dotfiles) - Dotfiles for my Sway WM setup.
 - [zzzeyez/colorlovers](https://github.com/zzzeyez/colorlovers) - apply system colors from colorlovers.com
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word) - 
