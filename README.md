@@ -143,11 +143,10 @@
 ## C 
 
 - [GhostNaN/mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
-- [chjj/mako](https://github.com/chjj/mako) - 
+- [chjj/mako](https://github.com/chjj/mako) - Bitcoin node written in C
 - [Ferdi265/wl-mirror](https://github.com/Ferdi265/wl-mirror) - a simple Wayland output mirror client
 - [clbr/radeontop](https://github.com/clbr/radeontop) - 
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - Flexible and fast ZSH plugin manager
 - [jstrieb/quickserv-examples](https://github.com/jstrieb/quickserv-examples) - Example applications to run with QuickServ
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A small X program which provides novel methods for keyboard driven cursor manipulation.
@@ -789,7 +788,7 @@
 - [juxt/apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -1039,6 +1038,7 @@
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
+- [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
@@ -2406,7 +2406,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1667-Stars](https://github.com/RealPeha/This-Repo-Has-1667-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3059,6 +3059,8 @@
 
 ## Lua 
 
+- [AllenDang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines for neovim.
+- [ldelossa/calltree.nvim](https://github.com/ldelossa/calltree.nvim) - Neovim's missing call-hierarchy UI.
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hkupty/impromptu.nvim](https://github.com/hkupty/impromptu.nvim) - Create prompts fast and easy
@@ -3111,7 +3113,7 @@
 - [eckon/treesitter-current-functions](https://github.com/eckon/treesitter-current-functions) - Quickly search through and jump to function definitions in the current neovim buffer
 - [kyoh86/telescope-windows.nvim](https://github.com/kyoh86/telescope-windows.nvim) - 
 - [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Understand code like a boss 🦍.
 - [iskolbin/lbase64](https://github.com/iskolbin/lbase64) - Lua base64 decoder/encoder
 - [jbyuki/ntangle.nvim](https://github.com/jbyuki/ntangle.nvim) - literate programming for neovim
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
@@ -3358,6 +3360,8 @@
 
 ## OCaml 
 
+- [whitequark/ocaml-m17n](https://github.com/whitequark/ocaml-m17n) - Multilingualization for the OCaml source code
+- [darklang/tablecloth](https://github.com/darklang/tablecloth) - An ergonomic, cross-platform, standard library for Rescript and OCaml
 - [ulrikstrid/dream-routes](https://github.com/ulrikstrid/dream-routes) - Define your Dream router with Routes
 - [ocaml/ocaml-re](https://github.com/ocaml/ocaml-re) - Pure OCaml regular expressions, with support for Perl and POSIX-style strings
 - [jacobaustin123/Coral](https://github.com/jacobaustin123/Coral) - The Coral Programming Language: a blazingly-fast, gradually-typed Python compiler with optional static typing for optimization and safety.
@@ -4368,6 +4372,7 @@
 
 ## ReScript 
 
+- [bloodyowl/rescript-recoil](https://github.com/bloodyowl/rescript-recoil) - Zero-cost bindings to Facebook's Recoil library
 - [bloodyowl/reshowcase](https://github.com/bloodyowl/reshowcase) - A tool to create demos for your ReScript React components
 - [mobily/rescript-date](https://github.com/mobily/rescript-date) - 📆 Date manipulation in ReScript.
 - [jihchi/rescript-react-realworld-example-app](https://github.com/jihchi/rescript-react-realworld-example-app) - Exemplary real world application built with ReScript and React
@@ -4949,7 +4954,8 @@
 - [zzzeyez/colorlovers](https://github.com/zzzeyez/colorlovers) - apply system colors from colorlovers.com
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word) - 
-- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature rich syntax highlighting for Zsh.
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - Flexible and fast ZSH plugin manager
 - [rnorth/gh-combine-prs](https://github.com/rnorth/gh-combine-prs) - A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one.
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
@@ -5286,6 +5292,7 @@
 
 ## TypeScript 
 
+- [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [hipstersmoothie/storybook-dark-mode](https://github.com/hipstersmoothie/storybook-dark-mode) - A storybook addon that lets your users toggle between dark and light mode.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
@@ -5348,7 +5355,6 @@
 - [electron/universal](https://github.com/electron/universal) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing
-- [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
