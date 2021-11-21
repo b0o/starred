@@ -2244,6 +2244,7 @@
 
 ## JavaScript 
 
+- [sanack/node-jq](https://github.com/sanack/node-jq) - Node.js wrapper for jq
 - [sanyaade-iot/next-site](https://github.com/sanyaade-iot/next-site) - The official website for Next.js
 - [glitchdotcom/friendly-words](https://github.com/glitchdotcom/friendly-words) - The Glitch word list, packaged into an NPM module for easy use.
 - [reasonml/reasonml.github.io](https://github.com/reasonml/reasonml.github.io) - Reason's documentation site
@@ -3059,6 +3060,11 @@
 
 ## Lua 
 
+- [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
+- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
+- [mjlbach/parallel.nvim](https://github.com/mjlbach/parallel.nvim) - DO NOT STAR THIS THIS IS FOR @SMOLCK ONLY
+- [caenrique/swap-buffers.nvim](https://github.com/caenrique/swap-buffers.nvim) - Lua plugin to swap buffers easily between split windows without changing the window layout
+- [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim "plugin" that could be a gist. Keep the cursor in the center of the screen.
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [AllenDang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines for neovim.
 - [ldelossa/calltree.nvim](https://github.com/ldelossa/calltree.nvim) - Neovim's missing call-hierarchy UI.
@@ -3114,7 +3120,7 @@
 - [eckon/treesitter-current-functions](https://github.com/eckon/treesitter-current-functions) - Quickly search through and jump to function definitions in the current neovim buffer
 - [kyoh86/telescope-windows.nvim](https://github.com/kyoh86/telescope-windows.nvim) - 
 - [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Understand code like a boss 🦍.
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Control codes like a boss 🦍.
 - [iskolbin/lbase64](https://github.com/iskolbin/lbase64) - Lua base64 decoder/encoder
 - [jbyuki/ntangle.nvim](https://github.com/jbyuki/ntangle.nvim) - literate programming for neovim
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
@@ -4502,6 +4508,7 @@
 
 ## Rust 
 
+- [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [raffomania/songsonar](https://github.com/raffomania/songsonar) - 📻 A smart spotify playlist with new releases from artists you follow
@@ -4848,6 +4855,7 @@
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [zetzit/zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -5587,6 +5595,7 @@
 
 ## Vim script 
 
+- [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [yatli/vmux.vim](https://github.com/yatli/vmux.vim) - Better window management for Vim.
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - ⠀
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
@@ -5656,7 +5665,7 @@
 - [google/vim-maktaba](https://github.com/google/vim-maktaba) - Consistent Vimscript
 - [stefandtw/quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
 - [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
-- [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window
+- [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window.
 - [vim-jp/go-vimlparser](https://github.com/vim-jp/go-vimlparser) - :zap: Vim Script Parser written in Go
 - [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [rhysd/reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
@@ -5747,7 +5756,6 @@
 - [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [jistr/vim-nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs) - NERDTree and tabs together in Vim, painlessly
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [mattn/vim-lexiv](https://github.com/mattn/vim-lexiv) - Yet Another Lexima
 - [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
