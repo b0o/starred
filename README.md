@@ -2244,6 +2244,7 @@
 
 ## JavaScript 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [sanack/node-jq](https://github.com/sanack/node-jq) - Node.js wrapper for jq
 - [sanyaade-iot/next-site](https://github.com/sanyaade-iot/next-site) - The official website for Next.js
 - [glitchdotcom/friendly-words](https://github.com/glitchdotcom/friendly-words) - The Glitch word list, packaged into an NPM module for easy use.
@@ -2408,7 +2409,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1667-Stars](https://github.com/RealPeha/This-Repo-Has-1667-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3066,7 +3067,7 @@
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
 - [mjlbach/parallel.nvim](https://github.com/mjlbach/parallel.nvim) - DO NOT STAR THIS THIS IS FOR @SMOLCK ONLY
 - [caenrique/swap-buffers.nvim](https://github.com/caenrique/swap-buffers.nvim) - Lua plugin to swap buffers easily between split windows without changing the window layout
-- [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim "plugin" that could be a gist. Keep the cursor in the center of the screen.
+- [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [AllenDang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines for neovim.
 - [ldelossa/calltree.nvim](https://github.com/ldelossa/calltree.nvim) - Neovim's missing call-hierarchy UI.
@@ -3418,7 +3419,7 @@
 - [mjambon/cmdliner-cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet) - Cheatsheet for adding command-line options to an OCaml program using cmdliner
 - [jchavarri/rebez](https://github.com/jchavarri/rebez) - Cubic bezier implementation in Reason / OCaml.
 - [jchavarri/rebind](https://github.com/jchavarri/rebind) - Experimental automated generation of Reason/BuckleScript bindings from JavaScript code.
-- [reason-in-barcelona/jsoo-react](https://github.com/reason-in-barcelona/jsoo-react) - js_of_ocaml bindings for ReactJS. Based on ReasonReact.
+- [ml-in-barcelona/jsoo-react](https://github.com/ml-in-barcelona/jsoo-react) - js_of_ocaml bindings for ReactJS. Based on ReasonReact.
 - [anmonteiro/piaf](https://github.com/anmonteiro/piaf) - Client library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 - [anmonteiro/ocaml-h2](https://github.com/anmonteiro/ocaml-h2) - An HTTP/2 implementation written in pure OCaml
 - [inhabitedtype/httpaf](https://github.com/inhabitedtype/httpaf) - A high performance, memory efficient, and scalable web server written in OCaml
@@ -4410,6 +4411,9 @@
 
 ## Reason 
 
+- [reasonml-community/graphql-ppx](https://github.com/reasonml-community/graphql-ppx) - GraphQL language primitives for ReScript/ReasonML written in ReasonML
+- [RadikalWiki/rescript-typescript](https://github.com/RadikalWiki/rescript-typescript) - An opinionated attempt at finally solving typescript interop for ReasonML / OCaml.
+- [jsiebern/re-typescript](https://github.com/jsiebern/re-typescript) - An opinionated attempt at finally solving typescript interop for ReasonML / OCaml.
 - [davesnx/dune-fmt](https://github.com/davesnx/dune-fmt) - An opinionated dune file formatter CLI
 - [believer/color](https://github.com/believer/color) - Ratio and score for colors according to WCAG
 - [davesnx/counter-as-a-service](https://github.com/davesnx/counter-as-a-service) - An example of a "real world" app written entirely with Reason
@@ -5305,6 +5309,8 @@
 
 ## TypeScript 
 
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [remix-run/remix](https://github.com/remix-run/remix) - Build better websites
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [hipstersmoothie/storybook-dark-mode](https://github.com/hipstersmoothie/storybook-dark-mode) - A storybook addon that lets your users toggle between dark and light mode.
