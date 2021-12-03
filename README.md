@@ -943,6 +943,7 @@
 
 ## Go 
 
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [progrium/shelldriver](https://github.com/progrium/shelldriver) - 
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
@@ -957,7 +958,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
-- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview README looks the same as GitHub.
+- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -2434,7 +2435,7 @@
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
-- [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
+- [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
@@ -2630,7 +2631,7 @@
 - [itsecurityco/to-google-translate](https://github.com/itsecurityco/to-google-translate) - Highlight text on a web page and send it to Google Translate
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [WebReflection/essential-md](https://github.com/WebReflection/essential-md) - An essential markdown-like utility for console logs
 - [oldweb-today/netcapsule](https://github.com/oldweb-today/netcapsule) - Browse old web pages the old way with virtual browsers in the browser
 - [fazo96/ipfs-drive](https://github.com/fazo96/ipfs-drive) - in browser file manager for IPFS
@@ -3385,6 +3386,7 @@
 
 ## OCaml 
 
+- [hyper-systems/rescript-sx](https://github.com/hyper-systems/rescript-sx) - Styling extension for ReScript.
 - [whitequark/ocaml-m17n](https://github.com/whitequark/ocaml-m17n) - Multilingualization for the OCaml source code
 - [darklang/tablecloth](https://github.com/darklang/tablecloth) - An ergonomic, cross-platform, standard library for Rescript and OCaml
 - [ulrikstrid/dream-routes](https://github.com/ulrikstrid/dream-routes) - Define your Dream router with Routes
@@ -3908,6 +3910,8 @@
 
 ## Python 
 
+- [PyCQA/pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
+- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [weechat/scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
 - [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
@@ -4527,6 +4531,7 @@
 
 ## Rust 
 
+- [greyblake/hail](https://github.com/greyblake/hail) - HTTP load testing tool powered by Rust
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
@@ -5023,7 +5028,7 @@
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [mikeswain/cmdfs](https://github.com/mikeswain/cmdfs) - Command File System
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored Youtube content on all local Chromecasts
-- [stephen304/castblock](https://github.com/stephen304/castblock) - Automatically skip integrated ads on youtube playing on chromecast
+- [stephen304/castblock-legacy](https://github.com/stephen304/castblock-legacy) - Automatically skip integrated ads on youtube playing on chromecast
 - [tchebb/chromecast-tools](https://github.com/tchebb/chromecast-tools) - A set of simple utilities for working with Chromecast USB boot image files
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
 - [bx-sh/specs.sh](https://github.com/bx-sh/specs.sh) - 🔬 Simple Shell Specifications
