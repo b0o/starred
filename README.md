@@ -929,7 +929,7 @@
 
 ## F* 
 
-- [FStarLang/FStar](https://github.com/FStarLang/FStar) - Verification system for effectful programs
+- [FStarLang/FStar](https://github.com/FStarLang/FStar) - A Proof-oriented Programming Language
 
 ## Fennel 
 
@@ -2251,6 +2251,9 @@
 
 ## JavaScript 
 
+- [generativefm/play](https://github.com/generativefm/play) - Player interface for Generative.fm
+- [generative-music/pieces-alex-bainter](https://github.com/generative-music/pieces-alex-bainter) - A collection of generative music pieces for generative.fm
+- [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [nodejs/node-inspect](https://github.com/nodejs/node-inspect) - `node debug` for `node --inspect`
 - [jaridmargolin/inspect-process](https://github.com/jaridmargolin/inspect-process) - 🔍 Dead simple debugging for node.js using chrome-devtools.
@@ -2397,7 +2400,7 @@
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [wntrblm/winterjs](https://github.com/wntrblm/winterjs) - Common JavaScript used across Winterbloom's documentation
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
 - [mafintosh/bogon](https://github.com/mafintosh/bogon) - Check if an IP is a bogon
@@ -3911,6 +3914,8 @@
 
 ## Python 
 
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
+- [JPfeP/AddRoutes](https://github.com/JPfeP/AddRoutes) - Allow MIDI, OSC and a remote Android App to control Blender 2.8
 - [miyakogi/syncer](https://github.com/miyakogi/syncer) - Async to sync converter
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
@@ -4436,6 +4441,7 @@
 
 ## Reason 
 
+- [aantron/reason-native-hello](https://github.com/aantron/reason-native-hello) - The smallest possible Reason Native project
 - [reasonml-community/graphql-ppx](https://github.com/reasonml-community/graphql-ppx) - GraphQL language primitives for ReScript/ReasonML written in ReasonML
 - [RadikalWiki/rescript-typescript](https://github.com/RadikalWiki/rescript-typescript) - An opinionated attempt at finally solving typescript interop for ReasonML / OCaml.
 - [jsiebern/re-typescript](https://github.com/jsiebern/re-typescript) - An opinionated attempt at finally solving typescript interop for ReasonML / OCaml.
@@ -4537,6 +4543,7 @@
 
 ## Rust 
 
+- [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
 - [greyblake/hail](https://github.com/greyblake/hail) - HTTP load testing tool powered by Rust
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
