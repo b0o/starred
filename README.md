@@ -943,7 +943,8 @@
 
 ## Go 
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hosted Git server for the command line🍦
+- [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [progrium/shelldriver](https://github.com/progrium/shelldriver) - 
@@ -1102,7 +1103,7 @@
 - [lukechampine/uint128](https://github.com/lukechampine/uint128) - uint128 for Go
 - [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 - [knqyf263/cob](https://github.com/knqyf263/cob) - Continuous Benchmark for Go Project
-- [GGP1/kure](https://github.com/GGP1/kure) - Cross-platform, secure and private CLI password manager with sessions
+- [GGP1/kure](https://github.com/GGP1/kure) - Cross-platform, private and secure CLI password manager with sessions
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
@@ -2430,10 +2431,9 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Most advanced OSINT tool for analyzing & finding social media profiles (Detections are updated regularly by automated systems)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
-- [ysulyma/rp-tutorial](https://github.com/ysulyma/rp-tutorial) - Tutorial for Liqvid
 - [complexityexplained/complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [jchavarri/javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
 - [chronakis/firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers) - Firefox extention to make the current container "sticky" when opening a new tab
@@ -2607,7 +2607,7 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ofabry/goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -3616,6 +3616,7 @@
 
 ## Others 
 
+- [kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools) - Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap projects
@@ -4424,6 +4425,7 @@
 
 ## ReScript 
 
+- [FormidableLabs/rescript-urql](https://github.com/FormidableLabs/rescript-urql) - ReScript bindings for Formidable's Universal React Query Library, urql.
 - [arafatamim/rescript-swr](https://github.com/arafatamim/rescript-swr) - ReScript bindings to SWR
 - [bloodyowl/rescript-recoil](https://github.com/bloodyowl/rescript-recoil) - Zero-cost bindings to Facebook's Recoil library
 - [bloodyowl/reshowcase](https://github.com/bloodyowl/reshowcase) - A tool to create demos for your ReScript React components
@@ -5013,6 +5015,7 @@
 
 ## Shell 
 
+- [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [brandoninvergo/pacnanny](https://github.com/brandoninvergo/pacnanny) - A wrapper script for Arch Linux's pacman that enforces good discipline
 - [daniel-baez/tmux_nvr](https://github.com/daniel-baez/tmux_nvr) - One nvim instance per tmux window, requires nvr.
 - [justinesmithies/sway-dotfiles](https://github.com/justinesmithies/sway-dotfiles) - Dotfiles for my Sway WM setup.
@@ -5462,6 +5465,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Multi-Token Standard (ERC-1155)
+- [ysulyma/lv-tutorial](https://github.com/ysulyma/lv-tutorial) - Tutorial for Liqvid
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [liqvidjs/player](https://github.com/liqvidjs/player) - Library for interactive videos in React
@@ -5534,7 +5538,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [rcjsuen/dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
 - [edtr-io/edtr-io](https://github.com/edtr-io/edtr-io) - Edtr.io is an open source WYSIWYG in-line web editor written in React. Its plugin architecture makes Edtr.io lean and extensive at the same time.
