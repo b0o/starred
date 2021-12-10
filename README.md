@@ -943,6 +943,7 @@
 
 ## Go 
 
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The high-performance build system for JavaScript & TypeScript codebases
 - [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -2431,7 +2432,7 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Most advanced OSINT tool for analyzing & finding social media profiles (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [complexityexplained/complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
@@ -2570,7 +2571,7 @@
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [sveltejs/svelte-loader](https://github.com/sveltejs/svelte-loader) - Webpack loader for svelte components.
 - [sveltejs/rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components with Rollup
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [umaar/better-twitter-embed](https://github.com/umaar/better-twitter-embed) - How I get tweets onto https://umaar.com/dev-tips/feedback
@@ -4455,6 +4456,7 @@
 
 ## Reason 
 
+- [aantron/promise-example-binding](https://github.com/aantron/promise-example-binding) - reason-promise binding to node-fetch
 - [aantron/reason-native-hello](https://github.com/aantron/reason-native-hello) - The smallest possible Reason Native project
 - [reasonml-community/graphql-ppx](https://github.com/reasonml-community/graphql-ppx) - GraphQL language primitives for ReScript/ReasonML written in ReasonML
 - [RadikalWiki/rescript-typescript](https://github.com/RadikalWiki/rescript-typescript) - An opinionated attempt at finally solving typescript interop for ReasonML / OCaml.
@@ -4558,6 +4560,8 @@
 
 ## Rust 
 
+- [github/stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs
+- [octaltree/linearf](https://github.com/octaltree/linearf) - A fast and extensible fuzzy finder on vim
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [sayanarijit/yamlfun](https://github.com/sayanarijit/yamlfun) - [Proof of Concept] Embedded functional scripting language with YAML ¯\_(ツ)_/¯
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
@@ -4800,7 +4804,7 @@
 - [dropbox/rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib
 - [ANSSI-FR/MLA](https://github.com/ANSSI-FR/MLA) - Multi Layer Archive - A pure rust encrypted and compressed archive file format
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
-- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
+- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [hobofan/cargo-nono](https://github.com/hobofan/cargo-nono) - Check your crate for (possible) no_std compatibility
 - [chalharu/rust-compression](https://github.com/chalharu/rust-compression) - Compression libraries implemented by pure Rust.
@@ -5015,6 +5019,7 @@
 
 ## Shell 
 
+- [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [brandoninvergo/pacnanny](https://github.com/brandoninvergo/pacnanny) - A wrapper script for Arch Linux's pacman that enforces good discipline
 - [daniel-baez/tmux_nvr](https://github.com/daniel-baez/tmux_nvr) - One nvim instance per tmux window, requires nvr.
@@ -5395,7 +5400,7 @@
 - [trekhleb/trekhleb.github.io](https://github.com/trekhleb/trekhleb.github.io) - 🧬 My personal website with a list of my projects that help people learn and blog posts about life, web-development, and machine-learning.
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Add & commit files from a path directly from GitHub Actions
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Add & commit files directly from GitHub Actions
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
@@ -5501,7 +5506,7 @@
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [ryankaplan/gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-- [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
+- [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [tesseralis/polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
