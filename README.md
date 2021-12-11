@@ -1326,7 +1326,7 @@
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [kyleconroy/sqlc-tour](https://github.com/kyleconroy/sqlc-tour) - 
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
@@ -2256,6 +2256,9 @@
 
 ## JavaScript 
 
+- [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
+- [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
+- [immersive-web/webxr](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
 - [guyandtheworld/reallyconfused](https://github.com/guyandtheworld/reallyconfused) - Explore, Create and Share Learning Roadmaps in Tech 📍 🚀  🧗 🎒
 - [generativefm/play](https://github.com/generativefm/play) - Player interface for Generative.fm
 - [generative-music/pieces-alex-bainter](https://github.com/generative-music/pieces-alex-bainter) - A collection of generative music pieces for generative.fm
@@ -3230,7 +3233,7 @@
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - 
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
-- [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - A dead simple completion framework
+- [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - Tree-sitter powered syntax-aware completion framework.
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [tjdevries/lazy.nvim](https://github.com/tjdevries/lazy.nvim) - Require as little as possible. Do as little work as possible. Spend hours shaving off milliseconds
