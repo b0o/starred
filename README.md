@@ -818,7 +818,7 @@
 
 - [google/lisp-koans](https://github.com/google/lisp-koans) - Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features.
 - [inconvergent/snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
-- [inconvergent/weir](https://github.com/inconvergent/weir) - A system for making generative systems
+- [inconvergent/weir](https://github.com/inconvergent/weir) - (deprecated) A system for making generative systems
 - [malcolmstill/ulubis](https://github.com/malcolmstill/ulubis) - A Wayland compositor written in Common Lisp
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 - [stumpwm/stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
@@ -4239,7 +4239,7 @@
 - [infokiller/i3-scratchpad](https://github.com/infokiller/i3-scratchpad) - Enhanced i3 scratchpad
 - [nwg-piotr/psuinfo](https://github.com/nwg-piotr/psuinfo) - A psutil-based command to display customizable system usage info in a single line, for Tint2 executors or CLI
 - [DavidRoldan523/amazon_reviews_allpages](https://github.com/DavidRoldan523/amazon_reviews_allpages) - Script to scrape all reviews on all Amazon pages
-- [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups you control
+- [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
 - [xdbob/sway-services](https://github.com/xdbob/sway-services) - Collection of systemd unit files and tools to run sway and tools inside systemd user services
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
@@ -5369,6 +5369,7 @@
 
 ## TypeScript 
 
+- [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
 - [modulz/stitches-site](https://github.com/modulz/stitches-site) - 
