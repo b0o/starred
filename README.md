@@ -1421,7 +1421,6 @@
 - [tj/go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
 - [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
 - [getsentry/sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
-- [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [neex/phuip-fpizdam](https://github.com/neex/phuip-fpizdam) - Exploit for CVE-2019-11043
 - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
@@ -2019,6 +2018,7 @@
 - [saylordotorg/text_intermediate-algebra](https://github.com/saylordotorg/text_intermediate-algebra) - Intermediate Algebra
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
+- [ocaml/v3.ocaml.org-server](https://github.com/ocaml/v3.ocaml.org-server) - Server-side of the next version of the ocaml.org website. See  https://github.com/ocaml/v3.ocaml.org for the frontend.
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
@@ -2340,7 +2340,7 @@
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Free web UI for headless Chrome browser. RBI. CBII. Remote browser isolation, embeddable BrowserView, secure chrome-as-a-service. Managed, variable bandwidth and co-browsing options available in Pro versions. Like S2, WebGap, Bromium, Authentic8, Menlo Security and Broadcom, but free and source-available. Integrated secure document viewing with CDR from https://github.com/dosyago/p2%2e
+- [i5ik/ViewFinder](https://github.com/i5ik/ViewFinder) - :camera: ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [nprapps/elections20-interactive](https://github.com/nprapps/elections20-interactive) - Front-end graphics for the 2020 general election
 - [nprapps/sidechain](https://github.com/nprapps/sidechain) - Modern responsive iframes
@@ -3415,7 +3415,6 @@
 - [ocaml/ood](https://github.com/ocaml/ood) - OCaml.org v3 data repository
 - [jsthomas/tidy_email](https://github.com/jsthomas/tidy_email) - An OCaml wrapper library that makes it easy to send email with different services.
 - [charlesetc/feather](https://github.com/charlesetc/feather) - A shell library for OCaml
-- [ocaml/v3.ocaml.org-server](https://github.com/ocaml/v3.ocaml.org-server) - Server-side of the next version of the ocaml.org website. See  https://github.com/ocaml/v3.ocaml.org for the frontend.
 - [RedPRL/cooltt](https://github.com/RedPRL/cooltt) - 😎TT
 - [remixlabs/wasicaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly
 - [chetmurthy/utjson](https://github.com/chetmurthy/utjson) - Union Typing for JSON
@@ -4823,7 +4822,7 @@
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
 - [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
 - [Diggsey/spanr](https://github.com/Diggsey/spanr) - Procedural macro span debugger/visualizer
-- [KaiJewson/inline-proc](https://github.com/KaiJewson/inline-proc) - Inline procedural macros for Rust
+- [SabrinaJewson/inline-proc](https://github.com/SabrinaJewson/inline-proc) - Inline procedural macros for Rust
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [Freax13/macro-compose](https://github.com/Freax13/macro-compose) - 
@@ -5202,6 +5201,7 @@
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
+- [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
 - [zsh-users/zaw](https://github.com/zsh-users/zaw) - zsh anything.el-like widget.
 - [bebehei/akulm](https://github.com/bebehei/akulm) - After KernelUpgrade Loadable Modules
