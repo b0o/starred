@@ -944,6 +944,7 @@
 
 ## Go 
 
+- [jvns/mess-with-dns-backend](https://github.com/jvns/mess-with-dns-backend) - 
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
@@ -2257,6 +2258,7 @@
 
 ## JavaScript 
 
+- [11ways/janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
 - [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
@@ -3405,6 +3407,7 @@
 
 ## OCaml 
 
+- [dbuenzli/fmt](https://github.com/dbuenzli/fmt) - OCaml Format pretty-printer combinators
 - [hyper-systems/rescript-sx](https://github.com/hyper-systems/rescript-sx) - Styling extension for ReScript.
 - [whitequark/ocaml-m17n](https://github.com/whitequark/ocaml-m17n) - Multilingualization for the OCaml source code
 - [darklang/tablecloth](https://github.com/darklang/tablecloth) - An ergonomic, cross-platform, standard library for Rescript and OCaml
@@ -5617,7 +5620,7 @@
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [sourcegraph/javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [zendeskgarden/react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
