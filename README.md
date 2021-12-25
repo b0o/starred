@@ -144,6 +144,7 @@
 
 ## C 
 
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [google/iconvg](https://github.com/google/iconvg) - IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji.
 - [werererer/japokwm](https://github.com/werererer/japokwm) - A wlroots and dwl based tiling wayland compositor based around creating layouts
@@ -595,7 +596,7 @@
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [homenc/HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.
 - [IBM/fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM Homomorphic Encryption Toolkit For MacOS
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive parallel programming in "Python".
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
@@ -949,6 +950,7 @@
 
 ## Go 
 
+- [bradfitz/snake](https://github.com/bradfitz/snake) - a #golang Snake game in webassembly running at http://snake.126.49.198.in-addr.arpa/
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [jvns/mess-with-dns-backend](https://github.com/jvns/mess-with-dns-backend) - 
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
@@ -985,7 +987,7 @@
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua users and fans!
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
 - [WithGJR/regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-Compatible Git Implementation
 - [riesinger/golorem](https://github.com/riesinger/golorem) - CLI lorem ipsum generator written in Go
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
@@ -2027,7 +2029,6 @@
 - [ocaml/v3.ocaml.org-server](https://github.com/ocaml/v3.ocaml.org-server) - Server-side of the next version of the ocaml.org website. See  https://github.com/ocaml/v3.ocaml.org for the frontend.
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [Circadiaware/VLiDACMel-entrainment-therapy-non24](https://github.com/Circadiaware/VLiDACMel-entrainment-therapy-non24) - Work-in-progress draft of an entrainment protocol for the Non-24 circadian rhythm disorder.
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
@@ -3101,6 +3102,7 @@
 
 ## Lua 
 
+- [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 - [bfredl/bfredl.github.io](https://github.com/bfredl/bfredl.github.io) - public docs and dotfiles
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
@@ -3420,6 +3422,9 @@
 
 ## OCaml 
 
+- [dbuenzli/brr](https://github.com/dbuenzli/brr) - Browser programming toolkit for OCaml
+- [dbuenzli/qoic](https://github.com/dbuenzli/qoic) - QOI image codec for OCaml (unreleased)
+- [dbuenzli/hc](https://github.com/dbuenzli/hc) - Hypertext connection for dynamic web pages (unreleased)
 - [anuragsoni/shuttle](https://github.com/anuragsoni/shuttle) - buffered channels for async
 - [mnxn/promise_jsoo](https://github.com/mnxn/promise_jsoo) - Js_of_ocaml bindings to JS Promises with supplemental functions
 - [dbuenzli/fmt](https://github.com/dbuenzli/fmt) - OCaml Format pretty-printer combinators
@@ -3677,6 +3682,7 @@
 - [BlackFan/client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution) - Prototype Pollution and useful Script Gadgets
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🪄 Handy commands to run in Go projects
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
@@ -4460,6 +4466,7 @@
 
 ## ReScript 
 
+- [cometkim/rescript-deno](https://github.com/cometkim/rescript-deno) - WIP: ReScript bindings to Deno API
 - [gchumillas-dev/rescript_menu](https://github.com/gchumillas-dev/rescript_menu) - 
 - [TheSpyder/rescript-nodejs](https://github.com/TheSpyder/rescript-nodejs) - Node bindings for ReScript
 - [ri7nz/rescript-libs](https://github.com/ri7nz/rescript-libs) - ⚡️ a Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.
@@ -4494,6 +4501,7 @@
 
 ## Reason 
 
+- [ncthbrt/reason-nact](https://github.com/ncthbrt/reason-nact) - let reason-nact = (node.js, reason, actors) ⇒ your µ services have never been so typed
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 - [aantron/promise-example-binding](https://github.com/aantron/promise-example-binding) - reason-promise binding to node-fetch
 - [aantron/reason-native-hello](https://github.com/aantron/reason-native-hello) - The smallest possible Reason Native project
