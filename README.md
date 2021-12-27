@@ -2239,7 +2239,7 @@
 - [coinexcom/coinex_exchange_api](https://github.com/coinexcom/coinex_exchange_api) - The global digital coin exchange.
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
 - [envoyproxy/envoy-mobile](https://github.com/envoyproxy/envoy-mobile) - Client HTTP and networking library based on the Envoy project for iOS, Android, and more.
-- [OxfordHCC/tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
+- [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
@@ -2264,6 +2264,7 @@
 
 ## JavaScript 
 
+- [ainalem/framer-motion-menu-overlay](https://github.com/ainalem/framer-motion-menu-overlay) - Framer Motion React menu overlay SVG morphing demo
 - [aaronshaf/react-toggle](https://github.com/aaronshaf/react-toggle) - Elegant, accessible toggle component for React. Also a glorified checkbox.
 - [chatziko/location-guard](https://github.com/chatziko/location-guard) - Hide your geographic location from websites.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
@@ -2447,7 +2448,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2624,7 +2625,6 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ofabry/goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
@@ -3047,6 +3047,8 @@
 
 ## Jinja 
 
+- [33Fraise33/desktop-ansible](https://github.com/33Fraise33/desktop-ansible) - Ansible Playbooks to install Arch on my PC from scratch
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Jsonnet 
@@ -3254,7 +3256,7 @@
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [ingram1107/aedile.nvim](https://github.com/ingram1107/aedile.nvim) - A Neovim plugin that open REPL in a split window according to the current buffer filetype
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - 
-- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
+- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - Tree-sitter powered syntax-aware completion framework.
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
@@ -3648,6 +3650,7 @@
 
 ## Others 
 
+- [jsf9k/ansible-arch-install](https://github.com/jsf9k/ansible-arch-install) - Ansible code for installing and configuring Arch Linux
 - [KGOH/Jian-Info](https://github.com/KGOH/Jian-Info) - Jian keyboard info repository
 - [tamanishi/Pinky3](https://github.com/tamanishi/Pinky3) - A split 3 x 7 vertically staggered keys and 4 thumb keys keyboard.
 - [joric/jorne](https://github.com/joric/jorne) - My fork of Corne keyboard with an extra key for brackets and international layouts
@@ -3962,6 +3965,8 @@
 
 ## Python 
 
+- [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
+- [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit search engine implemented in python
 - [sdushantha/svart](https://github.com/sdushantha/svart) - Change between dark/light mode depending on the ambient light intensity
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
