@@ -1051,7 +1051,7 @@
 - [jfreymuth/pulse](https://github.com/jfreymuth/pulse) - PulseAudio client implementation in pure Go
 - [sqp/pulseaudio](https://github.com/sqp/pulseaudio) - pulseaudio dbus client for go
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
-- [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent MySQL/PostgreSQL schema management by SQL
+- [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more
 - [schemalex/schemalex](https://github.com/schemalex/schemalex) - Generate difference sql of two mysql schema
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [yarpc/yarpc-go](https://github.com/yarpc/yarpc-go) - A message passing platform for Go
@@ -2281,7 +2281,7 @@
 - [guyandtheworld/reallyconfused](https://github.com/guyandtheworld/reallyconfused) - Explore, Create and Share Learning Roadmaps in Tech 📍 🚀  🧗 🎒
 - [generativefm/play](https://github.com/generativefm/play) - Player interface for Generative.fm
 - [generative-music/pieces-alex-bainter](https://github.com/generative-music/pieces-alex-bainter) - A collection of generative music pieces for generative.fm
-- [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Edge, Chrome and Safari
+- [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [nodejs/node-inspect](https://github.com/nodejs/node-inspect) - `node debug` for `node --inspect`
 - [jaridmargolin/inspect-process](https://github.com/jaridmargolin/inspect-process) - 🔍 Dead simple debugging for node.js using chrome-devtools.
@@ -2719,7 +2719,6 @@
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [good-lly/gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
 - [mcnuttandrew/forum-explorer](https://github.com/mcnuttandrew/forum-explorer) - Explore Forum Structured Data (on HackerNews) Visually
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
@@ -4145,7 +4144,7 @@
 - [geigi/cozy](https://github.com/geigi/cozy) - Listen to audio books on Linux
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [ms-jpq/isomorphic_copy](https://github.com/ms-jpq/isomorphic_copy) - Cross platform clipboard | networkless! remote copy
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [lukabuz/BlockView](https://github.com/lukabuz/BlockView) - A python script that can be used to track transactions on the bitcoin blockchain
@@ -5095,6 +5094,7 @@
 
 ## Shell 
 
+- [im-tomu/fomu-toolchain](https://github.com/im-tomu/fomu-toolchain) - A collection of tools for developing for Fomu
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -5403,7 +5403,7 @@
 
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
-- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain droplet from any point in the contiguous United States to its endpoint.
+- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain droplet to its endpoint.
 
 ## Swift 
 
@@ -5534,6 +5534,7 @@
 - [clangd/coc-clangd](https://github.com/clangd/coc-clangd) - clangd extension for coc.nvim
 - [weirongxu/coc-calc](https://github.com/weirongxu/coc-calc) - Calculate extension for coc.nvim
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
 - [voldikss/coc-browser](https://github.com/voldikss/coc-browser) - 🍬Webpage completion source for coc.nvim
@@ -6075,13 +6076,12 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
 - [jperals/zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [zircleUI/github-trending-plus](https://github.com/zircleUI/github-trending-plus) - ✨ Experimental Github trending UI
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
