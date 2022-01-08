@@ -731,6 +731,7 @@
 
 ## CSS 
 
+- [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [Libera-Chat/libera-chat.github.io](https://github.com/Libera-Chat/libera-chat.github.io) - The website of Libera Chat, providing documentation and news
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -2022,6 +2023,7 @@
 
 ## HTML 
 
+- [gaspumpgolf/gaspumpgolf.github.io](https://github.com/gaspumpgolf/gaspumpgolf.github.io) - 
 - [eligrey/RetargetMouseScroll](https://github.com/eligrey/RetargetMouseScroll) - A JavaScript library for retargetting mouse scroll events.
 - [radiantly/you-cant-download-this-image](https://github.com/radiantly/you-cant-download-this-image) - Downloading images from the web is as easy as right clicking them and selecting "Save image as..", right? Well, not anymore xD
 - [neovim/neovim.github.io](https://github.com/neovim/neovim.github.io) - Neovim website
@@ -2271,6 +2273,7 @@
 
 ## JavaScript 
 
+- [fairfield-programming/ducks](https://github.com/fairfield-programming/ducks) - 🦆 The repository for dealing with all the ducks created and managed by the Fairfield Programming Association.
 - [missing-user/marching_squares](https://github.com/missing-user/marching_squares) - A marching squares implementation in JS and an explanation website to go along with it
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [richarddong/ikea-monitor](https://github.com/richarddong/ikea-monitor) - IKEA Click & Collect Availability website source code
@@ -2790,7 +2793,6 @@
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [pixelnest/presskit.html](https://github.com/pixelnest/presskit.html) - Re-implementation of presskit() as a static site generator
 - [Zulko/eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
@@ -3116,6 +3118,7 @@
 
 ## Lua 
 
+- [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
@@ -3256,7 +3259,7 @@
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
-- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline written in Lua
+- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [ironhouzi/starlite-nvim](https://github.com/ironhouzi/starlite-nvim) - Expedient and simple text highlighting using built in Neovim commands:  |*|, |g*|, |#|, |g#|. Written in Lua.
 - [thugcee/nvim-map-to-lua](https://github.com/thugcee/nvim-map-to-lua) - Neovim plugin to convert `:map` to `vim.api.nvim_set_keymap`.
@@ -3627,6 +3630,7 @@
 
 ## Objective-C 
 
+- [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) - Add new abilities to the macOS keep-awake utility, Amphetamine.
 - [inaturalist/INaturalistIOS](https://github.com/inaturalist/INaturalistIOS) - iNaturalist iOS app
 - [mszoek/airyx](https://github.com/mszoek/airyx) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 - [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick) - Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
@@ -4637,6 +4641,7 @@
 
 ## Rust 
 
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [nevdelap/ned](https://github.com/nevdelap/ned) - For regular expression power users, ned is like grep and ripgrep, but with powerful replace capabilities, and more powerful than sed, as it isn't restricted to line oriented editing.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -5453,6 +5458,9 @@
 
 ## TypeScript 
 
+- [elm-tooling/elm-language-server](https://github.com/elm-tooling/elm-language-server) - Language server implementation for Elm
+- [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
+- [znck/grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [zth/vscode-rescript-relay](https://github.com/zth/vscode-rescript-relay) - 
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
@@ -5513,7 +5521,7 @@
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
 - [nikeee/dot-language-server](https://github.com/nikeee/dot-language-server) - A language server for the DOT language
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing and Feature Flagging Platform
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -5689,6 +5697,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [projectstorm/react-canvas](https://github.com/projectstorm/react-canvas) - A pluggable layout and graphics system aimed at powering desktop publishing as well as storm-react-diagrams
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [reduxjs/react-redux-benchmarks](https://github.com/reduxjs/react-redux-benchmarks) - Performance benchmark harness for React-Redux
@@ -5706,7 +5715,7 @@
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [quantumkv/nighthawk](https://github.com/quantumkv/nighthawk) - A stealthy, simple, unobtrusive music player that stays out of your way
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
-- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2021: trends about front-end and Node.js frameworks, tooling, testing, Vue, React...
+- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2021: trends about front-end and Node.js frameworks, build tools, testing, Vue, React... Available in English and Japanese.
 - [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
