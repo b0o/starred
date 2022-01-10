@@ -4817,7 +4817,7 @@
 - [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [rg3dengine/rusty-editor](https://github.com/rg3dengine/rusty-editor) - Scene editor for rg3d engine
+- [FyroxEngine/rusty-editor](https://github.com/FyroxEngine/rusty-editor) - Scene editor for rg3d engine
 - [near/borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
@@ -5112,7 +5112,7 @@
 
 ## Shell 
 
-- [Deleh/sf](https://github.com/Deleh/sf) - Simplify and beautify bash scripts
+- [Deleh/sf](https://github.com/Deleh/sf) - Simple Bash framework which provides argument parsing, usage output and text formatting variables
 - [im-tomu/fomu-toolchain](https://github.com/im-tomu/fomu-toolchain) - A collection of tools for developing for Fomu
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
