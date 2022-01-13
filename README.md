@@ -955,6 +955,7 @@
 
 ## Go 
 
+- [tmickleydoyle/shallow-explore](https://github.com/tmickleydoyle/shallow-explore) - From the command line, quickly explore data from a CSV file.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [aidansteele/ipv6-ghost-ship](https://github.com/aidansteele/ipv6-ghost-ship) - Silly usage of AWS EC2 IPv6 prefixes
 - [lanrat/certspotter](https://github.com/lanrat/certspotter) - Certificate Transparency Log Monitor
@@ -1921,7 +1922,7 @@
 - [douglasmakey/ursho](https://github.com/douglasmakey/ursho) - URL Shortener Service in Go
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go.
-- [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Code Generation for Functional Programming, Concurrency and Generics in Golang
+- [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Derives and generates mundane golang functions that you do not want to maintain yourself
 - [mattes/migrate](https://github.com/mattes/migrate) - Database migrations. CLI and Golang library.
 - [go-reform/reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
@@ -2463,7 +2464,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3119,6 +3120,7 @@
 
 ## Lua 
 
+- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) - A Neovim Telescope extension to open your browser bookmarks right from the editor!
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
@@ -3431,7 +3433,7 @@
 - [mjstewart/nix-home-manager](https://github.com/mjstewart/nix-home-manager) - nix files for home-manager
 - [cachix/ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
-- [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Xmonad, Neovim
+- [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  NixOS, Fish + direnv, Neovim + lsp
 - [baloo/laurn](https://github.com/baloo/laurn) - Dev environment isolation
 - [jD91mZM2/dotfiles](https://github.com/jD91mZM2/dotfiles) - Literally just my "dotfiles" (except most don't even have dots in front of them). Not interesting, but 'kay.
 - [Gabriel439/haskell-nix](https://github.com/Gabriel439/haskell-nix) - Nix and Haskell in production
@@ -3677,6 +3679,7 @@
 
 ## Others 
 
+- [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [chenglou/domgraphs](https://github.com/chenglou/domgraphs) - Access DOM from ReScript to plot graphs on a &lt;canvas&gt; element.
 - [jsf9k/ansible-arch-install](https://github.com/jsf9k/ansible-arch-install) - Ansible code for installing and configuring Arch Linux
@@ -4633,7 +4636,7 @@
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [chibicode/duo](https://github.com/chibicode/duo) - 👬 A Simple Jekyll Theme.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot Updates
 - [simplygenius/atmos](https://github.com/simplygenius/atmos) - Breathe easier with terraform.  Cloud system architectures made easy
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
@@ -5544,7 +5547,7 @@
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites, faster. 🚀🧑‍🚀✨
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
