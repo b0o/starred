@@ -955,6 +955,7 @@
 
 ## Go 
 
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [tmickleydoyle/shallow-explore](https://github.com/tmickleydoyle/shallow-explore) - From the command line, quickly explore data from a CSV file.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [aidansteele/ipv6-ghost-ship](https://github.com/aidansteele/ipv6-ghost-ship) - Silly usage of AWS EC2 IPv6 prefixes
@@ -2960,7 +2961,7 @@
 - [electronicwhisper/recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
 - [messutied/colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [sindresorhus/noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -3121,6 +3122,11 @@
 
 ## Lua 
 
+- [ldelossa/litee-bookmarks.nvim](https://github.com/ldelossa/litee-bookmarks.nvim) - A litee.nvim backed plugin for saving important places in your code.
+- [ldelossa/litee-filetree.nvim](https://github.com/ldelossa/litee-filetree.nvim) - A file explorer implemented with the litee.nvim library.
+- [ldelossa/litee-symboltree.nvim](https://github.com/ldelossa/litee-symboltree.nvim) - A document outline tool implemented with the litee.nvim library
+- [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features
+- [ldelossa/litee-calltree.nvim](https://github.com/ldelossa/litee-calltree.nvim) - Neovim's missing call hierarchy UI
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
@@ -3151,14 +3157,13 @@
 - [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [AllenDang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines for neovim.
-- [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hkupty/impromptu.nvim](https://github.com/hkupty/impromptu.nvim) - Create prompts fast and easy
 - [alexghergh/nvim-tmux-navigation](https://github.com/alexghergh/nvim-tmux-navigation) - Easy Neovim-Tmux navigation, completely written in Lua
 - [nathom/tmux.nvim](https://github.com/nathom/tmux.nvim) - A tiny plugin for seamless switching between vim splits and tmux panes
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) - Neovim lua API for highly extensible popup window
-- [lua-rocks/proto](https://github.com/lua-rocks/proto) - 
+- [lua-rocks/proto](https://github.com/lua-rocks/proto) - OOP library
 - [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) - Simplistic chain completion plugin for Neovim
 - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
 - [AyeSpacey/Nvimfy](https://github.com/AyeSpacey/Nvimfy) - 🌌 presenting neovim for all screens ! - from Text Editor to a Full Featured IDE...
@@ -3449,6 +3454,7 @@
 
 ## OCaml 
 
+- [avsm/osrelease](https://github.com/avsm/osrelease) - Detect operating system, distribution, version and architecture in OCaml
 - [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml 🐫 🎮
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
 - [ocaml-multicore/effects-examples](https://github.com/ocaml-multicore/effects-examples) - Examples to illustrate the use of algebraic effects in Multicore OCaml
@@ -4682,7 +4688,7 @@
 - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text and curl.
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [danii/hematita](https://github.com/danii/hematita) - A memory safe Lua interpreter
 - [chipsenkbeil/vimwiki-rs](https://github.com/chipsenkbeil/vimwiki-rs) - Rust library and tooling to parse, render, and modify vimwiki text and files.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
