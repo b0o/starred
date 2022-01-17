@@ -523,6 +523,9 @@
 
 ## C++ 
 
+- [nickbnf/glogg](https://github.com/nickbnf/glogg) - A fast, advanced log explorer.
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [binspector/binspector](https://github.com/binspector/binspector) - A binary format analysis tool
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
@@ -955,6 +958,7 @@
 
 ## Go 
 
+- [egnyte/ax](https://github.com/egnyte/ax) - A CLI tool to query structured logs, including Kibana, Cloudwatch, Stackdriver, Docker and plain JSON file logs.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [tmickleydoyle/shallow-explore](https://github.com/tmickleydoyle/shallow-explore) - From the command line, quickly explore data from a CSV file.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
@@ -2275,6 +2279,8 @@
 
 ## JavaScript 
 
+- [jhchen/fast-diff](https://github.com/jhchen/fast-diff) - A fast Javascript string diff
+- [Darius2652/Burgr](https://github.com/Darius2652/Burgr) - An open-source recreation of the Burger website shown on /r/webdev
 - [nytimes/aframe-loader-3dtiles-component](https://github.com/nytimes/aframe-loader-3dtiles-component) - A-Frame component using 3D-Tiles
 - [airbnb/react-outside-click-handler](https://github.com/airbnb/react-outside-click-handler) - OutsideClickHandler component for React.
 - [fairfield-programming/ducks](https://github.com/fairfield-programming/ducks) - 🦆 The repository for dealing with all the ducks created and managed by the Fairfield Programming Association.
@@ -3122,6 +3128,7 @@
 
 ## Lua 
 
+- [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - Incremental fuzzy search motion plugin for Neovim
 - [ldelossa/litee-bookmarks.nvim](https://github.com/ldelossa/litee-bookmarks.nvim) - A litee.nvim backed plugin for saving important places in your code.
 - [ldelossa/litee-filetree.nvim](https://github.com/ldelossa/litee-filetree.nvim) - A file explorer implemented with the litee.nvim library.
 - [ldelossa/litee-symboltree.nvim](https://github.com/ldelossa/litee-symboltree.nvim) - A document outline tool implemented with the litee.nvim library
@@ -3333,7 +3340,7 @@
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
-- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin for Neovim
+- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [shadmansaleh/IRC.nvim](https://github.com/shadmansaleh/IRC.nvim) - IRC client for neovim
@@ -3454,6 +3461,8 @@
 
 ## OCaml 
 
+- [jhrdina/ocaml-diff](https://github.com/jhrdina/ocaml-diff) - Symmetric Diffs for OCaml Standard Library
+- [gjaldon/simple-diff](https://github.com/gjaldon/simple-diff) - A simple diff algorithm in pure OCaml
 - [avsm/osrelease](https://github.com/avsm/osrelease) - Detect operating system, distribution, version and architecture in OCaml
 - [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml 🐫 🎮
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
@@ -4006,6 +4015,8 @@
 
 ## Python 
 
+- [ceccopierangiolieugenio/tlogg](https://github.com/ceccopierangiolieugenio/tlogg) - A fast, advanced log explorer.
+- [paulgb/simplediff](https://github.com/paulgb/simplediff) - Simple Diff Function implemented in Python, PHP, CoffeeScript, and JavaScript
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit search engine implemented in python
@@ -4406,6 +4417,7 @@
 - [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [lambdalisue/neovim-prompt](https://github.com/lambdalisue/neovim-prompt) - A python library to produce a customizable Neovim/Vim prompt.
@@ -4603,6 +4615,7 @@
 
 ## Ruby 
 
+- [esrlabs/chipmunk-plugins-store](https://github.com/esrlabs/chipmunk-plugins-store) - plugins for chipmunk
 - [ianks/octodown](https://github.com/ianks/octodown) - Github markdown previewing straight from your shell.
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
 - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you?
@@ -4660,6 +4673,7 @@
 
 ## Rust 
 
+- [pamburus/hl](https://github.com/pamburus/hl) - A log viewer that translates JSON logs into human-readable representation.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [nevdelap/ned](https://github.com/nevdelap/ned) - For regular expression power users, ned is like grep and ripgrep, but with powerful replace capabilities, and more powerful than sed, as it isn't restricted to line oriented editing.
@@ -5106,6 +5120,7 @@
 
 ## Scala 
 
+- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A log viewer which visualises log events such that it is easy to identify problems or events of interest. This app was implemented using Scala and JavaFX, GluonHQ toolchain and GraalVM as platform.
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [guardian/gu-who](https://github.com/guardian/gu-who) - answering: who are all these users in my GitHub org?
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
@@ -5358,7 +5373,6 @@
 - [tj/n](https://github.com/tj/n) - Node version management
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [drothlis/clang-ctags](https://github.com/drothlis/clang-ctags) - Generate tag file for C++ source code, using the clang C++ compiler's parsing libraries
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [marcelhuberfoo/docker-cabal-build](https://github.com/marcelhuberfoo/docker-cabal-build) - 
@@ -5478,6 +5492,8 @@
 
 ## TypeScript 
 
+- [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
+- [ocaml-lsp/ocaml-language-server](https://github.com/ocaml-lsp/ocaml-language-server) - Language server for OCaml and Reason
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [greyblake/from-typescript-to-rescript](https://github.com/greyblake/from-typescript-to-rescript) - Frontend of https://Inhyped.com written in TypeScript and rewritten in ReScript
 - [elm-tooling/elm-language-server](https://github.com/elm-tooling/elm-language-server) - Language server implementation for Elm
