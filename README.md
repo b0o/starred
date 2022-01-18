@@ -144,6 +144,7 @@
 
 ## C 
 
+- [r-c-f/waynergy](https://github.com/r-c-f/waynergy) - A synergy client for Wayland compositors
 - [ygrek/ocurl](https://github.com/ygrek/ocurl) - OCaml bindings to libcurl
 - [nkrkv/nvim-treesitter-rescript](https://github.com/nkrkv/nvim-treesitter-rescript) - ReScript parser for Tree-sitter packed as a NeoVim plugin
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
@@ -3128,6 +3129,7 @@
 
 ## Lua 
 
+- [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - Incremental fuzzy search motion plugin for Neovim
 - [ldelossa/litee-bookmarks.nvim](https://github.com/ldelossa/litee-bookmarks.nvim) - A litee.nvim backed plugin for saving important places in your code.
 - [ldelossa/litee-filetree.nvim](https://github.com/ldelossa/litee-filetree.nvim) - A file explorer implemented with the litee.nvim library.
@@ -3461,6 +3463,9 @@
 
 ## OCaml 
 
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [ocaml-community/easy-format](https://github.com/ocaml-community/easy-format) - Pretty-printing library for OCaml
+- [ocaml/ocamlfind](https://github.com/ocaml/ocamlfind) - The OCaml findlib library manager
 - [jhrdina/ocaml-diff](https://github.com/jhrdina/ocaml-diff) - Symmetric Diffs for OCaml Standard Library
 - [gjaldon/simple-diff](https://github.com/gjaldon/simple-diff) - A simple diff algorithm in pure OCaml
 - [avsm/osrelease](https://github.com/avsm/osrelease) - Detect operating system, distribution, version and architecture in OCaml
@@ -4527,6 +4532,7 @@
 
 ## ReScript 
 
+- [nkrkv/jzon](https://github.com/nkrkv/jzon) - ReScript library to encode and decode JSON data with type safety.
 - [cca-io/rescript-material-ui](https://github.com/cca-io/rescript-material-ui) - ReScript bindings for Material-UI
 - [OctoD/thestate](https://github.com/OctoD/thestate) - Global state for your react apps, made with Rescript
 - [bloodyowl/rescript-js](https://github.com/bloodyowl/rescript-js) - Bindings to the JS standard library
@@ -5492,6 +5498,7 @@
 
 ## TypeScript 
 
+- [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - mdSilo is an open-source alternative to your writing tool. You fully own and control  your data.
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 - [ocaml-lsp/ocaml-language-server](https://github.com/ocaml-lsp/ocaml-language-server) - Language server for OCaml and Reason
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
