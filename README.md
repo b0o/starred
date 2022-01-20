@@ -2480,7 +2480,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3207,7 +3207,7 @@
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - nvim-cmp source for nvim lua
 - [nvim-lsp/try.nvim](https://github.com/nvim-lsp/try.nvim) - Test container CI for neovim and the lsp ecosystem
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive vertical scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 - [titan-lang/titan](https://github.com/titan-lang/titan) - The Titan programming language
@@ -3238,7 +3238,7 @@
 - [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - A Neovim plugin that shows type annotations as virtual text
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [yatli/gui-widgets.nvim](https://github.com/yatli/gui-widgets.nvim) - 
-- [yosamrath/kyoto.nvim](https://github.com/yosamrath/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
+- [0xsamrath/kyoto.nvim](https://github.com/0xsamrath/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for markdown notebook navigation and management
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim http client written in Lua
 - [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) - Keep buffer dimensions in proportion when terminal window is resized
@@ -3472,6 +3472,7 @@
 
 ## OCaml 
 
+- [Gbury/ocaml-memgraph](https://github.com/Gbury/ocaml-memgraph) - A small library to output memory graph for ocaml values
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [ocaml-community/easy-format](https://github.com/ocaml-community/easy-format) - Pretty-printing library for OCaml
 - [ocaml/ocamlfind](https://github.com/ocaml/ocamlfind) - The OCaml findlib library manager
@@ -4541,6 +4542,7 @@
 
 ## ReScript 
 
+- [tom-sherman/rescript-remix-template](https://github.com/tom-sherman/rescript-remix-template) - Remix and ReScript in harmony
 - [nkrkv/jzon](https://github.com/nkrkv/jzon) - ReScript library to encode and decode JSON data with type safety.
 - [cca-io/rescript-material-ui](https://github.com/cca-io/rescript-material-ui) - ReScript bindings for Material-UI
 - [OctoD/thestate](https://github.com/OctoD/thestate) - Global state for your react apps, made with Rescript
@@ -5156,6 +5158,7 @@
 
 ## Shell 
 
+- [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - the ultimate compact fzf gh extension
 - [aaronNGi/petopts](https://github.com/aaronNGi/petopts) - Portable and simple option parsing, powered by getopts(1p).
 - [Deleh/sf](https://github.com/Deleh/sf) - Simple Bash framework which provides argument parsing, usage output and text formatting variables
 - [im-tomu/fomu-toolchain](https://github.com/im-tomu/fomu-toolchain) - A collection of tools for developing for Fomu
@@ -5465,6 +5468,7 @@
 
 ## Svelte 
 
+- [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 - [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint.
@@ -5507,6 +5511,8 @@
 
 ## TypeScript 
 
+- [wildspecial/obsidian-mirror](https://github.com/wildspecial/obsidian-mirror) - 
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - mdSilo is an open-source alternative to your writing tool. You fully own and control  your data.
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 - [ocaml-lsp/ocaml-language-server](https://github.com/ocaml-lsp/ocaml-language-server) - Language server for OCaml and Reason
