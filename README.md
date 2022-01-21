@@ -763,7 +763,6 @@
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 - [pelson/repohealth.info](https://github.com/pelson/repohealth.info) - Service which collects indicators of a repository's health into a single report
-- [NICHOLAS85/dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [risk-first/website](https://github.com/risk-first/website) - Risk-First Software Development
 - [r2binx/NordGTK](https://github.com/r2binx/NordGTK) - Dark GTK theme based on the Nord color palette &lt;3
@@ -965,6 +964,7 @@
 
 ## Go 
 
+- [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [egnyte/ax](https://github.com/egnyte/ax) - A CLI tool to query structured logs, including Kibana, Cloudwatch, Stackdriver, Docker and plain JSON file logs.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [tmickleydoyle/shallow-explore](https://github.com/tmickleydoyle/shallow-explore) - From the command line, quickly explore data from a CSV file.
@@ -2036,6 +2036,7 @@
 
 ## HTML 
 
+- [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [gaspumpgolf/gaspumpgolf.github.io](https://github.com/gaspumpgolf/gaspumpgolf.github.io) - 
 - [eligrey/RetargetMouseScroll](https://github.com/eligrey/RetargetMouseScroll) - A JavaScript library for retargetting mouse scroll events.
 - [radiantly/you-cant-download-this-image](https://github.com/radiantly/you-cant-download-this-image) - Downloading images from the web is as easy as right clicking them and selecting "Save image as..", right? Well, not anymore xD
@@ -2067,7 +2068,6 @@
 - [tc39/proposal-smart-pipelines](https://github.com/tc39/proposal-smart-pipelines) - Old archived draft proposal for smart pipelines. Go to the new Hack-pipes proposal at js-choi/proposal-hack-pipes.
 - [valtech-nyc/proposal-fsharp-pipelines](https://github.com/valtech-nyc/proposal-fsharp-pipelines) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [tinyvision-ai-inc/UPduino-v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) - UPduino 3.0: new 4 layer layout, various other improvements
 - [mfitzp/List_of_SMS_gateways](https://github.com/mfitzp/List_of_SMS_gateways) - This content was previously available on WikiPedia but deleted as not really encylopaedia-worthy. Since an article of mine was originally a major source for the data in the page, I took a copy for posterity. It's now here on Github, reformatted as an editable CSV file and publicly editable by all.
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
@@ -2286,6 +2286,7 @@
 
 ## JavaScript 
 
+- [atsepkov/RapydScript](https://github.com/atsepkov/RapydScript) - Python-inspired, decluttered JavaScript
 - [kevva/to-ico](https://github.com/kevva/to-ico) - Convert PNG to ICO in memory
 - [jhchen/fast-diff](https://github.com/jhchen/fast-diff) - A fast Javascript string diff
 - [Darius2652/Burgr](https://github.com/Darius2652/Burgr) - An open-source recreation of the Burger website shown on /r/webdev
@@ -2506,6 +2507,7 @@
 - [cannc4/Siren](https://github.com/cannc4/Siren) - Algorithmic Composition Interface
 - [jevakallio/jest-clean-console-reporter](https://github.com/jevakallio/jest-clean-console-reporter) - A Jest Reporter to group, hide and prettify spammy console warnings
 - [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [jehna/ga-lite](https://github.com/jehna/ga-lite) - Small, cacheable and open version of Google Analytics JS client
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
@@ -3712,6 +3714,8 @@
 
 ## Others 
 
+- [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
+- [lindig/ocaml-style](https://github.com/lindig/ocaml-style) - A style guide for OCaml
 - [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [chenglou/domgraphs](https://github.com/chenglou/domgraphs) - Access DOM from ReScript to plot graphs on a &lt;canvas&gt; element.
@@ -4031,6 +4035,7 @@
 
 ## Python 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [ceccopierangiolieugenio/tlogg](https://github.com/ceccopierangiolieugenio/tlogg) - A fast, advanced log explorer.
 - [paulgb/simplediff](https://github.com/paulgb/simplediff) - Simple Diff Function implemented in Python, PHP, CoffeeScript, and JavaScript
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
@@ -4514,6 +4519,7 @@
 
 ## QML 
 
+- [NICHOLAS85/dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
 
@@ -5558,7 +5564,7 @@
 - [trekhleb/trekhleb.github.io](https://github.com/trekhleb/trekhleb.github.io) - 🧬 My personal website with a list of my projects that help people learn and blog posts about life, web-development, and machine-learning.
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Add & commit files directly from GitHub Actions
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Automatically commit changes made in your workflow run directly to your repo
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
