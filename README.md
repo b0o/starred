@@ -742,6 +742,7 @@
 
 ## CSS 
 
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
@@ -969,6 +970,8 @@
 
 ## Go 
 
+- [ondat/trousseau](https://github.com/ondat/trousseau) - Store and Access your Secrets the Kubernetes native way with any external KMS.
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [kayac/go-katsubushi](https://github.com/kayac/go-katsubushi) - ID generator server
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
@@ -2044,6 +2047,7 @@
 
 ## HTML 
 
+- [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [gaspumpgolf/gaspumpgolf.github.io](https://github.com/gaspumpgolf/gaspumpgolf.github.io) - 
 - [eligrey/RetargetMouseScroll](https://github.com/eligrey/RetargetMouseScroll) - A JavaScript library for retargetting mouse scroll events.
@@ -2294,6 +2298,7 @@
 
 ## JavaScript 
 
+- [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [visa-viz/visa-viz.github.io](https://github.com/visa-viz/visa-viz.github.io) - 
 - [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [cherupil/Director](https://github.com/cherupil/Director) - A basic tweening library
@@ -3728,6 +3733,7 @@
 
 ## Others 
 
+- [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [lindig/ocaml-style](https://github.com/lindig/ocaml-style) - A style guide for OCaml
 - [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
@@ -3798,6 +3804,7 @@
 - [ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling) - OpenSSF Security Tooling Working Group
 - [ossf/wg-identifying-security-threats](https://github.com/ossf/wg-identifying-security-threats) - The purpose of the Identifying Security Threats working group is to enable stakeholders to have informed confidence in the security of open source projects. We do this by collecting, curating, and communicating relevant metrics and metadata from open source projects and the ecosystems of which they are a part.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
 - [joelowj/awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
@@ -4049,6 +4056,7 @@
 
 ## Python 
 
+- [Syphdias/i3-chrome-tab-dragging](https://github.com/Syphdias/i3-chrome-tab-dragging) - This floats chrome windows with i3wm while dragging tabs.
 - [sudara/melatonin_audio_sparklines](https://github.com/sudara/melatonin_audio_sparklines) - Sparklines For JUCE AudioBlocks
 - [jerryvarghese1/bpsci](https://github.com/jerryvarghese1/bpsci) - 6DOF Dynamic Simulations for Blender with Python
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -4713,6 +4721,7 @@
 
 ## Rust 
 
+- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [sunshowers-code/rust-cli-recommendations](https://github.com/sunshowers-code/rust-cli-recommendations) - Rust CLI design tips and best practices
 - [pamburus/hl](https://github.com/pamburus/hl) - A log viewer that translates JSON logs into human-readable representation.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -4883,7 +4892,6 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
@@ -5182,6 +5190,7 @@
 
 ## Shell 
 
+- [intermezzio/weffe](https://github.com/intermezzio/weffe) - Add effects to a webcam in Linux for Zoom, Webex, or other calls, or stream a video to a webcam, including blurred background
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - the ultimate compact fzf gh extension
 - [aaronNGi/petopts](https://github.com/aaronNGi/petopts) - Portable and simple option parsing, powered by getopts(1p).
 - [Deleh/sf](https://github.com/Deleh/sf) - Simple Bash framework which provides argument parsing, usage output and text formatting variables
@@ -5535,6 +5544,9 @@
 
 ## TypeScript 
 
+- [privatenumber/type-flag](https://github.com/privatenumber/type-flag) - ⛳️ Tiny & typed argv parser for Node.js
+- [SoftMaple/Editor](https://github.com/SoftMaple/Editor) - A Paper Typesetting Editor
+- [ocaml/setup-ocaml](https://github.com/ocaml/setup-ocaml) - GitHub Action for the OCaml programming language
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [aidenybai/million](https://github.com/aidenybai/million) - 🦁 &lt;1kb compiler-augmented virtual DOM. It's fast!
 - [wildspecial/obsidian-mirror](https://github.com/wildspecial/obsidian-mirror) - 
@@ -5729,7 +5741,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [rcjsuen/dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
-- [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
+- [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - [edtr-io/edtr-io](https://github.com/edtr-io/edtr-io) - Edtr.io is an open source WYSIWYG in-line web editor written in React. Its plugin architecture makes Edtr.io lean and extensive at the same time.
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
