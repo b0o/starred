@@ -558,7 +558,7 @@
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
-- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
+- [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [anthwlock/untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -3156,6 +3156,9 @@
 
 ## Lua 
 
+- [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
+- [rmagatti/igs.nvim](https://github.com/rmagatti/igs.nvim) - A minimalist Neovim plugin that enhances the usage of git status inside Neovim.
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) - 
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) - A plugin for setting Neovim LSP with JSON files
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
@@ -3493,6 +3496,7 @@
 
 ## OCaml 
 
+- [mirage/duff](https://github.com/mirage/duff) - Pure OCaml implementation of libXdiff (Rabin's fingerprint)
 - [let-def/hotcaml](https://github.com/let-def/hotcaml) - Hotcaml: an interpreter with watching and reloading
 - [Gbury/ocaml-memgraph](https://github.com/Gbury/ocaml-memgraph) - A small library to output memory graph for ocaml values
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -5221,7 +5225,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
-- [archlinux/devtools](https://github.com/archlinux/devtools) - Tools for Arch Linux package maintainers
+- [archlinux/devtools](https://github.com/archlinux/devtools) - Tools for Arch Linux package maintainers (read-only mirror)
 - [AndydeCleyre/zpy](https://github.com/AndydeCleyre/zpy) - Zsh helpers for Python venvs, with pip-tools
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
