@@ -970,6 +970,7 @@
 
 ## Go 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [ondat/trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
@@ -2300,9 +2301,9 @@
 
 ## JavaScript 
 
-- [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
+- [feross/magickeyboard.io](https://github.com/feross/magickeyboard.io) - Ultimate hacker keyboard
+- [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [visa-viz/visa-viz.github.io](https://github.com/visa-viz/visa-viz.github.io) - 
-- [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [cherupil/Director](https://github.com/cherupil/Director) - A basic tweening library
 - [cherupil/Sandbox](https://github.com/cherupil/Sandbox) - A basic WebGL library.
 - [atsepkov/RapydScript](https://github.com/atsepkov/RapydScript) - Python-inspired, decluttered JavaScript
@@ -3499,6 +3500,8 @@
 
 ## OCaml 
 
+- [OCamlPro/drom](https://github.com/OCamlPro/drom) - drom is a wrapper over opam/dune in an attempt to provide a cargo-like user experience. It can be used to create full OCaml projects with sphinx and odoc documentation. It has specific knowledge of Github and will generate files for Github Actions CI and Github pages.
+- [lindig/hello](https://github.com/lindig/hello) - A minimal OCaml project
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [dbuenzli/down](https://github.com/dbuenzli/down) - An OCaml toplevel (REPL) upgrade
 - [mirage/duff](https://github.com/mirage/duff) - Pure OCaml implementation of libXdiff (Rabin's fingerprint)
@@ -3743,6 +3746,7 @@
 ## Others 
 
 - [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques
+- [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [lindig/ocaml-style](https://github.com/lindig/ocaml-style) - A style guide for OCaml
 - [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
@@ -4731,6 +4735,7 @@
 
 ## Rust 
 
+- [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [sunshowers-code/rust-cli-recommendations](https://github.com/sunshowers-code/rust-cli-recommendations) - Rust CLI design tips and best practices
 - [pamburus/hl](https://github.com/pamburus/hl) - A log viewer that translates JSON logs into human-readable representation.
@@ -5061,7 +5066,7 @@
 - [linebender/runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
@@ -5556,6 +5561,7 @@
 ## TypeScript 
 
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
+- [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [privatenumber/type-flag](https://github.com/privatenumber/type-flag) - ⛳️ Tiny & typed argv parser for Node.js
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
 - [ocaml/setup-ocaml](https://github.com/ocaml/setup-ocaml) - GitHub Action for the OCaml programming language
