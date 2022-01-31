@@ -910,6 +910,7 @@
 
 ## Elm 
 
+- [ianmackenzie/elm-units](https://github.com/ianmackenzie/elm-units) - Simple, safe and convenient unit types and conversions for Elm
 - [elm-in-elm/compiler](https://github.com/elm-in-elm/compiler) - Elm compiler written in Elm
 - [ravichugh/sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch) - Direct Manipulation Programming for HTML/SVG
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
@@ -970,6 +971,7 @@
 
 ## Go 
 
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [ondat/trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
@@ -3745,7 +3747,7 @@
 
 ## Others 
 
-- [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques
+- [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques.
 - [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [lindig/ocaml-style](https://github.com/lindig/ocaml-style) - A style guide for OCaml
