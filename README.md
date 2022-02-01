@@ -971,7 +971,7 @@
 
 ## Go 
 
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [ondat/trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
@@ -999,7 +999,7 @@
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [kevinschoon/pomo](https://github.com/kevinschoon/pomo) - Pomodoro CLI
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [a-h/templ](https://github.com/a-h/templ) - A language, command line tool and set of IDE extensions that makes it easier to write HTML user interfaces and websites using Go.
@@ -2061,7 +2061,7 @@
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [proudier/sysctl-explorer](https://github.com/proudier/sysctl-explorer) - Easy access to Linux' sysctl documentation
 - [w3c/manual-of-style](https://github.com/w3c/manual-of-style) - The W3C Manual of Style
-- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Tailwind CSS components and interactive elements
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular library of interactive components built with Tailwind CSS
 - [saylordotorg/text_intermediate-algebra](https://github.com/saylordotorg/text_intermediate-algebra) - Intermediate Algebra
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
@@ -2333,7 +2333,7 @@
 - [generativefm/generators](https://github.com/generativefm/generators) - A collection of generative music pieces for generative.fm
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
-- [nodejs/node-inspect](https://github.com/nodejs/node-inspect) - `node debug` for `node --inspect`
+- [nodejs/node-inspect](https://github.com/nodejs/node-inspect) - Code that's now part of node, previously `node debug` for `node --inspect`
 - [jaridmargolin/inspect-process](https://github.com/jaridmargolin/inspect-process) - 🔍 Dead simple debugging for node.js using chrome-devtools.
 - [june07/NiM](https://github.com/june07/NiM) - Streamline Your Node.js Debugging Workflow with Chromium (Chrome, Edge, More) DevTools.
 - [modulz/stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
@@ -3896,7 +3896,7 @@
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
 - [oduwsdl/ORS](https://github.com/oduwsdl/ORS) - Object Resource Stream and CDXJ Drafts
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [ipfs/notes](https://github.com/ipfs/notes) - IPFS Collaborative Notebook for Research
 - [Kels316/DIY-Air-Purifier](https://github.com/Kels316/DIY-Air-Purifier) - A small DIY air purifier using off-the-shelf components for under $100
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
@@ -4579,7 +4579,7 @@
 ## Racket 
 
 - [mbutterick/hyphenate](https://github.com/mbutterick/hyphenate) - Racket implementation of Knuth–Liang hyphenation algorithm
-- [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system in Racket
+- [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system
 
 ## Raku 
 
