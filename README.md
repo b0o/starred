@@ -920,7 +920,7 @@
 
 ## Emacs Lisp 
 
-- [da-edra/dotfiles](https://github.com/da-edra/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 - [merrickluo/lsp-tailwindcss](https://github.com/merrickluo/lsp-tailwindcss) - the lsp-mode client for tailwindcss
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [gizmomogwai/org-kanban](https://github.com/gizmomogwai/org-kanban) - Kanban table for org-mode
@@ -971,12 +971,12 @@
 
 ## Go 
 
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [ondat/trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
-- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [kayac/go-katsubushi](https://github.com/kayac/go-katsubushi) - ID generator server
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
@@ -2052,6 +2052,7 @@
 
 ## HTML 
 
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know 99.7% of all GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [gaspumpgolf/gaspumpgolf.github.io](https://github.com/gaspumpgolf/gaspumpgolf.github.io) - 
@@ -2304,10 +2305,12 @@
 
 ## JavaScript 
 
+- [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [LeanyLabs/js-array-performance](https://github.com/LeanyLabs/js-array-performance) - Performance benchmarks of different array iteration methods
 - [adametry/gulp-eslint](https://github.com/adametry/gulp-eslint) - A Gulp plugin for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 - [feross/magickeyboard.io](https://github.com/feross/magickeyboard.io) - Ultimate hacker keyboard
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
 - [visa-viz/visa-viz.github.io](https://github.com/visa-viz/visa-viz.github.io) - 
 - [cherupil/Director](https://github.com/cherupil/Director) - A basic tweening library
 - [cherupil/Sandbox](https://github.com/cherupil/Sandbox) - A basic WebGL library.
@@ -3565,7 +3568,6 @@
 - [SumitPadhiyar/confuzz](https://github.com/SumitPadhiyar/confuzz) - Concurrency property fuzzing tool for Lwt-based OCaml programs
 - [anmonteiro/aws-lambda-ocaml-runtime](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) - An OCaml custom runtime for AWS Lambda
 - [ocaml-multicore/domainslib](https://github.com/ocaml-multicore/domainslib) - Parallel Programming over Domains
-- [ocaml-multicore/multicore-talks](https://github.com/ocaml-multicore/multicore-talks) - Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"
 - [ahrefs/hello-native-bucklescript](https://github.com/ahrefs/hello-native-bucklescript) - Skeleton of a shared library for bucklescript and native OCaml/Reason
 - [Khady/modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 - [jchavarri/incr_dom_reason](https://github.com/jchavarri/incr_dom_reason) - Example project of janestreet/incr_dom with Reason
@@ -5558,6 +5560,7 @@
 ## TeX 
 
 - [DavidMichaelRoberts/Tao_1983](https://github.com/DavidMichaelRoberts/Tao_1983) - Terry Tao's first published paper
+- [ocaml-multicore/multicore-talks](https://github.com/ocaml-multicore/multicore-talks) - Repository containing slides and examples from the 2020 OCaml Workshop talk on "Parallelising your OCaml code with Multicore OCaml"
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
