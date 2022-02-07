@@ -144,6 +144,7 @@
 
 ## C 
 
+- [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [Dion-Systems/metadesk](https://github.com/Dion-Systems/metadesk) - 
 - [wetherall/ATOLL-1.0](https://github.com/wetherall/ATOLL-1.0) - Just trying to make a dang fine 40% keyboard
@@ -756,6 +757,7 @@
 - [ream88/stylelint-config-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order) - stylelint + idiomatic-css = ❤️
 - [Circadiaware/wearadian](https://github.com/Circadiaware/wearadian) - Non-invasive wearable circadian rhythm monitors
 - [remake/kanban-starter](https://github.com/remake/kanban-starter) - 
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) - 
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -972,6 +974,7 @@
 
 ## Go 
 
+- [kortschak/gospel](https://github.com/kortschak/gospel) - misspelled word linter for Go comments and string literals
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) - 🥘 An independent package manager for compiled binaries.
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH
@@ -2310,6 +2313,9 @@
 
 ## JavaScript 
 
+- [protoship/html-to-rescript-jsx](https://github.com/protoship/html-to-rescript-jsx) - Convert plain HTML to a valid ReScript JSX component
+- [TheSpyder/bs-atdgen-generator](https://github.com/TheSpyder/bs-atdgen-generator) - Pre-compiled versions of atdgen binaries to be consumed from ReScript projects
+- [ahrefs/atdgen-workshop-starter](https://github.com/ahrefs/atdgen-workshop-starter) - Starter project for ReasonConf atdgen workshop
 - [flexdinesh/browser-or-node](https://github.com/flexdinesh/browser-or-node) - Check where the code is running in the browser or node.js
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [LeanyLabs/js-array-performance](https://github.com/LeanyLabs/js-array-performance) - Performance benchmarks of different array iteration methods
@@ -2984,8 +2990,8 @@
 - [jshttp/mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
 - [visionmedia/superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [mui-org/material-ui-docs](https://github.com/mui-org/material-ui-docs) - ⚠️ Please don't submit PRs here as they will be closed. To submit translations please visit https://translate.material-ui.com. To edit the English docs or source code, please use the main repository:
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui-docs](https://github.com/mui/material-ui-docs) - ⚠️ Please don't submit PRs here as they will be closed. To submit translations please visit https://translate.material-ui.com. To edit the English docs or source code, please use the main repository:
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
@@ -3171,6 +3177,7 @@
 
 ## Lua 
 
+- [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
 - [vigoux/architext.nvim](https://github.com/vigoux/architext.nvim) - :rocket: Structural editing powered by treesitter
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
 - [rmagatti/igs.nvim](https://github.com/rmagatti/igs.nvim) - A minimalist Neovim plugin that enhances the usage of git status inside Neovim.
@@ -3512,6 +3519,9 @@
 
 ## OCaml 
 
+- [rgrinberg/ocamlbuild-atdgen](https://github.com/rgrinberg/ocamlbuild-atdgen) - ocamlbuild plugin for atdgen
+- [ahrefs/bs-atdgen-codec-runtime](https://github.com/ahrefs/bs-atdgen-codec-runtime) - 
+- [mjambon/atdgen](https://github.com/mjambon/atdgen) - Now part of the atd repo
 - [OCamlPro/drom](https://github.com/OCamlPro/drom) - drom is a wrapper over opam/dune in an attempt to provide a cargo-like user experience. It can be used to create full OCaml projects with sphinx and odoc documentation. It has specific knowledge of Github and will generate files for Github Actions CI and Github pages.
 - [lindig/hello](https://github.com/lindig/hello) - A minimal OCaml project
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
@@ -3756,6 +3766,12 @@
 
 ## Others 
 
+- [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
+- [PyrooL/Alpha](https://github.com/PyrooL/Alpha) - A 28-key semi-ortholinear mechanical keyboard designed by PyroL
+- [sendyyeah/bevi](https://github.com/sendyyeah/bevi) - Inspired by Vortex Vibe and Wyvern, so here is Vibe Southpaw
+- [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
+- [ebastler/isometria-75](https://github.com/ebastler/isometria-75) - Minimalist 75% ISO keyboard
+- [coseyfannitutti/mysterium](https://github.com/coseyfannitutti/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
 - [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques for the people with limited time
@@ -3974,7 +3990,7 @@
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [andrea-rosa/conky-config](https://github.com/andrea-rosa/conky-config) - Conky config with Font Awesome
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) - Collect and spend money transparently. Please report issues or bugs on this repository. Feature requests and ideas welcome!
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) - We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [awsdocs/aws-go-developer-guide](https://github.com/awsdocs/aws-go-developer-guide) - AWS SDK for Go Developer Guide
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [reactjs/react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
@@ -4081,6 +4097,7 @@
 
 ## Python 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
 - [Syphdias/i3-chrome-tab-dragging](https://github.com/Syphdias/i3-chrome-tab-dragging) - This floats chrome windows with i3wm while dragging tabs.
 - [sudara/melatonin_audio_sparklines](https://github.com/sudara/melatonin_audio_sparklines) - Sparklines For JUCE AudioBlocks
@@ -4168,7 +4185,6 @@
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [BoukeHaarsma23/WattmanGTK](https://github.com/BoukeHaarsma23/WattmanGTK) - A Wattman-like GTK3+ GUI
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
-- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
 - [tobixen/thrash-protect](https://github.com/tobixen/thrash-protect) - Simple-Stupid user-space program doing "kill -STOP" and "kill -CONT" to protect from thrashing
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ColinDuquesnoy/QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet) - A dark style sheet for QtWidgets application
@@ -4599,6 +4615,11 @@
 
 ## ReScript 
 
+- [protoship/rescript-tutorial](https://github.com/protoship/rescript-tutorial) - 
+- [momentiris/eztuner](https://github.com/momentiris/eztuner) - A  web based (guitar) tuner
+- [momentiris/advent-of-code-2021](https://github.com/momentiris/advent-of-code-2021) - 
+- [opendevtools/rescript-hooks](https://github.com/opendevtools/rescript-hooks) - A collection of reusable React hooks
+- [opendevtools/wcag-color](https://github.com/opendevtools/wcag-color) - Color constrast helpers for the WCAG 2.0 standard
 - [opendevtools/rescript-intl](https://github.com/opendevtools/rescript-intl) - ReScript wrapper on top of JavaScript's Intl
 - [chris-armstrong/rescript-aws-sdk-v3-wrapper](https://github.com/chris-armstrong/rescript-aws-sdk-v3-wrapper) - ReScript bindings for the AWS SDK V3
 - [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
@@ -5277,7 +5298,7 @@
 - [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier.
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [mikeswain/cmdfs](https://github.com/mikeswain/cmdfs) - Command File System
-- [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored Youtube content on all local Chromecasts
+- [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts
 - [stephen304/castblock-legacy](https://github.com/stephen304/castblock-legacy) - Automatically skip integrated ads on youtube playing on chromecast
 - [tchebb/chromecast-tools](https://github.com/tchebb/chromecast-tools) - A set of simple utilities for working with Chromecast USB boot image files
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
