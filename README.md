@@ -485,7 +485,7 @@
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [jcs/xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
@@ -758,7 +758,7 @@
 - [ream88/stylelint-config-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order) - stylelint + idiomatic-css = ❤️
 - [Circadiaware/wearadian](https://github.com/Circadiaware/wearadian) - Non-invasive wearable circadian rhythm monitors
 - [remake/kanban-starter](https://github.com/remake/kanban-starter) - 
-- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) - 
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -975,6 +975,7 @@
 
 ## Go 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [kortschak/gospel](https://github.com/kortschak/gospel) - misspelled word linter for Go comments and string literals
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) - 🥘 An independent package manager for compiled binaries.
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
@@ -2167,7 +2168,6 @@
 
 ## Haskell 
 
-- [peti/git-annex](https://github.com/peti/git-annex) - Read-only mirror of the official git-annex repository, which Joey Hess removed from github.com. Update approximately once per day.
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Vim plug-ins
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
@@ -3495,6 +3495,7 @@
 
 ## Nim 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [ansiwave/ansiwave](https://github.com/ansiwave/ansiwave) - A modern BBS
 - [nim-lang/nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
 - [gokr/spry](https://github.com/gokr/spry) - A Smalltalk and Rebol inspired language implemented as an AST interpreter in Nim
@@ -3524,6 +3525,7 @@
 
 ## OCaml 
 
+- [dialohq/inline-test-ppx](https://github.com/dialohq/inline-test-ppx) - Write inline tests in ReScript, a ppx extension
 - [ocurrent/ocaml-ci](https://github.com/ocurrent/ocaml-ci) - A CI for OCaml projects
 - [ocaml-community/biniou](https://github.com/ocaml-community/biniou) - Extensible binary data format, like JSON but faster
 - [ocaml-community/yojson](https://github.com/ocaml-community/yojson) - Low-level JSON parsing and pretty-printing library for OCaml
@@ -4525,7 +4527,6 @@
 - [HexHive/T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [amazon-archives/amazon-polly-sample](https://github.com/amazon-archives/amazon-polly-sample) - Sample application for Amazon Polly. Allows to convert any blog into an audio podcast.
 - [aaronpenne/data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -5173,7 +5174,7 @@
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
