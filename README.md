@@ -975,6 +975,7 @@
 
 ## Go 
 
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [kortschak/gospel](https://github.com/kortschak/gospel) - misspelled word linter for Go comments and string literals
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) - 🥘 An independent package manager for compiled binaries.
@@ -2315,7 +2316,7 @@
 ## JavaScript 
 
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
 - [protoship/html-to-rescript-jsx](https://github.com/protoship/html-to-rescript-jsx) - Convert plain HTML to a valid ReScript JSX component
 - [TheSpyder/bs-atdgen-generator](https://github.com/TheSpyder/bs-atdgen-generator) - Pre-compiled versions of atdgen binaries to be consumed from ReScript projects
 - [ahrefs/atdgen-workshop-starter](https://github.com/ahrefs/atdgen-workshop-starter) - Starter project for ReasonConf atdgen workshop
@@ -3180,6 +3181,7 @@
 
 ## Lua 
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [hrsh7th/nvim-kit](https://github.com/hrsh7th/nvim-kit) - My personal Lua utilities for neovim.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
@@ -4246,7 +4248,7 @@
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [s3ql/s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
-- [twisted/towncrier](https://github.com/twisted/towncrier) - Building newsfiles for your project.
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Building the release notes for your project.
 - [falense/b2_fuse](https://github.com/falense/b2_fuse) - FUSE integration for Backblaze B2 Cloud storage
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [renatosc/nnv](https://github.com/renatosc/nnv) - NNV - Neural Network Visualizer
@@ -4625,6 +4627,7 @@
 
 ## ReScript 
 
+- [pixelpapercraft/pixel-papercraft-generator-builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) - Generator builder for Pixel Papercraft.
 - [protoship/rescript-tutorial](https://github.com/protoship/rescript-tutorial) - 
 - [momentiris/eztuner](https://github.com/momentiris/eztuner) - A  web based (guitar) tuner
 - [momentiris/advent-of-code-2021](https://github.com/momentiris/advent-of-code-2021) - 
@@ -5746,7 +5749,7 @@
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 2.
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
-- [opticdev/optic](https://github.com/opticdev/optic) - Optic documents and tests your API as you build it
+- [opticdev/optic](https://github.com/opticdev/optic) - Track and review API changes as a team
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
