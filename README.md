@@ -1412,7 +1412,7 @@
 - [donatj/hookah](https://github.com/donatj/hookah) - GitHub Webhooks Made Easy!
 - [high-moctane/nextword](https://github.com/high-moctane/nextword) - Predict next English words.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [lmorg/murex](https://github.com/lmorg/murex) - Bash-like shell which supports more advanced features designed for greater and safer DevOps productivity
+- [lmorg/murex](https://github.com/lmorg/murex) - Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [lukechampine/geiger](https://github.com/lukechampine/geiger) - A Geiger counter for allocations
 - [rsc/tlogdb](https://github.com/rsc/tlogdb) - Reusable transparent log database
@@ -2062,8 +2062,9 @@
 
 ## HTML 
 
+- [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [kiding/wanna-see-a-whiter-white](https://github.com/kiding/wanna-see-a-whiter-white) - CSS trick/bug to display a brighter white by exploiting browsers' HDR capability and Apple's EDR system
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know 99.7% of all GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know 99.3% of all GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [gaspumpgolf/gaspumpgolf.github.io](https://github.com/gaspumpgolf/gaspumpgolf.github.io) - 
@@ -2315,6 +2316,10 @@
 
 ## JavaScript 
 
+- [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
+- [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
 - [protoship/html-to-rescript-jsx](https://github.com/protoship/html-to-rescript-jsx) - Convert plain HTML to a valid ReScript JSX component
@@ -2523,7 +2528,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3693,7 +3698,7 @@
 - [Chimrod/i3_workspaces](https://github.com/Chimrod/i3_workspaces) - Workspace manager for i3-wm
 - [goblint/analyzer](https://github.com/goblint/analyzer) - Static analysis framework for C
 - [JetBrains-Research/GT](https://github.com/JetBrains-Research/GT) - Datatype-generic object-oriented transformations for OCaml
-- [ocamllabs/opam-monorepo](https://github.com/ocamllabs/opam-monorepo) - Duniverse is the spice of OCaml build life
+- [ocamllabs/opam-monorepo](https://github.com/ocamllabs/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [LaurentMazare/ocaml-arrow](https://github.com/LaurentMazare/ocaml-arrow) - 
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
@@ -3778,6 +3783,7 @@
 
 ## Others 
 
+- [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [PyrooL/Alpha](https://github.com/PyrooL/Alpha) - A 28-key semi-ortholinear mechanical keyboard designed by PyroL
 - [sendyyeah/bevi](https://github.com/sendyyeah/bevi) - Inspired by Vortex Vibe and Wyvern, so here is Vibe Southpaw
@@ -4677,6 +4683,7 @@
 
 ## Reason 
 
+- [rickyvetter/reductive](https://github.com/rickyvetter/reductive) - Redux in Reason
 - [ncthbrt/reason-nact](https://github.com/ncthbrt/reason-nact) - let reason-nact = (node.js, reason, actors) ⇒ your µ services have never been so typed
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 - [aantron/promise-example-binding](https://github.com/aantron/promise-example-binding) - reason-promise binding to node-fetch
@@ -5615,6 +5622,10 @@
 
 ## TypeScript 
 
+- [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [statico/ycombinator1.com](https://github.com/statico/ycombinator1.com) - Lets you add a character to Hacker News links to add social media and OpenGraph previews for sharing on things like Slack or Twitter.
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
@@ -5638,7 +5649,7 @@
 - [zth/vscode-rescript-relay](https://github.com/zth/vscode-rescript-relay) - 
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Faster, more intuitive design systems that work on React Native + React Native Web with an optimizing compiler.
 - [modulz/stitches-site](https://github.com/modulz/stitches-site) - 
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @modulz team.
