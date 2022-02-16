@@ -1101,7 +1101,7 @@
 - [Merovius/srvfb](https://github.com/Merovius/srvfb) - Stream a framebuffer device over HTTP
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
 - [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
@@ -2129,7 +2129,7 @@
 - [hackerschoice/THC-Archive](https://github.com/hackerschoice/THC-Archive) - All releases of the security research group (a.k.a. hackers) The Hacker's Choice
 - [pomber/codem-ipsum](https://github.com/pomber/codem-ipsum) - Lorem ipsum for code
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - Implementation of the ocaml.org website.
+- [ocaml/v2.ocaml.org](https://github.com/ocaml/v2.ocaml.org) - Implementation of the ocaml.org website.
 - [chrisalbon/notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 - [EmailThis/typographic-email](https://github.com/EmailThis/typographic-email) - Responsive email template that is optimised for readability.
@@ -2395,7 +2395,7 @@
 - [vbaicu/mMusicCast](https://github.com/vbaicu/mMusicCast) - Chromecast emulator that works on any platform. Stream videos from youtube to raspberry pi or any computer with the chromecast protocol.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [nick-invision/persist-action-data](https://github.com/nick-invision/persist-action-data) - Allows variables to be shared between GitHub Action jobs
+- [nick-fields/persist-action-data](https://github.com/nick-fields/persist-action-data) - Allows variables to be shared between GitHub Action jobs
 - [Merkoba/Bone](https://github.com/Merkoba/Bone) - Minimalistic display of websites. With tiling, theme, and preset support
 - [AlexHolderDeveloper/CommitsWithinTime](https://github.com/AlexHolderDeveloper/CommitsWithinTime) - A helper action that returns true if commits are detected on a repository within a supplied timeframe.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -2436,7 +2436,7 @@
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [i5ik/Viewfinder](https://github.com/i5ik/Viewfinder) - 📷 ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get Viewfinder today! Secure your document needs and internet, today!
+- [crisdosyago/Viewfinder](https://github.com/crisdosyago/Viewfinder) - 📷 ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get Viewfinder today! Secure your document needs and internet, today!
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [nprapps/elections20-interactive](https://github.com/nprapps/elections20-interactive) - Front-end graphics for the 2020 general election
 - [nprapps/sidechain](https://github.com/nprapps/sidechain) - Modern responsive iframes
@@ -2469,7 +2469,7 @@
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [brendangregg/d3-flame-graph](https://github.com/brendangregg/d3-flame-graph) - A d3.js library to produce flame graphs.
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [mnot/rfc.fyi](https://github.com/mnot/rfc.fyi) - Browseable, searchable RFC index
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync) - Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
@@ -2531,7 +2531,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2755,7 +2755,7 @@
 - [pakastin/car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [this-fifo/stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
+- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -3189,6 +3189,7 @@
 
 ## Lua 
 
+- [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [hrsh7th/nvim-kit](https://github.com/hrsh7th/nvim-kit) - My personal Lua utilities for neovim.
@@ -3577,7 +3578,7 @@
 - [ocaml/ood](https://github.com/ocaml/ood) - OCaml.org v3 data repository
 - [jsthomas/tidy_email](https://github.com/jsthomas/tidy_email) - An OCaml wrapper library that makes it easy to send email with different services.
 - [charlesetc/feather](https://github.com/charlesetc/feather) - A shell library for OCaml
-- [ocaml/v3.ocaml.org-server](https://github.com/ocaml/v3.ocaml.org-server) - Upcoming version of the official OCaml website.
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - Upcoming version of the official OCaml website.
 - [RedPRL/cooltt](https://github.com/RedPRL/cooltt) - 😎TT
 - [remixlabs/wasicaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly
 - [chetmurthy/utjson](https://github.com/chetmurthy/utjson) - Union Typing for JSON
@@ -4681,7 +4682,7 @@
 - [johnridesabike/coronate](https://github.com/johnridesabike/coronate) - A Swiss-style chess tournament management app.
 - [RawToast/ReTurbo](https://github.com/RawToast/ReTurbo) - Pseudo 3D racing game built with Reprocessing
 - [alanrsoares/rescript-game-of-life](https://github.com/alanrsoares/rescript-game-of-life) - Game of Life in ReasonML with ReasonReact in 2020
-- [ocaml/v3.ocaml.org](https://github.com/ocaml/v3.ocaml.org) - The next implementation of ocaml.org, built on OCaml, ReScript, NextJS, and Tailwind.
+- [ocaml/v3.ocaml.org-rescript](https://github.com/ocaml/v3.ocaml.org-rescript) - The next implementation of ocaml.org, built on OCaml, ReScript, NextJS, and Tailwind.
 - [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
 - [Wonder-Technology/Wonder.js](https://github.com/Wonder-Technology/Wonder.js) - :rocket:Functional, High performance 3D Webgl Engine
 - [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native layouts quickly with ease and fun.
