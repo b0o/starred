@@ -1399,7 +1399,7 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [talal/mimir](https://github.com/talal/mimir) - Fast and minimal shell prompt
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
-- [kr/binarydist](https://github.com/kr/binarydist) - Go implementation of the bspatch algorithm
+- [kr/binarydist](https://github.com/kr/binarydist) - Go implementation of bsdiff & bspatch
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go
@@ -2322,6 +2322,8 @@
 
 ## JavaScript 
 
+- [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
+- [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
 - [meodai/color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
@@ -2333,7 +2335,7 @@
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [protoship/html-to-rescript-jsx](https://github.com/protoship/html-to-rescript-jsx) - Convert plain HTML to a valid ReScript JSX component
 - [TheSpyder/bs-atdgen-generator](https://github.com/TheSpyder/bs-atdgen-generator) - Pre-compiled versions of atdgen binaries to be consumed from ReScript projects
 - [ahrefs/atdgen-workshop-starter](https://github.com/ahrefs/atdgen-workshop-starter) - Starter project for ReasonConf atdgen workshop
@@ -5994,6 +5996,7 @@
 
 ## Vim script 
 
+- [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - Add a vim :help reference for lua
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [yatli/vmux.vim](https://github.com/yatli/vmux.vim) - Better window management for Vim.
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - 
