@@ -978,6 +978,8 @@
 
 ## Go 
 
+- [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
+- [62726164/ed25519-login](https://github.com/62726164/ed25519-login) - Login to websites using an Ed25519 key
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
@@ -3204,6 +3206,7 @@
 
 ## Lua 
 
+- [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) - nvim plugin using gfold to switch repo and have statusline component
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
 - [ThePrimeagen/jvim.nvim](https://github.com/ThePrimeagen/jvim.nvim) - A simple json traverser for NeoVim
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
@@ -3805,6 +3808,7 @@
 
 ## Others 
 
+- [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [nodejs/loaders](https://github.com/nodejs/loaders) - ECMAScript Modules Loaders
@@ -4143,6 +4147,7 @@
 
 ## Python 
 
+- [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
@@ -4826,6 +4831,7 @@
 
 ## Rust 
 
+- [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [elkowar/dislike](https://github.com/elkowar/dislike) - A tool that, like, screams at you when you say "like"
 - [korreman/sway-overfocus](https://github.com/korreman/sway-overfocus) - "Better" focus navigation for sway and i3
@@ -5303,6 +5309,7 @@
 
 ## Shell 
 
+- [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server - configurable
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [ftrain/twitter-archive-to-maildir](https://github.com/ftrain/twitter-archive-to-maildir) - convert your archive that you download from twitter into a maildir you can load in a mail client
