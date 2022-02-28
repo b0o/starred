@@ -349,7 +349,6 @@
 - [apenwarr/netselect](https://github.com/apenwarr/netselect) - A parallelizing combination of ping/traceroute
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [ckolivas/linux](https://github.com/ckolivas/linux) - Linux kernel source tree
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
@@ -808,6 +807,7 @@
 
 ## Clojure 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
@@ -3206,6 +3206,7 @@
 
 ## Lua 
 
+- [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) - nvim plugin using gfold to switch repo and have statusline component
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
 - [ThePrimeagen/jvim.nvim](https://github.com/ThePrimeagen/jvim.nvim) - A simple json traverser for NeoVim
@@ -4147,6 +4148,7 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -4474,6 +4476,7 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [ExpectationMax/simple_gpu_scheduler](https://github.com/ExpectationMax/simple_gpu_scheduler) - Simple scheduler for running jobs on GPUs
 - [josauder/procedural_city_generation](https://github.com/josauder/procedural_city_generation) - Procedural City Generation program implemented in Python and Visualized with Blender.
@@ -4831,6 +4834,7 @@
 
 ## Rust 
 
+- [waycrate/wayshot](https://github.com/waycrate/wayshot) - Read-only mirror of https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [elkowar/dislike](https://github.com/elkowar/dislike) - A tool that, like, screams at you when you say "like"
