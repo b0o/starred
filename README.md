@@ -969,7 +969,7 @@
 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin with incremental input processing, allowing for unparalleled speed with near-zero cognitive effort
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort
 - [kyazdani42/nvim-config](https://github.com/kyazdani42/nvim-config) - my nvim configuration files
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
@@ -2157,7 +2157,7 @@
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
 - [tc39/proposal-object-from-entries](https://github.com/tc39/proposal-object-from-entries) - TC39 proposal for Object.fromEntries
 - [js-org/js.org.old](https://github.com/js-org/js.org.old) - Dedicated to JavaScript and its awesome community since 2015
-- [geonnave/primg](https://github.com/geonnave/primg) - Generate prime numbers whose binary representation looks like any image
+- [geonnave/primg](https://github.com/geonnave/primg) - Generate prime numbers whose binary representation looks like any image.
 - [base16-builder/base16-builder](https://github.com/base16-builder/base16-builder) - :hammer: Base16 Builder is a nimble command-line tool that generates themes for your favourite programs.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 - [colah/colah.github.io](https://github.com/colah/colah.github.io) - 
@@ -2325,6 +2325,7 @@
 
 ## JavaScript 
 
+- [b0o/clipshare](https://github.com/b0o/clipshare) - Securely synchronize your clipboard across multiple computers
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
@@ -3373,6 +3374,7 @@
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
+- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [ironhouzi/starlite-nvim](https://github.com/ironhouzi/starlite-nvim) - Expedient and simple text highlighting using built in Neovim commands:  |*|, |g*|, |#|, |g#|. Written in Lua.
@@ -3663,7 +3665,7 @@
 - [sneeuwballen/benchpress](https://github.com/sneeuwballen/benchpress) - Testing and benchmarking tool for logic-related programs.
 - [rescript-association/reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/ReScript: for globally dead values/types, exception analysis, and termination analysis.
 - [mirage/alcotest](https://github.com/mirage/alcotest) - A lightweight and colourful test framework
-- [realworldocaml/mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside markdown files
+- [realworldocaml/mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside your documentation
 - [ocsigen/ocsigen-start](https://github.com/ocsigen/ocsigen-start) - Ocsigen-start: an Eliom application skeleton ready to use to build your own application with users, (pre)registration, notifications, etc.
 - [ocsigen/lwt_ssl](https://github.com/ocsigen/lwt_ssl) - OpenSSL binding with concurrent I/O
 - [ocsigen/ocsigen-toolkit](https://github.com/ocsigen/ocsigen-toolkit) - User interface widgets for Ocsigen applications
@@ -3938,7 +3940,7 @@
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
+- [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [works-offline/logo](https://github.com/works-offline/logo) - A logo for "works offline" - the web needs one
 - [shellfire-dev/core](https://github.com/shellfire-dev/core) - Core module for shellfire
 - [vocal-project/vocal](https://github.com/vocal-project/vocal) - 
@@ -4484,7 +4486,7 @@
 - [nwg-piotr/psuinfo](https://github.com/nwg-piotr/psuinfo) - A psutil-based command to display customizable system usage info in a single line, for Tint2 executors or CLI
 - [DavidRoldan523/amazon_reviews_allpages](https://github.com/DavidRoldan523/amazon_reviews_allpages) - Script to scrape all reviews on all Amazon pages
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [xdbob/sway-services](https://github.com/xdbob/sway-services) - Collection of systemd unit files and tools to run sway and tools inside systemd user services
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -5305,7 +5307,6 @@
 ## Scheme 
 
 - [mjlbach/babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) - The answer to the ultimate question is :help 42
-- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -5673,6 +5674,7 @@
 
 ## TypeScript 
 
+- [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
