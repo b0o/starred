@@ -1146,7 +1146,7 @@
 - [fearful-symmetry/garlic](https://github.com/fearful-symmetry/garlic) - GArLIC: GolAng LInux Connector: A Proc Connector library for go
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
-- [billziss-gh/hubfs](https://github.com/billziss-gh/hubfs) - File system for GitHub
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [peterhellberg/gfx](https://github.com/peterhellberg/gfx) - Convenience package for dealing with graphics in my pixel drawing experiments.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1482,7 +1482,7 @@
 - [apenwarr/git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [tj/go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A distributed systems framework
 - [getsentry/sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [neex/phuip-fpizdam](https://github.com/neex/phuip-fpizdam) - Exploit for CVE-2019-11043
@@ -2325,7 +2325,6 @@
 
 ## JavaScript 
 
-- [b0o/clipshare](https://github.com/b0o/clipshare) - Securely synchronize your clipboard across multiple computers
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
@@ -2549,7 +2548,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3207,6 +3206,7 @@
 
 ## Lua 
 
+- [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) - nvim plugin using gfold to switch repo and have statusline component
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
@@ -3472,7 +3472,7 @@
 - [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
-- [lukas-reineke/format.nvim](https://github.com/lukas-reineke/format.nvim) - Neovim lua plugin to format the current buffer with external executables
+- [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
@@ -3559,6 +3559,7 @@
 
 ## OCaml 
 
+- [dbuenzli/affect](https://github.com/dbuenzli/affect) - Composable concurrency primitives with OCaml effects handlers (unreleased)
 - [c-cube/spelll](https://github.com/c-cube/spelll) - fuzzy string searching, using Levenshtein automaton. Can be used for spell-checking.
 - [green-labs/ppx_ts](https://github.com/green-labs/ppx_ts) - ReScript PPX helps the binding to typescript modules
 - [aantron/hyper](https://github.com/aantron/hyper) - OCaml Web client, composable with Dream [unannounced]
@@ -4836,6 +4837,7 @@
 
 ## Rust 
 
+- [ivanceras/restq](https://github.com/ivanceras/restq) - Compacting the SQL into the URL rest API
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Read-only mirror of https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
@@ -5314,6 +5316,7 @@
 
 ## Shell 
 
+- [nikvdp/1bin](https://github.com/nikvdp/1bin) - 
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server - configurable
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
