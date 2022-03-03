@@ -978,6 +978,7 @@
 
 ## Go 
 
+- [fly-apps/go-example](https://github.com/fly-apps/go-example) - A minimal Go application for tutorials
 - [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [62726164/ed25519-login](https://github.com/62726164/ed25519-login) - Login to websites using an Ed25519 key
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
@@ -1729,7 +1730,7 @@
 - [alexeyco/binder](https://github.com/alexeyco/binder) - High level go to Lua binder. Write less, do more.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity: Application containers for Linux
+- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been EOL'ed, see Apptainer
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [antchfx/xpath](https://github.com/antchfx/xpath) - XPath package for Golang, supports HTML, XML, JSON document query.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -2325,6 +2326,7 @@
 
 ## JavaScript 
 
+- [github/session-resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
@@ -2453,7 +2455,7 @@
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [crisdosyago/Viewfinder](https://github.com/crisdosyago/Viewfinder) - 📷 ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get Viewfinder today! Secure your document needs and internet, today!
+- [crisdosyago/BrowserBox](https://github.com/crisdosyago/BrowserBox) - 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [nprapps/elections20-interactive](https://github.com/nprapps/elections20-interactive) - Front-end graphics for the 2020 general election
 - [nprapps/sidechain](https://github.com/nprapps/sidechain) - Modern responsive iframes
@@ -3206,6 +3208,8 @@
 
 ## Lua 
 
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Completely customisable colors, styles and highlights. Written in Lua
+- [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) - nvim plugin using gfold to switch repo and have statusline component
@@ -3775,6 +3779,7 @@
 
 ## Objective-C 
 
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) - Add new abilities to the macOS keep-awake utility, Amphetamine.
 - [inaturalist/INaturalistIOS](https://github.com/inaturalist/INaturalistIOS) - iNaturalist iOS app
 - [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick) - Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
