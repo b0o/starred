@@ -2329,6 +2329,7 @@
 
 ## JavaScript 
 
+- [mozilla/lightbeam-we](https://github.com/mozilla/lightbeam-we) - Web Extension version of the Firefox Lightbeam add-on
 - [github/session-resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
@@ -2554,7 +2555,7 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
@@ -3682,7 +3683,6 @@
 - [ocsigen/tyxml](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents
 - [ocaml-ppx/ppx_tools](https://github.com/ocaml-ppx/ppx_tools) - Tools for authors of ppx rewriters
 - [ocaml-ppx/ocaml-migrate-parsetree](https://github.com/ocaml-ppx/ocaml-migrate-parsetree) - Convert OCaml parsetrees between different major versions
-- [Sketch-sh/engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [janestreet/bonsai](https://github.com/janestreet/bonsai) - A library for building dynamic webapps, using Js_of_ocaml
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [Drup/fugit](https://github.com/Drup/fugit) - A small CLI to launch notifications at a given time
@@ -3820,6 +3820,7 @@
 
 ## Others 
 
+- [b0o/dotfiles](https://github.com/b0o/dotfiles) - Maddison's dotfiles
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
@@ -4159,6 +4160,7 @@
 
 ## Python 
 
+- [solderparty/flexypin](https://github.com/solderparty/flexypin) - 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
@@ -4769,6 +4771,7 @@
 - [reason-native-web/morph](https://github.com/reason-native-web/morph) - A webframework for Reason and OCaml
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+- [Sketch-sh/engine](https://github.com/Sketch-sh/engine) - Sketch's evaluating engine compiled to Javascript with js_of_ocaml
 - [chess-tea/bread](https://github.com/chess-tea/bread) - Data Structures and Algorithms designed for Reason 🍞🥖🥐
 - [chess-tea/grout](https://github.com/chess-tea/grout) - Routing for Revery ✉️ 📬
 - [jaredly/milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
@@ -4898,7 +4901,7 @@
 - [smolck/spotify.nvim](https://github.com/smolck/spotify.nvim) - WIP Spotify plugin w/Telescope integration: don't use this yet!
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - A Decimal Implementation written in pure Rust suitable for financial calculations.
+- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
 - [varunsrin/rusty_money](https://github.com/varunsrin/rusty_money) - Money library for Rust
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
@@ -6030,6 +6033,9 @@
 
 ## Vim script 
 
+- [tpope/vim-characterize](https://github.com/tpope/vim-characterize) - characterize.vim: Unicode character metadata
+- [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
+- [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - Add a vim :help reference for lua
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [yatli/vmux.vim](https://github.com/yatli/vmux.vim) - Better window management for Vim.
@@ -6216,7 +6222,6 @@
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [chrisbra/SudoEdit.vim](https://github.com/chrisbra/SudoEdit.vim) - Edit Files using sudo or su or any other tool
-- [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [jelly/Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
 - [dylnmc/dropcl.vim](https://github.com/dylnmc/dropcl.vim) - drop-down command-line for vim [mirror of https://gitlab.com/dylnmc/dropcl.vim]
 - [segeljakt/vim-isotope](https://github.com/segeljakt/vim-isotope) - Insert and attach special characters with ease
