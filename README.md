@@ -144,6 +144,8 @@
 
 ## C 
 
+- [erikdesjardins/snudown-js](https://github.com/erikdesjardins/snudown-js) - reddit's markdown renderer. compiled to javascript.
+- [reddit/snudown](https://github.com/reddit/snudown) - reddit's markdown renderer. based on sundown.
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 - [phillbush/shod](https://github.com/phillbush/shod) - tabbed window manager that can tile windows inside floating containers
 - [savonet/ocaml-ssl](https://github.com/savonet/ocaml-ssl) - OCaml SSL bindings.
@@ -979,6 +981,8 @@
 
 ## Go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for sway Wayland compositor
 - [fly-apps/go-example](https://github.com/fly-apps/go-example) - A minimal Go application for tutorials
 - [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
@@ -2073,6 +2077,8 @@
 
 ## HTML 
 
+- [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
+- [mozilla/srihash.org](https://github.com/mozilla/srihash.org) - SRI Hash Generator
 - [johnwhitington/mlbook](https://github.com/johnwhitington/mlbook) - OCaml from the Very Beginning
 - [HermanMartinus/horus-webapp](https://github.com/HermanMartinus/horus-webapp) - 
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
@@ -2329,6 +2335,7 @@
 
 ## JavaScript 
 
+- [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [mozilla/lightbeam-we](https://github.com/mozilla/lightbeam-we) - Web Extension version of the Firefox Lightbeam add-on
 - [github/session-resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
@@ -2555,7 +2562,7 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
@@ -3212,6 +3219,7 @@
 
 ## Lua 
 
+- [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developer
 - [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Completely customisable colors, styles and highlights. Written in Lua
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
@@ -3820,7 +3828,7 @@
 
 ## Others 
 
-- [b0o/dotfiles](https://github.com/b0o/dotfiles) - Maddison's dotfiles
+- [Oak-Harbor-Kits/Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - 
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
@@ -4036,6 +4044,7 @@
 - [dremio/gandiva](https://github.com/dremio/gandiva) - Vectorized processing for Apache Arrow
 - [rsommerard/pulse-presets](https://github.com/rsommerard/pulse-presets) - Pulse audio equalizer presets
 - [rdingwall/awesome-monzo](https://github.com/rdingwall/awesome-monzo) - A curated list of awesome Monzo related things
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [bradfitz/homelab](https://github.com/bradfitz/homelab) - Brad's homelab setup
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
@@ -4574,7 +4583,6 @@
 - [Shougo/deoppet.nvim](https://github.com/Shougo/deoppet.nvim) - The dark powered snippet plugin for neovim
 - [alphagov/archive-github-events](https://github.com/alphagov/archive-github-events) - 
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
@@ -4848,6 +4856,7 @@
 
 ## Rust 
 
+- [kennylevinsen/wldash](https://github.com/kennylevinsen/wldash) - Wayland launcher/dashboard
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [ivanceras/restq](https://github.com/ivanceras/restq) - Compacting the SQL into the URL rest API
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Read-only mirror of https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
