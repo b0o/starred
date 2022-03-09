@@ -144,6 +144,7 @@
 
 ## C 
 
+- [atx/wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
 - [clibs/clib](https://github.com/clibs/clib) - C package manager-ish
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [erikdesjardins/snudown-js](https://github.com/erikdesjardins/snudown-js) - reddit's markdown renderer. compiled to javascript.
@@ -408,7 +409,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [MycroftAI/mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
+- [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 - [arjun024/mkeykernel](https://github.com/arjun024/mkeykernel) - A kernel that can read from keyboard and print on-screen
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -2335,6 +2336,7 @@
 
 ## JavaScript 
 
+- [catalinmiron/react-typical](https://github.com/catalinmiron/react-typical) - React typing animation in ~400 bytes 🐡 of JavaScript.
 - [Flet/github-slugger](https://github.com/Flet/github-slugger) - :octocat: Generate a slug just like GitHub does for markdown headings.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -2497,7 +2499,6 @@
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [mrmurphy/nova-rescript](https://github.com/mrmurphy/nova-rescript) - 
 - [franzenzenhofer/ddd-legacy](https://github.com/franzenzenhofer/ddd-legacy) - ddd - dot dot dot - a game of dots
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [snowtrack/snowtrack-docs](https://github.com/snowtrack/snowtrack-docs) - The official documentation of Snowtrack
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [brendangregg/d3-flame-graph](https://github.com/brendangregg/d3-flame-graph) - A d3.js library to produce flame graphs.
@@ -3164,6 +3165,7 @@
 
 ## Jinja 
 
+- [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
 - [33Fraise33/desktop-ansible](https://github.com/33Fraise33/desktop-ansible) - Ansible Playbooks to install Arch on my PC from scratch
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -3222,6 +3224,8 @@
 
 ## Lua 
 
+- [NarutoXY/dim.lua](https://github.com/NarutoXY/dim.lua) - Dim unused words in neovim
+- [tssm/nvim-snitch](https://github.com/tssm/nvim-snitch) - Highlight spoiled text
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) - Better digraphs plugin based on idea from Damian Conway
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developer
@@ -3852,7 +3856,6 @@
 - [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [lindig/ocaml-style](https://github.com/lindig/ocaml-style) - A style guide for OCaml
-- [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) - An ansible playbook to set up wireguard server.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [chenglou/domgraphs](https://github.com/chenglou/domgraphs) - Access DOM from ReScript to plot graphs on a &lt;canvas&gt; element.
 - [jsf9k/ansible-arch-install](https://github.com/jsf9k/ansible-arch-install) - Ansible code for installing and configuring Arch Linux
@@ -4175,6 +4178,7 @@
 
 ## Python 
 
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway Wayland compositor, inspired by wdisplays and wlay
 - [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
 - [solderparty/flexypin](https://github.com/solderparty/flexypin) - 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -4745,7 +4749,7 @@
 - [ocaml/v3.ocaml.org-rescript](https://github.com/ocaml/v3.ocaml.org-rescript) - The next implementation of ocaml.org, built on OCaml, ReScript, NextJS, and Tailwind.
 - [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
 - [Wonder-Technology/Wonder.js](https://github.com/Wonder-Technology/Wonder.js) - :rocket:Functional, High performance 3D Webgl Engine
-- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native layouts quickly with ease and fun.
+- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
 - [rescript-lang/rescript-react](https://github.com/rescript-lang/rescript-react) - Official ReScript bindings for ReactJS
 - [rescript-lang/rescript-project-template](https://github.com/rescript-lang/rescript-project-template) - Clone this repo to start your own project!
 - [bobzhang/rescript-deno](https://github.com/bobzhang/rescript-deno) - A demo to show use ReScript with Deno
@@ -5707,6 +5711,7 @@
 
 ## TypeScript 
 
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
@@ -5809,6 +5814,7 @@
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
