@@ -1078,6 +1078,7 @@
 - [shellbear/web-watcher](https://github.com/shellbear/web-watcher) - A discord bot which monitor and send alerts on website changes.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: Secure Boot key manager
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [driusan/dkim](https://github.com/driusan/dkim) - Pure Go tools for managing DKIM headers
@@ -2859,6 +2860,7 @@
 - [anvaka/sayit](https://github.com/anvaka/sayit) - Visualization of related subreddits
 - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dustinlacewell/dotfiles](https://github.com/dustinlacewell/dotfiles) - Nix configuration for all my workstations and servers
 - [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [tessalt/echo-chamber-js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments
@@ -4185,6 +4187,7 @@
 
 ## Python 
 
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Automated website screenshots using GitHub Actions
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway Wayland compositor, inspired by wdisplays and wlay
 - [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
@@ -4969,7 +4972,6 @@
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [yaahc/eyre](https://github.com/yaahc/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [aruncveli/isitup](https://github.com/aruncveli/isitup) - Rust-based CLI utility to check if a website/domain is up or down, leveraging isitup API
 - [avinassh/fast-sqlite3-inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -5295,7 +5297,6 @@
 - [jedahan/zr](https://github.com/jedahan/zr) - zsh plugin manager written in rust
 - [xi-frontend/xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [Keats/scl](https://github.com/Keats/scl) - A simple configuration language
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [k0kubun/xremap](https://github.com/k0kubun/xremap) - Dynamic key remapper for X11 and Wayland
 - [svenstaro/wmfocus](https://github.com/svenstaro/wmfocus) - Visually focus windows by label
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
