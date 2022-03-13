@@ -541,6 +541,7 @@
 
 ## C++ 
 
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [nickbnf/glogg](https://github.com/nickbnf/glogg) - A fast, advanced log explorer.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -2099,7 +2100,7 @@
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [proudier/sysctl-explorer](https://github.com/proudier/sysctl-explorer) - Easy access to Linux' sysctl documentation
 - [w3c/manual-of-style](https://github.com/w3c/manual-of-style) - The W3C Manual of Style
-- [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular library of interactive components built with Tailwind CSS
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular library of interactive elements and UI components built with Tailwind CSS
 - [saylordotorg/text_intermediate-algebra](https://github.com/saylordotorg/text_intermediate-algebra) - Intermediate Algebra
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
@@ -2573,6 +2574,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
+- [ysulyma/lv-tutorial](https://github.com/ysulyma/lv-tutorial) - Tutorial for Liqvid
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [complexityexplained/complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [jchavarri/javierchavarri.com](https://github.com/jchavarri/javierchavarri.com) - Personal site. https://javierchavarri.com/
@@ -2860,7 +2862,6 @@
 - [anvaka/sayit](https://github.com/anvaka/sayit) - Visualization of related subreddits
 - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dustinlacewell/dotfiles](https://github.com/dustinlacewell/dotfiles) - Nix configuration for all my workstations and servers
 - [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [tessalt/echo-chamber-js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments
@@ -3229,6 +3230,8 @@
 
 ## Lua 
 
+- [sunjon/Shade.nvim](https://github.com/sunjon/Shade.nvim) - An Nvim lua plugin that dims your inactive windows
+- [meznaric/conmenu](https://github.com/meznaric/conmenu) - 
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) - Show desktop notifications for vim.notify calls
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
@@ -4187,9 +4190,10 @@
 
 ## Python 
 
+- [libsm64/libsm64-blender](https://github.com/libsm64/libsm64-blender) - Blender client for libsm64
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Automated website screenshots using GitHub Actions
-- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway Wayland compositor, inspired by wdisplays and wlay
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway Wayland compositor.
 - [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
 - [solderparty/flexypin](https://github.com/solderparty/flexypin) - 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -4879,6 +4883,7 @@
 
 ## Rust 
 
+- [craciuncezar/git-smart-checkout](https://github.com/craciuncezar/git-smart-checkout) - 🧠 A command-line utility for switching git branches more easily. Switch branches interactively or use a fuzzy search to find that long-forgotten branch name.
 - [kennylevinsen/wldash](https://github.com/kennylevinsen/wldash) - Wayland launcher/dashboard
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [ivanceras/restq](https://github.com/ivanceras/restq) - Compacting the SQL into the URL rest API
@@ -5297,6 +5302,7 @@
 - [jedahan/zr](https://github.com/jedahan/zr) - zsh plugin manager written in rust
 - [xi-frontend/xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [Keats/scl](https://github.com/Keats/scl) - A simple configuration language
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [k0kubun/xremap](https://github.com/k0kubun/xremap) - Dynamic key remapper for X11 and Wayland
 - [svenstaro/wmfocus](https://github.com/svenstaro/wmfocus) - Visually focus windows by label
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -5722,6 +5728,7 @@
 
 ## TypeScript 
 
+- [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -5859,7 +5866,6 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Multi-Token Standard (ERC-1155)
-- [ysulyma/lv-tutorial](https://github.com/ysulyma/lv-tutorial) - Tutorial for Liqvid
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [liqvidjs/player](https://github.com/liqvidjs/player) - Library for interactive videos in React
