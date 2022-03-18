@@ -891,6 +891,7 @@
 
 ## Dart 
 
+- [bernaferrari/color-studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help.
 - [pointless-lang/pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -3236,6 +3237,8 @@
 
 ## Lua 
 
+- [hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help) - cmp-nvim-lsp-signature-help
+- [rktjmp/shipwright.nvim](https://github.com/rktjmp/shipwright.nvim) - :anchor: Build stuff, or don't. IDC.
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [jamestrew/dimmer.nvim](https://github.com/jamestrew/dimmer.nvim) - Neovim plugin for dimming unfocused windows/splits
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
@@ -4204,6 +4207,7 @@
 
 ## Python 
 
+- [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) - Sudo, a font for programmers and command line users.
 - [mle-infrastructure/mle-monitor](https://github.com/mle-infrastructure/mle-monitor) - A Lightweight Experiment & Resource Monitoring Tool 📺
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
@@ -4359,7 +4363,7 @@
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [s3ql/s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
-- [twisted/towncrier](https://github.com/twisted/towncrier) - Building the release notes for your project.
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [falense/b2_fuse](https://github.com/falense/b2_fuse) - FUSE integration for Backblaze B2 Cloud storage
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [renatosc/nnv](https://github.com/renatosc/nnv) - NNV - Neural Network Visualizer
@@ -4900,6 +4904,7 @@
 
 ## Rust 
 
+- [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
@@ -5386,6 +5391,7 @@
 
 ## Shell 
 
+- [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [rsimmons/subadub](https://github.com/rsimmons/subadub) - Chrome+Firefox extension for studying foreign languages using Netflix subtitles
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [nikvdp/1bin](https://github.com/nikvdp/1bin) - 
@@ -5749,6 +5755,7 @@
 
 ## TypeScript 
 
+- [Shopify/foundational-design-system-proto](https://github.com/Shopify/foundational-design-system-proto) - A prototype for a foundational design system at Shopify
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
@@ -6417,6 +6424,7 @@
 
 ## Vue 
 
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
