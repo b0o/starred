@@ -543,6 +543,7 @@
 
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+- [InstaNFC/P01.12V-2021.11](https://github.com/InstaNFC/P01.12V-2021.11) - Access Pro Hardware and Sample Code
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [nickbnf/glogg](https://github.com/nickbnf/glogg) - A fast, advanced log explorer.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -1088,7 +1089,7 @@
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [driusan/dkim](https://github.com/driusan/dkim) - Pure Go tools for managing DKIM headers
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore) - a sharded store to hold large IPLD graphs efficiently, packaged as location-transparent attachable CAR files, with mechanical sympathy
@@ -2345,6 +2346,8 @@
 
 ## JavaScript 
 
+- [cowlicks/privacypossum](https://github.com/cowlicks/privacypossum) - Privacy Possum makes tracking you less profitable
+- [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [catalinmiron/react-typical](https://github.com/catalinmiron/react-typical) - React typing animation in ~400 bytes 🐡 of JavaScript.
@@ -3866,7 +3869,6 @@
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [simonw/shot-scraper-demo](https://github.com/simonw/shot-scraper-demo) - Live demo of shot-scraper
-- [InstaNFC/P01.12V-2021.11](https://github.com/InstaNFC/P01.12V-2021.11) - Access Pro Hardware
 - [Oak-Harbor-Kits/Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - 
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
@@ -3897,7 +3899,7 @@
 - [kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools) - Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
-- [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap projects
+- [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap-projects
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
@@ -4742,6 +4744,8 @@
 
 ## ReScript 
 
+- [Fattafatta/rescript-jotai](https://github.com/Fattafatta/rescript-jotai) - ReScript bindings for Jotai. Primitive and flexible state management for React.
+- [gaku-sei/re-jotai](https://github.com/gaku-sei/re-jotai) - Simple bindings for the Jotai library
 - [MoOx/react-from-svg](https://github.com/MoOx/react-from-svg) - Transform SVG files into React components (native | web, JavaScript | Reason/ReScript).
 - [pixelpapercraft/pixel-papercraft-generator-builder](https://github.com/pixelpapercraft/pixel-papercraft-generator-builder) - Generator builder for Pixel Papercraft.
 - [protoship/rescript-tutorial](https://github.com/protoship/rescript-tutorial) - 
@@ -4904,6 +4908,7 @@
 
 ## Rust 
 
+- [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 - [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
