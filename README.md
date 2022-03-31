@@ -1093,11 +1093,10 @@
 - [shellbear/web-watcher](https://github.com/shellbear/web-watcher) - A discord bot which monitor and send alerts on website changes.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: Secure Boot key manager
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
-- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [driusan/dkim](https://github.com/driusan/dkim) - Pure Go tools for managing DKIM headers
-- [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
@@ -2594,7 +2593,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1674-Stars](https://github.com/RealPeha/This-Repo-Has-1674-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1675-Stars](https://github.com/RealPeha/This-Repo-Has-1675-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3066,7 +3065,7 @@
 - [visionmedia/superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [mui/material-ui-docs](https://github.com/mui/material-ui-docs) - ⚠️ Please don't submit PRs here as they will be closed. To submit translations please visit https://translate.material-ui.com. To edit the English docs or source code, please use the main repository:
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
@@ -3253,6 +3252,8 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) - Integration with github cli
+- [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [klen/nvim-config-local](https://github.com/klen/nvim-config-local) - Secure load local config files for neovim
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 - [LinArcX/telescope-scriptnames.nvim](https://github.com/LinArcX/telescope-scriptnames.nvim) - Telescope extension wrapper around `:scriptnames`
@@ -3594,6 +3595,7 @@
 
 ## Markdown 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -4934,6 +4936,7 @@
 
 ## Rust 
 
+- [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [r4gus/nodus](https://github.com/r4gus/nodus) - A logic gate simulator written in Rust using the Bevy game engine.
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: A Neovim autocompletion framework written in Rust
 - [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
@@ -5037,6 +5040,7 @@
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [yaahc/eyre](https://github.com/yaahc/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
+- [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - Go specs implemented as a scripting language in Rust.
 - [aruncveli/isitup](https://github.com/aruncveli/isitup) - Rust-based CLI utility to check if a website/domain is up or down, leveraging isitup API
 - [avinassh/fast-sqlite3-inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -5426,6 +5430,7 @@
 
 ## Shell 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [kit-ty-kate/opam-alpha-repository](https://github.com/kit-ty-kate/opam-alpha-repository) - A test opam overlay containing packages compatible with the next release of the OCaml compiler
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [rsimmons/subadub](https://github.com/rsimmons/subadub) - Chrome+Firefox extension for studying foreign languages using Netflix subtitles
@@ -6143,6 +6148,7 @@
 
 ## Vim script 
 
+- [rhysd/conflict-marker.vim](https://github.com/rhysd/conflict-marker.vim) - Weapon to fight against conflicts in Vim.
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [lambdalisue/vim-gista](https://github.com/lambdalisue/vim-gista) - An alternative gist.vim, vim plugin which manipulate gists in Vim.
 - [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
