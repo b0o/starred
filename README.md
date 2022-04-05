@@ -981,7 +981,7 @@
 
 ## Fennel 
 
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - A motion plugin that lets you look before you leap
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that lets you look before you leap
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - 🍊 Sweet Fennel integration for Neovim
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -2602,7 +2602,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1676-Stars](https://github.com/RealPeha/This-Repo-Has-1676-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1675-Stars](https://github.com/RealPeha/This-Repo-Has-1675-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2782,7 +2782,7 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ofabry/goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -3261,6 +3261,8 @@
 
 ## Lua 
 
+- [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
+- [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Lua plugin for starting and interacting with github copilot
 - [max397574/NeovimConfig](https://github.com/max397574/NeovimConfig) - This are my neovim configurations
 - [vsedov/nvim](https://github.com/vsedov/nvim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
@@ -3904,7 +3906,8 @@
 
 ## Others 
 
-- [Explosion-Scratch/bokub-is-awesome](https://github.com/Explosion-Scratch/bokub-is-awesome) - Star to change the repo title to your username!
+- [b0o/apple-autofill-domains](https://github.com/b0o/apple-autofill-domains) - Apple's allowed autofill domains
+- [Explosion-Scratch/JackChilds-starred-this-repo](https://github.com/Explosion-Scratch/JackChilds-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
@@ -4860,7 +4863,7 @@
 - [rolandpeelen/bs-pancake](https://github.com/rolandpeelen/bs-pancake) - A lens library so small in use you'd hardly notice it's there...
 - [cometkim/reason-todomvc](https://github.com/cometkim/reason-todomvc) - TodoMVC implementation written in ReasonML
 - [shakacode/re-formality](https://github.com/shakacode/re-formality) - Form validation tool for reason-react
-- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Typed styled components in Reason, OCaml and ReScript
+- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Typed styled components in ReScript
 - [esy/esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml
 - [anmonteiro/youtube](https://github.com/anmonteiro/youtube) - 
 - [aantron/promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
@@ -4959,7 +4962,7 @@
 
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [r4gus/nodus](https://github.com/r4gus/nodus) - A logic gate simulator written in Rust using the Bevy game engine.
-- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: A Neovim autocompletion framework written in Rust
+- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: An async autocompletion framework for Neovim
 - [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 - [nadavrot/layout](https://github.com/nadavrot/layout) - Renders graphs
@@ -5819,6 +5822,7 @@
 
 ## TypeScript 
 
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mikew/prettier_d_slim](https://github.com/mikew/prettier_d_slim) - 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - A sortable, virtual, customizable tree component for React.
