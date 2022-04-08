@@ -3909,7 +3909,7 @@
 ## Others 
 
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/Otus9051-is-epic](https://github.com/Explosion-Scratch/Otus9051-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/webdev03-is-awesome](https://github.com/Explosion-Scratch/webdev03-is-awesome) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
@@ -5944,6 +5944,7 @@
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [electron/universal](https://github.com/electron/universal) - Create Universal macOS applications from two x64 and arm64 Electron applications
@@ -6257,7 +6258,7 @@
 - [fiatjaf/neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [Shougo/vinarise.vim](https://github.com/Shougo/vinarise.vim) - Ultimate hex editing system with Vim
 - [dhruvasagar/vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro
-- [Shougo/deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for NeoVim and Vim8.
+- [Shougo/deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for NeoVim/Vim8
 - [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 - [google/vim-maktaba](https://github.com/google/vim-maktaba) - Consistent Vimscript
 - [stefandtw/quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
@@ -6511,7 +6512,6 @@
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [drehimself/tailwind-v1-examples](https://github.com/drehimself/tailwind-v1-examples) - A collection of web pages built in Tailwind CSS v1.x
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [georgedoescode/squircle](https://github.com/georgedoescode/squircle) - Make all the squircles you need, in the browser. https://squircley.app/
