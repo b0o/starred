@@ -1328,7 +1328,6 @@
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [trubitsyn/go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [alrs/surfsticker](https://github.com/alrs/surfsticker) - Manage sticky suckless surf windows.
 - [danfragoso/thdwb](https://github.com/danfragoso/thdwb) - 🌭 The hotdog web browser and browser engine 🌭
 - [carlogit/phash](https://github.com/carlogit/phash) - A simple Go Library to calculate a phash string for a JPEG image.
@@ -2363,6 +2362,7 @@
 
 ## JavaScript 
 
+- [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
@@ -2682,6 +2682,7 @@
 - [docs/liquid](https://github.com/docs/liquid) - 💧 Node.js port of the Liquid template engine
 - [matchai/sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [nixcloud/tour_of_nix](https://github.com/nixcloud/tour_of_nix) - Sourcecode to the https://nixcloud.io/tour/ 'a tour of nix'
 - [goto-bus-stop/md-insert](https://github.com/goto-bus-stop/md-insert) - insert content under a markdown header or into a comment delimited region
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
@@ -3261,6 +3262,7 @@
 
 ## Lua 
 
+- [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - 
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Lua plugin for starting and interacting with github copilot
@@ -3829,7 +3831,7 @@
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
 - [LaurentMazare/ocaml-rplidar](https://github.com/LaurentMazare/ocaml-rplidar) - RPLidar A1M8 ocaml library
 - [LaurentMazare/tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow
-- [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific and Engineering Computing @ http://ocaml.xyz
+- [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ http://ocaml.xyz
 - [ocaml-ppx/ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters
 - [janestreet/ppx_expect](https://github.com/janestreet/ppx_expect) - Cram like framework for OCaml
 - [janestreet/ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv) - Generation of S-expression conversion functions from type definitions
@@ -3909,7 +3911,7 @@
 ## Others 
 
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/FuchsCrafter-is-awesome](https://github.com/Explosion-Scratch/FuchsCrafter-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/JoshAtticus-is-awesome](https://github.com/Explosion-Scratch/JoshAtticus-is-awesome) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
@@ -4962,6 +4964,8 @@
 
 ## Rust 
 
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Friendly little instrumentation profiler for Rust 🦀
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch]
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
