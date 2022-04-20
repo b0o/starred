@@ -2617,7 +2617,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1684-Stars](https://github.com/RealPeha/This-Repo-Has-1684-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1685-Stars](https://github.com/RealPeha/This-Repo-Has-1685-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3276,6 +3276,7 @@
 
 ## Lua 
 
+- [rgroli/other.nvim](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 - [Yonaba/Moses](https://github.com/Yonaba/Moses) - Utility library for functional programming  in Lua
@@ -3317,7 +3318,7 @@
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) - Better digraphs plugin based on idea from Damian Conway
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developer
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Completely customisable colors, styles and highlights. Written in Lua
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Completely customisable colors, styles and highlights. Supports custom highlights by filetype!
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
@@ -3921,6 +3922,7 @@
 
 ## OpenSCAD 
 
+- [FrameworkComputer/Mainboard](https://github.com/FrameworkComputer/Mainboard) - Documentation for the Mainboard in the Framework Laptop
 - [tenderlove/analog-terminal-bell](https://github.com/tenderlove/analog-terminal-bell) - A bell for your terminal that is analog
 - [DaveDavenport/SensorBox](https://github.com/DaveDavenport/SensorBox) - 3D printable box for sensors,   sensor compartment, battery compartment en electronics.
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
@@ -4987,7 +4989,6 @@
 
 ## Rust 
 
-- [pisto/oggify](https://github.com/pisto/oggify) - Download Spotify tracks to Ogg Vorbis (with a premium account)
 - [LaurentMazare/ocaml-rust](https://github.com/LaurentMazare/ocaml-rust) - Safe OCaml-Rust Foreign Function Interface
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -5862,6 +5863,7 @@
 
 ## TypeScript 
 
+- [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [watermelontools/wm-extension](https://github.com/watermelontools/wm-extension) - 🍉  Highlight a piece of code to see its historical context. Receive helpful responses in plain English with our open-source tool.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
@@ -5982,7 +5984,7 @@
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [electron/universal](https://github.com/electron/universal) - Create Universal macOS applications from two x64 and arm64 Electron applications
