@@ -997,6 +997,7 @@
 
 ## Go 
 
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [akinsho/gitgazer](https://github.com/akinsho/gitgazer) - A CLI app that lets you keep track of developments in your favourite repos on Github
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
@@ -1547,7 +1548,6 @@
 - [govim/govim](https://github.com/govim/govim) - govim is a Go development plugin for Vim8, written in Go
 - [andybalholm/redwood](https://github.com/andybalholm/redwood) - Web content filter that runs as an HTTP proxy
 - [ahmetb/rundev](https://github.com/ahmetb/rundev) - (alpha, contact me if you’re using)
-- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [chop-dbhi/diff-table](https://github.com/chop-dbhi/diff-table) - 
 - [threatgrid/jq-go](https://github.com/threatgrid/jq-go) - A Go language binding for the JQ JSON filter library
 - [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
@@ -2360,7 +2360,7 @@
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [sirixdb/sirix](https://github.com/sirixdb/sirix) - SirixDB is a temporal, evolutionary database system, which uses an append-only approach to store immutable revisions. It keeps the full history of each resource. Every commit stores a space-efficient snapshot through structural sharing. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach.
 - [DominicKramer/notelab](https://github.com/DominicKramer/notelab) - 
-- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming
+- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
@@ -2738,7 +2738,7 @@
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [enrico-kaack/markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [withastro/create-snowpack-app](https://github.com/withastro/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
+- [FredKSchott/create-snowpack-app](https://github.com/FredKSchott/create-snowpack-app) - The all-in-one app template for Snowpack. [moved]
 - [cameron/squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [Miserlou/Glance](https://github.com/Miserlou/Glance) - Good reads, extremely fucking fast.
 - [olegcherr/Reedy-for-Chrome](https://github.com/olegcherr/Reedy-for-Chrome) - Read all you want faster with Reedy for Google Chrome!
@@ -2818,7 +2818,7 @@
 - [WebReflection/wicked-elements](https://github.com/WebReflection/wicked-elements) - Components for the DOM as you've never seen before
 - [WebReflection/assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
@@ -4960,7 +4960,7 @@
 - [pry/pry](https://github.com/pry/pry) - A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [cloudfoundry/bosh](https://github.com/cloudfoundry/bosh) - Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
-- [loomio/loomio](https://github.com/loomio/loomio) - Loomio helps people make decisions together
+- [loomio/loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision making tool
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [cvincent/umessage](https://github.com/cvincent/umessage) - A web-based bridge for iMessage
 - [garybernhardt/selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
@@ -4989,6 +4989,7 @@
 
 ## Rust 
 
+- [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
 - [LaurentMazare/ocaml-rust](https://github.com/LaurentMazare/ocaml-rust) - Safe OCaml-Rust Foreign Function Interface
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -5863,6 +5864,8 @@
 
 ## TypeScript 
 
+- [frouo/next-markdown](https://github.com/frouo/next-markdown) - generate pages from markdown files with dynamic routes, 0 effort, 0 boilerplate.
+- [nimeshnayaju/y-presence](https://github.com/nimeshnayaju/y-presence) - Add multiplayer presence (live cursors/avatars) to any web application using yjs
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [watermelontools/wm-extension](https://github.com/watermelontools/wm-extension) - 🍉  Highlight a piece of code to see its historical context. Receive helpful responses in plain English with our open-source tool.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
@@ -6223,6 +6226,7 @@
 
 ## Vim script 
 
+- [vimpostor/vim-lumen](https://github.com/vimpostor/vim-lumen) - Make vim follow your system-wide dark mode preference
 - [tpope/vim-git](https://github.com/tpope/vim-git) - Vim Git runtime files
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [gcmt/taboo.vim](https://github.com/gcmt/taboo.vim) - Few utilities for pretty tabs
@@ -6248,7 +6252,6 @@
 - [tsuyoshicho/vim-efm-langserver-settings](https://github.com/tsuyoshicho/vim-efm-langserver-settings) - vim lsp client - efm-langserver link and configure settings
 - [axlebedev/footprints](https://github.com/axlebedev/footprints) - Vim plugin: footprints. Highlight last edited lines.
 - [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) - A fork of textobj-parameter 0.1.0
-- [Jarmos-san/editorconfig.nvim](https://github.com/Jarmos-san/editorconfig.nvim) - A Neovim plugin for EditorConfig written in Lua with ❤️
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - 
