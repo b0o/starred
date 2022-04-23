@@ -544,6 +544,7 @@
 
 ## C++ 
 
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [dbmcclain/Crescendo-Hearing-Correction](https://github.com/dbmcclain/Crescendo-Hearing-Correction) - Hard won code to provide accurate musical hearing correction. 100 Bark bands at quarter-bark spacing, nonlinear compression complementary to hearing recruitment. Single knob adjustment for anyone.
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
@@ -3301,7 +3302,6 @@
 - [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) - resolve those conflicts and have a happy relationship with git
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration
 - [hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help) - cmp-nvim-lsp-signature-help
 - [rktjmp/shipwright.nvim](https://github.com/rktjmp/shipwright.nvim) - :anchor: Build stuff, or don't. IDC.
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
@@ -3934,7 +3934,7 @@
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - Data sources are https://github.com/rockerBOO/awesome-neovim, Reddit r/neovim  and your star!
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/soulofrubber-is-awesome](https://github.com/Explosion-Scratch/soulofrubber-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/xandao6-starred-this-repo](https://github.com/Explosion-Scratch/xandao6-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
