@@ -956,7 +956,7 @@
 - [EFLS/zetteldeft](https://github.com/EFLS/zetteldeft) - A Zettelkasten system! Or rather, some functions on top of the emacs deft package.
 - [rocher/dynamic-ruler](https://github.com/rocher/dynamic-ruler) - Emacs package to show a dynamic ruler that can be freely moved around the buffer, for measuring and positioning text.
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
-- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [codemac/config](https://github.com/codemac/config) - my config
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [vic/rebecca-theme](https://github.com/vic/rebecca-theme) - The purple turtle theme for Spacemacs
@@ -1000,6 +1000,7 @@
 
 ## Go 
 
+- [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool: supports every language, symbol search, finds usage examples automagically. Based on tree-sitter, runnable standalone or via http://doctree.org
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -1461,7 +1462,7 @@
 - [ptiger10/tada-io](https://github.com/ptiger10/tada-io) - Reading/writing tada DataFrames from other sources
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [lmorg/readline](https://github.com/lmorg/readline) - Pure Go reimplimentation of readline
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
+- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform, strong encryption, undetectable protocol, not just proxy. Keep it simple, stupid. Zero-Configuration. Brook 是一个跨平台, 强加密, 无特征协议, 不仅仅是代理. 零配置.
 - [quorumcontrol/dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [donatj/hookah](https://github.com/donatj/hookah) - GitHub Webhooks Made Easy!
@@ -2377,6 +2378,7 @@
 
 ## JavaScript 
 
+- [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [livebud/bud](https://github.com/livebud/bud) - The Fullstack Go Framework for Prolific Web Developers.
@@ -3284,6 +3286,9 @@
 
 ## Lua 
 
+- [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - WIP: Bundle snippets from multiple sources and convert them to your format of choice.
+- [molleweide/LuaSnip-snippets.nvim](https://github.com/molleweide/LuaSnip-snippets.nvim) - Neovim plugin that provides snippets for the LuaSnip plugin.
+- [ii14/neopm](https://github.com/ii14/neopm) - Plugin manager for neovim, pre-alpha stage.
 - [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - Zoom-in Like a Boss, How? Layout-Preserving Zoomer weighing in 🪶
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) - 
@@ -3685,6 +3690,7 @@
 
 ## OCaml 
 
+- [avsm/hello-world-action-ocaml](https://github.com/avsm/hello-world-action-ocaml) - Example use of GitHub Actions with OCaml
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 - [janestreet/incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml.
 - [w3reality/bs-three](https://github.com/w3reality/bs-three) - BuckleScript binding for three.js
@@ -3943,10 +3949,11 @@
 
 ## Others 
 
-- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - Data sources are https://github.com/rockerBOO/awesome-neovim, Reddit r/neovim  and your star!
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/alessdangelo-is-awesome](https://github.com/Explosion-Scratch/alessdangelo-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/walidboulanouar-is-a-unicorn](https://github.com/Explosion-Scratch/walidboulanouar-is-a-unicorn) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
@@ -4273,6 +4280,7 @@
 ## PowerShell 
 
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
+- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 
 ## Processing 
 
@@ -4842,6 +4850,7 @@
 
 ## ReScript 
 
+- [bloodyowl/rescript-future](https://github.com/bloodyowl/rescript-future) - Cancellable futures for ReScript
 - [Fattafatta/rescript-jotai](https://github.com/Fattafatta/rescript-jotai) - ReScript bindings for Jotai. Primitive and flexible state management for React.
 - [gaku-sei/re-jotai](https://github.com/gaku-sei/re-jotai) - Simple bindings for the Jotai library
 - [MoOx/react-from-svg](https://github.com/MoOx/react-from-svg) - Transform SVG files into React components (native | web, JavaScript | Reason/ReScript).
@@ -5718,7 +5727,6 @@
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [yurikoles-aur/linux-amd-staging-drm-next-git](https://github.com/yurikoles-aur/linux-amd-staging-drm-next-git) - Package for Arch AUR
 - [akesterson/cmdarg](https://github.com/akesterson/cmdarg) - A bash library to make argument parsing far less troublesome
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [maandree/wikiquote-fortune-collection](https://github.com/maandree/wikiquote-fortune-collection) - [UNMAINTAINED] Collection of fortune cookies from Wikiquote
 - [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [pawelduda/fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
@@ -6104,7 +6112,7 @@
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
-- [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+- [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [ForumMagnum/ForumMagnum](https://github.com/ForumMagnum/ForumMagnum) - The development repository for LessWrong2 and the EA Forum, based on Vulcan JS
@@ -6247,6 +6255,7 @@
 
 ## Vim Snippet 
 
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 - [Shougo/neosnippet-snippets](https://github.com/Shougo/neosnippet-snippets) - The standard snippets repository for neosnippet
 
 ## Vim script 
