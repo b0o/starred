@@ -1462,7 +1462,7 @@
 - [ptiger10/tada-io](https://github.com/ptiger10/tada-io) - Reading/writing tada DataFrames from other sources
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [lmorg/readline](https://github.com/lmorg/readline) - Pure Go reimplimentation of readline
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform, strong encryption, undetectable protocol, not just proxy. Keep it simple, stupid. Zero-Configuration. Brook 是一个跨平台, 强加密, 无特征协议, 不仅仅是代理. 零配置.
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [quorumcontrol/dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [donatj/hookah](https://github.com/donatj/hookah) - GitHub Webhooks Made Easy!
@@ -1823,7 +1823,7 @@
 - [unee-t/engagement](https://github.com/unee-t/engagement) - 
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [cornelk/go-benchmark](https://github.com/cornelk/go-benchmark) - Golang benchmarks used for optimizing code
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [albrow/fo](https://github.com/albrow/fo) - An experimental language which adds functional programming features to Go.
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -2125,7 +2125,7 @@
 - [HermanMartinus/horus-webapp](https://github.com/HermanMartinus/horus-webapp) - 
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [kiding/wanna-see-a-whiter-white](https://github.com/kiding/wanna-see-a-whiter-white) - CSS trick/bug to display a brighter white by exploiting browsers' HDR capability and Apple's EDR system
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know many GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service. 420,000+ GitHub Wikis, now indexable.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know most GitHub Wikis can't index on search engines? Search Engine Enablement for GitHub Wikis service. 420,000+ GitHub Wikis, now indexable.
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [gaspumpgolf/gaspumpgolf.github.io](https://github.com/gaspumpgolf/gaspumpgolf.github.io) - 
@@ -3358,7 +3358,7 @@
 - [ldelossa/litee-bookmarks.nvim](https://github.com/ldelossa/litee-bookmarks.nvim) - A litee.nvim backed plugin for saving important places in your code.
 - [ldelossa/litee-filetree.nvim](https://github.com/ldelossa/litee-filetree.nvim) - A file explorer implemented with the litee.nvim library.
 - [ldelossa/litee-symboltree.nvim](https://github.com/ldelossa/litee-symboltree.nvim) - A document outline tool implemented with the litee.nvim library
-- [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features
+- [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
 - [ldelossa/litee-calltree.nvim](https://github.com/ldelossa/litee-calltree.nvim) - Neovim's missing call hierarchy UI
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
@@ -3953,7 +3953,7 @@
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/walidboulanouar-is-a-unicorn](https://github.com/Explosion-Scratch/walidboulanouar-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/Ssmidge-starred-this-repo](https://github.com/Explosion-Scratch/Ssmidge-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
@@ -3987,7 +3987,6 @@
 - [Pekaso/fortitude60](https://github.com/Pekaso/fortitude60) - 
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
 - [kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools) - Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap-projects
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -6102,7 +6101,7 @@
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
-- [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - Keen-Slider is a touch slider library that lets you easily create sliders, carousels and much more.
+- [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [web-ridge/react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple 💪 fast ⚡️ and small :balloon: (400 bytes) global state management for React (Native)
 - [egoist-labs/denopkg.com](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
