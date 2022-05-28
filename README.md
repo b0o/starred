@@ -1001,6 +1001,7 @@
 
 ## Go 
 
+- [ssrathi/go-scrub](https://github.com/ssrathi/go-scrub) - A scrubbing utility to hide sensitive fields from a struct prior to logging
 - [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff.
@@ -1762,7 +1763,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [rogpeppe/gohack](https://github.com/rogpeppe/gohack) - Make temporary edits to your Go module dependencies
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -2146,7 +2147,6 @@
 - [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [Circadiaware/VLiDACMel-entrainment-therapy-non24](https://github.com/Circadiaware/VLiDACMel-entrainment-therapy-non24) - Work-in-progress draft of an entrainment protocol for the Non-24 circadian rhythm disorder.
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
@@ -3215,7 +3215,6 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [RolandR/place-atlas](https://github.com/RolandR/place-atlas) - The /r/place Atlas is a project aiming to catalog all the artworks created during Reddit's /r/place event.
 - [asciimath/asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
-- [thehodapp/craigslist-watcher](https://github.com/thehodapp/craigslist-watcher) - A way to keep track of new Craigslist postings without ever having to check Craigslist manually
 - [guerrerocarlos/TorrenTV](https://github.com/guerrerocarlos/TorrenTV) - TorrenTV node-webkit source code
 - [TorrenTV/TorrenTV](https://github.com/TorrenTV/TorrenTV) - TorrenTV node-webkit source code
 - [lionleaf/dwitter](https://github.com/lionleaf/dwitter) - Social network for short js demos
@@ -3291,6 +3290,8 @@
 
 ## Lua 
 
+- [linty-org/readline.nvim](https://github.com/linty-org/readline.nvim) - Readline motions and deletions in Neovim
+- [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.
 - [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
@@ -3709,6 +3710,7 @@
 
 ## OCaml 
 
+- [art-w/unicorn](https://github.com/art-w/unicorn) - Purely functional GUI algebra
 - [avsm/hello-world-action-ocaml](https://github.com/avsm/hello-world-action-ocaml) - Example use of GitHub Actions with OCaml
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 - [janestreet/incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml.
@@ -3819,7 +3821,7 @@
 - [tmattio/spin](https://github.com/tmattio/spin) - OCaml project generator.
 - [Armael/doggybag](https://github.com/Armael/doggybag) - take-away binaries
 - [sneeuwballen/benchpress](https://github.com/sneeuwballen/benchpress) - Testing and benchmarking tool for logic-related programs.
-- [rescript-association/reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for OCaml/ReScript: for globally dead values/types, exception analysis, and termination analysis.
+- [rescript-association/reanalyze](https://github.com/rescript-association/reanalyze) - Experimental analyses for ReScript and OCaml: globally dead values/types, exception analysis, and termination analysis.
 - [mirage/alcotest](https://github.com/mirage/alcotest) - A lightweight and colourful test framework
 - [realworldocaml/mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside your documentation
 - [ocsigen/ocsigen-start](https://github.com/ocsigen/ocsigen-start) - Ocsigen-start: an Eliom application skeleton ready to use to build your own application with users, (pre)registration, notifications, etc.
@@ -3968,6 +3970,7 @@
 
 ## Others 
 
+- [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
@@ -3977,7 +3980,7 @@
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/Guavabi-is-awesome](https://github.com/Explosion-Scratch/Guavabi-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/jpsspm-is-cool](https://github.com/Explosion-Scratch/jpsspm-is-cool) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4036,6 +4039,7 @@
 - [BlackFan/client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution) - Prototype Pollution and useful Script Gadgets
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Collection of handy tools for Go projects
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
@@ -5039,6 +5043,7 @@
 
 ## Rust 
 
+- [asomers/mockall](https://github.com/asomers/mockall) - A powerful mock object library for Rust
 - [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -5326,7 +5331,7 @@
 - [RustCrypto/AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) - Collection of stream cipher algorithms
 - [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
-- [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: ECDSA, Ed25519
+- [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [dropbox/rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib
 - [ANSSI-FR/MLA](https://github.com/ANSSI-FR/MLA) - Multi Layer Archive - A pure rust encrypted and compressed archive file format
@@ -5551,6 +5556,7 @@
 
 ## Shell 
 
+- [aaossa/git-activity](https://github.com/aaossa/git-activity) - Display an activity graph (like the contribution graph on GitHub) for the  current git repository and branch
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [0xApt/awesome-bbht](https://github.com/0xApt/awesome-bbht) - A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain.
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖
@@ -5689,7 +5695,7 @@
 - [cirala/lfimg](https://github.com/cirala/lfimg) - Image preview support for lf (list files) using Überzug
 - [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
 - [b4b4r07/emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
-- [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - A terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
+- [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - Terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
 - [crian/dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
 - [alyssais/dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
