@@ -181,7 +181,7 @@
 - [clbr/radeontop](https://github.com/clbr/radeontop) - 
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [jstrieb/quickserv-examples](https://github.com/jstrieb/quickserv-examples) - Example applications to run with QuickServ
-- [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
+- [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [cmuratori/refterm](https://github.com/cmuratori/refterm) - Reference monospace terminal renderer
 - [xanmod/linux](https://github.com/xanmod/linux) - XanMod: Linux kernel source code tree
@@ -1006,7 +1006,7 @@
 
 ## Go 
 
-- [coloradocolby/gh-eco](https://github.com/coloradocolby/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [ssrathi/go-scrub](https://github.com/ssrathi/go-scrub) - A scrubbing utility to hide sensitive fields from a struct prior to logging
 - [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
@@ -1470,6 +1470,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [spakin/hsvimage](https://github.com/spakin/hsvimage) - HSV color-model support for images in the Go programming language
 - [ptiger10/tada-io](https://github.com/ptiger10/tada-io) - Reading/writing tada DataFrames from other sources
+- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [lmorg/readline](https://github.com/lmorg/readline) - Pure Go reimplimentation of readline
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [quorumcontrol/dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
@@ -2192,7 +2193,6 @@
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
-- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [tc39/proposal-relative-indexing-method](https://github.com/tc39/proposal-relative-indexing-method) - A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)
 - [kevinlanning/DataSciSpring2021](https://github.com/kevinlanning/DataSciSpring2021) - 
@@ -2647,7 +2647,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1715-Stars](https://github.com/RealPeha/This-Repo-Has-1715-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1713-Stars](https://github.com/RealPeha/This-Repo-Has-1713-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3304,7 +3304,7 @@
 ## Lua 
 
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
-- [rcarriga/neotest](https://github.com/rcarriga/neotest) - An extensible framework for interacting with tests within NeoVim.
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [hrsh7th/nvim-pasta](https://github.com/hrsh7th/nvim-pasta) - The yank/paste enhancement plugin for neovim.
 - [linty-org/readline.nvim](https://github.com/linty-org/readline.nvim) - Readline motions and deletions in Neovim
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window
@@ -3997,7 +3997,7 @@
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/Xapu1337-starred-this-repo](https://github.com/Explosion-Scratch/Xapu1337-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/spantheslayer-is-a-unicorn](https://github.com/Explosion-Scratch/spantheslayer-is-a-unicorn) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -6012,7 +6012,7 @@
 - [elm-tooling/elm-language-server](https://github.com/elm-tooling/elm-language-server) - Language server implementation for Elm
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
 - [zth/vscode-rescript-relay](https://github.com/zth/vscode-rescript-relay) - 
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
