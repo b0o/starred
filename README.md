@@ -130,6 +130,7 @@
 
 ## Assembly 
 
+- [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [bitonic/pipes-speed-test](https://github.com/bitonic/pipes-speed-test) - 
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [janroesner/sixty5o2](https://github.com/janroesner/sixty5o2) - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
@@ -954,6 +955,7 @@
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 - [merrickluo/lsp-tailwindcss](https://github.com/merrickluo/lsp-tailwindcss) - the lsp-mode client for tailwindcss
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
+- [stapelberg/configfiles](https://github.com/stapelberg/configfiles) - My own personal collection of configfiles. ⚠ Copy bits and pieces at your own risk. ⚠ Might be broken or break your computer. You have been warned :)
 - [gizmomogwai/org-kanban](https://github.com/gizmomogwai/org-kanban) - Kanban table for org-mode
 - [org-trello/org-trello](https://github.com/org-trello/org-trello) - Org minor mode - 2-way sync org & trello
 - [yjwen/org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
@@ -1350,7 +1352,7 @@
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [trubitsyn/go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [alrs/surfsticker](https://github.com/alrs/surfsticker) - Manage sticky suckless surf windows.
@@ -1734,7 +1736,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more | 谢谢 http
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Priceless API. The true successor of expressjs | 谢谢 |
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [quasilyte/go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
@@ -2390,6 +2392,7 @@
 
 ## JavaScript 
 
+- [syncsynchalt/animated-curves](https://github.com/syncsynchalt/animated-curves) - An animated visualization of elliptic curve cryptography
 - [anshul1004/JumpToThis](https://github.com/anshul1004/JumpToThis) - Context based video seek and search
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [dutzi/tamper](https://github.com/dutzi/tamper) - Devtools extension, lets you locally edit files served from the web (based on mitmproxy).
@@ -2648,7 +2651,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1712-Stars](https://github.com/RealPeha/This-Repo-Has-1712-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1711-Stars](https://github.com/RealPeha/This-Repo-Has-1711-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3100,7 +3103,7 @@
 - [bithavoc/express-winston](https://github.com/bithavoc/express-winston) - express.js middleware for winstonjs
 - [puleos/object-hash](https://github.com/puleos/object-hash) - Generate hashes from javascript objects in node and the browser.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack) - A secure webpack plugin that supports dotenv and other environment variables and only exposes what you choose and use.
@@ -3197,7 +3200,7 @@
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [CalumJEadie/usefluid.com](https://github.com/CalumJEadie/usefluid.com) - 
-- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
@@ -3304,6 +3307,7 @@
 
 ## Lua 
 
+- [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [hrsh7th/nvim-pasta](https://github.com/hrsh7th/nvim-pasta) - The yank/paste enhancement plugin for neovim.
@@ -3334,7 +3338,7 @@
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 - [Yonaba/Moses](https://github.com/Yonaba/Moses) - Utility library for functional programming  in Lua
-- [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) - 
+- [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) - A plugin for Neovim that helps you surf through your document and move elements around using the nvim-treesitter API.
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
@@ -3422,7 +3426,6 @@
 - [notomo/promise.nvim](https://github.com/notomo/promise.nvim) - Promise implementation for neovim lua
 - [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
-- [mjlbach/parallel.nvim](https://github.com/mjlbach/parallel.nvim) - DO NOT STAR THIS THIS IS FOR @SMOLCK ONLY
 - [caenrique/swap-buffers.nvim](https://github.com/caenrique/swap-buffers.nvim) - Lua plugin to swap buffers easily between split windows without changing the window layout
 - [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
@@ -3550,7 +3553,6 @@
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
 - [libvips/lua-vips](https://github.com/libvips/lua-vips) - Lua binding for the libvips image processing library
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [ingram1107/aedile.nvim](https://github.com/ingram1107/aedile.nvim) - A Neovim plugin that open REPL in a split window according to the current buffer filetype
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - 
@@ -3657,7 +3659,7 @@
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [openresty/opm](https://github.com/openresty/opm) - OpenResty Package Manager
-- [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - it's a real machine
+- [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - It's a real machine
 - [neovim/lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [SimonLarsen/mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
@@ -3727,6 +3729,7 @@
 
 ## OCaml 
 
+- [c-cube/printbox](https://github.com/c-cube/printbox) - print nested boxes, lists, arrays, tables in several formats
 - [art-w/unicorn](https://github.com/art-w/unicorn) - Purely functional GUI algebra
 - [avsm/hello-world-action-ocaml](https://github.com/avsm/hello-world-action-ocaml) - Example use of GitHub Actions with OCaml
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
@@ -3789,7 +3792,6 @@
 - [tmattio/dream-cli](https://github.com/tmattio/dream-cli) - Command Line Interface for Dream applications.
 - [tmattio/dream-livereload](https://github.com/tmattio/dream-livereload) - Live reloading for Dream applications
 - [tmattio/dream-analytics](https://github.com/tmattio/dream-analytics) - Analytics framework and dashboard for your Dream applications.
-- [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
 - [ocurrent/ocaml-multicore-ci](https://github.com/ocurrent/ocaml-multicore-ci) - OCurrent CI for multicore OCaml trees
 - [aantron/dream-serve](https://github.com/aantron/dream-serve) - Live-reloading server for static sites (eventually also dynamic)
 - [rescript-lang/syntax](https://github.com/rescript-lang/syntax) - ReScript's syntax as a standalone repo.
@@ -3987,6 +3989,7 @@
 
 ## Others 
 
+- [alexherbo2/alacritty-extended-keys](https://github.com/alexherbo2/alacritty-extended-keys) - 
 - [adamnemecek/adjoint](https://github.com/adamnemecek/adjoint) - Thoughts on adjoint, norm and such.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
@@ -3998,7 +4001,7 @@
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
-- [Explosion-Scratch/Xeesan-is-a-unicorn](https://github.com/Explosion-Scratch/Xeesan-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/JaydenDev-starred-this-repo](https://github.com/Explosion-Scratch/JaydenDev-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4334,7 +4337,7 @@
 
 ## Pug 
 
-- [ivebencrazy/favioli](https://github.com/ivebencrazy/favioli) - Emoji Favicons for the web. 👊🤯
+- [bpevs/favioli](https://github.com/bpevs/favioli) - Emoji Favicons for the web. 👊🤯
 
 ## PureScript 
 
@@ -4445,7 +4448,7 @@
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [alexellis/growlab](https://github.com/alexellis/growlab) - A global contest to grow and monitor your own food with Raspberry Pi
-- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos in a Google Sheet.
+- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content in a Google Sheet.
 - [bellingcat/instagram-location-search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - This script lets you check whether a specific phone number is connected to a Telegram account.
 - [wnagele/gr-adsb](https://github.com/wnagele/gr-adsb) - GNU Radio ADSB decoder and framer
@@ -4522,7 +4525,7 @@
 - [falense/b2_fuse](https://github.com/falense/b2_fuse) - FUSE integration for Backblaze B2 Cloud storage
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [renatosc/nnv](https://github.com/renatosc/nnv) - NNV - Neural Network Visualizer
-- [errata-ai/packages](https://github.com/errata-ai/packages) - :package: A collection of pre-packaged, Vale-compatible style guides ready to be installed from your Vale Server dashboard!
+- [errata-ai/packages](https://github.com/errata-ai/packages) - :package: A collection of pre-packaged, Vale-compatible style guides and configurations.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [concurrencylabs/aws-pricing-tools](https://github.com/concurrencylabs/aws-pricing-tools) - Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.
@@ -4946,6 +4949,7 @@
 - [mobily/stacks](https://github.com/mobily/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
 - [rescript-lang/rescript-react](https://github.com/rescript-lang/rescript-react) - Official ReScript bindings for ReactJS
 - [rescript-lang/rescript-project-template](https://github.com/rescript-lang/rescript-project-template) - Clone this repo to start your own project!
+- [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
 - [seanstrom/rescript-deno](https://github.com/seanstrom/rescript-deno) - A demo to show use ReScript with Deno
 - [bobzhang/rescript-deno](https://github.com/bobzhang/rescript-deno) - A demo to show use ReScript with Deno
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
@@ -4995,6 +4999,7 @@
 
 ## Roff 
 
+- [dspinellis/unix-history-make](https://github.com/dspinellis/unix-history-make) - Code and data to create a git repository representing the Unix source code history
 - [tckmn/ppi3](https://github.com/tckmn/ppi3) - preprocessor for the i3 window manager
 - [andrewchambers/ddmin](https://github.com/andrewchambers/ddmin) - A no frills delta debugger written in myrddin.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -5062,9 +5067,11 @@
 
 ## Rust 
 
+- [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
+- [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) - A tool to help you find unsubscribe links in your emails
 - [riquito/tuc](https://github.com/riquito/tuc) - When cut doesn't cut it
 - [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
 - [tami5/xbase](https://github.com/tami5/xbase) - Xcode Neovim Replacement-ish.
 - [asomers/mockall](https://github.com/asomers/mockall) - A powerful mock object library for Rust
 - [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
@@ -5241,7 +5248,7 @@
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
+- [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
@@ -5571,7 +5578,6 @@
 
 ## Scheme 
 
-- [mjlbach/babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) - The answer to the ultimate question is :help 42
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
@@ -6003,7 +6009,7 @@
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
 - [ocaml/setup-ocaml](https://github.com/ocaml/setup-ocaml) - GitHub Action for the OCaml programming language
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 💥🦁✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
 - [wildspecial/obsidian-mirror](https://github.com/wildspecial/obsidian-mirror) - 
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - mdSilo is an open-source alternative to your writing tool. You fully own and control  your data.
@@ -6470,7 +6476,6 @@
 - [chikamichi/mediawiki.vim](https://github.com/chikamichi/mediawiki.vim) - Syntax highlighting for MediaWiki-based projects, such as Wikipedia.
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
-- [stapelberg/configfiles](https://github.com/stapelberg/configfiles) - My own personal collection of configfiles. ⚠ Copy bits and pieces at your own risk. ⚠ Might be broken or break your computer. You have been warned :)
 - [wincent/ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [chazmcgarvey/vim-mermaid](https://github.com/chazmcgarvey/vim-mermaid) - Vim syntax for Mermaid diagrams
 - [inkarkat/vim-ingo-library](https://github.com/inkarkat/vim-ingo-library) - Vimscript library of common functions
