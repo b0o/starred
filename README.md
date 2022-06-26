@@ -2355,7 +2355,7 @@
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [openstreetmap/osmosis](https://github.com/openstreetmap/osmosis) - Osmosis is a command line Java application for processing OSM data.
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [senx/warp10-platform](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform
 - [open-osrs/runelite](https://github.com/open-osrs/runelite) - Actually open source Old School RuneScape client
 - [ShprAlex/SproutLife](https://github.com/ShprAlex/SproutLife) - Evolving version of Conway’s Game of Life.
@@ -2377,7 +2377,7 @@
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [usdAG/cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
-- [sirixdb/sirix](https://github.com/sirixdb/sirix) - SirixDB is a temporal, evolutionary database system, which uses an append-only approach to store immutable revisions. It keeps the full history of each resource. Every commit stores a space-efficient 
+- [sirixdb/sirix](https://github.com/sirixdb/sirix) - SirixDB is an embeddable, temporal, evolutionary database system, which uses an append-only approach to store immutable revisions. It keeps the full history of each resource. Every commit stores a spa
 - [DominicKramer/notelab](https://github.com/DominicKramer/notelab) - 
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -5114,7 +5114,7 @@
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [haileys/mixlab](https://github.com/haileys/mixlab) - Digital audio/video workstation
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
+- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [sunshowers-code/rust-cli-recommendations](https://github.com/sunshowers-code/rust-cli-recommendations) - Rust CLI design tips and best practices
 - [pamburus/hl](https://github.com/pamburus/hl) - A log viewer that translates JSON logs into human-readable representation.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -5961,6 +5961,7 @@
 
 ## TypeScript 
 
+- [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [erosson/freecbt](https://github.com/erosson/freecbt) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
