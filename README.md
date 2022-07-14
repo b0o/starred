@@ -997,7 +997,7 @@
 
 ## Fennel 
 
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that keeps you in the zone (sister of lightspeed.nvim)
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A unified, minimal, extensible interface for lightning-fast movements in the visible editor area
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - 🍊 Sweet Fennel integration for Neovim
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -1010,6 +1010,7 @@
 
 ## Go 
 
+- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [AntoineToussaint/wtfa](https://github.com/AntoineToussaint/wtfa) - What's the f$#!ing alias?
 - [liamg/dismember](https://github.com/liamg/dismember) - :knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
 - [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
@@ -1018,6 +1019,7 @@
 - [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff.
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [akinsho/gitgazer](https://github.com/akinsho/gitgazer) - A CLI app that lets you keep track of developments in your favourite repos on Github
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
@@ -2312,7 +2314,7 @@
 - [purebred-mua/purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure f
 - [benl23x5/gloss](https://github.com/benl23x5/gloss) - Painless 2D vector graphics, animations and simulations.
-- [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
+- [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -2331,7 +2333,6 @@
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [nwf/xconfig](https://github.com/nwf/xconfig) - My X and XMonad configurations
 - [mihaimaruseac/hindent](https://github.com/mihaimaruseac/hindent) - Haskell pretty printer
-- [jaor/xmobar](https://github.com/jaor/xmobar) - A minimalistic status bar
 - [tensorflow/haskell](https://github.com/tensorflow/haskell) - Haskell bindings for TensorFlow
 - [taffybar/taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -2412,7 +2413,6 @@
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [pissang/geometry-extrude](https://github.com/pissang/geometry-extrude) - A small and fast library for extruding 2D polygons and polylines to 3D meshes
 - [mapbox/earcut](https://github.com/mapbox/earcut) - The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
@@ -2833,7 +2833,7 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAw
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2050 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ofabry/goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -3307,6 +3307,9 @@
 
 ## Lua 
 
+- [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) - Emacs dired like file manager for neovim
+- [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - [WIP] Lightweight package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view) - A neovim plugin to display lsp hover documentation in a side panel.
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
@@ -3324,7 +3327,7 @@
 - [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) - Lua test framework for neovim plugins
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews in Neovim.
-- [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - A Neovim plugin for adding/changing/deleting surrounding delimiter pairs. Written with :heart: in Lua.
+- [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
 - [declancm/windex.nvim](https://github.com/declancm/windex.nvim) - 🧼 Clean window maximizing, terminal toggling, window/tmux pane movements and more!
 - [lewis6991/nvim-treesitter-context](https://github.com/lewis6991/nvim-treesitter-context) - Show code context
 - [thanhvule0310/dotfiles](https://github.com/thanhvule0310/dotfiles) - 
@@ -3731,6 +3734,7 @@
 
 ## OCaml 
 
+- [ahrefs/ocamlformat](https://github.com/ahrefs/ocamlformat) - Auto-formatter for OCaml code
 - [c-cube/printbox](https://github.com/c-cube/printbox) - print nested boxes, lists, arrays, tables in several formats
 - [art-w/unicorn](https://github.com/art-w/unicorn) - Purely functional GUI algebra
 - [avsm/hello-world-action-ocaml](https://github.com/avsm/hello-world-action-ocaml) - Example use of GitHub Actions with OCaml
@@ -4267,6 +4271,7 @@
 - [arcticicestudio/nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+- [jaor/xmobar](https://github.com/jaor/xmobar) - A minimalistic status bar
 - [AndrewDryga/vagrant-box-osx](https://github.com/AndrewDryga/vagrant-box-osx) - Issue tracker for macOS Sierra Vagrant box.
 - [SiliconStudio/xenko](https://github.com/SiliconStudio/xenko) - Old repo for Xenko Game Engine. Please use https://github.com/xenko3d/xenko instead.
 
@@ -5069,6 +5074,10 @@
 
 ## Rust 
 
+- [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree) - 
+- [koute/not-perf](https://github.com/koute/not-perf) - A sampling CPU profiler for Linux
+- [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
@@ -5316,7 +5325,7 @@
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra) - An ongoing Rust implementation of a Zcash node. 🦓
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Text Correction library written in Rust.
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
@@ -5967,6 +5976,7 @@
 
 ## TypeScript 
 
+- [the-via/app](https://github.com/the-via/app) - 
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -6702,7 +6712,7 @@
 
 ## Zig 
 
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [greenfork/kisa](https://github.com/greenfork/kisa) - Text editor of the new world
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
