@@ -549,6 +549,7 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [imperviousinc/beacon](https://github.com/imperviousinc/beacon) - Beacon browser for desktop
@@ -1446,7 +1447,7 @@
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [boreq/eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [progrium/go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs
-- [brimdata/zed](https://github.com/brimdata/zed) - Tooling for super-structured data: a new and easier way to manipulate data
+- [brimdata/zed](https://github.com/brimdata/zed) - A novel data lake based on super-structured data
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
 - [kamildrazkiewicz/go-flow](https://github.com/kamildrazkiewicz/go-flow) - Simply way to control goroutines execution order based on dependencies
@@ -1741,7 +1742,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [quasilyte/go-consistent](https://github.com/quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
@@ -2521,7 +2522,6 @@
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [timneutkens/next.js](https://github.com/timneutkens/next.js) - A minimalistic framework for universal server-rendered React applications
-- [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [WebReflection/any-ipv4](https://github.com/WebReflection/any-ipv4) - The easiest way to show an IPv4 address
 - [vbaicu/mMusicCast](https://github.com/vbaicu/mMusicCast) - Chromecast emulator that works on any platform. Stream videos from youtube to raspberry pi or any computer with the chromecast protocol.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
@@ -2659,7 +2659,7 @@
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [RealPeha/This-Repo-Has-1731-Stars](https://github.com/RealPeha/This-Repo-Has-1731-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1751-Stars](https://github.com/RealPeha/This-Repo-Has-1751-Stars) - Yes, it's true :purple_heart:
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [ysulyma/lv-tutorial](https://github.com/ysulyma/lv-tutorial) - Tutorial for Liqvid
@@ -3479,7 +3479,7 @@
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) - Integration for nvim-dap with telescope.nvim
 - [nvim-telescope/telescope-packer.nvim](https://github.com/nvim-telescope/telescope-packer.nvim) - A Telescope extension that provides extra functionality for Packer.nvim
-- [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
+- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [chipsenkbeil/vimwiki.nvim](https://github.com/chipsenkbeil/vimwiki.nvim) - Neovim plugin that offers enhanced and alternative functionality for the vimwiki language.
@@ -3504,7 +3504,7 @@
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [yatli/gui-widgets.nvim](https://github.com/yatli/gui-widgets.nvim) - 
 - [0xsamrath/kyoto.nvim](https://github.com/0xsamrath/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
-- [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for markdown notebook navigation and management
+- [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for the fluent navigation and management of markdown notebooks
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim http client written in Lua
 - [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) - Keep buffer dimensions in proportion when terminal window is resized
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
@@ -4968,6 +4968,7 @@
 
 ## Reason 
 
+- [hazelgrove/tylr](https://github.com/hazelgrove/tylr) - a tiny tile-based editor
 - [rickyvetter/reductive](https://github.com/rickyvetter/reductive) - Redux in Reason
 - [ncthbrt/reason-nact](https://github.com/ncthbrt/reason-nact) - let reason-nact = (node.js, reason, actors) ⇒ your µ services have never been so typed
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
@@ -5079,6 +5080,7 @@
 
 ## Rust 
 
+- [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [gitext-rs/git-stack](https://github.com/gitext-rs/git-stack) - Stacked branch management for Git
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree) - 
@@ -5646,6 +5648,7 @@
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
 - [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
+- [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
 - [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
@@ -5983,6 +5986,7 @@
 
 ## TypeScript 
 
+- [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript, TypeScript, and Node.js.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products
 - [the-via/app](https://github.com/the-via/app) - 
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
@@ -6433,7 +6437,7 @@
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [kiteco/vim-plugin](https://github.com/kiteco/vim-plugin) - The Kite plugin for Vim.
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
-- [ferrine/md-img-paste.vim](https://github.com/ferrine/md-img-paste.vim) - paste image to markdown
+- [md-img-paste-devs/md-img-paste.vim](https://github.com/md-img-paste-devs/md-img-paste.vim) - paste image to markdown
 - [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
