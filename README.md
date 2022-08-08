@@ -988,7 +988,7 @@
 - [vain0x/milone-lang](https://github.com/vain0x/milone-lang) - Self-hosting F#-subset compiler
 - [dsyme/guido-learns-fsharp](https://github.com/dsyme/guido-learns-fsharp) - 
 - [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
-- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Markdown LSP server providing completion, cross-references, diagnostics, and more.
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans) - A simple, fun, and interactive way to learn the F# language through testing.
 - [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
 - [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
@@ -2399,6 +2399,7 @@
 
 ## JavaScript 
 
+- [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West's stem player emulator
 - [munrocket/gl-bench](https://github.com/munrocket/gl-bench) - ⏱ WebGL performance monitor with CPU/GPU load.
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
@@ -4003,6 +4004,7 @@
 
 ## Others 
 
+- [basilfx/TRADFRI-Hacking](https://github.com/basilfx/TRADFRI-Hacking) - Hacking IKEA TRÅDFRI products, such as light bulbs, window blinds and other accessories.
 - [atilatech/awesome-longevity](https://github.com/atilatech/awesome-longevity) - An awesome list of longevity resources for living longer, healthier lives.
 - [tombetthauser/watercolor-basics](https://github.com/tombetthauser/watercolor-basics) - Some personal stuff that I observed help frustrated and talented art students over 10+ years making, learning and teaching art professionally for no reason.
 - [alexherbo2/alacritty-extended-keys](https://github.com/alexherbo2/alacritty-extended-keys) - 
@@ -4358,6 +4360,7 @@
 
 ## Python 
 
+- [home-assistant-libs/pytradfri](https://github.com/home-assistant-libs/pytradfri) - IKEA Trådfri/Tradfri API. Control and observe your lights from Python. Examples available. On pypi. Sans-io.
 - [curtisjamesholt/EasyBPY](https://github.com/curtisjamesholt/EasyBPY) - A module to simplify the use of the Blender Python API.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [bonjorno7/PowerSave](https://github.com/bonjorno7/PowerSave) - A powerful saving tool
