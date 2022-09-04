@@ -151,6 +151,7 @@
 
 ## C 
 
+- [ahilss/wavvy](https://github.com/ahilss/wavvy) - 
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
@@ -1596,7 +1597,7 @@
 - [MichaelTJones/gg](https://github.com/MichaelTJones/gg) - gg is smart grep for Go-language source code
 - [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ -- process various formats with libjq
 - [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
-- [pilosa/tools](https://github.com/pilosa/tools) - Tools for development and ops
+- [FeatureBaseDB/tools](https://github.com/FeatureBaseDB/tools) - Tools for development and ops
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
@@ -2412,10 +2413,14 @@
 
 ## JavaScript 
 
+- [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
+- [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
+- [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [LeaVerou/color.js](https://github.com/LeaVerou/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
 - [meld-cp/obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt) - Hide secrets in your Obsidian.md vault
 - [KaranDahiya/philosophy-quotes-API](https://github.com/KaranDahiya/philosophy-quotes-API) - API for retrieving quotes from various philosophies
+- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language Database
 - [prettier/prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
@@ -3155,7 +3160,7 @@
 - [visionmedia/superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [mui/material-ui-docs](https://github.com/mui/material-ui-docs) - ⚠️ Please don't submit PRs here as they will be closed. To edit the docs or source code, please use the main repository:
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 - [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) - React: CSS in JS techniques comparison
@@ -3296,7 +3301,7 @@
 ## Jupyter Notebook 
 
 - [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
-- [magnusviri/stable-diffusion](https://github.com/magnusviri/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface.
+- [magnusviri/stable-diffusion](https://github.com/magnusviri/stable-diffusion) - This is downstream of lstein/stable-diffusion. Go there for all the best stuff!
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [ChrisCrossCrash/r-place-blender](https://github.com/ChrisCrossCrash/r-place-blender) - Tools for r/Place data visualization with Blender and Python
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
@@ -3343,6 +3348,7 @@
 
 ## Lua 
 
+- [superhawk610/ascii-blocks.nvim](https://github.com/superhawk610/ascii-blocks.nvim) - Neovim plugin to prettify ASCII boxes using extended UTF-8 box drawing characters.
 - [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages
 - [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
@@ -3433,7 +3439,7 @@
 - [ThePrimeagen/jvim.nvim](https://github.com/ThePrimeagen/jvim.nvim) - A simple json traverser for NeoVim
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [hrsh7th/nvim-kit](https://github.com/hrsh7th/nvim-kit) - My personal Lua utilities for neovim.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
@@ -4150,7 +4156,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
 - [joelowj/awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
-- [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - Federated Learning Library: https://fedml.ai
+- [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai
 - [linux-audit/audit-documentation](https://github.com/linux-audit/audit-documentation) - Documentation and specifications
 - [xsltdev/xsltdev.com](https://github.com/xsltdev/xsltdev.com) - XSLT Documentation and examples
 - [ostera/awesome-alt-langs](https://github.com/ostera/awesome-alt-langs) - Just a list of Awesome Alt Langs to check out
@@ -4401,6 +4407,8 @@
 
 ## Python 
 
+- [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
+- [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [the-akira/PhilosophyAPI](https://github.com/the-akira/PhilosophyAPI) - Explore Great Thinkers & Ideas
 - [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - Stable Diffusion web UI
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -5164,7 +5172,7 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [mwerezak/sphinx-lang](https://github.com/mwerezak/sphinx-lang) - An intepreter for a simple dynamic language written in Rust
 - [timvisee/pixelpwnr-server](https://github.com/timvisee/pixelpwnr-server) - :fireworks: Blazingly fast GPU accelerated pixelflut server written in Rust.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
 - [LaurentMazare/ocaml-rust](https://github.com/LaurentMazare/ocaml-rust) - Safe OCaml-Rust Foreign Function Interface
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
@@ -6047,6 +6055,7 @@
 
 ## TypeScript 
 
+- [fantasycalendar/obsidian-fantasy-calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) - 
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
 - [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme
@@ -6063,7 +6072,6 @@
 - [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) - This plugin for Obsidian enables you complete words like the auto-completion of IDE.
 - [ravimashru/obsidian-show-file-path](https://github.com/ravimashru/obsidian-show-file-path) - Obsidian plugin to show the file path of the current file in the status bar
 - [dsarman/better-inline-fields](https://github.com/dsarman/better-inline-fields) - Obsidian plugin to enhance Dataview style inline fields
-- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language Database
 - [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
