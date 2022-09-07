@@ -557,6 +557,7 @@
 
 ## C++ 
 
+- [google/brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -870,7 +871,7 @@
 
 ## CodeQL 
 
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
 ## CoffeeScript 
 
@@ -1012,7 +1013,7 @@
 
 ## Fennel 
 
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a unified, "precognitive" interface for lightning-fast, effortless movements spanning the whole editor area
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen jumps quicker and more natural than ever
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - 🍊 Sweet Fennel integration for Neovim
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -1540,7 +1541,7 @@
 - [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal) - ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
 - [nomasters/killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
-- [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Implementation of the Filecoin protocol, written in Go
+- [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [restic/chunker](https://github.com/restic/chunker) - Implementation of Content Defined Chunking (CDC) in Go
@@ -1808,7 +1809,7 @@
 - [alexeyco/binder](https://github.com/alexeyco/binder) - High level go to Lua binder. Write less, do more.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been EOL'ed, see Apptainer
+- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been renamed to Apptainer
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [antchfx/xpath](https://github.com/antchfx/xpath) - XPath package for Golang, supports HTML, XML, JSON document query.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -2189,6 +2190,7 @@
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [noiseprotocol/noise_spec](https://github.com/noiseprotocol/noise_spec) - Noise Specification
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
+- [xsltdev/xsltdev.com](https://github.com/xsltdev/xsltdev.com) - XSLT Documentation and examples
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
@@ -2413,6 +2415,7 @@
 
 ## JavaScript 
 
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
@@ -3025,7 +3028,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
-- [codemirror/dev](https://github.com/codemirror/dev) - Develpment repository for the CodeMirror editor project
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
@@ -3301,7 +3304,7 @@
 ## Jupyter Notebook 
 
 - [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
-- [magnusviri/stable-diffusion](https://github.com/magnusviri/stable-diffusion) - This is downstream of lstein/stable-diffusion. Go there for all the best stuff!
+- [magnusviri/stable-diffusion](https://github.com/magnusviri/stable-diffusion) - Go to lstein/stable-diffusion for all the best stuff and a stable release. This repository is my testing ground and it's very likely that I've done something that will break it.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [ChrisCrossCrash/r-place-blender](https://github.com/ChrisCrossCrash/r-place-blender) - Tools for r/Place data visualization with Blender and Python
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
@@ -3785,6 +3788,7 @@
 
 ## OCaml 
 
+- [mmottl/postgresql-ocaml](https://github.com/mmottl/postgresql-ocaml) - OCaml-bindings for the PostgreSQL database
 - [ahrefs/ocamlformat](https://github.com/ahrefs/ocamlformat) - Auto-formatter for OCaml code
 - [c-cube/printbox](https://github.com/c-cube/printbox) - print nested boxes, lists, arrays, tables in several formats
 - [art-w/unicorn](https://github.com/art-w/unicorn) - Purely functional GUI algebra
@@ -3960,7 +3964,7 @@
 - [Chimrod/i3_workspaces](https://github.com/Chimrod/i3_workspaces) - Workspace manager for i3-wm
 - [goblint/analyzer](https://github.com/goblint/analyzer) - Static analysis framework for C
 - [JetBrains-Research/GT](https://github.com/JetBrains-Research/GT) - Datatype-generic object-oriented transformations for OCaml
-- [ocamllabs/opam-monorepo](https://github.com/ocamllabs/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
+- [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [LaurentMazare/ocaml-arrow](https://github.com/LaurentMazare/ocaml-arrow) - 
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
@@ -4046,6 +4050,7 @@
 
 ## Others 
 
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [obsidianmd/obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian.
 - [dmitryvinn/awesome-dev-advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy) - 🥑  List of Awesome Developer Advocacy Resources
 - [mandatoryprogrammer/chrome-extension-manifests-dataset](https://github.com/mandatoryprogrammer/chrome-extension-manifests-dataset) - &gt;100K Chrome Extension manifest.json files for analysis
@@ -4158,7 +4163,6 @@
 - [joelowj/awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
 - [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai
 - [linux-audit/audit-documentation](https://github.com/linux-audit/audit-documentation) - Documentation and specifications
-- [xsltdev/xsltdev.com](https://github.com/xsltdev/xsltdev.com) - XSLT Documentation and examples
 - [ostera/awesome-alt-langs](https://github.com/ostera/awesome-alt-langs) - Just a list of Awesome Alt Langs to check out
 - [memo/eco-nft](https://github.com/memo/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
 - [davesnx/awesome-ppx-deriving](https://github.com/davesnx/awesome-ppx-deriving) - A collection of ppx-deriving plugins
@@ -4407,10 +4411,11 @@
 
 ## Python 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - Awesome Curated list of (mainly) CLI/TUI applications with source data organized into CSV files
 - [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [the-akira/PhilosophyAPI](https://github.com/the-akira/PhilosophyAPI) - Explore Great Thinkers & Ideas
-- [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - Stable Diffusion web UI
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [home-assistant-libs/pytradfri](https://github.com/home-assistant-libs/pytradfri) - IKEA Trådfri/Tradfri API. Control and observe your lights from Python. Examples available. On pypi. Sans-io.
 - [curtisjamesholt/EasyBPY](https://github.com/curtisjamesholt/EasyBPY) - A module to simplify the use of the Blender Python API.
@@ -4976,6 +4981,7 @@
 
 ## ReScript 
 
+- [DZakh/rescript-struct](https://github.com/DZakh/rescript-struct) - Safely parse and serialize data with ability to describe migration to a convenient format
 - [glennsl/rescript-fetch](https://github.com/glennsl/rescript-fetch) - Experimental zero-cost rescript bindings to the WHATWG Fetch API
 - [bloodyowl/rescript-future](https://github.com/bloodyowl/rescript-future) - Cancellable futures for ReScript
 - [Fattafatta/rescript-jotai](https://github.com/Fattafatta/rescript-jotai) - ReScript bindings for Jotai. Primitive and flexible state management for React.
@@ -5401,7 +5407,7 @@
 - [vrtbl/passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code.
 - [Starlight-JS/starlight](https://github.com/Starlight-JS/starlight) - JS engine in Rust
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
-- [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra) - An ongoing Rust implementation of a Zcash node. 🦓
+- [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra) - A Rust implementation of a Zcash node. 🦓
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
@@ -6055,6 +6061,10 @@
 
 ## TypeScript 
 
+- [phibr0/cycle-through-panes](https://github.com/phibr0/cycle-through-panes) - Cycle through Panes - Obsidian Plugin
+- [andreipfeiffer/css-in-js](https://github.com/andreipfeiffer/css-in-js) - A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js
+- [kepano/obsidian-system-dark-mode](https://github.com/kepano/obsidian-system-dark-mode) - Automatically use the operating system's setting to switch between light and dark mode.
+- [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [fantasycalendar/obsidian-fantasy-calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) - 
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
@@ -6320,7 +6330,7 @@
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [ForumMagnum/ForumMagnum](https://github.com/ForumMagnum/ForumMagnum) - The development repository for LessWrong2 and the EA Forum, based on Vulcan JS
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
