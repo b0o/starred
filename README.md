@@ -571,6 +571,8 @@
 
 ## C++ 
 
+- [chaseleslie/canvas_capture](https://github.com/chaseleslie/canvas_capture) - A WebExtension to record video from HTML canvas elements
+- [arielm/chronotext-cross](https://github.com/arielm/chronotext-cross) - Cross platform infrastructure for developing 2d and 3d applications with C++ and OpenGL
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [ggerganov/hnreplies](https://github.com/ggerganov/hnreplies) - Scrape Hacker News replies
 - [gdsports/usbkbdble](https://github.com/gdsports/usbkbdble) - Convert USB keyboard to Bluetooth LE
@@ -605,7 +607,7 @@
 - [rhysd/Dachs](https://github.com/rhysd/Dachs) - Dachs; A Doggy :dog: Programming Language
 - [EyeTribe/tet-cpp-client](https://github.com/EyeTribe/tet-cpp-client) - C++ SDK for The Eye Tribe Tracker
 - [icethrush/repulsive-curves](https://github.com/icethrush/repulsive-curves) - 
-- [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - A (file-) journal for your shell
+- [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Record shell-commands and used files. Easily tell which command created a file.
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
@@ -1035,18 +1037,19 @@
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - 🍊 Sweet Fennel integration for Neovim
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## Go 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
 - [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML, based on buildkit
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML
 - [mdlayher/consrv](https://github.com/mdlayher/consrv) - Command consrv is a SSH to serial console bridge server, originally designed for deployment on gokrazy.org devices. Apache 2.0 Licensed.
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [AntoineToussaint/wtfa](https://github.com/AntoineToussaint/wtfa) - What's the f$#!ing alias?
@@ -2172,6 +2175,9 @@
 
 ## HTML 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [w3c/webextensions](https://github.com/w3c/webextensions) - Charter and administrivia for the WebExtensions Community Group (WECG)
 - [pybluez/pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 - [clagnut/webtypography](https://github.com/clagnut/webtypography) - The source code for WebTypography.net, a practical guide to web typography.
@@ -2296,6 +2302,7 @@
 
 ## Haskell 
 
+- [quchen/generative-art](https://github.com/quchen/generative-art) - I wanted to make a nicer sticker for Munihac, then things got out of hand.
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Vim plug-ins
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
@@ -2392,7 +2399,6 @@
 ## JSON 
 
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [timonus/OpenerManifest](https://github.com/timonus/OpenerManifest) - Set of rules powering Opener for iOS
 
 ## JSONiq 
 
@@ -2442,6 +2448,10 @@
 
 ## JavaScript 
 
+- [eligrey/canvas-toBlob.js](https://github.com/eligrey/canvas-toBlob.js) - A canvas.toBlob() implementation
+- [dhruv-y/urban-foraging-app](https://github.com/dhruv-y/urban-foraging-app) - React Native App for Urban Foraging
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [jersonlatorre/36daysoftype-2020](https://github.com/jersonlatorre/36daysoftype-2020) - 
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [azer/prova](https://github.com/azer/prova) - Test runner based on Tape and Browserify
 - [qunitjs/qunit](https://github.com/qunitjs/qunit) - 🔮 An easy-to-use JavaScript unit testing framework.
@@ -2452,8 +2462,7 @@
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [souporserious/next-remote-refresh](https://github.com/souporserious/next-remote-refresh) - Enable Fast Refresh for remote data in NextJS.
 - [ijc8/alternator](https://github.com/ijc8/alternator) - General-purpose generative music player
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
-- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [sc420/jellify-ur-website](https://github.com/sc420/jellify-ur-website) - A bookmarklet that turns any website into a big yummy wobbly jelly
 - [shabegom/templater-unsplash-proxy](https://github.com/shabegom/templater-unsplash-proxy) - simple express app to proxy requests to unsplash api
 - [sindresorhus/globals](https://github.com/sindresorhus/globals) - Global identifiers from different JavaScript environments
@@ -2590,6 +2599,7 @@
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [sanack/node-jq](https://github.com/sanack/node-jq) - Node.js wrapper for jq
 - [sanyaade-iot/next-site](https://github.com/sanyaade-iot/next-site) - The official website for Next.js
+- [darklang/tablecloth](https://github.com/darklang/tablecloth) - A standard library with the same API in F#, Rescript and OCaml
 - [glitchdotcom/friendly-words](https://github.com/glitchdotcom/friendly-words) - The Glitch word list, packaged into an NPM module for easy use.
 - [reasonml/reasonml.github.io](https://github.com/reasonml/reasonml.github.io) - Reason's documentation site
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
@@ -2634,6 +2644,7 @@
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [hudochenkov/stylelint-order](https://github.com/hudochenkov/stylelint-order) - A plugin pack of order related linting rules for Stylelint.
 - [constverum/stylelint-config-rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order :vertical_traffic_light:
 - [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little server that connects your website to the independent web.
@@ -2927,7 +2938,7 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAw
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ofabry/goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -2980,7 +2991,7 @@
 - [unconed/mathbox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing
 - [QBobWatson/gt-linalg](https://github.com/QBobWatson/gt-linalg) - Interactive Linear Algebra, free online textbook at Georgia Tech
 - [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
@@ -3188,7 +3199,7 @@
 - [miniyarov/insomnia-plugin-js-eval](https://github.com/miniyarov/insomnia-plugin-js-eval) - 
 - [Gabb1995/insomnia-plugin-customtimestamp](https://github.com/Gabb1995/insomnia-plugin-customtimestamp) - Create a custom timestamp in insomnia rest client
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
@@ -3354,7 +3365,7 @@
 ## Jupyter Notebook 
 
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [magnusviri/stable-diffusion](https://github.com/magnusviri/stable-diffusion) - Go to lstein/stable-diffusion for all the best stuff and a stable release. This repository is my testing ground and it's very likely that I've done something that will break it.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [ChrisCrossCrash/r-place-blender](https://github.com/ChrisCrossCrash/r-place-blender) - Tools for r/Place data visualization with Blender and Python
@@ -3402,6 +3413,9 @@
 
 ## Lua 
 
+- [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex.
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
+- [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor
 - [melkster/modicator.nvim](https://github.com/melkster/modicator.nvim) - Cursor line number mode indicator
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) - Non-intrusive notification system for neovim
 - [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!
@@ -3470,7 +3484,7 @@
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 - [LinArcX/telescope-scriptnames.nvim](https://github.com/LinArcX/telescope-scriptnames.nvim) - Telescope extension wrapper around `:scriptnames`
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, directional Neovim split resizing and navigation. Think about resizing splits in terms of "move the divider to the left/right/up/down".
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, directional Neovim and tmux split resizing and navigation. Think about splits in terms of "up/down/left/right".
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) - resolve those conflicts and have a happy relationship with git
@@ -3501,7 +3515,7 @@
 - [ThePrimeagen/jvim.nvim](https://github.com/ThePrimeagen/jvim.nvim) - A simple json traverser for NeoVim
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [hrsh7th/nvim-kit](https://github.com/hrsh7th/nvim-kit) - My personal Lua utilities for neovim.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
@@ -3710,7 +3724,7 @@
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [cwebster2/github-coauthors.nvim](https://github.com/cwebster2/github-coauthors.nvim) - A neovim extension for populating coauthors when comitting
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
-- [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
+- [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [Pocco81/dap-buddy.nvim](https://github.com/Pocco81/dap-buddy.nvim) - 🐞 Debug Adapter Protocol manager for Neovim
 - [tjdevries/vimterface.nvim](https://github.com/tjdevries/vimterface.nvim) - An interface for plugins. Vaporware
@@ -3895,7 +3909,6 @@
 - [hyper-systems/rescript-sx](https://github.com/hyper-systems/rescript-sx) - Styling extension for ReScript.
 - [teamwalnut/graphql-ppx](https://github.com/teamwalnut/graphql-ppx) - GraphQL language primitives for ReScript/ReasonML written in ReasonML
 - [whitequark/ocaml-m17n](https://github.com/whitequark/ocaml-m17n) - Multilingualization for the OCaml source code
-- [darklang/tablecloth](https://github.com/darklang/tablecloth) - An ergonomic, cross-platform, standard library for Rescript and OCaml
 - [ulrikstrid/dream-routes](https://github.com/ulrikstrid/dream-routes) - Define your Dream router with Routes
 - [ocaml/ocaml-re](https://github.com/ocaml/ocaml-re) - Pure OCaml regular expressions, with support for Perl and POSIX-style strings
 - [jacobaustin123/Coral](https://github.com/jacobaustin123/Coral) - The Coral Programming Language: a blazingly-fast, gradually-typed Python compiler with optional static typing for optimization and safety.
@@ -3941,7 +3954,7 @@
 - [jchavarri/rebez](https://github.com/jchavarri/rebez) - Cubic bezier implementation in Reason / OCaml.
 - [jchavarri/rebind](https://github.com/jchavarri/rebind) - Experimental automated generation of Reason/BuckleScript bindings from JavaScript code.
 - [ml-in-barcelona/jsoo-react](https://github.com/ml-in-barcelona/jsoo-react) - js_of_ocaml bindings for ReactJS. Based on ReasonReact.
-- [anmonteiro/piaf](https://github.com/anmonteiro/piaf) - Client library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+- [anmonteiro/piaf](https://github.com/anmonteiro/piaf) - Web library for OCaml with support for HTTP/1.X / HTTP/2
 - [anmonteiro/ocaml-h2](https://github.com/anmonteiro/ocaml-h2) - An HTTP/2 implementation written in pure OCaml
 - [inhabitedtype/httpaf](https://github.com/inhabitedtype/httpaf) - A high performance, memory efficient, and scalable web server written in OCaml
 - [ulrikstrid/ocaml-oidc](https://github.com/ulrikstrid/ocaml-oidc) - OpenID Connect implementation in OCaml. Currently only the RP (client) parts are polished.
@@ -4134,7 +4147,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/abdeljalil-salhi-is-epic](https://github.com/Explosion-Scratch/abdeljalil-salhi-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/TurtleCode84-starred-this-repo](https://github.com/Explosion-Scratch/TurtleCode84-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4474,6 +4487,11 @@
 
 ## Python 
 
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
+- [upekkha/enpass6-encryption-details](https://github.com/upekkha/enpass6-encryption-details) - 
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -4890,7 +4908,7 @@
 - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
-- [fdw/rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
+- [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
 - [MaryHal/dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [pushshift/api](https://github.com/pushshift/api) - Pushshift API
@@ -5222,6 +5240,8 @@
 
 ## Rust 
 
+- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
+- [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [thirtythreeforty/neolink](https://github.com/thirtythreeforty/neolink) - An RTSP bridge to Reolink IP cameras
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - Ok, hear me out. vim9script... but in lua... so fast
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
@@ -6143,6 +6163,10 @@
 
 ## TypeScript 
 
+- [phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary) - Dictionary - Obsidian Plugin | This plugin adds a multilingual dictionary to the Obsidian note taking tool.
+- [brillout/vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
+- [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [jmilldotdev/obsidian-frontmatter-tag-suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in Obsidian YAML frontmatter. No more deleting #!
@@ -6184,7 +6208,7 @@
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [fantasycalendar/obsidian-fantasy-calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) - 
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit https://forum.standardnotes.org or email help@standardnotes.com
+- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
@@ -6225,7 +6249,7 @@
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [watermelontools/wm-extension](https://github.com/watermelontools/wm-extension) - 🍉  Your code archeology toolbox
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
-- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mikew/prettier_d_slim](https://github.com/mikew/prettier_d_slim) - 
@@ -6323,7 +6347,6 @@
 - [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: The comprehensive toolkit for developing plugins and widgets for Figma and FigJam
 - [snowjs/cli](https://github.com/snowjs/cli) - CLI tool for dead-simple serverless Docker deployments on managed Kubernetes services. A self-hosted PaaS. ⚡️
 - [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
-- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
@@ -6345,7 +6368,7 @@
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [electron/universal](https://github.com/electron/universal) - Create Universal macOS applications from two x64 and arm64 Electron applications
@@ -6563,7 +6586,7 @@
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
