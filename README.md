@@ -110,6 +110,7 @@
 - [XSLT](#xslt)
 - [YARA](#yara)
 - [Zig](#zig)
+- [jq](#jq)
 - [sed](#sed)
 
 ## ActionScript 
@@ -508,7 +509,7 @@
 - [mjanusz/v86d](https://github.com/mjanusz/v86d) - Userspace helper for uvesafb.
 - [bthies/streamit](https://github.com/bthies/streamit) - The StreamIt compiler infrastructure.
 - [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages.
@@ -802,7 +803,7 @@
 
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
 - [code-hike/not-stripe](https://github.com/code-hike/not-stripe) - Building a Stripe Docs clone with Code Hike
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
 - [markfullmer/grammark](https://github.com/markfullmer/grammark) - Open Source Grammar checker.
@@ -865,8 +866,10 @@
 
 ## Clojure 
 
+- [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
+- [mhuebert/maria](https://github.com/mhuebert/maria) - A ClojureScript coding environment for beginners.
 - [devonzuegel/smallworld](https://github.com/devonzuegel/smallworld) - stay in touch with your friends around the world
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
@@ -1023,7 +1026,6 @@
 - [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans) - A simple, fun, and interactive way to learn the F# language through testing.
-- [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
 - [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 - [tpetricek/elmish-spreadsheet](https://github.com/tpetricek/elmish-spreadsheet) - Implement your own Excel 365 in 100 lines of F#!
 
@@ -1044,6 +1046,8 @@
 
 ## Go 
 
+- [chewxy/hm](https://github.com/chewxy/hm) - a simple Hindley-Milner type system in Go
+- [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
 - [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
@@ -1901,7 +1905,7 @@
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [AlekSi/gocov-xml](https://github.com/AlekSi/gocov-xml) - 
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [google/skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) - high performance JSON encoder/decoder with stream API for Golang
 - [AndrewVos/vbar](https://github.com/AndrewVos/vbar) - A bar
@@ -2127,7 +2131,7 @@
 - [lafikl/liblb](https://github.com/lafikl/liblb) - A golang library that implements load balancing algorithms.
 - [lafikl/consistent](https://github.com/lafikl/consistent) - A Go library that implements Consistent Hashing and Consistent Hashing With Bounded Loads.
 - [kryptco/kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
-- [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a structured query language
+- [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [aryann/difflib](https://github.com/aryann/difflib) - 
 - [BurntSushi/xgb](https://github.com/BurntSushi/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -2448,6 +2452,11 @@
 
 ## JavaScript 
 
+- [riok/Kreya](https://github.com/riok/Kreya) - Kreya is a GUI client for gRPC and REST APIs with innovative features for environments, authorizations and more.
+- [minimistjs/minimist](https://github.com/minimistjs/minimist) - parse argument options
+- [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your notes.
+- [amoutonbrady/esbuild-plugin-solid](https://github.com/amoutonbrady/esbuild-plugin-solid) - 
 - [eligrey/canvas-toBlob.js](https://github.com/eligrey/canvas-toBlob.js) - A canvas.toBlob() implementation
 - [dhruv-y/urban-foraging-app](https://github.com/dhruv-y/urban-foraging-app) - React Native App for Urban Foraging
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -2469,12 +2478,14 @@
 - [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [JB4GDI/awsfaviconupdater](https://github.com/JB4GDI/awsfaviconupdater) - IAM shouldn't be the only tab with a unique favicon!  This Chrome Extension sets favicons for many AWS services, so your tabs make more sense.
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [jgauth/obsidian-system-theme](https://github.com/jgauth/obsidian-system-theme) - 
 - [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) - React: CSS in JS techniques comparison
 - [4Catalyzer/astroturf](https://github.com/4Catalyzer/astroturf) - An "artificial" CSS-in-JS for those that want it all.
 - [robinweser/fela](https://github.com/robinweser/fela) - State-Driven Styling in JavaScript
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [Temzasse/stitches-native](https://github.com/Temzasse/stitches-native) - React Native implementation of Stitches (CSS-in-JS library)
+- [kepano/obsidian-system-dark-mode](https://github.com/kepano/obsidian-system-dark-mode) - Automatically use the operating system's setting to switch between light and dark mode.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
@@ -2815,7 +2826,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [adobe/node-fetch-retry](https://github.com/adobe/node-fetch-retry) - Node Module for performing retries using node-fetch
 - [watson/http-echo-server](https://github.com/watson/http-echo-server) - A simple HTTP echo server
-- [taylorgoolsby/insomnia-plugin-response-eval](https://github.com/taylorgoolsby/insomnia-plugin-response-eval) - An Insomnia template tag which allows you to run JavaScript code to transform the raw body response into whatever you need.
+- [taylrun/insomnia-plugin-response-eval](https://github.com/taylrun/insomnia-plugin-response-eval) - An Insomnia template tag which allows you to run JavaScript code to transform the raw body response into whatever you need.
 - [partridge-tech/chris-blog](https://github.com/partridge-tech/chris-blog) - You know, for me.
 - [d3x0r/JSON6](https://github.com/d3x0r/JSON6) - JSON for Humans (ES6)
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
@@ -3110,7 +3121,7 @@
 - [joneit/regexp-like](https://github.com/joneit/regexp-like) - 
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [sbussard/canvas-sketch](https://github.com/sbussard/canvas-sketch) - App to sketch out a business model canvas
 - [utopiabound/redditp](https://github.com/utopiabound/redditp) - Reddit Presentation or Slide Show
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
@@ -3413,6 +3424,8 @@
 
 ## Lua 
 
+- [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
+- [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor
@@ -3506,7 +3519,7 @@
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) - Better digraphs plugin based on idea from Damian Conway
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Completely customisable colors, styles, highlights and filetype highlights
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Customisable colors, styles, highlights and filetype highlights
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
@@ -3685,7 +3698,7 @@
 - [libvips/lua-vips](https://github.com/libvips/lua-vips) - Lua binding for the libvips image processing library
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [ingram1107/aedile.nvim](https://github.com/ingram1107/aedile.nvim) - A Neovim plugin that open REPL in a split window according to the current buffer filetype
-- [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - 
+- [sopa0/telescope-makefile](https://github.com/sopa0/telescope-makefile) - 
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - Tree-sitter powered syntax-aware completion framework.
@@ -3862,6 +3875,7 @@
 
 ## OCaml 
 
+- [dariusf/ppx_debug](https://github.com/dariusf/ppx_debug) - Tools for record-and-replay debugging
 - [mmottl/postgresql-ocaml](https://github.com/mmottl/postgresql-ocaml) - OCaml-bindings for the PostgreSQL database
 - [ahrefs/ocamlformat](https://github.com/ahrefs/ocamlformat) - Auto-formatter for OCaml code
 - [c-cube/printbox](https://github.com/c-cube/printbox) - print nested boxes, lists, arrays, tables in several formats
@@ -3894,7 +3908,7 @@
 - [jhrdina/ocaml-diff](https://github.com/jhrdina/ocaml-diff) - Symmetric Diffs for OCaml Standard Library
 - [gjaldon/simple-diff](https://github.com/gjaldon/simple-diff) - A simple diff algorithm in pure OCaml
 - [avsm/osrelease](https://github.com/avsm/osrelease) - Detect operating system, distribution, version and architecture in OCaml
-- [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml 🐫 🎮
+- [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator written in OCaml that runs in your browser 🐫 🎮
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
 - [ocaml-multicore/effects-examples](https://github.com/ocaml-multicore/effects-examples) - Examples to illustrate the use of algebraic effects in Multicore OCaml
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
@@ -4123,6 +4137,7 @@
 
 ## Others 
 
+- [eeeps/exif-intrinsic-sizing-explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer) - An explainer for allowing images on the web to declare their own density and dimensions using EXIF metadata
 - [reactwg/server-components](https://github.com/reactwg/server-components) - 
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
@@ -4147,7 +4162,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/TurtleCode84-starred-this-repo](https://github.com/Explosion-Scratch/TurtleCode84-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/rgantzos-is-awesome](https://github.com/Explosion-Scratch/rgantzos-is-awesome) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4487,9 +4502,12 @@
 
 ## Python 
 
+- [zackelia/ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra
+- [CanonicalLtd/aws-marketplace-ubuntu-scraper](https://github.com/CanonicalLtd/aws-marketplace-ubuntu-scraper) - CLI to return the Ubuntu AMIs in AWS marketplace
+- [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [upekkha/enpass6-encryption-details](https://github.com/upekkha/enpass6-encryption-details) - 
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
@@ -5122,6 +5140,7 @@
 - [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
 - [seanstrom/rescript-deno](https://github.com/seanstrom/rescript-deno) - A demo to show use ReScript with Deno
 - [bobzhang/rescript-deno](https://github.com/bobzhang/rescript-deno) - A demo to show use ReScript with Deno
+- [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 
 ## Reason 
@@ -5243,7 +5262,7 @@
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [thirtythreeforty/neolink](https://github.com/thirtythreeforty/neolink) - An RTSP bridge to Reolink IP cameras
-- [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - Ok, hear me out. vim9script... but in lua... so fast
+- [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
@@ -5714,7 +5733,7 @@
 - [xi-frontend/xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [Keats/scl](https://github.com/Keats/scl) - A simple configuration language
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [k0kubun/xremap](https://github.com/k0kubun/xremap) - Dynamic key remapper for X11 and Wayland
+- [k0kubun/xremap](https://github.com/k0kubun/xremap) - Key remapper for X11 and Wayland
 - [svenstaro/wmfocus](https://github.com/svenstaro/wmfocus) - Visually focus windows by label
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -5760,7 +5779,7 @@
 
 ## Scala 
 
-- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A log viewer which visualises log events such that it is easy to identify problems or events of interest.
+- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [guardian/gu-who](https://github.com/guardian/gu-who) - answering: who are all these users in my GitHub org?
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
@@ -5779,6 +5798,8 @@
 
 ## Shell 
 
+- [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
+- [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch) - A collection of Arch Linux PKGBUILDS for the ROCm platform
 - [nkh/tmuxake](https://github.com/nkh/tmuxake) - A tmux side-pane manager
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
@@ -6163,6 +6184,12 @@
 
 ## TypeScript 
 
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian https://obsidian.md
+- [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
+- [mswjs/headers-polyfill](https://github.com/mswjs/headers-polyfill) - A Fetch API "Headers" polyfill.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [valentine195/obsidian-admonition](https://github.com/valentine195/obsidian-admonition) - Adds admonition block-styled content to Obsidian.md
 - [phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary) - Dictionary - Obsidian Plugin | This plugin adds a multilingual dictionary to the Obsidian note taking tool.
 - [brillout/vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
@@ -6204,7 +6231,6 @@
 - [seek-oss/treat](https://github.com/seek-oss/treat) - :candy: Themeable, statically extracted CSS‑in‑JS with near‑zero runtime.
 - [phibr0/cycle-through-panes](https://github.com/phibr0/cycle-through-panes) - Cycle through Panes - Obsidian Plugin
 - [andreipfeiffer/css-in-js](https://github.com/andreipfeiffer/css-in-js) - A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js
-- [kepano/obsidian-system-dark-mode](https://github.com/kepano/obsidian-system-dark-mode) - Automatically use the operating system's setting to switch between light and dark mode.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [fantasycalendar/obsidian-fantasy-calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) - 
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -6400,7 +6426,7 @@
 - [jaredly/jerd](https://github.com/jaredly/jerd) - 
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
-- [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Multi-Token Standard (ERC-1155)
+- [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [liqvidjs/liqvid](https://github.com/liqvidjs/liqvid) - Library for interactive videos in React
@@ -6946,7 +6972,7 @@
 
 ## Vue 
 
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
@@ -6979,6 +7005,10 @@
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## jq 
+
+- [wader/jqjq](https://github.com/wader/jqjq) - jq implementation of jq
 
 ## sed 
 
