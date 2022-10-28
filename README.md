@@ -448,6 +448,7 @@
 - [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 - [arjun024/mkeykernel](https://github.com/arjun024/mkeykernel) - A kernel that can read from keyboard and print on-screen
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [pulseaudio/pulseaudio](https://github.com/pulseaudio/pulseaudio) - Mirror of the PulseAudio sound server (for bug reports and pull requests go to the website!)
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
@@ -2463,6 +2464,9 @@
 
 ## JavaScript 
 
+- [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
+- [iLib-js/UCD](https://github.com/iLib-js/UCD) - The Unicode Character Database encoded as json files
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
 - [nickjanssen/PatrolJS](https://github.com/nickjanssen/PatrolJS) - Navigation mesh toolkit for ThreeJS
 - [donmccurdy/three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh utilities for three.js, based on PatrolJS.
@@ -3255,7 +3259,7 @@
 - [visionmedia/superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [mui/material-ui-docs](https://github.com/mui/material-ui-docs) - ⚠️ Please don't submit PRs here as they will be closed. To edit the docs or source code, please use the main repository:
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
@@ -3278,7 +3282,7 @@
 - [electronicwhisper/recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [messutied/colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [sindresorhus/noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -3443,6 +3447,7 @@
 
 ## Lua 
 
+- [declancm/maximize.nvim](https://github.com/declancm/maximize.nvim) - Maximize window splits. A Neovim plugin written in Lua!
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex.
@@ -4157,6 +4162,8 @@
 
 ## Others 
 
+- [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
+- [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [eeeps/exif-intrinsic-sizing-explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer) - An explainer for allowing images on the web to declare their own density and dimensions using EXIF metadata
 - [reactwg/server-components](https://github.com/reactwg/server-components) - 
@@ -5108,6 +5115,7 @@
 
 ## ReScript 
 
+- [resinfo/rescript-lua-ast](https://github.com/resinfo/rescript-lua-ast) - A ReScript representation and printer for the Lua AST.
 - [DZakh/rescript-struct](https://github.com/DZakh/rescript-struct) - Safely parse and serialize data with ability to describe migration to a convenient format
 - [glennsl/rescript-fetch](https://github.com/glennsl/rescript-fetch) - Experimental zero-cost rescript bindings to the WHATWG Fetch API
 - [bloodyowl/rescript-future](https://github.com/bloodyowl/rescript-future) - Cancellable futures for ReScript
@@ -5364,7 +5372,7 @@
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [github/stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs
-- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [octaltree/linearf](https://github.com/octaltree/linearf) - A fast and extensible fuzzy finder on vim
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [sayanarijit/yamlfun](https://github.com/sayanarijit/yamlfun) - [Proof of Concept] Embedded functional scripting language with YAML ¯\_(ツ)_/¯
@@ -6209,6 +6217,11 @@
 
 ## TypeScript 
 
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [AlexBieg/obsidian-better-command-palette](https://github.com/AlexBieg/obsidian-better-command-palette) - A better command palette for obsidian
+- [kzhovn/uri-commands-obsidian](https://github.com/kzhovn/uri-commands-obsidian) - Execute URIs from the command palette
+- [saml-dev/obsidian-custom-js](https://github.com/saml-dev/obsidian-custom-js) - An Obsidian plugin to allow users to reuse code blocks across all devices and OSes
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [honojs/hono-minimal](https://github.com/honojs/hono-minimal) - Minimal project with Hono.
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
@@ -6310,7 +6323,7 @@
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mikew/prettier_d_slim](https://github.com/mikew/prettier_d_slim) - 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
-- [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - A sortable, virtual, customizable tree component for React.
+- [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [Shopify/foundational-design-system-proto](https://github.com/Shopify/foundational-design-system-proto) - A prototype for a foundational design system at Shopify
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
@@ -6332,7 +6345,7 @@
 - [statico/ycombinator1.com](https://github.com/statico/ycombinator1.com) - 🟧 Lets you add a character to Hacker News links to add social media and OpenGraph previews for sharing on things like Slack or Twitter.
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
-- [privatenumber/type-flag](https://github.com/privatenumber/type-flag) - ⛳️ Tiny & typed command-line arguments parser for Node.js
+- [privatenumber/type-flag](https://github.com/privatenumber/type-flag) - ⛳️ Typed command-line arguments parser for Node.js
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
 - [ocaml/setup-ocaml](https://github.com/ocaml/setup-ocaml) - GitHub Action for the OCaml programming language
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
@@ -6376,7 +6389,7 @@
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [aholachek/animate-css-grid](https://github.com/aholachek/animate-css-grid) - Painless transitions for CSS Grid
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [Shougo/ddc-rg](https://github.com/Shougo/ddc-rg) - rg completion for ddc.vim
+- [Shougo/ddc-source-rg](https://github.com/Shougo/ddc-source-rg) - rg completion for ddc.vim
 - [pubkey/client-side-databases](https://github.com/pubkey/client-side-databases) - An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB
 - [churichard/notabase](https://github.com/churichard/notabase) - A personal knowledge base for networked thinking.
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
@@ -6593,7 +6606,6 @@
 - [projectstorm/react-canvas](https://github.com/projectstorm/react-canvas) - A pluggable layout and graphics system aimed at powering desktop publishing as well as storm-react-diagrams
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [reduxjs/react-redux-benchmarks](https://github.com/reduxjs/react-redux-benchmarks) - Performance benchmark harness for React-Redux
@@ -7026,6 +7038,7 @@
 
 ## Zig 
 
+- [ifreund/zig-wayland](https://github.com/ifreund/zig-wayland) - Zig wayland scanner and libwayland bindings
 - [jamii/hytradboi-jam-2022](https://github.com/jamii/hytradboi-jam-2022) - 
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder that prioritizes matches on filenames
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
