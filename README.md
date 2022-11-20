@@ -442,6 +442,7 @@
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
+- [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [MycroftAI/mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
@@ -1754,7 +1755,6 @@
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
 - [zmb3/gogetdoc](https://github.com/zmb3/gogetdoc) - Gets documentation for items in Go source code.
 - [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - Go database for fast and effortless data management
-- [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [clipperhouse/gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
@@ -2681,7 +2681,7 @@
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [hudochenkov/stylelint-order](https://github.com/hudochenkov/stylelint-order) - A plugin pack of order related linting rules for Stylelint.
 - [constverum/stylelint-config-rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order :vertical_traffic_light:
-- [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little server that connects your website to the independent web.
+- [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little Node.js server with all the pieces needed to own your content and share it with the wider independent web.
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [mellson/rescript-intro](https://github.com/mellson/rescript-intro) - Repo for ReScript intro workshop
@@ -2793,7 +2793,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
-- [RealPeha/This-Repo-Has-1765-Stars](https://github.com/RealPeha/This-Repo-Has-1765-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -4334,6 +4334,7 @@
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [OpportunityInsights/EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [s0/eradicate-exclusive-tech-terminology](https://github.com/s0/eradicate-exclusive-tech-terminology) - Let's Eradicate Exclusive Terminology in Tech! :fist_raised:
 - [denisidoro/cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -4817,7 +4818,6 @@
 - [phuhl/notify-send.py](https://github.com/phuhl/notify-send.py) - A python-script like libnotify but with improved functionality
 - [zeffii/TubeTool](https://github.com/zeffii/TubeTool) - generate tubing between two selected polygons  (now supports 2 objects simultaneously in edit mode) b2.8+
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [makelinux/linux_kernel_map](https://github.com/makelinux/linux_kernel_map) - Linux kernel map
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
