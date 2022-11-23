@@ -31,7 +31,6 @@
 - [Dart](#dart)
 - [Dhall](#dhall)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
@@ -971,10 +970,6 @@
 - [rgrove/pie.gd](https://github.com/rgrove/pie.gd) - Config files, scripts, and documentation for the pie.gd Mastodon instance.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [openresty/docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
-
-## EJS 
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -2466,6 +2461,7 @@
 
 ## JavaScript 
 
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [zspecza/common-tags](https://github.com/zspecza/common-tags) - 🔖 Useful template literal tags for dealing with strings in ES2015+
 - [trueadm/t7](https://github.com/trueadm/t7) - Lightweight virtual DOM templating library
 - [w3c/trusted-types](https://github.com/w3c/trusted-types) - A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.
@@ -2666,6 +2662,7 @@
 - [WebReflection/any-ipv4](https://github.com/WebReflection/any-ipv4) - The easiest way to show an IPv4 address
 - [vbaicu/mMusicCast](https://github.com/vbaicu/mMusicCast) - Chromecast emulator that works on any platform. Stream videos from youtube to raspberry pi or any computer with the chromecast protocol.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [nick-fields/persist-action-data](https://github.com/nick-fields/persist-action-data) - Allows variables to be shared between GitHub Action jobs
 - [Merkoba/Bone](https://github.com/Merkoba/Bone) - Minimalistic display of websites. With tiling, theme, and preset support
 - [AlexHolderDeveloper/CommitsWithinTime](https://github.com/AlexHolderDeveloper/CommitsWithinTime) - A helper action that returns true if commits are detected on a repository within a supplied timeframe.
@@ -5641,7 +5638,7 @@
 - [hobofan/cargo-nono](https://github.com/hobofan/cargo-nono) - Check your crate for (possible) no_std compatibility
 - [chalharu/rust-compression](https://github.com/chalharu/rust-compression) - Compression libraries implemented by pure Rust.
 - [ryochack/peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
-- [gimli-rs/gimli](https://github.com/gimli-rs/gimli) - A blazing fast library for consuming the DWARF debugging format
+- [gimli-rs/gimli](https://github.com/gimli-rs/gimli) - A library for reading and writing the DWARF debugging format
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [zesterer/parze](https://github.com/zesterer/parze) - A clean, efficient parser combinator
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
@@ -6245,6 +6242,7 @@
 
 ## TypeScript 
 
+- [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform for HomeKit, Google Home, Alexa, and more.
 - [mcndt/noteshare.space](https://github.com/mcndt/noteshare.space) - A service for sharing encrypted Markdown notes from Obsidian. Notes are end-to-end-encrypted and are only stored temporarily.
 - [mcndt/obsidian-quickshare](https://github.com/mcndt/obsidian-quickshare) - 📝 An Obsidian plugin for sharing encrypted Markdown notes on the web. Zero configuration required.
