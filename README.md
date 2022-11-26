@@ -162,6 +162,7 @@
 
 ## C 
 
+- [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [openmiko/openmiko](https://github.com/openmiko/openmiko) - Open source firmware for Ingenic T20 based devices such as WyzeCam V2, Xiaomi Xiaofang 1S, iSmartAlarm's Spot+ and others.
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [danielo515/nvim-treesitter-reason](https://github.com/danielo515/nvim-treesitter-reason) - Reason parser for Tree-sitter packed as a NeoVim plugin
@@ -1066,7 +1067,7 @@
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for Python, R and Julia
 - [mdlayher/consrv](https://github.com/mdlayher/consrv) - Command consrv is a SSH to serial console bridge server, originally designed for deployment on gokrazy.org devices. Apache 2.0 Licensed.
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [AntoineToussaint/wtfa](https://github.com/AntoineToussaint/wtfa) - What's the f$#!ing alias?
@@ -1109,7 +1110,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [kortschak/gospel](https://github.com/kortschak/gospel) - misspelled word linter for Go comments, string literals and embedded files
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) - 🥘 An independent package manager for compiled binaries.
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal ♟️
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
@@ -1171,7 +1172,7 @@
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [peterbourgon/unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
-- [rhysd/gocaml](https://github.com/rhysd/gocaml) - :camel: Practical statically typed functional programming language implementation with Go and LLVM
+- [rhysd/gocaml](https://github.com/rhysd/gocaml) - :camel: Statically typed functional programming language implementation with Go and LLVM
 - [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [nikitavoloboev/gitupdate](https://github.com/nikitavoloboev/gitupdate) - Commit and push updated files with file names as commit message
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
@@ -2416,7 +2417,6 @@
 ## JSONiq 
 
 - [nichtich/jq-jsonpointer](https://github.com/nichtich/jq-jsonpointer) - jq module implementing JSON Pointer (RFC 6901)
-- [vito-c/jq.vim](https://github.com/vito-c/jq.vim) - Syntax highlighting for jq files in vim/neovim
 
 ## Java 
 
@@ -2461,6 +2461,7 @@
 
 ## JavaScript 
 
+- [browserslist/caniuse-lite](https://github.com/browserslist/caniuse-lite) - A smaller version of caniuse-db, with only the essentials!
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [zspecza/common-tags](https://github.com/zspecza/common-tags) - 🔖 Useful template literal tags for dealing with strings in ES2015+
@@ -3452,6 +3453,7 @@
 
 ## Lua 
 
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [drybalka/tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) - 
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) - Neovim plugin for toggling booleans, etc.
@@ -4549,6 +4551,7 @@
 
 ## Python 
 
+- [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
@@ -6246,6 +6249,7 @@
 
 ## TypeScript 
 
+- [pmndrs/react-three-flex](https://github.com/pmndrs/react-three-flex) - 💪📦  Flexbox for react-three-fiber
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform for HomeKit, Google Home, Alexa, and more.
 - [mcndt/noteshare.space](https://github.com/mcndt/noteshare.space) - A service for sharing encrypted Markdown notes from Obsidian. Notes are end-to-end-encrypted and are only stored temporarily.
@@ -6344,7 +6348,7 @@
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript, TypeScript, and Node.js.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
+- [novuhq/novu](https://github.com/novuhq/novu) - The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
 - [the-via/app](https://github.com/the-via/app) - 
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -7101,6 +7105,7 @@
 ## jq 
 
 - [wader/jqjq](https://github.com/wader/jqjq) - jq implementation of jq
+- [vito-c/jq.vim](https://github.com/vito-c/jq.vim) - Syntax highlighting for jq files in vim/neovim
 
 ## sed 
 
