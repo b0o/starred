@@ -38,6 +38,7 @@
 - [F#](#f#)
 - [F*](#f*)
 - [Fennel](#fennel)
+- [GLSL](#glsl)
 - [Go](#go)
 - [Groff](#groff)
 - [HTML](#html)
@@ -553,6 +554,7 @@
 
 ## C# # 
 
+- [FreyaHolmer/ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A Shader Editor for Unity
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [icosa-gallery/open-brush](https://github.com/icosa-gallery/open-brush) - Open Brush is the open source, community led evolution of Tilt Brush! Forked from https://github.com/googlevr/tilt-brush
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
@@ -582,6 +584,9 @@
 
 ## C++ 
 
+- [svenstaro/glsl-language-server](https://github.com/svenstaro/glsl-language-server) - Language server implementation for GLSL
+- [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) - Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
+- [cwoffenden/hello-webgpu](https://github.com/cwoffenden/hello-webgpu) - Cross-platform C++ example for WebGPU and Dawn
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
 - [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
 - [sago007/PlatformFolders](https://github.com/sago007/PlatformFolders) - A C++ library to look for special directories like "My Documents" and "%APPDATA%" so that you do not need to write Linux, Windows or Mac OS X specific code
@@ -875,7 +880,6 @@
 - [AlexTatiyants/pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
-- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [davatorium/rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 
@@ -974,6 +978,7 @@
 
 - [tmm1/flyapp-mastodon](https://github.com/tmm1/flyapp-mastodon) - mastodon on fly.io
 - [rgrove/pie.gd](https://github.com/rgrove/pie.gd) - Config files, scripts, and documentation for the pie.gd Mastodon instance.
+- [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [openresty/docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
 
@@ -1059,6 +1064,10 @@
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
+
+## GLSL 
+
+- [libretro/glsl-shaders](https://github.com/libretro/glsl-shaders) - This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.
 
 ## Go 
 
@@ -1268,7 +1277,7 @@
 - [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - ARM/RISC-V bare metal Go
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform that lets you escape cloud complexity by logically declaring infrastructure needs directly in application code.
 - [metalmatze/archsecure](https://github.com/metalmatze/archsecure) - Check your machine for issues posted on https://security.archlinux.org
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [fearful-symmetry/garlic](https://github.com/fearful-symmetry/garlic) - GArLIC: GolAng LInux Connector: A Proc Connector library for go
@@ -1610,7 +1619,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [tj/go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
-- [getsentry/sentry-go](https://github.com/getsentry/sentry-go) - Official Sentry SDK for Go
+- [getsentry/sentry-go](https://github.com/getsentry/sentry-go) - The official Go SDK for Sentry (sentry.io)
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [neex/phuip-fpizdam](https://github.com/neex/phuip-fpizdam) - Exploit for CVE-2019-11043
 - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
@@ -2194,6 +2203,7 @@
 
 ## HTML 
 
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
@@ -2467,9 +2477,18 @@
 
 ## JavaScript 
 
+- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
+- [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
+- [spite/ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
+- [spite/THREE.MeshLine](https://github.com/spite/THREE.MeshLine) - Mesh replacement for THREE.Line
+- [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
+- [toji/webgpu-metaballs](https://github.com/toji/webgpu-metaballs) - Metaballs rendered in WebGPU
+- [toji/spookyball](https://github.com/toji/spookyball) - WebGPU-powered, Halloween-themed breakout game
+- [spite/ShaderEditor](https://github.com/spite/ShaderEditor) - Live GLSL WebGL Shader Editor
 - [ThaUnknown/rvfc-polyfill](https://github.com/ThaUnknown/rvfc-polyfill) - requestVideoFrameCallback polyfill
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
+- [pmndrs/react-three-editor](https://github.com/pmndrs/react-three-editor) - 🔌 A one of a kind scene editor that writes changes back into your code
 - [shakyShane/json-ts](https://github.com/shakyShane/json-ts) - Automatically generate Typescript Definition files or Flow types from JSON input.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [facebook/regenerator](https://github.com/facebook/regenerator) - Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
@@ -2580,6 +2599,7 @@
 - [pissang/geometry-extrude](https://github.com/pissang/geometry-extrude) - A small and fast library for extruding 2D polygons and polylines to 3D meshes
 - [mapbox/earcut](https://github.com/mapbox/earcut) - The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
 - [nodeshift/opossum](https://github.com/nodeshift/opossum) - Node.js circuit breaker - fails fast  ⚡️
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
@@ -2818,7 +2838,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
-- [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -2874,7 +2894,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [adobe/node-fetch-retry](https://github.com/adobe/node-fetch-retry) - Node Module for performing retries using node-fetch
 - [watson/http-echo-server](https://github.com/watson/http-echo-server) - A simple HTTP echo server
-- [taylrun/insomnia-plugin-response-eval](https://github.com/taylrun/insomnia-plugin-response-eval) - An Insomnia template tag which allows you to run JavaScript code to transform the raw body response into whatever you need.
+- [mgs485/insomnia-plugin-response-eval](https://github.com/mgs485/insomnia-plugin-response-eval) - An Insomnia template tag which allows you to run JavaScript code to transform the raw body response into whatever you need.
 - [partridge-tech/chris-blog](https://github.com/partridge-tech/chris-blog) - You know, for me.
 - [d3x0r/JSON6](https://github.com/d3x0r/JSON6) - JSON for Humans (ES6)
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
@@ -3472,6 +3492,7 @@
 
 ## Lua 
 
+- [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
 - [xorid/swap-split.nvim](https://github.com/xorid/swap-split.nvim) - Swaps your current split with another split
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -4079,7 +4100,7 @@
 - [c-cube/iter](https://github.com/c-cube/iter) - Simple iterator abstract datatype, intended to iterate efficiently on collections while performing some transformations.
 - [c-cube/ocaml-containers](https://github.com/c-cube/ocaml-containers) - A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads, etc.) BSD license.
 - [OCamlPro/ocp-index](https://github.com/OCamlPro/ocp-index) - Easy access to the interface information of installed OCaml libraries for editors like Emacs and Vim.
-- [ocamllabs/dune-release](https://github.com/ocamllabs/dune-release) - Streamlining the release of dune packages to opam
+- [tarides/dune-release](https://github.com/tarides/dune-release) - Streamlining the release of dune packages to opam
 - [savonet/ocaml-posix](https://github.com/savonet/ocaml-posix) - Bindings to the various POSIX APIs
 - [ocaml-dune/pp](https://github.com/ocaml-dune/pp) - Pretty printing library
 - [aantron/bisect_ppx](https://github.com/aantron/bisect_ppx) - Code coverage for OCaml and ReScript
@@ -4113,7 +4134,7 @@
 - [ixy-languages/ixy.ml](https://github.com/ixy-languages/ixy.ml) - OCaml rewrite of the ixy network driver
 - [Chimrod/i3_workspaces](https://github.com/Chimrod/i3_workspaces) - Workspace manager for i3-wm
 - [goblint/analyzer](https://github.com/goblint/analyzer) - Static analysis framework for C
-- [JetBrains-Research/GT](https://github.com/JetBrains-Research/GT) - Datatype-generic object-oriented transformations for OCaml
+- [dboulytchev/GT](https://github.com/dboulytchev/GT) - Datatype-generic object-oriented transformations for OCaml
 - [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [LaurentMazare/ocaml-arrow](https://github.com/LaurentMazare/ocaml-arrow) - 
@@ -4573,6 +4594,7 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -5003,7 +5025,7 @@
 - [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
 - [MaryHal/dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
@@ -5161,7 +5183,6 @@
 
 ## ReScript 
 
-- [rescript-lang/rescript-standard-library](https://github.com/rescript-lang/rescript-standard-library) - 
 - [resinfo/rescript-lua-ast](https://github.com/resinfo/rescript-lua-ast) - A ReScript representation and printer for the Lua AST.
 - [DZakh/rescript-struct](https://github.com/DZakh/rescript-struct) - Safely parse and serialize with transformation to convenient ReScript data structures
 - [glennsl/rescript-fetch](https://github.com/glennsl/rescript-fetch) - Experimental zero-cost rescript bindings to the WHATWG Fetch API
@@ -5862,6 +5883,7 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [sharu725/thunder](https://github.com/sharu725/thunder) - A minimal and superfast Jekyll theme
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
+- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 
 ## Scala 
 
@@ -5886,7 +5908,6 @@
 
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement.
-- [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch) - A collection of Arch Linux PKGBUILDS for the ROCm platform
 - [nkh/tmuxake](https://github.com/nkh/tmuxake) - A tmux side-pane manager
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
@@ -6184,7 +6205,6 @@
 - [openwifi-su/openwifi_linux_bash](https://github.com/openwifi-su/openwifi_linux_bash) - Simple example on bash for working with new Location API
 - [archlinux-downgrade/downgrade](https://github.com/archlinux-downgrade/downgrade) - Downgrade packages in Arch Linux
 - [cmvnd/fonts](https://github.com/cmvnd/fonts) - tiny bitmap fonts
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -6272,8 +6292,11 @@
 
 ## TypeScript 
 
+- [s1gr1d/glsl-noise-template-string](https://github.com/s1gr1d/glsl-noise-template-string) - Use popular noise functions withing glsl written in JS Template-Strings
+- [pmndrs/react-three-rapier](https://github.com/pmndrs/react-three-rapier) - 🤺 Rapier physics in React
+- [austinEng/webgpu-samples](https://github.com/austinEng/webgpu-samples) - WebGPU Samples
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
-- [pmndrs/react-three-editor](https://github.com/pmndrs/react-three-editor) - 🔌 A one of a kind scene editor that writes changes back into your code
 - [gregberge/react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs 🖇
 - [juggle/resize-observer](https://github.com/juggle/resize-observer) - Polyfills the ResizeObserver API.
 - [pmndrs/react-use-measure](https://github.com/pmndrs/react-use-measure) - 🙌 Utility to measure view bounds
@@ -6405,7 +6428,6 @@
 - [watermelontools/watermelon-extension](https://github.com/watermelontools/watermelon-extension) - 🍉  Your code archeology toolbox
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mikew/prettier_d_slim](https://github.com/mikew/prettier_d_slim) - 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
@@ -6577,7 +6599,7 @@
 - [mxstbr/passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [pmndrs/react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber
-- [six7/figma-tokens](https://github.com/six7/figma-tokens) - Official repository of the plugin 'Figma Tokens' for Figma.
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
 - [refined-github/github-url-detection](https://github.com/refined-github/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
@@ -6746,6 +6768,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 
 ## V 
