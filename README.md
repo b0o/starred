@@ -18,6 +18,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
@@ -138,6 +139,7 @@
 
 ## Assembly 
 
+- [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [bitonic/pipes-speed-test](https://github.com/bitonic/pipes-speed-test) - 
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
@@ -164,6 +166,8 @@
 
 ## C 
 
+- [johnhe4/nvenc_h265_transparency](https://github.com/johnhe4/nvenc_h265_transparency) - Encodes a sequence of YUV frames into HEVC (h.265) with transparency, using Nvidia's nvEncodeApi
+- [GoogleChromeLabs/wasm-av1](https://github.com/GoogleChromeLabs/wasm-av1) - Port of the AV1 Video codec to WebAssembly
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [openmiko/openmiko](https://github.com/openmiko/openmiko) - Open source firmware for Ingenic T20 based devices such as WyzeCam V2, Xiaomi Xiaofang 1S, iSmartAlarm's Spot+ and others.
@@ -554,6 +558,7 @@
 
 ## C# # 
 
+- [FreyaHolmer/Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 - [FreyaHolmer/ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A Shader Editor for Unity
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [icosa-gallery/open-brush](https://github.com/icosa-gallery/open-brush) - Open Brush is the open source, community led evolution of Tilt Brush! Forked from https://github.com/googlevr/tilt-brush
@@ -818,6 +823,10 @@
 - [robin7331/IKEA-Hackant](https://github.com/robin7331/IKEA-Hackant) - 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
+## CMake 
+
+- [chase-moskal/webp-hero](https://github.com/chase-moskal/webp-hero) - browser polyfill for the webp image format
+
 ## CSS 
 
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
@@ -1081,12 +1090,12 @@
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for Python, R and Julia
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for AI/ML
 - [mdlayher/consrv](https://github.com/mdlayher/consrv) - Command consrv is a SSH to serial console bridge server, originally designed for deployment on gokrazy.org devices. Apache 2.0 Licensed.
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [AntoineToussaint/wtfa](https://github.com/AntoineToussaint/wtfa) - What's the f$#!ing alias?
 - [liamg/dismember](https://github.com/liamg/dismember) - :knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
-- [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [ssrathi/go-scrub](https://github.com/ssrathi/go-scrub) - A scrubbing utility to hide sensitive fields from a struct prior to logging
 - [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
@@ -2477,6 +2486,13 @@
 
 ## JavaScript 
 
+- [brion/yuv-buffer](https://github.com/brion/yuv-buffer) - YUV image frame buffer helper utilities for JavaScript
+- [brion/yuv-canvas](https://github.com/brion/yuv-canvas) - JS class to draw YUV image frame buffers to an HTML5 canvas
+- [brion/ogv.js](https://github.com/brion/ogv.js) - JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
+- [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
+- [antimatter15/whammy](https://github.com/antimatter15/whammy) - A real time javascript webm encoder based on a canvas hack
+- [chuckfairy/THREE.WebMExporter](https://github.com/chuckfairy/THREE.WebMExporter) - A WebM video compiler extension for threejs
+- [nickmvincent/chatgpt-exploration](https://github.com/nickmvincent/chatgpt-exploration) - 
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
 - [spite/ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
@@ -3063,7 +3079,7 @@
 - [pakastin/car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [this-fifo/stella](https://github.com/this-fifo/stella) - ( •ॢ◡-ॢ)-♡ ☆.。.:*・°☆.。.:*・°☆
-- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
+- [crisdosyago/DiskerNet](https://github.com/crisdosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [chillu/github-dashing](https://github.com/chillu/github-dashing) - Dashboard to monitor the health of github projects based on their contribution statistics, based on the "Dashing" framework
@@ -3653,7 +3669,7 @@
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [notomo/promise.nvim](https://github.com/notomo/promise.nvim) - Promise implementation for neovim lua
 - [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
-- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
+- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and multiplexer :sparkles:
 - [caenrique/swap-buffers.nvim](https://github.com/caenrique/swap-buffers.nvim) - Lua plugin to swap buffers easily between split windows without changing the window layout
 - [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
@@ -4134,7 +4150,7 @@
 - [ixy-languages/ixy.ml](https://github.com/ixy-languages/ixy.ml) - OCaml rewrite of the ixy network driver
 - [Chimrod/i3_workspaces](https://github.com/Chimrod/i3_workspaces) - Workspace manager for i3-wm
 - [goblint/analyzer](https://github.com/goblint/analyzer) - Static analysis framework for C
-- [dboulytchev/GT](https://github.com/dboulytchev/GT) - Datatype-generic object-oriented transformations for OCaml
+- [PLTools/GT](https://github.com/PLTools/GT) - Datatype-generic object-oriented transformations for OCaml
 - [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [LaurentMazare/ocaml-arrow](https://github.com/LaurentMazare/ocaml-arrow) - 
@@ -4351,6 +4367,7 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
+- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [UIGuideline/UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
 - [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) - A curated list of awesome F# frameworks, libraries, software and resources.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -4594,6 +4611,7 @@
 
 ## Python 
 
+- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
@@ -5642,7 +5660,6 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [kuchiki-rs/kuchiki](https://github.com/kuchiki-rs/kuchiki) - (朽木) HTML/XML tree manipulation library for Rust
 - [lowenware/dotrix](https://github.com/lowenware/dotrix) - A 3D Engine written in Rust
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -6612,7 +6629,7 @@
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-- [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+- [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [ryankaplan/gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - Typescript library for generating distance fields from 2d images on the GPU
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
