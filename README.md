@@ -166,6 +166,8 @@
 
 ## C 
 
+- [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
+- [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
 - [MPEGGroup/isobmff](https://github.com/MPEGGroup/isobmff) - Official repository of the ISO Base Media File Format Reference Software
 - [AOMediaCodec/libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
 - [johnhe4/nvenc_h265_transparency](https://github.com/johnhe4/nvenc_h265_transparency) - Encodes a sequence of YUV frames into HEVC (h.265) with transparency, using Nvidia's nvEncodeApi
@@ -591,6 +593,7 @@
 
 ## C++ 
 
+- [secondlife/viewer](https://github.com/secondlife/viewer) - 🖥️ Second Life's official client
 - [apngasm/apngasm](https://github.com/apngasm/apngasm) - The next generation of apngasm, the APNG Assembler. The apngasm CLI tool and library can assemble and disassemble APNG image files.
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [svenstaro/glsl-language-server](https://github.com/svenstaro/glsl-language-server) - Language server implementation for GLSL
@@ -790,7 +793,7 @@
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [tobimensch/aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
-- [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+- [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [inspector-repl/inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
 - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
@@ -1085,6 +1088,9 @@
 
 ## Go 
 
+- [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
+- [PullRequestInc/go-gpt3](https://github.com/PullRequestInc/go-gpt3) - An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs.
+- [mattn/chatgpt](https://github.com/mattn/chatgpt) - 
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [boreq/guinea](https://github.com/boreq/guinea) - Go library for building command line interfaces.
 - [boreq/plum](https://github.com/boreq/plum) - Plum is a real-time web server access log analyser.
@@ -2217,6 +2223,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -2351,7 +2358,7 @@
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
 - [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Vim plug-ins
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
-- [EmaApps/emanote](https://github.com/EmaApps/emanote) - Emanate a structured view of your plain-text notes
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [koka-lang/koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
@@ -2492,6 +2499,12 @@
 
 ## JavaScript 
 
+- [georgedoescode/squircley.js](https://github.com/georgedoescode/squircley.js) - Flexible JavaScript library for creating squircley magic ✨
+- [damianociarla/node-ffmpeg](https://github.com/damianociarla/node-ffmpeg) - ffmpeg module for nodejs
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [Jsonize/js-ffmpeg](https://github.com/Jsonize/js-ffmpeg) - This is a simple wrapper for FFMPEG and FFPROBE.
+- [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+- [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 - [cssstats/cssstats](https://github.com/cssstats/cssstats) - Visualize various stats about your CSS
 - [brion/yuv-buffer](https://github.com/brion/yuv-buffer) - YUV image frame buffer helper utilities for JavaScript
@@ -2512,7 +2525,6 @@
 - [ThaUnknown/rvfc-polyfill](https://github.com/ThaUnknown/rvfc-polyfill) - requestVideoFrameCallback polyfill
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
-- [pmndrs/react-three-editor](https://github.com/pmndrs/react-three-editor) - 🔌 A one of a kind scene editor that writes changes back into your code
 - [shakyShane/json-ts](https://github.com/shakyShane/json-ts) - Automatically generate Typescript Definition files or Flow types from JSON input.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [facebook/regenerator](https://github.com/facebook/regenerator) - Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
@@ -2661,7 +2673,7 @@
 - [protoship/html-to-rescript-jsx](https://github.com/protoship/html-to-rescript-jsx) - Convert plain HTML to a valid ReScript JSX component
 - [TheSpyder/bs-atdgen-generator](https://github.com/TheSpyder/bs-atdgen-generator) - Pre-compiled versions of atdgen binaries to be consumed from ReScript projects
 - [ahrefs/atdgen-workshop-starter](https://github.com/ahrefs/atdgen-workshop-starter) - Starter project for ReasonConf atdgen workshop
-- [flexdinesh/browser-or-node](https://github.com/flexdinesh/browser-or-node) - Check where the code is running in the browser or node.js
+- [flexdinesh/browser-or-node](https://github.com/flexdinesh/browser-or-node) - Check where your code is running. In the browser or in node.js environment.
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [LeanyLabs/js-array-performance](https://github.com/LeanyLabs/js-array-performance) - Performance benchmarks of different array iteration methods
 - [adametry/gulp-eslint](https://github.com/adametry/gulp-eslint) - A Gulp plugin for identifying and reporting on patterns found in ECMAScript/JavaScript code.
@@ -3037,7 +3049,7 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAw
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ofabry/goexplorer](https://github.com/ofabry/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -3132,7 +3144,7 @@
 - [grasslandnetwork/node_lite](https://github.com/grasslandnetwork/node_lite) - Grassland Node Lite. Optimized for use on low-end computers. Requires Grassland's 'Node Lite Object Detection'
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [WebReflection/lighterhtml](https://github.com/WebReflection/lighterhtml) - The hyperHTML strength & experience without its complexity 🎉
 - [davicorreiajr/spotify-now-playing](https://github.com/davicorreiajr/spotify-now-playing) - Spotify now playing information and control popup for macOS menu bar
 - [Canop/miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
@@ -3513,9 +3525,11 @@
 
 ## Lua 
 
+- [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can assign a terminal-buffer for each buffer.
+- [sigmaSd/deno-nvim](https://github.com/sigmaSd/deno-nvim) - A plugin to improve deno experience in neovim
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Small aync library for Neovim plugins
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
-- [xorid/swap-split.nvim](https://github.com/xorid/swap-split.nvim) - Swaps your current split with another split
+- [cloudysake/swap-split.nvim](https://github.com/cloudysake/swap-split.nvim) - Swaps your current split with another split
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [drybalka/tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) - 
@@ -3809,7 +3823,7 @@
 - [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - Tree-sitter powered syntax-aware completion framework.
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
-- [tjdevries/lazy.nvim](https://github.com/tjdevries/lazy.nvim) - Require as little as possible. Do as little work as possible. Spend hours shaving off milliseconds
+- [tjdevries/lazy-require.nvim](https://github.com/tjdevries/lazy-require.nvim) - Require as little as possible. Do as little work as possible. Spend hours shaving off milliseconds
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
@@ -4018,7 +4032,7 @@
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
 - [ocaml-multicore/effects-examples](https://github.com/ocaml-multicore/effects-examples) - Examples to illustrate the use of algebraic effects in Multicore OCaml
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
-- [Gitpod-Samples/template-ocaml](https://github.com/Gitpod-Samples/template-ocaml) - A template for OCaml, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.
+- [gitpod-samples/template-ocaml](https://github.com/gitpod-samples/template-ocaml) - A template for OCaml, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.
 - [dbuenzli/mu](https://github.com/dbuenzli/mu) - Declarative music for OCaml (unreleased)
 - [dbuenzli/brr](https://github.com/dbuenzli/brr) - Browser programming toolkit for OCaml
 - [dbuenzli/qoic](https://github.com/dbuenzli/qoic) - QOI image codec for OCaml (unreleased)
@@ -4618,9 +4632,12 @@
 
 ## Python 
 
+- [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
+- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
+- [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
 - [marcoppasini/musika](https://github.com/marcoppasini/musika) - Fast Infinite Waveform Music Generation
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
-- [riffusion/riffusion-inference](https://github.com/riffusion/riffusion-inference) - Stable diffusion for real-time music generation
+- [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
 - [natis1/qencoder](https://github.com/natis1/qencoder) - Video encoder for free formats (av1, vp9, vp8). Easy and cross platform.
 - [collin-burns/discovering_latent_knowledge](https://github.com/collin-burns/discovering_latent_knowledge) - 
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
@@ -4668,7 +4685,7 @@
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [DougBeney/pickachu](https://github.com/DougBeney/pickachu) - The Best Color Picker for Vim! - A Color, Date, and File Chooser for Vim/NeoVim using Zenity
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
-- [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for "Turing Smart Screen" 3.5" IPS USB-C display
+- [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for 3.5" IPS USB-C displays like Turing Smart Screen or XuanFang
 - [luarocks/hererocks](https://github.com/luarocks/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -5468,7 +5485,7 @@
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [haileys/mixlab](https://github.com/haileys/mixlab) - Digital audio/video workstation
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [sunshowers-code/rust-cli-recommendations](https://github.com/sunshowers-code/rust-cli-recommendations) - Rust CLI design tips and best practices
 - [pamburus/hl](https://github.com/pamburus/hl) - A log viewer that translates JSON logs into human-readable representation.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -6128,7 +6145,7 @@
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
 - [zunit-zsh/zunit](https://github.com/zunit-zsh/zunit) - A powerful testing framework for ZSH projects
-- [okdana/shu2](https://github.com/okdana/shu2) - A general-purpose utility library for zsh scripts
+- [okdana/shu2](https://github.com/okdana/shu2) - [INACTIVE] A general-purpose utility library for zsh scripts
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [momo-lab/zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
@@ -6325,13 +6342,18 @@
 
 ## TypeScript 
 
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation
+- [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
+- [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
+- [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
+- [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
+- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [s1gr1d/glsl-noise-template-string](https://github.com/s1gr1d/glsl-noise-template-string) - Use popular noise functions withing glsl written in JS Template-Strings
 - [pmndrs/react-three-rapier](https://github.com/pmndrs/react-three-rapier) - 🤺 Rapier physics in React
 - [austinEng/webgpu-samples](https://github.com/austinEng/webgpu-samples) - WebGPU Samples
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
+- [pmndrs/react-three-editor](https://github.com/pmndrs/react-three-editor) - 🔌 A one of a kind scene editor that writes changes back into your code
 - [gregberge/react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs 🖇
 - [juggle/resize-observer](https://github.com/juggle/resize-observer) - Polyfills the ResizeObserver API.
 - [pmndrs/react-use-measure](https://github.com/pmndrs/react-use-measure) - 🙌 Utility to measure view bounds
