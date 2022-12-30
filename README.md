@@ -3690,7 +3690,7 @@
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [notomo/promise.nvim](https://github.com/notomo/promise.nvim) - Promise implementation for neovim lua
 - [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
-- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and multiplexer :sparkles:
+- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer :sparkles:
 - [caenrique/swap-buffers.nvim](https://github.com/caenrique/swap-buffers.nvim) - Lua plugin to swap buffers easily between split windows without changing the window layout
 - [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
@@ -5404,6 +5404,7 @@
 
 ## Rust 
 
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [arlyon/stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast 🚀
@@ -6054,7 +6055,7 @@
 - [KittyKatt/fetch](https://github.com/KittyKatt/fetch) - A BASH screenshot, system information, and logo display tool.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
-- [biox/pa](https://github.com/biox/pa) - A simple password manager using age written in POSIX sh
+- [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
 - [erlendd/raw-thumbnailer](https://github.com/erlendd/raw-thumbnailer) - Automatically exported from code.google.com/p/raw-thumbnailer
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -6463,7 +6464,7 @@
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript, TypeScript, and Node.js.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [the-via/app](https://github.com/the-via/app) - 
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -6481,7 +6482,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [frouo/next-markdown](https://github.com/frouo/next-markdown) - Markdown Pages for Next.js with 0 effort, dynamic routes and your layout design
-- [nimeshnayaju/y-presence](https://github.com/nimeshnayaju/y-presence) - Add multiplayer presence (live cursors/avatars) to any web application using yjs
+- [nimeshnayaju/y-presence](https://github.com/nimeshnayaju/y-presence) - Implement and manage presence using Yjs in any React application using simple React hooks.
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [watermelontools/watermelon-extension](https://github.com/watermelontools/watermelon-extension) - 🍉  Your code archeology toolbox
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
@@ -6888,7 +6889,7 @@
 - [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) - A fork of textobj-parameter 0.1.0
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
-- [nikvdp/neomux](https://github.com/nikvdp/neomux) - 
+- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [ellisonleao/from-vimscript-to-lua](https://github.com/ellisonleao/from-vimscript-to-lua) - 
 - [ericbn/vim-relativize](https://github.com/ericbn/vim-relativize) - This Vim plugin only shows relative line numbers when you need them.
 - [vim-scripts/RelOps](https://github.com/vim-scripts/RelOps) - Relative line numbers for pending operations
