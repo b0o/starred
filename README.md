@@ -166,6 +166,7 @@
 
 ## C 
 
+- [sebbekarlsson/glms](https://github.com/sebbekarlsson/glms) - Generalized Linear Model Script
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
 - [MPEGGroup/isobmff](https://github.com/MPEGGroup/isobmff) - Official repository of the ISO Base Media File Format Reference Software
@@ -906,7 +907,7 @@
 - [mhuebert/maria](https://github.com/mhuebert/maria) - A ClojureScript coding environment for beginners.
 - [devonzuegel/smallworld](https://github.com/devonzuegel/smallworld) - stay in touch with your friends around the world
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [dainiusjocas/lucene-grep](https://github.com/dainiusjocas/lucene-grep) - Grep-like utility based on Lucene Monitor compiled with GraalVM native-image
@@ -2439,7 +2440,6 @@
 - [tensorflow/haskell](https://github.com/tensorflow/haskell) - Haskell bindings for TensorFlow
 - [taffybar/taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [altercation/dotfiles-tilingwm](https://github.com/altercation/dotfiles-tilingwm) - Tiling window manager related files (XMonad / i3) including configuration for components that create a good, minimal desktop-environment replacement.
 
 ## Haxe 
 
@@ -2874,7 +2874,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
-- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3951,7 +3951,7 @@
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [ory/status](https://github.com/ory/status) - 📈 Uptime monitor and status page for ORY
+- [ory/status](https://github.com/ory/status) - DEPRECATED
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -3965,7 +3965,7 @@
 ## Nim 
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-- [ansiwave/ansiwave_bbs](https://github.com/ansiwave/ansiwave_bbs) - A modern BBS
+- [ansiwave/ansiwave](https://github.com/ansiwave/ansiwave) - A modern BBS
 - [nim-lang/nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
 - [gokr/spry](https://github.com/gokr/spry) - A Smalltalk and Rebol inspired language implemented as an AST interpreter in Nim
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -5404,6 +5404,7 @@
 
 ## Rust 
 
+- [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky) - A new, portable, regular expression language
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
@@ -5956,6 +5957,7 @@
 
 ## Shell 
 
+- [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 50+ companies.
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement.
 - [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch) - A collection of Arch Linux PKGBUILDS for the ROCm platform
@@ -6343,6 +6345,7 @@
 
 ## TypeScript 
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
@@ -6478,7 +6481,7 @@
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [dilanx/craco](https://github.com/dilanx/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App.
 - [codesandbox/codesandbox-importers](https://github.com/codesandbox/codesandbox-importers) - All importers & exporters for CodeSandbox
-- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [frouo/next-markdown](https://github.com/frouo/next-markdown) - Markdown Pages for Next.js with 0 effort, dynamic routes and your layout design
@@ -7161,7 +7164,7 @@
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
-- [altercation/ethanschoonover.com-OLD](https://github.com/altercation/ethanschoonover.com-OLD) - website source (hakyll, pandoc markdown)
+- [altercation/OLD-ethanschoonover.com-original](https://github.com/altercation/OLD-ethanschoonover.com-original) - website source (hakyll, pandoc markdown)
 - [alx741/vim-hindent](https://github.com/alx741/vim-hindent) - Vim Haskell Hindent integration plugin
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
