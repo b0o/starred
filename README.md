@@ -239,7 +239,6 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [pllua/pllua](https://github.com/pllua/pllua) - Re-implementation of pllua, embedded Lua for postgresql
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc) - Tree-sitter parser for Vim help files
 - [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [markusmoenig/Signed](https://github.com/markusmoenig/Signed) - Signed is a 3D modeling and construction language based on Lua and SDFs. Signed will be available for macOS and iOS and is heavily optimized for Metal.
@@ -515,7 +514,7 @@
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [lemire/fastbase64](https://github.com/lemire/fastbase64) - SIMD-accelerated base64 codecs
 - [Blezzing/blezz](https://github.com/Blezzing/blezz) - Keystroke Launcher
-- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
+- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 - [IAIK/meltdown](https://github.com/IAIK/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
 - [chaos/pdsh](https://github.com/chaos/pdsh) - A high performance, parallel remote shell utility
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
@@ -2500,6 +2499,8 @@
 
 ## JavaScript 
 
+- [lyft/coloralgorithm](https://github.com/lyft/coloralgorithm) - Javacript function to produce color sets
+- [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
 - [georgedoescode/squircley.js](https://github.com/georgedoescode/squircley.js) - Flexible JavaScript library for creating squircley magic ✨
 - [damianociarla/node-ffmpeg](https://github.com/damianociarla/node-ffmpeg) - ffmpeg module for nodejs
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
@@ -2766,6 +2767,7 @@
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [mellson/rescript-intro](https://github.com/mellson/rescript-intro) - Repo for ReScript intro workshop
+- [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc) - Tree-sitter parser for Vim help files
 - [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -2874,7 +2876,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
-- [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3477,6 +3479,7 @@
 
 ## Jupyter Notebook 
 
+- [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [magnusviri/stable-diffusion](https://github.com/magnusviri/stable-diffusion) - Go to lstein/stable-diffusion for all the best stuff and a stable release. This repository is my testing ground and it's very likely that I've done something that will break it.
@@ -3499,7 +3502,7 @@
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
 - [panicinc/speed_mystery](https://github.com/panicinc/speed_mystery) - Data collected to investigate why Comcast customers have slow downloads from our site
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [kmather73/NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) - What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
 - [babylonhealth/fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) - Multilingual word vectors in 78 languages
@@ -4911,6 +4914,7 @@
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [jeffshek/betterself](https://github.com/jeffshek/betterself) - Your body's dashboard.
 - [olemartinorg/i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout) - Scripts to open new windows in i3wm using alternating layouts (splith/splitv) for each new window
+- [moverest/sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) - Interactively take screenshot within Sway.
 - [simonw/disaster-scrapers](https://github.com/simonw/disaster-scrapers) - Scrapers for disaster data - writes to https://github.com/simonw/disaster-data
 - [IgnoredAmbience/twitter-followers-tracker](https://github.com/IgnoredAmbience/twitter-followers-tracker) - Tracking my twitter followers/followings
 - [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
@@ -6099,7 +6103,6 @@
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [wilecoyote2015/Swytch](https://github.com/wilecoyote2015/Swytch) - Swytch is a script providing a window switcher for sway using rofi, awk and jq
-- [moverest/sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) - Take screenshot easly on Sway.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [blinry/dotfiles](https://github.com/blinry/dotfiles) - My public Linux configuration files. See .README.md for setup instructions.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -6345,6 +6348,8 @@
 
 ## TypeScript 
 
+- [k-vyn/coloralgorithm](https://github.com/k-vyn/coloralgorithm) - JavaScript function to produce color sets
+- [nicholascelestin/replicate-js](https://github.com/nicholascelestin/replicate-js) - Unofficial JS Client for the Replicate API
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
@@ -6392,7 +6397,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
 - [honojs/hono-minimal](https://github.com/honojs/hono-minimal) - Minimal project with Hono.
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.
 - [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
 - [three-types/three-ts-types](https://github.com/three-types/three-ts-types) - TS type library for the popular webgl library threejs
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
@@ -6599,7 +6604,7 @@
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [netspeak/netspeak-client-web](https://github.com/netspeak/netspeak-client-web) - The web interface of Netspeak
 - [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
-- [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic that connects to Apple Music and Spotify. Built with React & Styled Components
+- [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic emulator that connects to Apple Music and Spotify. Built with React & Styled Components
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
