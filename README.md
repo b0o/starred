@@ -2224,6 +2224,7 @@
 
 ## HTML 
 
+- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
@@ -2263,6 +2264,7 @@
 - [saylordotorg/text_intermediate-algebra](https://github.com/saylordotorg/text_intermediate-algebra) - Intermediate Algebra
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website.
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [Circadiaware/VLiDACMel-entrainment-therapy-non24](https://github.com/Circadiaware/VLiDACMel-entrainment-therapy-non24) - Work-in-progress draft of an entrainment protocol for the Non-24 circadian rhythm disorder.
@@ -2500,10 +2502,10 @@
 
 ## JavaScript 
 
+- [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [toji/webgpu-clustered-shading](https://github.com/toji/webgpu-clustered-shading) - Personal experimental project to implement clustered shading with WebGPU.
 - [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
 - [lyft/coloralgorithm](https://github.com/lyft/coloralgorithm) - Javacript function to produce color sets
-- [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
 - [georgedoescode/squircley.js](https://github.com/georgedoescode/squircley.js) - Flexible JavaScript library for creating squircley magic ✨
 - [damianociarla/node-ffmpeg](https://github.com/damianociarla/node-ffmpeg) - ffmpeg module for nodejs
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
@@ -2547,7 +2549,7 @@
 - [trueadm/t7](https://github.com/trueadm/t7) - Lightweight virtual DOM templating library
 - [w3c/trusted-types](https://github.com/w3c/trusted-types) - A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.
 - [WebReflection/uhtml-ssr](https://github.com/WebReflection/uhtml-ssr) - uhtml for Service Worker, Web Worker, NodeJS, and other SSR cases
-- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
+- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
 - [lucahammer/fedifinder](https://github.com/lucahammer/fedifinder) - Find fediverse addresses in the profiles of your Twitter followings
 - [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
@@ -2770,7 +2772,6 @@
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [mellson/rescript-intro](https://github.com/mellson/rescript-intro) - Repo for ReScript intro workshop
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website.
 - [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc) - Tree-sitter parser for Vim help files
 - [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
@@ -3648,7 +3649,7 @@
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) - Better digraphs plugin based on idea from Damian Conway
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Customisable colors, styles, highlights and filetype highlights
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Customisable colors, styles, highlights, filetype highlights and LSP semantic tokens
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
@@ -4298,7 +4299,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/nootkroot-is-epic](https://github.com/Explosion-Scratch/nootkroot-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/e-coders-is-a-unicorn](https://github.com/Explosion-Scratch/e-coders-is-a-unicorn) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4396,7 +4397,7 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [UIGuideline/UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
 - [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) - A curated list of awesome F# frameworks, libraries, software and resources.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -4665,7 +4666,7 @@
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [upekkha/enpass6-encryption-details](https://github.com/upekkha/enpass6-encryption-details) - 
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
-- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
+- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [SySS-Research/bluetooth-keyboard-emulator](https://github.com/SySS-Research/bluetooth-keyboard-emulator) - Simple proof-of-concept software tool for emulating Bluetooth BR/EDR (a.k.a. Bluetooth Classic) keyboards
 - [Alkaid-Benetnash/EmuBTHID](https://github.com/Alkaid-Benetnash/EmuBTHID) - Emulate a Bluetooth HID device with bluez on linux
@@ -5414,6 +5415,7 @@
 
 ## Rust 
 
+- [Xe/pronouns](https://github.com/Xe/pronouns) - A service to help people with pronoun inflections.
 - [hamin/jlq](https://github.com/hamin/jlq) - 
 - [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky) - A new, portable, regular expression language
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
@@ -6354,9 +6356,12 @@
 
 ## TypeScript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist – featuring the All-In Podcast. 💪
 - [k-vyn/coloralgorithm](https://github.com/k-vyn/coloralgorithm) - JavaScript function to produce color sets
 - [nicholascelestin/replicate-js](https://github.com/nicholascelestin/replicate-js) - Unofficial JS Client for the Replicate API
+- [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
