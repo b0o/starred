@@ -769,7 +769,6 @@
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
@@ -1165,7 +1164,7 @@
 - [lanrat/certspotter](https://github.com/lanrat/certspotter) - Certificate Transparency Log Monitor
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - gokrazy rsync
 - [bradfitz/snake](https://github.com/bradfitz/snake) - a #golang Snake game in webassembly running at http://snake.126.49.198.in-addr.arpa/
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
 - [jvns/mess-with-dns-backend](https://github.com/jvns/mess-with-dns-backend) - 
 - [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
@@ -1601,7 +1600,7 @@
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [mcuadros/go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
 - [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
@@ -2317,6 +2316,7 @@
 - [pomber/codem-ipsum](https://github.com/pomber/codem-ipsum) - Lorem ipsum for code
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
 - [ocaml/v2.ocaml.org](https://github.com/ocaml/v2.ocaml.org) - Implementation of the ocaml.org website.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 - [EmailThis/typographic-email](https://github.com/EmailThis/typographic-email) - Responsive email template that is optimised for readability.
 - [oblitum/typographic-email](https://github.com/oblitum/typographic-email) - Responsive email template that is optimised for readability.
@@ -2494,6 +2494,7 @@
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
 - [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
 - [ruediste/btrbck](https://github.com/ruediste/btrbck) - Backup tool leveraging BTRFS for incremental backups
@@ -2503,6 +2504,8 @@
 
 ## JavaScript 
 
+- [Wakamai-Fondue/wakamai-fondue-engine](https://github.com/Wakamai-Fondue/wakamai-fondue-engine) - The engine that powers Wakamai Fondue
+- [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - StandWithUkraine support materials
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [toji/webgpu-clustered-shading](https://github.com/toji/webgpu-clustered-shading) - Personal experimental project to implement clustered shading with WebGPU.
 - [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
@@ -2882,7 +2885,7 @@
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
-- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1758-Stars](https://github.com/RealPeha/This-Repo-Has-1758-Stars) - Yes, it's true :purple_heart:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
@@ -3132,7 +3135,6 @@
 - [Benzhaomin/bdiefinder](https://github.com/Benzhaomin/bdiefinder) - Find Samsung B-Die DDR 4 memory kits on Amazon, Newegg and many more
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [gophercon/2019-talks](https://github.com/gophercon/2019-talks) - Slides and links for 2019 talks
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
@@ -3422,7 +3424,6 @@
 - [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
-- [CalumJEadie/usefluid.com](https://github.com/CalumJEadie/usefluid.com) - 
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
@@ -3536,6 +3537,8 @@
 
 ## Lua 
 
+- [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
+- [jesseleite/nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - 🖤 A highly customizable minimalist monochromatic colorscheme for Neovim
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can assign a terminal-buffer for each buffer.
@@ -4300,7 +4303,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/Cyberwolfdev-starred-this-repo](https://github.com/Explosion-Scratch/Cyberwolfdev-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/samrpf-starred-this-repo](https://github.com/Explosion-Scratch/samrpf-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -5416,6 +5419,7 @@
 
 ## Rust 
 
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
 - [Xe/pronouns](https://github.com/Xe/pronouns) - A service to help people with pronoun inflections.
 - [hamin/jlq](https://github.com/hamin/jlq) - 
@@ -5688,7 +5692,7 @@
 - [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
 - [lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
 - [mcginty/shoop](https://github.com/mcginty/shoop) - scp has a run-in with mosh (alpha)
-- [numtide/treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
+- [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
 - [shakacode/rust-rescript-demo](https://github.com/shakacode/rust-rescript-demo) - 
 - [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
@@ -6321,7 +6325,7 @@
 - [oxen-io/session-ios](https://github.com/oxen-io/session-ios) - A private messenger for iOS.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [MengTo/Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
-- [jaredly/qmoji](https://github.com/jaredly/qmoji) - 🙃 Like mojibar, but written in reasonml
+- [jaredly/qmoji](https://github.com/jaredly/qmoji) - 🙃 Like mojibar, but written in swift
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -6357,6 +6361,9 @@
 
 ## TypeScript 
 
+- [PSPDFKit-labs/browserslist.dev](https://github.com/PSPDFKit-labs/browserslist.dev) - A website to display compatible browsers from browserslist string.
+- [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
+- [liriliri/chobitsu](https://github.com/liriliri/chobitsu) - Chrome devtools protocol JavaScript implementation
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist – featuring the All-In Podcast. 💪
