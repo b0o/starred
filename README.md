@@ -641,7 +641,7 @@
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [virtualsecureplatform/Iyokan](https://github.com/virtualsecureplatform/Iyokan) - Generic engine to evaluate logical circuits on homomorphic encryption
 - [rhysd/Dachs](https://github.com/rhysd/Dachs) - Dachs; A Doggy :dog: Programming Language
 - [EyeTribe/tet-cpp-client](https://github.com/EyeTribe/tet-cpp-client) - C++ SDK for The Eye Tribe Tracker
@@ -2235,7 +2235,7 @@
 
 ## HTML 
 
-- [arc53/docsgpt](https://github.com/arc53/docsgpt) - Use documentation and asks questions directly with DocsGPT
+- [arc53/docsgpt](https://github.com/arc53/docsgpt) - Use documentation and ask questions directly with DocsGPT
 - [fireship-io/supaship.io](https://github.com/fireship-io/supaship.io) - 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -2518,6 +2518,8 @@
 
 ## JavaScript 
 
+- [LAION-AI/laion.ai](https://github.com/LAION-AI/laion.ai) - 
+- [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [recogito/annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [WebReflection/talk2gpt](https://github.com/WebReflection/talk2gpt) - 
@@ -4690,6 +4692,8 @@
 
 ## Python 
 
+- [hwchase17/langchain-streamlit-template](https://github.com/hwchase17/langchain-streamlit-template) - 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [alexandre01/UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker
