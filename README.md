@@ -4692,6 +4692,7 @@
 
 ## Python 
 
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [hwchase17/langchain-streamlit-template](https://github.com/hwchase17/langchain-streamlit-template) - 
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
@@ -4722,7 +4723,7 @@
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
-- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.
+- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
@@ -5882,7 +5883,7 @@
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 - [meilisearch/demo-finding-crates](https://github.com/meilisearch/demo-finding-crates) - Expose all crates from crates.io with MeiliSearch
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -6448,6 +6449,7 @@
 
 ## TypeScript 
 
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Color palette Generator Mico-Lib
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [croquiscom/rinore](https://github.com/croquiscom/rinore) - Rich Node.js REPL
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
