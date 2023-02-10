@@ -1098,6 +1098,7 @@
 
 ## Go 
 
+- [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
@@ -1165,7 +1166,7 @@
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DLE enables 🖖 DB branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Fo
 - [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
 - [kayac/go-katsubushi](https://github.com/kayac/go-katsubushi) - ID generator server
-- [ariga/atlas](https://github.com/ariga/atlas) - Atlas: A modern tool for managing database schemas
+- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [egnyte/ax](https://github.com/egnyte/ax) - A CLI tool to query structured logs, including Kibana, Cloudwatch, Stackdriver, Docker and plain JSON file logs.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -4352,7 +4353,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/kshreve-is-a-unicorn](https://github.com/Explosion-Scratch/kshreve-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/Aeris1One-is-cool](https://github.com/Explosion-Scratch/Aeris1One-is-cool) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4698,6 +4699,8 @@
 
 ## Python 
 
+- [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [simonw/openai-to-sqlite](https://github.com/simonw/openai-to-sqlite) - Save OpenAI API results to a SQLite database
@@ -5183,7 +5186,7 @@
 - [MaryHal/dmenu-suite](https://github.com/MaryHal/dmenu-suite) - Various shell scripts that interface with dmenu (or fzf).
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [pushshift/api](https://github.com/pushshift/api) - Pushshift API
-- [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
+- [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -6523,7 +6526,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ The CLI for Cloudflare Workers®
 - [honojs/hono-minimal](https://github.com/honojs/hono-minimal) - Minimal project with Hono.
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
 - [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
 - [three-types/three-ts-types](https://github.com/three-types/three-ts-types) - TS type library for the popular webgl library threejs
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
