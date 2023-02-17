@@ -168,6 +168,7 @@
 
 ## C 
 
+- [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - Experimentl UI neovim framework for kitty
 - [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [sebbekarlsson/glms](https://github.com/sebbekarlsson/glms) - Generalized Linear Model Script
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
@@ -1097,6 +1098,7 @@
 
 ## Go 
 
+- [tailscale/cpc](https://github.com/tailscale/cpc) - a copy tool
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
@@ -3508,6 +3510,7 @@
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
 - [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2022/Spring 2022
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, and resources for prompt engineering
 - [MantisAI/prompt_engineering](https://github.com/MantisAI/prompt_engineering) - Code that accompanies the PyData New York (2022) talk: Addressing the sensitivity of Large language models
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -3561,6 +3564,8 @@
 
 ## Lua 
 
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
+- [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
 - [0x00-ketsu/eft.nvim](https://github.com/0x00-ketsu/eft.nvim) - Lua part of plugin vim-eft, highlight character(s) in line when press keyboard f t F T
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - Supercharge your Haskell experience in neovim!
@@ -4318,9 +4323,8 @@
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [georgemandis/chatgpt-svgs](https://github.com/georgemandis/chatgpt-svgs) - SVGs I've asked ChatGPT to make for me.
 - [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers covering new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /Resources folde
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
 - [blob42/awesome-explorables](https://github.com/blob42/awesome-explorables) - A curated list of awesome explorable explanations.
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, and resources for prompt engineering
 - [WICG/canvas-color-space](https://github.com/WICG/canvas-color-space) - Proposed web platform feature to add color management, wide gamut and high bit-depth support to the &lt;canvas&gt; element.
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [Icy-Thought/awesome-vegan](https://github.com/Icy-Thought/awesome-vegan) - A Markdown based fork of the Vegan Cheatsheet.
@@ -4354,7 +4358,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/TretinV3-is-cool](https://github.com/Explosion-Scratch/TretinV3-is-cool) - Star to change the repo title to your username!
+- [Explosion-Scratch/Korozin-starred-this-repo](https://github.com/Explosion-Scratch/Korozin-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4696,6 +4700,8 @@
 
 ## Python 
 
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [danilop/yas3fs](https://github.com/danilop/yas3fs) - YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized 
 - [PyFilesystem/s3fs](https://github.com/PyFilesystem/s3fs) - Amazon S3 filesystem for PyFilesystem2
@@ -4705,7 +4711,7 @@
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to.
 - [fsspec/s3fs](https://github.com/fsspec/s3fs) - S3 Filesystem
 - [aws-neuron/aws-neuron-sdk](https://github.com/aws-neuron/aws-neuron-sdk) - Powering AWS purpose-built machine learning chips. Blazing fast and cost effective, natively integrated into PyTorch and TensorFlow and integrated with your favorite AWS services
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
@@ -5546,7 +5552,7 @@
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [pmsanford/psh](https://github.com/pmsanford/psh) - An experimental interconnected shell
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
@@ -5892,7 +5898,7 @@
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to m
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware to maximally leverage the power of language safety and thu
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -6474,6 +6480,7 @@
 
 ## TypeScript 
 
+- [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Automated data exploratory analysis and visualization tools.
@@ -6541,7 +6548,7 @@
 - [kzhovn/uri-commands-obsidian](https://github.com/kzhovn/uri-commands-obsidian) - Execute URIs from the command palette
 - [saml-dev/obsidian-custom-js](https://github.com/saml-dev/obsidian-custom-js) - An Obsidian plugin to allow users to reuse code blocks across all devices and OSes
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ The CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [honojs/hono-minimal](https://github.com/honojs/hono-minimal) - Minimal project with Hono.
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
 - [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
@@ -6620,7 +6627,7 @@
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 - [the-via/app](https://github.com/the-via/app) - 
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -6836,7 +6843,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [tesseralis/polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
@@ -6905,7 +6912,7 @@
 - [bloomberg/pasta-sourcemaps](https://github.com/bloomberg/pasta-sourcemaps) - Pretty (and) Accurate Stack Trace Analysis is an extension to the JavaScript source map format that allows for accurate function name decoding.
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
 - [Shopify/quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify
@@ -6928,7 +6935,7 @@
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
-- [neilj/Squire](https://github.com/neilj/Squire) - The rich text editor for arbitrary HTML.
+- [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [projectstorm/react-canvas](https://github.com/projectstorm/react-canvas) - A pluggable layout and graphics system aimed at powering desktop publishing as well as storm-react-diagrams
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
