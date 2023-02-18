@@ -2521,6 +2521,7 @@
 
 ## JavaScript 
 
+- [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [LAION-AI/laion.ai](https://github.com/LAION-AI/laion.ai) - 
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [recogito/annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation
@@ -2637,7 +2638,7 @@
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [LeaVerou/color.js](https://github.com/LeaVerou/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
 - [KaranDahiya/philosophy-quotes-API](https://github.com/KaranDahiya/philosophy-quotes-API) - API for retrieving quotes from various philosophies
-- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A public domain knowledge graph focused on programming languages distributed as a CSV file.
+- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A public domain knowledge graph focused on programming languages distributed as a website and CSV file.
 - [prettier/prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
@@ -4148,7 +4149,7 @@
 - [inhabitedtype/httpaf](https://github.com/inhabitedtype/httpaf) - A high performance, memory efficient, and scalable web server written in OCaml
 - [ulrikstrid/ocaml-oidc](https://github.com/ulrikstrid/ocaml-oidc) - OpenID Connect implementation in OCaml. Currently only the RP (client) parts are polished.
 - [ulrikstrid/ocaml-cookie](https://github.com/ulrikstrid/ocaml-cookie) - Working with cookies in OCaml and Reason
-- [ulrikstrid/reason-jose](https://github.com/ulrikstrid/reason-jose) - 
+- [ulrikstrid/ocaml-jose](https://github.com/ulrikstrid/ocaml-jose) - 
 - [mirage/ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) - An OCaml library for HTTP clients and servers using Lwt or Async
 - [ocamllabs/opam-tools](https://github.com/ocamllabs/opam-tools) - opam plugin to initialise a local development environment for an OCaml project
 - [ocurrent/ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
@@ -4700,6 +4701,7 @@
 
 ## Python 
 
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
@@ -4754,7 +4756,7 @@
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
+- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index (LlamaIndex) is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
 - [ibestvina/datasloth](https://github.com/ibestvina/datasloth) - Natural language Pandas queries and data generation powered by GPT-3
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
@@ -6513,7 +6515,7 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [s1gr1d/glsl-noise-template-string](https://github.com/s1gr1d/glsl-noise-template-string) - Use popular noise functions withing glsl written in JS Template-Strings
 - [pmndrs/react-three-rapier](https://github.com/pmndrs/react-three-rapier) - 🤺 Rapier physics in React
-- [austinEng/webgpu-samples](https://github.com/austinEng/webgpu-samples) - WebGPU Samples
+- [webgpu/webgpu-samples](https://github.com/webgpu/webgpu-samples) - WebGPU Samples
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [pmndrs/react-three-editor](https://github.com/pmndrs/react-three-editor) - 🔌 A one of a kind scene editor that writes changes back into your code
