@@ -169,6 +169,7 @@
 
 ## C 
 
+- [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - Experimentl UI neovim framework for kitty
 - [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [sebbekarlsson/glms](https://github.com/sebbekarlsson/glms) - Generalized Linear Model Script
@@ -656,7 +657,7 @@
 - [cmuratori/termbench](https://github.com/cmuratori/termbench) - Simple benchmark for terminal output
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
-- [srsran/srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
+- [srsran/srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS)
 - [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
@@ -4364,7 +4365,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/Korozin-starred-this-repo](https://github.com/Explosion-Scratch/Korozin-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/Osckariyo-starred-this-repo](https://github.com/Explosion-Scratch/Osckariyo-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4710,6 +4711,11 @@
 
 ## Python 
 
+- [allx/remote_logging](https://github.com/allx/remote_logging) - Realtime log streams for Ansible
+- [lucasbasquerotto/ansible-live-output-demo](https://github.com/lucasbasquerotto/ansible-live-output-demo) - Running an ansible playbook and seeing output in real time (Demo)
+- [berlic/wrikemeetup](https://github.com/berlic/wrikemeetup) - Demo at WriteTechClub meetup
+- [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python modul
+- [ansible-collections/community.aws](https://github.com/ansible-collections/community.aws) - Ansible Collection for Community AWS
 - [dupontgu/clock_that_is_wrong](https://github.com/dupontgu/clock_that_is_wrong) - CircuitPython powered clock that shows the wrong time when it detects that someone is looking at it
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.
@@ -4837,7 +4843,7 @@
 - [luarocks/hererocks](https://github.com/luarocks/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
+- [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
@@ -5815,7 +5821,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [near/borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing
@@ -6501,6 +6507,7 @@
 
 ## TypeScript 
 
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a simple platform to monitor application performance with error handling.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
