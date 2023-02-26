@@ -245,7 +245,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [pllua/pllua](https://github.com/pllua/pllua) - Re-implementation of pllua, embedded Lua for postgresql
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk
+- [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [markusmoenig/Signed](https://github.com/markusmoenig/Signed) - Signed is a 3D modeling and construction language based on Lua and SDFs. Signed will be available for macOS and iOS and is heavily optimized for Metal.
 - [cy384/ssheven](https://github.com/cy384/ssheven) - A minimal new SSH client for Mac OS 7/8/9
@@ -828,7 +828,7 @@
 - [steemit/steem](https://github.com/steemit/steem) - The blockchain for Smart Media Tokens (SMTs) and decentralized applications.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [a16z/ai](https://github.com/a16z/ai) - Repo for work for AI Survey
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [MasterSoft24/CloudCross](https://github.com/MasterSoft24/CloudCross) - CloudCross it's opensource crossplatform software for syncronization a local files and folders with many cloud providers. On this moment a Cloud Mail.Ru, Yandex.Disk, Google drive, OneDrive and Dropbo
@@ -1632,7 +1632,7 @@
 - [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
 - [apex/actions](https://github.com/apex/actions) - GitHub Actions
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [curusarn/resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - REcycle SHell - Contextual shell history for zsh and bash
 - [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal) - ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
 - [nomasters/killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
@@ -2844,7 +2844,6 @@
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [geekprojects/nuTensor](https://github.com/geekprojects/nuTensor) - nuTensor: Point and click matrix to filter net requests according to source, destination and type
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [qntm/base2048](https://github.com/qntm/base2048) - Binary encoding optimised for Twitter
@@ -4714,6 +4713,7 @@
 
 ## Python 
 
+- [nutti/Screencast-Keys](https://github.com/nutti/Screencast-Keys) - Blender Add-on: Screencast Keys
 - [spotty-cloud/spotty](https://github.com/spotty-cloud/spotty) - Training deep learning models on AWS and GCP instances
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [lisenet/homelab-ansible](https://github.com/lisenet/homelab-ansible) - Ansible playbooks to build my KVM-based homelab.
@@ -4788,7 +4788,7 @@
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index (LlamaIndex) is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
+- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [ibestvina/datasloth](https://github.com/ibestvina/datasloth) - Natural language Pandas queries and data generation powered by GPT-3
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
@@ -6797,6 +6797,7 @@
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [netspeak/netspeak-client-web](https://github.com/netspeak/netspeak-client-web) - The web interface of Netspeak
 - [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic emulator that connects to Apple Music and Spotify. Built with React & Styled Components
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
@@ -7304,7 +7305,7 @@
 - [Shougo/neco-vim](https://github.com/Shougo/neco-vim) - The Vim Script completion source for neocomplete/deoplete/ddc
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --&gt; .h etc)
-- [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
+- [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: Work with several variants of a word at once
 - [da-x/vim-syntax-legend](https://github.com/da-x/vim-syntax-legend) - A script to save the result of a Vim syntax highlighting test sample as diff-able text file.
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
