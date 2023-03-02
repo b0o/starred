@@ -568,6 +568,7 @@
 
 ## C# # 
 
+- [ImpromptuNinjas/UltralightSharp](https://github.com/ImpromptuNinjas/UltralightSharp) - Multi-platform .NET bindings to the Ultralight project.
 - [FreyaHolmer/Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 - [FreyaHolmer/ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A Shader Editor for Unity
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -599,6 +600,8 @@
 
 ## C++ 
 
+- [LuisaGroup/LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-Performance Rendering Framework on Stream Architectures
+- [pybind/scikit_build_example](https://github.com/pybind/scikit_build_example) - An example combining scikit-build and pybind11
 - [niutech/qt-ultralight-browser](https://github.com/niutech/qt-ultralight-browser) - Ultra-lightweight web browser based on Qt Ultralight webview, powered by Ultralight HTML renderer
 - [ultralight-ux/Ultralight-API](https://github.com/ultralight-ux/Ultralight-API) - C/C++ API Headers for Ultralight
 - [berthubert/hello-dl](https://github.com/berthubert/hello-dl) - 
@@ -1106,6 +1109,7 @@
 
 ## Go 
 
+- [raff/ultralight-go](https://github.com/raff/ultralight-go) - Go bindings for https://ultralig.ht/
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [tailscale/cpc](https://github.com/tailscale/cpc) - a copy tool
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
@@ -4718,6 +4722,8 @@
 
 ## Python 
 
+- [scikit-build/scikit-build-sample-projects](https://github.com/scikit-build/scikit-build-sample-projects) - Sample projects demonstrating use of scikit-build
+- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [ramsrigouthamg/Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai) - Question generation using state-of-the-art Natural Language Processing algorithms
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
 - [nutti/Screencast-Keys](https://github.com/nutti/Screencast-Keys) - Blender Add-on: Screencast Keys
@@ -4732,7 +4738,7 @@
 - [ansible-collections/community.aws](https://github.com/ansible-collections/community.aws) - Ansible Collection for Community AWS
 - [dupontgu/clock_that_is_wrong](https://github.com/dupontgu/clock_that_is_wrong) - CircuitPython powered clock that shows the wrong time when it detects that someone is looking at it
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on large-batch high-throughput generation.
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Throughput-oriented systems for large language models on commodity GPUs.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [ionelmc/python-lazy-object-proxy](https://github.com/ionelmc/python-lazy-object-proxy) - A fast and thorough lazy object proxy.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
@@ -6521,11 +6527,12 @@
 
 ## TypeScript 
 
+- [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
 - [tksst/cdk-ec2-spot-simple](https://github.com/tksst/cdk-ec2-spot-simple) - AWS CDK construct library to create EC2 Spot Instances simply.
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a simple platform to monitor application performance with error handling.
-- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
