@@ -1445,7 +1445,6 @@
 - [orijtech/httperroryzer](https://github.com/orijtech/httperroryzer) - Static analyzer to catch invalid uses of http.Error without a return statement which can cause expected bugs
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [hidal-go/hidalgo](https://github.com/hidal-go/hidalgo) - High-level Database Abstraction Layer for Go
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [goreleaser/fileglob](https://github.com/goreleaser/fileglob) - A file globbing library.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -2535,6 +2534,7 @@
 
 ## JavaScript 
 
+- [shreyaskarnik/PagePilot](https://github.com/shreyaskarnik/PagePilot) - Summarize URLs using the Kagi Universal Summarizer and Read Out Loud
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
@@ -4722,6 +4722,7 @@
 
 ## Python 
 
+- [pybind/cmake_example](https://github.com/pybind/cmake_example) - Example pybind11 module built with a CMake-based build system
 - [scikit-build/scikit-build-sample-projects](https://github.com/scikit-build/scikit-build-sample-projects) - Sample projects demonstrating use of scikit-build
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [ramsrigouthamg/Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai) - Question generation using state-of-the-art Natural Language Processing algorithms
@@ -4758,7 +4759,7 @@
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to.
 - [fsspec/s3fs](https://github.com/fsspec/s3fs) - S3 Filesystem
 - [aws-neuron/aws-neuron-sdk](https://github.com/aws-neuron/aws-neuron-sdk) - Powering AWS purpose-built machine learning chips. Blazing fast and cost effective, natively integrated into PyTorch and TensorFlow and integrated with your favorite AWS services
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
@@ -5578,6 +5579,7 @@
 
 ## Rust 
 
+- [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from GPT3
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [Hihaheho/Desk](https://github.com/Hihaheho/Desk) - 🔮 The application platform for your cyberpunk desk
@@ -6884,6 +6886,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [0no-co/hoofd](https://github.com/0no-co/hoofd) - Hooks to populate the html head.
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
@@ -7046,7 +7049,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 
 ## V 
