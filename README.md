@@ -600,6 +600,8 @@
 
 ## C++ 
 
+- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
+- [cztomczak/cefpython](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework (CEF)
 - [LuisaGroup/LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-Performance Rendering Framework on Stream Architectures
 - [pybind/scikit_build_example](https://github.com/pybind/scikit_build_example) - An example combining scikit-build and pybind11
 - [niutech/qt-ultralight-browser](https://github.com/niutech/qt-ultralight-browser) - Ultra-lightweight web browser based on Qt Ultralight webview, powered by Ultralight HTML renderer
@@ -1445,6 +1447,7 @@
 - [orijtech/httperroryzer](https://github.com/orijtech/httperroryzer) - Static analyzer to catch invalid uses of http.Error without a return statement which can cause expected bugs
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [hidal-go/hidalgo](https://github.com/hidal-go/hidalgo) - High-level Database Abstraction Layer for Go
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [goreleaser/fileglob](https://github.com/goreleaser/fileglob) - A file globbing library.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -2910,7 +2913,7 @@
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
 - [mafintosh/bogon](https://github.com/mafintosh/bogon) - Check if an IP is a bogon
-- [jychp/cloudflare-bypass](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare bot protection using Cloudflare Workers
+- [resilience-jychp/cloudflare-bypass](https://github.com/resilience-jychp/cloudflare-bypass) - Bypass Coudflare bot protection using Cloudflare Workers
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
@@ -4722,6 +4725,9 @@
 
 ## Python 
 
+- [BlenderHQ/path_tool](https://github.com/BlenderHQ/path_tool) - Blender 2.83+ tool for selecting and marking up mesh object elements
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [fullthom/chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - 
 - [pybind/cmake_example](https://github.com/pybind/cmake_example) - Example pybind11 module built with a CMake-based build system
 - [scikit-build/scikit-build-sample-projects](https://github.com/scikit-build/scikit-build-sample-projects) - Sample projects demonstrating use of scikit-build
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
@@ -5163,7 +5169,7 @@
 - [DaveDavenport/Rofication](https://github.com/DaveDavenport/Rofication) - My notification system
 - [regolith-linux/regolith-rofication](https://github.com/regolith-linux/regolith-rofication) - Notification system that provides a Rofi front-end
 - [brndnmtthws/tweet-delete](https://github.com/brndnmtthws/tweet-delete) - Self-destructing Tweets so you too can be cool 😎
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -6649,7 +6655,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
-- [gregberge/xstyled](https://github.com/gregberge/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
+- [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
@@ -6886,7 +6892,6 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [0no-co/hoofd](https://github.com/0no-co/hoofd) - Hooks to populate the html head.
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
