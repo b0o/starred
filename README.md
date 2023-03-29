@@ -1139,7 +1139,7 @@
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
 - [PullRequestInc/go-gpt3](https://github.com/PullRequestInc/go-gpt3) - An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs.
@@ -1387,7 +1387,6 @@
 - [einride/pid-go](https://github.com/einride/pid-go) - PID controllers for Go.
 - [cdarwin/go-koans](https://github.com/cdarwin/go-koans) - koans for go
 - [mozilla/libaudit-go](https://github.com/mozilla/libaudit-go) - go package for interfacing with Linux audit
-- [muni-corn/go-sway](https://github.com/muni-corn/go-sway) - Golang IPC client for the sway window manager
 - [fullstorydev/grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -1874,7 +1873,7 @@
 - [ofabry/go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [dearplain/goloader](https://github.com/dearplain/goloader) - load and run golang code at runtime. (WARNING: this repo has not been maintained for a long time, please take a look at https://github.com/pkujhd/goloader)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [rakyll/autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [kaihendry/upwithlib](https://github.com/kaihendry/upwithlib) - i find it strange that you can have a different package name to the folder name
@@ -2208,7 +2207,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [gophercon/2017-talks](https://github.com/gophercon/2017-talks) - Slides and links for 2017 talks
 - [BurntSushi/wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager written in Go.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [simon-engledew/gocmdpev](https://github.com/simon-engledew/gocmdpev) - A command-line GO Postgres query visualizer, heavily inspired by pev (https://github.com/AlexTatiyants/pev)
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
@@ -2560,6 +2559,7 @@
 
 ## JavaScript 
 
+- [capnp-js/plugin](https://github.com/capnp-js/plugin) - Javascript plugin for Capnproto
 - [TFORevive/webkit-inspector-ultralight](https://github.com/TFORevive/webkit-inspector-ultralight) - Bundling whole webtools into just 3 files from over 1000
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [victorb/metamorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application
@@ -3616,11 +3616,12 @@
 
 ## Lua 
 
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) - Enhance the usage of macros in Neovim.
 - [jakemason/ouroboros.nvim](https://github.com/jakemason/ouroboros.nvim) - Allows quickly switching between header and implementation files for C/C++ in Neovim.
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
-- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - 
+- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
@@ -3993,7 +3994,7 @@
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - improve neovim lsp experience
 - [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
@@ -4259,6 +4260,7 @@
 - [ocaml-omake/omake](https://github.com/ocaml-omake/omake) - The new home of OMake - docs, downloads, mailing list etc. see:
 - [c-cube/ocaml-gnuplot](https://github.com/c-cube/ocaml-gnuplot) - bindings to gnuplot (fork of https://bitbucket.org/ogu/gnuplot-ocaml/)
 - [jaredly/reason-language-server](https://github.com/jaredly/reason-language-server) - A language server for reason, in reason
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [let-def/lwd](https://github.com/let-def/lwd) - Lightweight document
 - [rgrinberg/ocaml-lsp](https://github.com/rgrinberg/ocaml-lsp) - OCaml Language Server Protocol implementation
 - [ocaml/ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - OCaml Language Server Protocol implementation
@@ -4758,6 +4760,8 @@
 
 ## Python 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Korchy/blender_autocomplete](https://github.com/Korchy/blender_autocomplete) - Autocomplete modules for Blender python API
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
@@ -4886,7 +4890,7 @@
 - [zackelia/ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra
 - [CanonicalLtd/aws-marketplace-ubuntu-scraper](https://github.com/CanonicalLtd/aws-marketplace-ubuntu-scraper) - CLI to return the Ubuntu AMIs in AWS marketplace
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
@@ -5250,7 +5254,6 @@
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [PyCQA/prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [facebookresearch/ReAgent](https://github.com/facebookresearch/ReAgent) - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
@@ -6602,6 +6605,8 @@
 
 ## TypeScript 
 
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+- [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - AI wizard powers for mere mortals
@@ -7211,7 +7216,7 @@
 - [christoomey/vim-presentation-mode](https://github.com/christoomey/vim-presentation-mode) - 
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A plugin for profiling Vim and Neovim startup time.
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
-- [arzg/vim-substrata](https://github.com/arzg/vim-substrata) - A cold, dark colourscheme for Vim
+- [lunacookies/vim-substrata](https://github.com/lunacookies/vim-substrata) - A cold, dark colourscheme for Vim
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon) - Vim plugin for generating images of source code using https://github.com/Aloxaf/silicon
 - [thinca/vim-visualstar](https://github.com/thinca/vim-visualstar) - star for Visual-mode.
