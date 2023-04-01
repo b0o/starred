@@ -170,6 +170,8 @@
 
 ## C 
 
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [nodejs/uvwasi](https://github.com/nodejs/uvwasi) - WASI syscall API built atop libuv
 - [ultralight-ux/Ultralight-API](https://github.com/ultralight-ux/Ultralight-API) - C/C++ API Headers for Ultralight
 - [ultralight-ux/AppCore](https://github.com/ultralight-ux/AppCore) - Cross-platform app runtime module for Ultralight
@@ -603,6 +605,7 @@
 
 ## C++ 
 
+- [XLabsProject/launcher](https://github.com/XLabsProject/launcher) - X Labs Launcher
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [p0358/ultralight_remote_inspector](https://github.com/p0358/ultralight_remote_inspector) - Sample Ultralight standalone app to connect to the remote inspector server in your app
 - [gulrak/filesystem](https://github.com/gulrak/filesystem) - An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
@@ -2919,6 +2922,7 @@
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
 - [project-serum/awesome-serum](https://github.com/project-serum/awesome-serum) - 
 - [remy/inliner](https://github.com/remy/inliner) - Node utility to inline images, CSS and JavaScript for a web page - useful for mobile sites
+- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Type-safe styled components for ReScript with type-safe CSS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hicetnunc2000/hicetnunc](https://github.com/hicetnunc2000/hicetnunc) - hicetnunc UI/UX
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -3617,6 +3621,7 @@
 
 ## Lua 
 
+- [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - A plugin that leverages Neovim's built-in RPC functionality to simplify opening files from within Neovim's terminal emulator without nesting sessions.
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) - Enhance the usage of macros in Neovim.
 - [jakemason/ouroboros.nvim](https://github.com/jakemason/ouroboros.nvim) - Allows quickly switching between header and implementation files for C/C++ in Neovim.
@@ -3687,7 +3692,7 @@
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.
 - [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
-- [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim
+- [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim
 - [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) - An extension for telescope.nvim that allows you to search emojis😃
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) - Manage temporary buffers
 - [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) - Lua test framework for neovim plugins
@@ -4760,7 +4765,8 @@
 
 ## Python 
 
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A Python framework for LLM-powered bots and AI functions
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Korchy/blender_autocomplete](https://github.com/Korchy/blender_autocomplete) - Autocomplete modules for Blender python API
@@ -5546,7 +5552,6 @@
 - [rolandpeelen/bs-pancake](https://github.com/rolandpeelen/bs-pancake) - A lens library so small in use you'd hardly notice it's there...
 - [cometkim/reason-todomvc](https://github.com/cometkim/reason-todomvc) - TodoMVC implementation written in ReasonML
 - [shakacode/re-formality](https://github.com/shakacode/re-formality) - Form validation tool for reason-react
-- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - Type-safe styled components for ReScript with type-safe CSS
 - [esy/esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml
 - [anmonteiro/youtube](https://github.com/anmonteiro/youtube) - 
 - [aantron/promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
@@ -6199,6 +6204,7 @@
 
 ## Scala 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [guardian/gu-who](https://github.com/guardian/gu-who) - answering: who are all these users in my GitHub org?
