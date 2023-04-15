@@ -170,6 +170,7 @@
 
 ## C 
 
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
@@ -835,7 +836,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [ponchio/untrunc](https://github.com/ponchio/untrunc) - Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [tobimensch/aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
 - [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
@@ -1145,7 +1146,7 @@
 
 ## Go 
 
-- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all API & CLI written in go
+- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all OpenAI compatible API & CLI written in go
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [raff/ultralight-go](https://github.com/raff/ultralight-go) - Go bindings for https://ultralig.ht/
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
@@ -1178,7 +1179,6 @@
 - [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff.
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [akinsho/gitgazer](https://github.com/akinsho/gitgazer) - A CLI app that lets you keep track of developments in your favourite repos on Github
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
@@ -2737,6 +2737,7 @@
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [pissang/geometry-extrude](https://github.com/pissang/geometry-extrude) - A small and fast library for extruding 2D polygons and polylines to 3D meshes
 - [mapbox/earcut](https://github.com/mapbox/earcut) - The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
 - [nodeshift/opossum](https://github.com/nodeshift/opossum) - Node.js circuit breaker - fails fast  ⚡️
@@ -3508,7 +3509,7 @@
 - [atom/teletype-client](https://github.com/atom/teletype-client) - Editor-agnostic library managing client interaction for peer-to-peer collaborative editing in Teletype for Atom
 - [atom/teletype-crdt](https://github.com/atom/teletype-crdt) - String-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom.
 - [Samirla/xmlview](https://github.com/Samirla/xmlview) - Powerful XML viewer for Google Chrome and Safari
-- [viz-js/viz.js](https://github.com/viz-js/viz.js) - A hack to put Graphviz on the web.
+- [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
@@ -3634,6 +3635,7 @@
 
 ## Lua 
 
+- [aspeddro/rescript-tools.nvim](https://github.com/aspeddro/rescript-tools.nvim) - A plugin to improve your ReScript experience in Neovim
 - [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) - Another directory/file explorer for Neovim written in Lua
@@ -3760,7 +3762,6 @@
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) - Show desktop notifications for vim.notify calls
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
-- [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) - Dim unused words in neovim
 - [tssm/nvim-snitch](https://github.com/tssm/nvim-snitch) - Highlight spoiled text
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) - Better digraphs plugin based on idea from Damian Conway
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
@@ -4425,7 +4426,6 @@
 - [basilfx/TRADFRI-Hacking](https://github.com/basilfx/TRADFRI-Hacking) - Hacking IKEA TRÅDFRI products, such as light bulbs, window blinds and other accessories.
 - [WICG/view-transitions](https://github.com/WICG/view-transitions) - 
 - [atilatech/awesome-longevity](https://github.com/atilatech/awesome-longevity) - An awesome list of longevity resources for living longer, healthier lives.
-- [alexherbo2/alacritty-extended-keys](https://github.com/alexherbo2/alacritty-extended-keys) - 
 - [adamnemecek/adjoint](https://github.com/adamnemecek/adjoint) - Thoughts on adjoint, norm and such.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
@@ -4718,7 +4718,7 @@
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do 
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [captn3m0/jqaas](https://github.com/captn3m0/jqaas) - jq as a service
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
@@ -4782,6 +4782,7 @@
 
 ## Python 
 
+- [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [python-websockets/websockets](https://github.com/python-websockets/websockets) - Library for building WebSocket servers and clients in Python
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
@@ -5683,6 +5684,7 @@
 
 ## Rust 
 
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
 - [refcell/run-wild](https://github.com/refcell/run-wild) - Augment GPT-4 Environment Access
 - [devtomio/sodium](https://github.com/devtomio/sodium) - Libsodium for Node.js
