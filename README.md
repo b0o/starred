@@ -611,6 +611,8 @@
 
 ## C++ 
 
+- [MohammadMD1383/ultrapy](https://github.com/MohammadMD1383/ultrapy) - 
+- [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [ultralight-ux/WebCore](https://github.com/ultralight-ux/WebCore) - WebCore Module (Desktop Port). This module is a fork of WebKit's WebCore module and is responsible for all parsing, styling, layout, script execution, and page state.
 - [remaininlight/juce-ultralight](https://github.com/remaininlight/juce-ultralight) - 
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -689,7 +691,7 @@
 - [rhysd/Dachs](https://github.com/rhysd/Dachs) - Dachs; A Doggy :dog: Programming Language
 - [EyeTribe/tet-cpp-client](https://github.com/EyeTribe/tet-cpp-client) - C++ SDK for The Eye Tribe Tracker
 - [icethrush/repulsive-curves](https://github.com/icethrush/repulsive-curves) - 
-- [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Record shell-commands and used files. Easily tell which command created a file.
+- [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
@@ -1058,6 +1060,7 @@
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [openresty/docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 
 ## Elixir 
 
@@ -1151,7 +1154,7 @@
 
 ## Go 
 
-- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all OpenAI compatible API & CLI written in go
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :camel: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml comp
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [raff/ultralight-go](https://github.com/raff/ultralight-go) - Go bindings for https://ultralig.ht/
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
@@ -1645,7 +1648,7 @@
 - [donatj/hookah](https://github.com/donatj/hookah) - GitHub Webhooks Made Easy!
 - [high-moctane/nextword](https://github.com/high-moctane/nextword) - Predict next English words.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [lmorg/murex](https://github.com/lmorg/murex) - Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A better shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [lukechampine/geiger](https://github.com/lukechampine/geiger) - A Geiger counter for allocations
 - [rsc/tlogdb](https://github.com/rsc/tlogdb) - Reusable transparent log database
@@ -2580,7 +2583,6 @@
 
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [Sytten/PrettyXML](https://github.com/Sytten/PrettyXML) - Powerful XML viewer for Firefox
-- [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [feathericons/react-feather](https://github.com/feathericons/react-feather) - React component for Feather icons
@@ -2810,7 +2812,7 @@
 - [aaronshaf/react-toggle](https://github.com/aaronshaf/react-toggle) - Elegant, accessible toggle component for React. Also a glorified checkbox.
 - [chatziko/location-guard](https://github.com/chatziko/location-guard) - Hide your geographic location from websites.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-- [11ways/janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
+- [elevenways/janeway](https://github.com/elevenways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
 - [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
@@ -3467,7 +3469,6 @@
 - [electronicwhisper/recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [messutied/colors.sh](https://github.com/messutied/colors.sh) - 🌈💻 Colors.sh helps you add colors and formatting to your bash scripts
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [sindresorhus/noop3](https://github.com/sindresorhus/noop3) - :white_medium_square: Supreme nothingness
@@ -3581,6 +3582,7 @@
 
 ## Jupyter Notebook 
 
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - 
 - [hirasawakinko/Numpy-Done-Right](https://github.com/hirasawakinko/Numpy-Done-Right) - Make Python Great Again
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
@@ -4403,6 +4405,7 @@
 
 ## Others 
 
+- [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
@@ -4791,6 +4794,8 @@
 
 ## Python 
 
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
@@ -4810,7 +4815,7 @@
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Korchy/blender_autocomplete](https://github.com/Korchy/blender_autocomplete) - Autocomplete modules for Blender python API
@@ -4833,7 +4838,7 @@
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [BlenderKit/blenderkit](https://github.com/BlenderKit/blenderkit) - Official BlenderKit add-on for Blender 3D. Documentation: https://github.com/BlenderKit/blenderkit/wiki/BlenderKit-add-on-documentation
 - [BlenderHQ/path_tool](https://github.com/BlenderHQ/path_tool) - Blender 2.83+ tool for selecting and marking up mesh object elements
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
@@ -4995,7 +5000,7 @@
 - [libsm64/libsm64-blender](https://github.com/libsm64/libsm64-blender) - Blender client for libsm64
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
-- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway Wayland compositor.
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
 - [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
 - [solderparty/flexypin](https://github.com/solderparty/flexypin) - 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -6075,7 +6080,7 @@
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware to maximally leverage the power of language safety and thu
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -6606,7 +6611,7 @@
 ## Svelte 
 
 - [huggingface/hub-docs](https://github.com/huggingface/hub-docs) - Frontend components, documentation and information hosted on the Hugging Face website.
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based UIs
 - [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
@@ -6666,6 +6671,7 @@
 - [jdiaz5513/capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [dsvgit/slatesbox](https://github.com/dsvgit/slatesbox) - Slate editor plugins system. Drag and drop, folding implementation.
@@ -6910,7 +6916,7 @@
 - [zth/vscode-rescript-relay](https://github.com/zth/vscode-rescript-relay) - 
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 - [stitchesjs/stitches-site](https://github.com/stitchesjs/stitches-site) - stitches.dev
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
@@ -7196,7 +7202,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [justinmc/react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
 - [Auxx/lib-colorifium](https://github.com/Auxx/lib-colorifium) - 
 - [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) - ESLint plugin for Jest
