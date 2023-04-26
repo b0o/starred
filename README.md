@@ -170,11 +170,14 @@
 
 ## C 
 
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+- [stevenxxiu/sshfs](https://github.com/stevenxxiu/sshfs) - A network filesystem client to connect to SSH servers
 - [aolserver/aolserver](https://github.com/aolserver/aolserver) - AOLserver is America Online's Open-Source web server. AOLserver is the backbone of the largest and busiest production environments in the world. AOLserver is a multithreaded, Tcl-enabled web server us
 - [Superxwolf/JavascriptCorePP](https://github.com/Superxwolf/JavascriptCorePP) - JavaScriptCore++ - A simple C++ 17 wrapper for JavaScriptCore
 - [uriparser/uriparser](https://github.com/uriparser/uriparser) - :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -525,7 +528,7 @@
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [jalvesaq/colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [realartists/raw2mp4](https://github.com/realartists/raw2mp4) - 
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -612,6 +615,11 @@
 
 ## C++ 
 
+- [NilsBrause/waylandpp](https://github.com/NilsBrause/waylandpp) - Wayland C++ bindings
+- [cpplibv/libv](https://github.com/cpplibv/libv) - A C++23 library collection
+- [dacap/clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
+- [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
+- [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python
 - [MohammadMD1383/ultrapy](https://github.com/MohammadMD1383/ultrapy) - 
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [ultralight-ux/WebCore](https://github.com/ultralight-ux/WebCore) - WebCore Module (Desktop Port). This module is a fork of WebKit's WebCore module and is responsible for all parsing, styling, layout, script execution, and page state.
@@ -885,6 +893,7 @@
 
 ## CMake 
 
+- [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [vector-of-bool/cmrc](https://github.com/vector-of-bool/cmrc) - A Resource Compiler in a Single CMake Script
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Next-generation HTML renderer for apps and games
@@ -930,7 +939,7 @@
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [sliminality/ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
+- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [pelson/repohealth.info](https://github.com/pelson/repohealth.info) - Service which collects indicators of a repository's health into a single report
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [risk-first/website](https://github.com/risk-first/website) - Risk-First Software Development
@@ -1061,7 +1070,7 @@
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [openresty/docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 
 ## Elixir 
 
@@ -2004,7 +2013,7 @@
 - [unee-t/engagement](https://github.com/unee-t/engagement) - 
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [cornelk/go-benchmark](https://github.com/cornelk/go-benchmark) - Golang benchmarks used for optimizing code
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [albrow/fo](https://github.com/albrow/fo) - An experimental language which adds functional programming features to Go.
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -2347,6 +2356,7 @@
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [Circadiaware/VLiDACMel-entrainment-therapy-non24](https://github.com/Circadiaware/VLiDACMel-entrainment-therapy-non24) - Entrainment protocol for the sighted Non-24 circadian rhythm disorder.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
@@ -2564,7 +2574,7 @@
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [umple/umple](https://github.com/umple/umple) - Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data workflow orchestration platform with powerful user interface, dedicated to solving complex task dependencies in the data pipeline and providing various types
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [usdAG/cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
@@ -2584,6 +2594,7 @@
 
 ## JavaScript 
 
+- [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [Sytten/PrettyXML](https://github.com/Sytten/PrettyXML) - Powerful XML viewer for Firefox
@@ -3588,7 +3599,7 @@
 
 - [jflam/chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - A browser extension that lets you chat with ChatGPT from any local Jupyter notebook.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-- [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - 
+- [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
 - [hirasawakinko/Numpy-Done-Right](https://github.com/hirasawakinko/Numpy-Done-Right) - Make Python Great Again
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -3623,7 +3634,7 @@
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
 - [panicinc/speed_mystery](https://github.com/panicinc/speed_mystery) - Data collected to investigate why Comcast customers have slow downloads from our site
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [kmather73/NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) - What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
 - [babylonhealth/fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) - Multilingual word vectors in 78 languages
@@ -3826,7 +3837,7 @@
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
 - [kikito/semver.lua](https://github.com/kikito/semver.lua) - Semantic versioning for Lua
-- [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) - missing utf8 module for neovim Lua.
+- [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) - The missing utf8 module for neovim Lua.
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - Tabline lua plugin for neovim
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
@@ -4609,7 +4620,7 @@
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [kmcodes/my-awesome-stars](https://github.com/kmcodes/my-awesome-stars) - A curated list of my GitHub stars!
 - [clearlinux/distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
-- [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
+- [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Get organized and boost your productivity with our comprehensive Org mode syntax reference card! Get a quick access to helpful tips and tricks. #orgmode #syntax #productivity #referencecard
 - [williamFalcon/DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017)
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
@@ -4751,7 +4762,6 @@
 
 ## Perl 
 
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [torbiak/git-autofixup](https://github.com/torbiak/git-autofixup) - create fixup commits for topic branches
 - [jwr/ccheck](https://github.com/jwr/ccheck) - Simple, easy to use, minimal consistency checker (hasher) for file archives.
 - [brendangregg/proc-profiler](https://github.com/brendangregg/proc-profiler) - Linux /proc/PID/stack profiler
@@ -5944,7 +5954,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [orogene/orogene](https://github.com/orogene/orogene) - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
+- [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
@@ -5980,7 +5990,7 @@
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - :package: A library for parsing IEEE 802.11 frames
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -6631,7 +6641,7 @@
 
 - [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-- [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A super simple SMS filtering application for iOS
+- [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App) - iOS Mobile App to rule all Flipper's family
@@ -6675,6 +6685,10 @@
 
 ## TypeScript 
 
+- [trpc/examples-next-prisma-websockets-starter](https://github.com/trpc/examples-next-prisma-websockets-starter) - 🏓 tRPC Next.js WebSocket Starter
+- [justinmahar/openai-ext](https://github.com/justinmahar/openai-ext) - 🤖 Extension to OpenAI's API to support streaming chat completions.
+- [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
+- [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [JovanVeljanoski/jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot) - A JupyterLab extension for generating code and interacting with JupyterLab Notebooks via voice commands
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
@@ -6787,9 +6801,9 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
-- [mswjs/headers-polyfill](https://github.com/mswjs/headers-polyfill) - A Fetch API "Headers" polyfill.
+- [mswjs/headers-polyfill](https://github.com/mswjs/headers-polyfill) - A Fetch API "Headers" polyfill and transformation library.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [valentine195/obsidian-admonition](https://github.com/valentine195/obsidian-admonition) - Adds admonition block-styled content to Obsidian.md
+- [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
 - [amoutonbrady/esbuild-plugin-solid](https://github.com/amoutonbrady/esbuild-plugin-solid) - 
 - [phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary) - Dictionary - Obsidian Plugin | This plugin adds a multilingual dictionary to the Obsidian note taking tool.
 - [brillout/vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
@@ -7004,7 +7018,6 @@
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [electron/universal](https://github.com/electron/universal) - Create Universal macOS applications from two x64 and arm64 Electron applications
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
