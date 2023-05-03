@@ -906,7 +906,6 @@
 - [bryanbraun/after-dark-css](https://github.com/bryanbraun/after-dark-css) - Recreating After Dark screensavers in CSS.
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
-- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [tomgenoni/cssdig-chrome](https://github.com/tomgenoni/cssdig-chrome) - Chrome extension for analyzing CSS.
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
@@ -1071,7 +1070,7 @@
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [openresty/docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 
 ## Elixir 
 
@@ -1179,6 +1178,7 @@
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
 - [PullRequestInc/go-gpt3](https://github.com/PullRequestInc/go-gpt3) - An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs.
 - [mattn/chatgpt](https://github.com/mattn/chatgpt) - 
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [boreq/guinea](https://github.com/boreq/guinea) - Go library for building command line interfaces.
 - [boreq/plum](https://github.com/boreq/plum) - Plum is a real-time web server access log analyser.
@@ -2312,7 +2312,7 @@
 - [kigiri/fetch](https://github.com/kigiri/fetch) - Convert CURL to javascript fetch api
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [fireship-io/supaship.io](https://github.com/fireship-io/supaship.io) - 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -2596,10 +2596,11 @@
 
 ## JavaScript 
 
+- [rauchg/how-is-this-not-illegal](https://github.com/rauchg/how-is-this-not-illegal) - A demo of using RSC and Vercel Postgres, legally
 - [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
-- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [Sytten/PrettyXML](https://github.com/Sytten/PrettyXML) - Powerful XML viewer for Firefox
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -3112,7 +3113,7 @@
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [WebReflection/static-params](https://github.com/WebReflection/static-params) - A general purpose utility to allow interpolation values as static parts of a template literal tag.
 - [richinfante/iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [jackmcdade/weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. These sites are helping. Apply to join!
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
@@ -3600,6 +3601,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [jflam/chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - A browser extension that lets you chat with ChatGPT from any local Jupyter notebook.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [hirasawakinko/Numpy-Done-Right](https://github.com/hirasawakinko/Numpy-Done-Right) - Make Python Great Again
@@ -4425,6 +4427,8 @@
 
 ## Others 
 
+- [andrew-lowell/HMT](https://github.com/andrew-lowell/HMT) - Houdini Music Toolset (HMT) turns the most powerful 3D program into a MIDI sequencer
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [drizzle-team/drizzle-kit-mirror](https://github.com/drizzle-team/drizzle-kit-mirror) - Docs and issues repository for drizzle-kit
 - [cemhurturk/the-best-email-marketing-services-and-tools-for-marketers](https://github.com/cemhurturk/the-best-email-marketing-services-and-tools-for-marketers) - The best email marketing services and tools help marketers save time and improve their results.
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
@@ -4814,8 +4818,8 @@
 
 ## Python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - AI-Relational Database System | SQL meets Deep Learning
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [pytest-dev/pytest-order](https://github.com/pytest-dev/pytest-order) - pytest plugin that allows to customize the test execution order
 - [fperez/jupytee](https://github.com/fperez/jupytee) - Experimental playground with Jupyter magics to use OpenAI's GPT-3 models inside Jupyter environments.
 - [lmortimer/gepl](https://github.com/lmortimer/gepl) - Generate, Enhance, Print, Loop - A ChatGPT enhanced Python REPL
@@ -6605,7 +6609,7 @@
 - [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [TheDen/TheDen.sh](https://github.com/TheDen/TheDen.sh) - Personal website 🌊
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nordtheme/termite](https://github.com/nordtheme/termite) - An arctic, north-bluish clean and elegant Termite color theme.
@@ -6736,7 +6740,7 @@
 - [tksst/cdk-ec2-spot-simple](https://github.com/tksst/cdk-ec2-spot-simple) - AWS CDK construct library to create EC2 Spot Instances simply.
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
-- [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a simple platform to monitor application performance with error handling.
+- [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
