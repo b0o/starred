@@ -1207,7 +1207,7 @@
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad) - Easily check licenses against Gumroad's API.
-- [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the sway / wlroots environment
+- [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
 - [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)
@@ -1222,7 +1222,7 @@
 - [progrium/go-shell](https://github.com/progrium/go-shell) - 
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
-- [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for sway Wayland compositor
+- [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for wlroots-based Wayland compositors
 - [fly-apps/go-example](https://github.com/fly-apps/go-example) - A minimal Go application for tutorials
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error
@@ -3601,6 +3601,7 @@
 
 ## Jupyter Notebook 
 
+- [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [jflam/chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - A browser extension that lets you chat with ChatGPT from any local Jupyter notebook.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
@@ -4818,6 +4819,7 @@
 
 ## Python 
 
+- [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - AI-Relational Database System | SQL meets Deep Learning
 - [pytest-dev/pytest-order](https://github.com/pytest-dev/pytest-order) - pytest plugin that allows to customize the test execution order
@@ -5179,7 +5181,7 @@
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [falense/b2_fuse](https://github.com/falense/b2_fuse) - FUSE integration for Backblaze B2 Cloud storage
-- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
+- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [renatosc/nnv](https://github.com/renatosc/nnv) - NNV - Neural Network Visualizer
 - [errata-ai/packages](https://github.com/errata-ai/packages) - :package: A collection of pre-packaged, Vale-compatible style guides and configurations.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
