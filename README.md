@@ -229,7 +229,6 @@
 - [reddit/snudown](https://github.com/reddit/snudown) - reddit's markdown renderer. based on sundown.
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
 - [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
-- [savonet/ocaml-ssl](https://github.com/savonet/ocaml-ssl) - OCaml SSL bindings.
 - [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [Dion-Systems/metadesk](https://github.com/Dion-Systems/metadesk) - 
@@ -1169,8 +1168,12 @@
 
 ## Go 
 
+- [DustinJSilk/dinero.go](https://github.com/DustinJSilk/dinero.go) - A port of dinero.js to Go
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
+- [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [realyixuan/gsubpy](https://github.com/realyixuan/gsubpy) - An interpreter of subset of Python in Go
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for in
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. LocalAI is a RESTful API for ggml comp
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [raff/ultralight-go](https://github.com/raff/ultralight-go) - Go bindings for https://ultralig.ht/
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
@@ -2600,6 +2603,9 @@
 
 ## JavaScript 
 
+- [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
+- [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
+- [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 - [nderscore/prettier-plugin-nativewind](https://github.com/nderscore/prettier-plugin-nativewind) - prettier-plugin-tailwindcss fork with support for NativeWind & more
 - [vercel/next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
 - [rauchg/how-is-this-not-illegal](https://github.com/rauchg/how-is-this-not-illegal) - A demo of using RSC and Vercel Postgres, legally
@@ -3469,7 +3475,6 @@
 - [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [mui/material-ui-docs](https://github.com/mui/material-ui-docs) - ⚠️ Please don't submit PRs here as they will be closed. To edit the docs or source code, please use the main repository:
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
@@ -4184,6 +4189,7 @@
 - [ocurrent/ocaml-ci](https://github.com/ocurrent/ocaml-ci) - A CI for OCaml projects
 - [ocaml-community/biniou](https://github.com/ocaml-community/biniou) - Extensible binary data format, like JSON but faster
 - [ocaml-community/yojson](https://github.com/ocaml-community/yojson) - Low-level JSON parsing and pretty-printing library for OCaml
+- [savonet/ocaml-ssl](https://github.com/savonet/ocaml-ssl) - OCaml SSL bindings.
 - [rgrinberg/ocamlbuild-atdgen](https://github.com/rgrinberg/ocamlbuild-atdgen) - ocamlbuild plugin for atdgen
 - [ahrefs/bs-atdgen-codec-runtime](https://github.com/ahrefs/bs-atdgen-codec-runtime) - 
 - [mjambon/atdgen](https://github.com/mjambon/atdgen) - Now part of the atd repo
@@ -4432,6 +4438,7 @@
 
 ## Others 
 
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
 - [andrew-lowell/HMT](https://github.com/andrew-lowell/HMT) - Houdini Music Toolset (HMT) turns the most powerful 3D program into a MIDI sequencer
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [drizzle-team/drizzle-kit-mirror](https://github.com/drizzle-team/drizzle-kit-mirror) - Docs and issues repository for drizzle-kit
@@ -4631,7 +4638,6 @@
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [18F/technology-budgeting](https://github.com/18F/technology-budgeting) - See https://derisking-guide.18f.gov/
 - [ChrisMiuchiz/Plasma-Writeup](https://github.com/ChrisMiuchiz/Plasma-Writeup) - Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [kmcodes/my-awesome-stars](https://github.com/kmcodes/my-awesome-stars) - A curated list of my GitHub stars!
 - [clearlinux/distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Get organized and boost your productivity with our comprehensive Org mode syntax reference card! Get a quick access to helpful tips and tricks. #orgmode #syntax #productivity #referencecard
@@ -4823,9 +4829,10 @@
 
 ## Python 
 
+- [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-- [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - AI-Relational Database System | SQL meets Deep Learning
+- [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - 🔮 Database system for building simpler and faster AI-powered applications 🔮
 - [pytest-dev/pytest-order](https://github.com/pytest-dev/pytest-order) - pytest plugin that allows to customize the test execution order
 - [fperez/jupytee](https://github.com/fperez/jupytee) - Experimental playground with Jupyter magics to use OpenAI's GPT-3 models inside Jupyter environments.
 - [lmortimer/gepl](https://github.com/lmortimer/gepl) - Generate, Enhance, Print, Loop - A ChatGPT enhanced Python REPL
@@ -5283,7 +5290,6 @@
 - [TaDaa/vimade](https://github.com/TaDaa/vimade) - An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [deoplete-plugins/deoplete-jedi](https://github.com/deoplete-plugins/deoplete-jedi) - deoplete.nvim source for Python
 - [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
 - [jbms/finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
@@ -5561,6 +5567,7 @@
 
 ## ReScript 
 
+- [JGood9001/rescript-repl](https://github.com/JGood9001/rescript-repl) - 
 - [darklang/classic-dark](https://github.com/darklang/classic-dark) - Darklang stable version - currently on darklang.com
 - [resinfo/rescript-lua-ast](https://github.com/resinfo/rescript-lua-ast) - A ReScript representation and printer for the Lua AST.
 - [DZakh/rescript-struct](https://github.com/DZakh/rescript-struct) - Safely parse and serialize with transformation to convenient ReScript data structures
@@ -5741,6 +5748,8 @@
 
 ## Rust 
 
+- [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -6316,6 +6325,7 @@
 
 - [jgmdev/wl-color-picker](https://github.com/jgmdev/wl-color-picker) - A wayland color picker that also works on wlroots
 - [ncopa/lddtree](https://github.com/ncopa/lddtree) - Fork of pax-utils' lddtree.sh
+- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 100+ companies.
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
@@ -6392,7 +6402,7 @@
 - [brendangregg/pmc-cloud-tools](https://github.com/brendangregg/pmc-cloud-tools) - PMC (Performance Monitoring Counter) tools for the cloud
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of scripts for creating bootable disk images of Arch Linux and installing an Arch Linux system to an external USB disk or thumb drive.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of scripts for creating bootable disk images of Arch Linux and installing an Arch Linux system on an external USB disk or thumb drive.
 - [mikeswain/cmdfs](https://github.com/mikeswain/cmdfs) - Command File System
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts
 - [stephen304/castblock-legacy](https://github.com/stephen304/castblock-legacy) - Automatically skip integrated ads on youtube playing on chromecast
@@ -6705,6 +6715,8 @@
 
 ## TypeScript 
 
+- [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
+- [iamogbz/react-mirror](https://github.com/iamogbz/react-mirror) - 🪞 Create synchronized replicas of a DOM element using React
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
 - [egoist/esbuild-register](https://github.com/egoist/esbuild-register) - Transpile JSX, TypeScript and esnext features on the fly with esbuild
@@ -7250,6 +7262,7 @@
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [justinmc/react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
