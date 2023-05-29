@@ -78,7 +78,6 @@
 - [Others](#others)
 - [PEG.js](#peg.js)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
@@ -519,7 +518,7 @@
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [iliasam/OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -2572,7 +2571,7 @@
 
 ## Java 
 
-- [nickm980/smallville](https://github.com/nickm980/smallville) - Create Generative Agents for video games and simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior
+- [nickm980/smallville](https://github.com/nickm980/smallville) - Create Generative Agents for video games and simulations in a web browser. Based on Generative Agents: Interactive Simulacra of Human Behavior
 - [LibraryOfCongress/api.congress.gov](https://github.com/LibraryOfCongress/api.congress.gov) - congress.gov API
 - [psal/anonymouth](https://github.com/psal/anonymouth) - 
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -2614,6 +2613,9 @@
 
 ## JavaScript 
 
+- [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+- [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
+- [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
@@ -2943,7 +2945,7 @@
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.
+- [dosyago/BrowserBoxPro](https://github.com/dosyago/BrowserBoxPro) - 📷 BrowserBoxPro - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [nprapps/elections20-interactive](https://github.com/nprapps/elections20-interactive) - Front-end graphics for the 2020 general election
 - [nprapps/sidechain](https://github.com/nprapps/sidechain) - Modern responsive iframes
@@ -3841,7 +3843,7 @@
 - [ThePrimeagen/jvim.nvim](https://github.com/ThePrimeagen/jvim.nvim) - A simple json traverser for NeoVim
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [hrsh7th/nvim-kit](https://github.com/hrsh7th/nvim-kit) - My personal Lua utilities for neovim.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
@@ -4462,6 +4464,7 @@
 
 ## Others 
 
+- [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) - Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The li
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
@@ -4804,10 +4807,6 @@
 - [shouldbee/reserved-usernames](https://github.com/shouldbee/reserved-usernames) - 590+ usernames in this dictionary! A list of reserved usernames to prevent url collision with resource paths. This repository hosts the list in multiple formats like JSON, CSV, SQL and plain text. You
 - [ndejong/pfsense_fauxapi](https://github.com/ndejong/pfsense_fauxapi) - REST based API interface for pfSense 2.3.x and 2.4.x to facilitate devops
 
-## PLpgSQL 
-
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
-
 ## Perl 
 
 - [torbiak/git-autofixup](https://github.com/torbiak/git-autofixup) - create fixup commits for topic branches
@@ -4857,6 +4856,7 @@
 
 ## Python 
 
+- [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line
 - [AdmTal/PostgreSQL-Query-Lock-Explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer) - Command line utility to show what locks will be acquired by a given query.
@@ -4873,7 +4873,7 @@
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
-- [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
@@ -4886,7 +4886,6 @@
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
@@ -4981,7 +4980,7 @@
 - [rstebbing/workshop](https://github.com/rstebbing/workshop) - 
 - [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 - [shoyo/acoustic-keylogger](https://github.com/shoyo/acoustic-keylogger) - Pipeline of a keylogging attack using just an audio signal and unsupervised learning.
-- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm Platform - Powering Your GPU Computational Needs
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Platform - GitHub Home
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [EleutherAI/lm_dataformat](https://github.com/EleutherAI/lm_dataformat) - 
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -5000,7 +4999,7 @@
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [ibestvina/datasloth](https://github.com/ibestvina/datasloth) - Natural language Pandas queries and data generation powered by GPT-3
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
@@ -5386,7 +5385,7 @@
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
-- [PyCQA/prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [landscapeio/prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [facebookresearch/ReAgent](https://github.com/facebookresearch/ReAgent) - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
@@ -5811,7 +5810,7 @@
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [arlyon/stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, Nextjs, and Vite, fast 🚀
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [luminalang/lumina](https://github.com/luminalang/lumina) - WIP High-Level Functional Programming Language Focused On Efficiency
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [pmsanford/psh](https://github.com/pmsanford/psh) - An experimental interconnected shell
@@ -6366,6 +6365,7 @@
 - [ncopa/lddtree](https://github.com/ncopa/lddtree) - Fork of pax-utils' lddtree.sh
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 100+ companies.
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement.
@@ -6754,6 +6754,15 @@
 
 ## TypeScript 
 
+- [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
+- [salesforce/best](https://github.com/salesforce/best) - :trophy: Delightful Benchmarking & Performance Testing
+- [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web
+- [prisma-labs/bema](https://github.com/prisma-labs/bema) - 🐎 Delightful benchmarking for Node.js
+- [caderek/benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
+- [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
+- [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
+- [romanzy313/trpc-uwebsockets](https://github.com/romanzy313/trpc-uwebsockets) - 
+- [enisdenjo/graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices
 - [sachinraja/trpc-bun](https://github.com/sachinraja/trpc-bun) - tRPC + Bun
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
@@ -6789,6 +6798,7 @@
 - [devietti/trpc-next13-app](https://github.com/devietti/trpc-next13-app) - tRPC + Next 13 app directory + TypeScript
 - [trpc/next-13](https://github.com/trpc/next-13) - experimental playground for tRPC + next.js 13
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
@@ -7036,7 +7046,7 @@
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
-- [smeijer/next-runtime](https://github.com/smeijer/next-runtime) - All you need to handle POST requests, file uploads, and api requests, in getServerSideProps.
+- [smeijer/next-runtime](https://github.com/smeijer/next-runtime) - All you need to handle POST requests, file uploads, and api requests, in Next.js getServerSideProps.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -7362,6 +7372,7 @@
 
 ## Vim Script 
 
+- [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig
 - [google/vim-codefmt](https://github.com/google/vim-codefmt) - Vim plugin for syntax-aware code formatting
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
@@ -7718,10 +7729,11 @@
 
 ## Zig 
 
+- [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
 - [ifreund/zig-wayland](https://github.com/ifreund/zig-wayland) - Zig wayland scanner and libwayland bindings
 - [jamii/jams](https://github.com/jamii/jams) - 
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder designed for filtering filepaths
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [greenfork/kisa](https://github.com/greenfork/kisa) - Text editor of the new world
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
