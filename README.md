@@ -637,7 +637,7 @@
 - [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python
 - [MohammadMD1383/ultrapy](https://github.com/MohammadMD1383/ultrapy) - 
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
-- [ultralight-ux/WebCore](https://github.com/ultralight-ux/WebCore) - WebCore Module (Desktop Port). This module is a fork of WebKit's WebCore module and is responsible for all parsing, styling, layout, script execution, and page state.
+- [ultralight-ux/WebCore](https://github.com/ultralight-ux/WebCore) - WebCore Module. This module is a fork of WebKit's WebCore module and is responsible for all parsing, styling, layout, script execution, and page state.
 - [remaininlight/juce-ultralight](https://github.com/remaininlight/juce-ultralight) - 
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [mikke89/RmlUi](https://github.com/mikke89/RmlUi) - RmlUi - The HTML/CSS User Interface library evolved
@@ -3023,7 +3023,7 @@
 - [0vercl0k/CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708) - Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
-- [sethkimmel3/roundtable.audio](https://github.com/sethkimmel3/roundtable.audio) - 
+- [sethkimmel3/roundtable.audio](https://github.com/sethkimmel3/roundtable.audio) - Live, multi-party audio conferencing app.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
@@ -3647,6 +3647,7 @@
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [jflam/chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - A browser extension that lets you chat with ChatGPT from any local Jupyter notebook.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+- [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [hirasawakinko/Numpy-Done-Right](https://github.com/hirasawakinko/Numpy-Done-Right) - Make Python Great Again
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -4262,7 +4263,7 @@
 - [dbuenzli/brr](https://github.com/dbuenzli/brr) - Browser programming toolkit for OCaml
 - [dbuenzli/qoic](https://github.com/dbuenzli/qoic) - QOI image codec for OCaml (unreleased)
 - [dbuenzli/hc](https://github.com/dbuenzli/hc) - Hypertext connection for dynamic web pages (unreleased)
-- [anuragsoni/shuttle](https://github.com/anuragsoni/shuttle) - 
+- [anuragsoni/shuttle_http](https://github.com/anuragsoni/shuttle_http) - 
 - [mnxn/promise_jsoo](https://github.com/mnxn/promise_jsoo) - Js_of_ocaml bindings to JS Promises with supplemental functions
 - [dbuenzli/fmt](https://github.com/dbuenzli/fmt) - OCaml Format pretty-printer combinators
 - [hyper-systems/rescript-sx](https://github.com/hyper-systems/rescript-sx) - Styling extension for ReScript.
@@ -4485,6 +4486,7 @@
 
 ## Others 
 
+- [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja) - Repository for Console Ninja questions and issues
 - [microsoft/prompt-engineering](https://github.com/microsoft/prompt-engineering) - Learn how to use AI models with prompt engineering
 - [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) - Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The li
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -4909,7 +4911,6 @@
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
-- [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [python-websockets/websockets](https://github.com/python-websockets/websockets) - Library for building WebSocket servers and clients in Python
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
@@ -6792,6 +6793,8 @@
 
 ## TypeScript 
 
+- [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
+- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [dan-lee/timescape](https://github.com/dan-lee/timescape) - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte a
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
