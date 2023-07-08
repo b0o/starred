@@ -1293,7 +1293,7 @@
 - [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
-- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [bots-house/github-actions-upstream-watch](https://github.com/bots-house/github-actions-upstream-watch) - 👀 Trigger Github Actions Workflow when commit to another repo
@@ -2624,6 +2624,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups) - 
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 - [nanoexpress/nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js
@@ -3244,6 +3245,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 - [WebReflection/uce](https://github.com/WebReflection/uce) - µhtml based Custom Elements
+- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [WebReflection/clock-scheduler](https://github.com/WebReflection/clock-scheduler) - Same as setTimeout and setInterval but pinned to the clock
 - [WebReflection/hooked-elements](https://github.com/WebReflection/hooked-elements) - wickedElements 🧙 with render hooks
@@ -4546,7 +4548,7 @@
 - [WICG/canvas-color-space](https://github.com/WICG/canvas-color-space) - Proposed web platform feature to add color management, wide gamut and high bit-depth support to the &lt;canvas&gt; element.
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [Icy-Thought/awesome-vegan](https://github.com/Icy-Thought/awesome-vegan) - A Markdown based fork of the Vegan Cheatsheet.
-- [chapmanjacobd/hn_mining](https://github.com/chapmanjacobd/hn_mining) - 
+- [chapmanjacobd/hn_mining](https://github.com/chapmanjacobd/hn_mining) - hackernews data
 - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
@@ -4917,6 +4919,7 @@
 
 ## Python 
 
+- [mondeja/simple-icons-blender](https://github.com/mondeja/simple-icons-blender) - Simple Icons Blender addon
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
@@ -4933,7 +4936,7 @@
 - [tarekziade/boom](https://github.com/tarekziade/boom) - A replacement for AB (Apache Bench)
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
-- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel from the command line
 - [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken
 - [AdmTal/PostgreSQL-Query-Lock-Explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer) - Command line utility to show what locks will be acquired by a given query.
@@ -5062,7 +5065,7 @@
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [graiz/cbot](https://github.com/graiz/cbot) - Cbot is a simple python command line bot based on GPT3. The bot will lookup what the right command line is for natural questions that you ask. A GPT3 API key is required for this to work.
 - [dylanjcastillo/shell-genie](https://github.com/dylanjcastillo/shell-genie) - Your wishes are my commands
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [open-journey/openjourney-cpu](https://github.com/open-journey/openjourney-cpu) - 
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
@@ -5094,7 +5097,7 @@
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
 - [zackelia/ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra
-- [CanonicalLtd/aws-marketplace-ubuntu-scraper](https://github.com/CanonicalLtd/aws-marketplace-ubuntu-scraper) - CLI to return the Ubuntu AMIs in AWS marketplace
+- [canonical/aws-marketplace-ubuntu-scraper](https://github.com/canonical/aws-marketplace-ubuntu-scraper) - CLI to return the Ubuntu AMIs in AWS marketplace
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
@@ -6845,6 +6848,10 @@
 
 ## TypeScript 
 
+- [icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons) - 📦 This package provides the Simple Icons packaged as a set of React components.
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) - 
+- [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [devfolioco/react-otp-input](https://github.com/devfolioco/react-otp-input) - :heavy_check_mark:  OTP Input Component for React
 - [libsql/kysely-libsql](https://github.com/libsql/kysely-libsql) - Kysely dialect for sqld
@@ -7346,7 +7353,6 @@
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - [edtr-io/edtr-io](https://github.com/edtr-io/edtr-io) - Edtr.io is an open source WYSIWYG in-line web editor written in React. Its plugin architecture makes Edtr.io lean and extensive at the same time.
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
-- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
