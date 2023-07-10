@@ -171,6 +171,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [latchset/tang](https://github.com/latchset/tang) - Tang binding daemon
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [NouamaneTazi/bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - C++ implementation for BLOOM
@@ -4517,6 +4518,7 @@
 
 ## Others 
 
+- [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - 
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
@@ -4919,6 +4921,7 @@
 
 ## Python 
 
+- [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - An efficient tool for indexing and searching PDF text data using OpenAI's GPT-2 model and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accu
 - [mondeja/simple-icons-blender](https://github.com/mondeja/simple-icons-blender) - Simple Icons Blender addon
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
@@ -5865,7 +5868,6 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
 - [dprint/dprint-plugin-dockerfile](https://github.com/dprint/dprint-plugin-dockerfile) - Dockerfile code formatting plugin for dprint.
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
@@ -5874,7 +5876,7 @@
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tweag/topiary](https://github.com/tweag/topiary) - 
-- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Ratatui is a Rust library to build rich terminal user interfaces (TUIs) and dashboards. It is a community fork of the original tui-rs created to maintain and improve the project.
+- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [mitsuhiko/self-replace](https://github.com/mitsuhiko/self-replace) - Utility library that helps to implement processes that replace themselves
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
@@ -6324,6 +6326,7 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [akeru-inc/xcnotary](https://github.com/akeru-inc/xcnotary) - the missing macOS app notarization helper, built with Rust
 - [softprops/hubcaps](https://github.com/softprops/hubcaps) - a rust interface for github
 - [rhysd/wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
@@ -6848,6 +6851,8 @@
 
 ## TypeScript 
 
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons) - 📦 This package provides the Simple Icons packaged as a set of React components.
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) - 
@@ -6880,6 +6885,7 @@
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [dan-lee/timescape](https://github.com/dan-lee/timescape) - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte a
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [edgedb/edgedb-js](https://github.com/edgedb/edgedb-js) - The official TypeScript/JS client library and query builder for EdgeDB
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
@@ -7647,7 +7653,6 @@
 - [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [Shougo/deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
 - [tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim) - :notebook: Display vim version numbers in docs
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
 - [deris/vim-shot-f](https://github.com/deris/vim-shot-f) - highlight the character which can move directly to (by `f`,`F`,`t`,`T`)
