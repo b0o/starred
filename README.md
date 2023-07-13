@@ -2334,6 +2334,7 @@
 
 ## HTML 
 
+- [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [the-full-stack/website](https://github.com/the-full-stack/website) - Source for https://fullstackdeeplearning.com
@@ -2429,7 +2430,7 @@
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [tc39/proposal-relative-indexing-method](https://github.com/tc39/proposal-relative-indexing-method) - A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kevinlanning/DataSciSpring2021](https://github.com/kevinlanning/DataSciSpring2021) - 
 - [securityespresso/blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
@@ -3528,7 +3529,6 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [nikgraf/belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX
 - [elementalui/elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js
-- [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [fridays/next-routes](https://github.com/fridays/next-routes) - Universal dynamic routes for Next.js
 - [kaelig/readhn](https://github.com/kaelig/readhn) - A simple and fast Hacker News Top Stories reader – using Instapaper
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -3718,6 +3718,7 @@
 
 ## Lua 
 
+- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [hoprr/calvera-dark.nvim](https://github.com/hoprr/calvera-dark.nvim) - Calvera Dark Colorscheme for Neovim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
@@ -4256,7 +4257,7 @@
 
 ## OCaml 
 
-- [jyshb/pin-unpin-tab](https://github.com/jyshb/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
+- [jyssh/pin-unpin-tab](https://github.com/jyssh/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
 - [darklang/philip2](https://github.com/darklang/philip2) - An Elm to OCaml compiler
 - [plow-technologies/rescript-linter](https://github.com/plow-technologies/rescript-linter) - Lint your ReScript code!
 - [dariusf/ppx_debug](https://github.com/dariusf/ppx_debug) - Tools for record-and-replay debugging
@@ -4779,6 +4780,7 @@
 - [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [slightlyoff/never_slow_mode](https://github.com/slightlyoff/never_slow_mode) - Never-Slow Mode (a.k.a. Slightly-Fast Mode)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
@@ -4823,6 +4825,7 @@
 - [awsdocs/aws-go-developer-guide](https://github.com/awsdocs/aws-go-developer-guide) - AWS SDK for Go Developer Guide
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [reactjs/react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
+- [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [nemild/hack-the-media](https://github.com/nemild/hack-the-media) - This repo collects examples of intentional and unintentional hacks of media sources
 - [0xfe/hacking-stellar](https://github.com/0xfe/hacking-stellar) - A hacker's guide to using the Stellar blockchain platform.
@@ -4928,6 +4931,7 @@
 
 ## Python 
 
+- [state-of-the-art/BlendNet](https://github.com/state-of-the-art/BlendNet) - Make your Blender distributed!
 - [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - An efficient tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
 - [mondeja/simple-icons-blender](https://github.com/mondeja/simple-icons-blender) - Simple Icons Blender addon
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
@@ -5001,7 +5005,7 @@
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
-- [BlenderKit/blenderkit](https://github.com/BlenderKit/blenderkit) - Official BlenderKit add-on for Blender 3D. Documentation: https://github.com/BlenderKit/blenderkit/wiki/BlenderKit-add-on-documentation
+- [BlenderKit/blenderkit](https://github.com/BlenderKit/blenderkit) - Official BlenderKit add-on for Blender 3D. Documentation: https://github.com/BlenderKit/blenderkit/wiki
 - [BlenderHQ/path_tool](https://github.com/BlenderHQ/path_tool) - Blender 2.83+ tool for selecting and marking up mesh object elements
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [fullthom/chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - 
@@ -6859,6 +6863,7 @@
 
 ## TypeScript 
 
+- [Jaaneek/useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
 - [tailwindlabs/tailwindcss-container-queries](https://github.com/tailwindlabs/tailwindcss-container-queries) - A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -7065,7 +7070,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [pmndrs/maath](https://github.com/pmndrs/maath) - 🪶 Math helpers for the rest of us
 - [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - An Obsidian plugin for displaying data in a calendar similar to the github activity calendar
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [darlal/obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin for Obsidian.md
 - [agneym/playground](https://github.com/agneym/playground) - A simple playground for HTML, CSS and JavaScript supporting module imports.
 - [t3dotgg/faster-round](https://github.com/t3dotgg/faster-round) - 
@@ -7396,7 +7401,6 @@
 - [Lazyuki/ReTitle](https://github.com/Lazyuki/ReTitle) - Chrome/Firefox extension for renaming tab titles easily
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [bloomberg/pasta-sourcemaps](https://github.com/bloomberg/pasta-sourcemaps) - Pretty (and) Accurate Stack Trace Analysis is an extension to the JavaScript source map format that allows for accurate function name decoding.
-- [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
