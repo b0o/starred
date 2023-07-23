@@ -910,7 +910,7 @@
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [vector-of-bool/cmrc](https://github.com/vector-of-bool/cmrc) - A Resource Compiler in a Single CMake Script
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [chase-moskal/webp-hero](https://github.com/chase-moskal/webp-hero) - browser polyfill for the webp image format
 
 ## CSS 
@@ -1736,7 +1736,7 @@
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 - [FastFilter/xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing binary fuse and xor filters
-- [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+- [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [moznion/gonstructor](https://github.com/moznion/gonstructor) - A command-line tool to generate a constructor for the struct.
 - [mercari/go-circuitbreaker](https://github.com/mercari/go-circuitbreaker) - A context aware circuit breaker library in Go.
 - [romanyx/erris](https://github.com/romanyx/erris) - Linter for errors.Is and errors.As
@@ -2426,7 +2426,7 @@
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [tc39/proposal-relative-indexing-method](https://github.com/tc39/proposal-relative-indexing-method) - A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kevinlanning/DataSciSpring2021](https://github.com/kevinlanning/DataSciSpring2021) - 
 - [securityespresso/blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
@@ -2624,6 +2624,7 @@
 
 ## JavaScript 
 
+- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [aca/emmet-ls](https://github.com/aca/emmet-ls) - Emmet support based on LSP.
 - [le0pard/re2js](https://github.com/le0pard/re2js) - RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
@@ -3061,7 +3062,7 @@
 - [pomber/scrollycoding-preview](https://github.com/pomber/scrollycoding-preview) - 
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
-- [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
+- [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart: [temporarily not working]
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -3715,6 +3716,7 @@
 
 ## Lua 
 
+- [malbertzard/inline-fold.nvim](https://github.com/malbertzard/inline-fold.nvim) - A neovim version of the inline fold plugin
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [jackieaskins/cmp-emmet](https://github.com/jackieaskins/cmp-emmet) - 
 - [napmn/react-extract.nvim](https://github.com/napmn/react-extract.nvim) - Neovim plugin for extracting jsx into React component
@@ -4550,7 +4552,7 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [d5555/TagEditor](https://github.com/d5555/TagEditor) - 🏖TagEditor - Annotation tool for spaCy
-- [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
+- [HumanSignal/awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) - A curated list of awesome data labeling tools
 - [taivop/awesome-data-annotation](https://github.com/taivop/awesome-data-annotation) - A list of tools for annotating data, managing annotations, etc.
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [georgemandis/chatgpt-svgs](https://github.com/georgemandis/chatgpt-svgs) - SVGs I've asked ChatGPT to make for me.
@@ -4933,6 +4935,7 @@
 
 ## Python 
 
+- [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [skybrush-io/studio-blender](https://github.com/skybrush-io/studio-blender) - Skybrush Studio for Blender - a Blender addon for designing and validating drone shows
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
@@ -4991,7 +4994,7 @@
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Korchy/blender_autocomplete](https://github.com/Korchy/blender_autocomplete) - Autocomplete modules for Blender python API
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
@@ -5069,7 +5072,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [alexandre01/UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker
 - [RTIInternational/SMART](https://github.com/RTIInternational/SMART) - Smarter Manual Annotation for Resource-constrained collection of Training data
 - [jiesutd/YEDDA](https://github.com/jiesutd/YEDDA) - YEDDA: A Lightweight Collaborative Text Span Annotation Tool. Code for ACL 2018 Best Demo Paper Nomination.
@@ -5880,6 +5883,7 @@
 
 ## Rust 
 
+- [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit) - delegated, decentralized, capabilities based authorization token
 - [dprint/dprint-plugin-exec](https://github.com/dprint/dprint-plugin-exec) - Formatting plugin for dprint that formats code via other formatting CLI tools.
@@ -5896,7 +5900,7 @@
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tweag/topiary](https://github.com/tweag/topiary) - 
-- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [mitsuhiko/self-replace](https://github.com/mitsuhiko/self-replace) - Utility library that helps to implement processes that replace themselves
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
@@ -6872,6 +6876,7 @@
 
 ## TypeScript 
 
+- [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [Jaaneek/useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
@@ -6906,7 +6911,7 @@
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Indexing Discord Help Channel Questions into Google
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
-- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
+- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [dan-lee/timescape](https://github.com/dan-lee/timescape) - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte a
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
