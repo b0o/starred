@@ -1653,7 +1653,7 @@
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [kyleconroy/sqlc-tour](https://github.com/kyleconroy/sqlc-tour) - 
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
@@ -4367,7 +4367,7 @@
 - [andreas/ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml
 - [patricoferris/sesame](https://github.com/patricoferris/sesame) - A site generator in OCaml 🐫  (OCurrent pipelines too)
 - [samoht/dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml
-- [AbstractMachinesLab/caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
+- [ostera/caramel](https://github.com/ostera/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
 - [jordwalke/rehp](https://github.com/jordwalke/rehp) - ReHp
 - [mirage/decompress](https://github.com/mirage/decompress) - Pure OCaml implementation of Zlib.
 - [tmattio/spin](https://github.com/tmattio/spin) - OCaml project generator.
@@ -4934,6 +4934,7 @@
 
 ## Python 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [skybrush-io/studio-blender](https://github.com/skybrush-io/studio-blender) - Skybrush Studio for Blender - a Blender addon for designing and validating drone shows
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
@@ -6875,6 +6876,7 @@
 
 ## TypeScript 
 
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms) - The modular and type-safe form library for SolidJS, Qwik, Preact and React
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
@@ -7043,7 +7045,7 @@
 - [mcndt/obsidian-quickshare](https://github.com/mcndt/obsidian-quickshare) - 📝 An Obsidian plugin for sharing encrypted Markdown notes on the web. Zero configuration required.
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
-- [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
+- [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
 - [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Fediverse API client library for node.js and browser
 - [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu) - Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.
 - [oBusk/npm-diff.app](https://github.com/oBusk/npm-diff.app) - 📦🔃 Inspect changes between npm packages in a webapp
