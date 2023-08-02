@@ -123,6 +123,7 @@
 
 ## ActionScript 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [jhuckaby/webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
 
 ## Ada 
@@ -158,6 +159,7 @@
 ## Awk 
 
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
+- [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Bikeshed 
 
@@ -619,6 +621,7 @@
 
 ## C++ 
 
+- [p0358/ultralight_ime](https://github.com/p0358/ultralight_ime) - Sample IME integration in Ultralight
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for terminals with mouse and keyboard support
@@ -2250,7 +2253,7 @@
 - [gomatcha/matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [milochristiansen/lua](https://github.com/milochristiansen/lua) - A Lua 5.3 VM and compiler written in Go.
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
+- [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -3256,7 +3259,6 @@
 - [WebReflection/assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [WebReflection/basic-lru](https://github.com/WebReflection/basic-lru) - A fast and lightweight Map based LRU implementation.
@@ -3317,7 +3319,7 @@
 - [kaelig/google-spreadsheets-theo-demo](https://github.com/kaelig/google-spreadsheets-theo-demo) - Design tokens, managed via Google Spreadsheets, generated using Theo
 - [kaelig/google-spreadsheets-theo](https://github.com/kaelig/google-spreadsheets-theo) - Import Google Spreadsheets to a format digestable by Theo
 - [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
-- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [good-lly/gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
@@ -4590,7 +4592,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/TurtleCode84-is-cool](https://github.com/Explosion-Scratch/TurtleCode84-is-cool) - Star to change the repo title to your username!
+- [Explosion-Scratch/TalinTheDev-is-a-unicorn](https://github.com/Explosion-Scratch/TalinTheDev-is-a-unicorn) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4935,7 +4937,6 @@
 ## Python 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
-- [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [skybrush-io/studio-blender](https://github.com/skybrush-io/studio-blender) - Skybrush Studio for Blender - a Blender addon for designing and validating drone shows
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
@@ -4945,7 +4946,7 @@
 - [UF-CISE-Surflab/blender-polyhedral-splines](https://github.com/UF-CISE-Surflab/blender-polyhedral-splines) - 
 - [state-of-the-art/BlendNet](https://github.com/state-of-the-art/BlendNet) - Make your Blender distributed!
 - [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - An efficient tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
-- [mondeja/simple-icons-blender](https://github.com/mondeja/simple-icons-blender) - Simple Icons Blender addon
+- [mondeja/simple-icons-blender](https://github.com/mondeja/simple-icons-blender) - Simple Icons Blender add-on
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
@@ -5164,7 +5165,7 @@
 - [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for 3.5" and 5" IPS USB-C displays like Turing Smart Screen or XuanFang
 - [luarocks/hererocks](https://github.com/luarocks/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
@@ -5910,7 +5911,7 @@
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
 - [refcell/run-wild](https://github.com/refcell/run-wild) - Augment GPT-4 Environment Access
-- [devtomio/sodium](https://github.com/devtomio/sodium) - Libsodium for Node.js
+- [jzeuzs/sodium](https://github.com/jzeuzs/sodium) - Libsodium for Node.js
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust
 - [ddddddeon/a](https://github.com/ddddddeon/a) - CLI tool to generate code from GPT3
@@ -6141,7 +6142,7 @@
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [fnichol/names](https://github.com/fnichol/names) - Random name generator for Rust
@@ -6394,7 +6395,6 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [roosta/i3wsr](https://github.com/roosta/i3wsr) - Change i3-wm workspace names based on content
 - [jsdw/weave](https://github.com/jsdw/weave) - A simple CLI router for wiring together several sources behind a single HTTP endpoint
 - [norcalli/enpass-cli](https://github.com/norcalli/enpass-cli) - Enpass CLI agent written written in rust!
@@ -6622,7 +6622,6 @@
 - [shellfire-dev/tutorial](https://github.com/shellfire-dev/tutorial) - tutorial for shellfire
 - [alganet/coral](https://github.com/alganet/coral) - NOTE: This is a prototype, largely incomplete
 - [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
-- [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 - [j1elo/shell-snippets](https://github.com/j1elo/shell-snippets) - Some Bash shell snippets, with functions and utilities that I use frequently in my scripts.
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -6881,6 +6880,7 @@
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
+- [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [Jaaneek/useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
@@ -7398,6 +7398,7 @@
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
@@ -7475,7 +7476,7 @@
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2022: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
-- [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
+- [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
 - [palantir/tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
