@@ -5462,7 +5462,7 @@
 - [ivanov/vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [bminixhofer/wtpsplit](https://github.com/bminixhofer/wtpsplit) - Code for Where's the Point? Self-Supervised Multilingual Punctuation-Agnostic Sentence Segmentation
 - [swansonk14/p_tqdm](https://github.com/swansonk14/p_tqdm) - Parallel processing with progress bars
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [DaveDavenport/Rofication](https://github.com/DaveDavenport/Rofication) - My notification system
