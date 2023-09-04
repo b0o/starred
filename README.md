@@ -927,6 +927,7 @@
 
 ## CSS 
 
+- [andreypopp/react_of_ocaml](https://github.com/andreypopp/react_of_ocaml) - React Server Components (RSC) for OCaml
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
 - [bryanbraun/after-dark-css](https://github.com/bryanbraun/after-dark-css) - Recreating After Dark screensavers in CSS.
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
@@ -1180,7 +1181,6 @@
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - 🍊 Sweet Fennel integration for Neovim
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
@@ -4036,6 +4036,7 @@
 - [fhill2/xplr.nvim](https://github.com/fhill2/xplr.nvim) - XPLR - msgpack - lua
 - [ahmedkhalf/lsp-rooter.nvim](https://github.com/ahmedkhalf/lsp-rooter.nvim) - lsp-rooter.nvim is a neovim plugin written in lua to change the current working directory to the project's root directory automagically using nvim native lsp.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim) - 
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
@@ -4967,6 +4968,7 @@
 
 ## Python 
 
+- [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
 - [stassius/StableHoudini](https://github.com/stassius/StableHoudini) - Stable Diffusion Houdini Toolset
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
 - [freckletonj/uniteai](https://github.com/freckletonj/uniteai) - Your AI Stack in Your Editor
@@ -7197,7 +7199,7 @@
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [the-via/app](https://github.com/the-via/app) - 
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
