@@ -178,7 +178,7 @@
 - [nikisalli/falcon.cpp](https://github.com/nikisalli/falcon.cpp) - C++ implementation for falcon
 - [GNOME/epiphany](https://github.com/GNOME/epiphany) - Read-only mirror of https://gitlab.gnome.org/GNOME/epiphany
 - [bigcode-project/starcoder.cpp](https://github.com/bigcode-project/starcoder.cpp) - C++ implementation for 💫StarCoder
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [michaelforney/velox](https://github.com/michaelforney/velox) - velox window manager
 - [michaelforney/swc](https://github.com/michaelforney/swc) - a library for making a simple Wayland compositor
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
@@ -719,7 +719,7 @@
 - [virtualsecureplatform/Iyokan](https://github.com/virtualsecureplatform/Iyokan) - Generic engine to evaluate logical circuits on homomorphic encryption
 - [rhysd/Dachs](https://github.com/rhysd/Dachs) - Dachs; A Doggy :dog: Programming Language
 - [EyeTribe/tet-cpp-client](https://github.com/EyeTribe/tet-cpp-client) - C++ SDK for The Eye Tribe Tracker
-- [icethrush/repulsive-curves](https://github.com/icethrush/repulsive-curves) - 
+- [arcticpasserine/repulsive-curves](https://github.com/arcticpasserine/repulsive-curves) - 
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
@@ -842,7 +842,7 @@
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [octobanana/fltrdr](https://github.com/octobanana/fltrdr) - A TUI text reader for the terminal.
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
 - [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
@@ -1197,7 +1197,7 @@
 - [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [realyixuan/gsubpy](https://github.com/realyixuan/gsubpy) - An interpreter of subset of Python in Go
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [raff/ultralight-go](https://github.com/raff/ultralight-go) - Go bindings for https://ultralig.ht/
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
@@ -3602,7 +3602,7 @@
 - [atom/teletype-client](https://github.com/atom/teletype-client) - Editor-agnostic library managing client interaction for peer-to-peer collaborative editing in Teletype for Atom
 - [atom/teletype-crdt](https://github.com/atom/teletype-crdt) - String-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom.
 - [Samirla/xmlview](https://github.com/Samirla/xmlview) - Powerful XML viewer for Google Chrome and Safari
-- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser!
+- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
@@ -5160,7 +5160,7 @@
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [graiz/cbot](https://github.com/graiz/cbot) - Cbot is a simple python command line bot based on GPT3. The bot will lookup what the right command line is for natural questions that you ask. A GPT3 API key is required for this to work.
 - [dylanjcastillo/shell-genie](https://github.com/dylanjcastillo/shell-genie) - Your wishes are my commands
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
+- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [open-journey/openjourney-cpu](https://github.com/open-journey/openjourney-cpu) - 
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
@@ -5952,6 +5952,7 @@
 
 ## Rust 
 
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
@@ -7076,7 +7077,7 @@
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -7309,7 +7310,7 @@
 - [zth/vscode-rescript-relay](https://github.com/zth/vscode-rescript-relay) - 
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React style library just happens to work on native, too.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
 - [stitchesjs/stitches-site](https://github.com/stitchesjs/stitches-site) - stitches.dev
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
