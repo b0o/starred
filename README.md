@@ -860,7 +860,6 @@
 - [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 - [jacobdufault/cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, sem
 - [SensorsIot/RoboTank](https://github.com/SensorsIot/RoboTank) - 
-- [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [PaulStoffregen/Teensyduino_Examples](https://github.com/PaulStoffregen/Teensyduino_Examples) - Examples for Teensyduino, installed into Arduino's File &gt; Examples &gt; Teensy menu
 - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
@@ -883,7 +882,7 @@
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [nonpop/xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [grwlf/xkb-switch](https://github.com/grwlf/xkb-switch) - Switch your X keyboard layouts from the command line
-- [etodd/lasercrabs](https://github.com/etodd/lasercrabs) - Abandoned multiplayer shooter project formerly known as DECEIVER
+- [etodd/lasercrabs](https://github.com/etodd/lasercrabs) - Abandoned hybrid singleplayer/multiplayer shooter project formerly known as DECEIVER
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [discord/lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go
@@ -898,7 +897,7 @@
 - [thestinger/termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
 - [steemit/steem](https://github.com/steemit/steem) - The blockchain for Smart Media Tokens (SMTs) and decentralized applications.
-- [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
+- [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [a16z/ai](https://github.com/a16z/ai) - Repo for work for AI Survey
@@ -1089,6 +1088,7 @@
 
 ## Dockerfile 
 
+- [rgerganov/shanocast](https://github.com/rgerganov/shanocast) - Google Chromecast Reciever
 - [tmm1/flyapp-mastodon](https://github.com/tmm1/flyapp-mastodon) - mastodon on fly.io
 - [rgrove/pie.gd](https://github.com/rgrove/pie.gd) - Config files, scripts, and documentation for the pie.gd Mastodon instance.
 - [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
@@ -1255,7 +1255,7 @@
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [progrium/go-shell](https://github.com/progrium/go-shell) - 
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for wlroots-based Wayland compositors
 - [fly-apps/go-example](https://github.com/fly-apps/go-example) - A minimal Go application for tutorials
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
@@ -1388,7 +1388,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [solana-labs/token-list](https://github.com/solana-labs/token-list) - The community maintained Solana token registry
-- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
@@ -1414,7 +1414,7 @@
 - [kesselborn/go-getopt](https://github.com/kesselborn/go-getopt) - getopt implementation in go (flags-alternative closer to gnu getopt)
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
-- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters
+- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by Milvus and Beego.
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - ARM/RISC-V bare metal Go
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
@@ -1784,7 +1784,6 @@
 - [ahmetb/rundev](https://github.com/ahmetb/rundev) - (alpha, contact me if you’re using)
 - [chop-dbhi/diff-table](https://github.com/chop-dbhi/diff-table) - 
 - [threatgrid/jq-go](https://github.com/threatgrid/jq-go) - A Go language binding for the JQ JSON filter library
-- [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 - [itchyny/fillin](https://github.com/itchyny/fillin) - fill-in your command and execute
 - [itchyny/gojo](https://github.com/itchyny/gojo) - Yet another Go implementation of jo
 - [skanehira/gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects
@@ -2439,7 +2438,7 @@
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [tc39/proposal-relative-indexing-method](https://github.com/tc39/proposal-relative-indexing-method) - A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kevinlanning/DataSciSpring2021](https://github.com/kevinlanning/DataSciSpring2021) - 
 - [securityespresso/blog](https://github.com/securityespresso/blog) - Security Espresso Official Blog
 - [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
@@ -2636,6 +2635,7 @@
 
 ## JavaScript 
 
+- [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [WebSheets/websheets-engine](https://github.com/WebSheets/websheets-engine) - A library for parsing and executing Excel-style formulas
 - [WebSheets/websheets-core](https://github.com/WebSheets/websheets-core) - Non-presentation components of websheets
 - [WebSheets/websheets](https://github.com/WebSheets/websheets) - A ready-to-use component for spreadsheets in the browser
@@ -2697,7 +2697,7 @@
 - [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [LAION-AI/laion.ai](https://github.com/LAION-AI/laion.ai) - 
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
-- [annotorious/annotorious](https://github.com/annotorious/annotorious) - A JavaScript library for image annotation
+- [annotorious/annotorious](https://github.com/annotorious/annotorious) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [WebReflection/talk2gpt](https://github.com/WebReflection/talk2gpt) - 
 - [dkaoster/scrolly-video](https://github.com/dkaoster/scrolly-video) - Components for scroll-based (or other externally controlled) playback.
@@ -3135,7 +3135,7 @@
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [mikaelbr/gulp-notify](https://github.com/mikaelbr/gulp-notify) - gulp plugin to send messages based on Vinyl Files or Errors to Mac OS X, Linux or Windows using the node-notifier module. Fallbacks to Growl or simply logging
 - [Jezzamonn/es6-base](https://github.com/Jezzamonn/es6-base) - Base project for creating interactive things in modern JavaScript
-- [nicbou/timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
+- [nicbou/timeline-old](https://github.com/nicbou/timeline-old) - Collects personal data from different sources, displays it as a daily diary.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [adobe/node-fetch-retry](https://github.com/adobe/node-fetch-retry) - Node Module for performing retries using node-fetch
 - [watson/http-echo-server](https://github.com/watson/http-echo-server) - A simple HTTP echo server
@@ -3597,7 +3597,7 @@
 - [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow_right: prettier :arrow_right: eslint --fix :arrow_right: Formatted Code :sparkles:
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [atom/teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [atom/teletype-client](https://github.com/atom/teletype-client) - Editor-agnostic library managing client interaction for peer-to-peer collaborative editing in Teletype for Atom
@@ -3722,7 +3722,7 @@
 
 - [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [google/accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
 - [ScottPeterJohnson/gpt2-discord](https://github.com/ScottPeterJohnson/gpt2-discord) - Discord bot that generates messages using GPT-2
@@ -3737,6 +3737,9 @@
 
 ## Lua 
 
+- [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) - A companion plugin for null-ls, adding support for CSpell diagnostics and code actions.
+- [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) - Scroll past the end of file just like scrolloff option
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A neovim autopair plugin designed to have all the features that an autopair plugin needs.
 - [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for neovim
@@ -4196,6 +4199,7 @@
 - [lucc/nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [saks/lua-resty-repl](https://github.com/saks/lua-resty-repl) - Interactive console (REPL) for Openresty and luajit code
 - [bram-dingelstad/neh](https://github.com/bram-dingelstad/neh) - The super small and simple nginx microservice/api maker!
 - [mnemnion/orb](https://github.com/mnemnion/orb) - A metalanguage for magic spells
@@ -4425,7 +4429,7 @@
 - [realworldocaml/mdx](https://github.com/realworldocaml/mdx) - Execute code blocks inside your documentation
 - [ocsigen/ocsigen-start](https://github.com/ocsigen/ocsigen-start) - Ocsigen-start: an Eliom application skeleton ready to use to build your own application with users, (pre)registration, notifications, etc.
 - [ocsigen/lwt_ssl](https://github.com/ocsigen/lwt_ssl) - OpenSSL binding with concurrent I/O
-- [ocsigen/ocsigen-toolkit](https://github.com/ocsigen/ocsigen-toolkit) - User interface widgets for Ocsigen applications
+- [ocsigen/ocsigen-toolkit](https://github.com/ocsigen/ocsigen-toolkit) - User interface widgets for OCaml applications
 - [ocsigen/eliom](https://github.com/ocsigen/eliom) - Multi-tier framework for programming web and mobile applications in OCaml.
 - [janestreet/ppx_inline_test](https://github.com/janestreet/ppx_inline_test) - Syntax extension for writing in-line tests in ocaml code
 - [ocsigen/tyxml](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents
@@ -4640,7 +4644,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/BayBreezy-starred-this-repo](https://github.com/Explosion-Scratch/BayBreezy-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/Ssmidge-starred-this-repo](https://github.com/Explosion-Scratch/Ssmidge-starred-this-repo) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -4987,6 +4991,8 @@
 
 ## Python 
 
+- [dbpunk-labs/octogen](https://github.com/dbpunk-labs/octogen) - Octogen is an Open-Source Code Interpreter Powered by GPT3.5/4 and Codellama
+- [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [coldtype/coldtype](https://github.com/coldtype/coldtype) - cross-platform display typography in python
 - [coldtype/st2](https://github.com/coldtype/st2) - Advanced typography in Blender
@@ -5007,7 +5013,7 @@
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [opencopilotdev/opencopilot](https://github.com/opencopilotdev/opencopilot) - 🕊️ Build and embed open-source AI Copilots into your product with ease
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [skybrush-io/studio-blender](https://github.com/skybrush-io/studio-blender) - Skybrush Studio for Blender - a Blender addon for designing and validating drone shows
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
@@ -5044,7 +5050,7 @@
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Bring AI inside your database system
+- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [pytest-dev/pytest-order](https://github.com/pytest-dev/pytest-order) - pytest plugin that allows to customize the test execution order
 - [fperez/jupytee](https://github.com/fperez/jupytee) - Experimental playground with Jupyter magics to use OpenAI's GPT-3 models inside Jupyter environments.
 - [lmortimer/gepl](https://github.com/lmortimer/gepl) - Generate, Enhance, Print, Loop - A ChatGPT enhanced Python REPL
@@ -5065,6 +5071,7 @@
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
@@ -5663,6 +5670,7 @@
 - [Shougo/deoppet.nvim](https://github.com/Shougo/deoppet.nvim) - The dark powered snippet plugin for neovim
 - [alphagov/archive-github-events](https://github.com/alphagov/archive-github-events) - 
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
@@ -5953,7 +5961,9 @@
 
 ## Rust 
 
-- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser
+- [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
+- [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
+- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
@@ -6632,7 +6642,7 @@
 - [TheBiggerGuy/docker-pulseaudio-example](https://github.com/TheBiggerGuy/docker-pulseaudio-example) - An example of a PulseAudio app working within a Docker container using the hosts sound system
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [solidsnack/arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.
 - [shellkr/pachist](https://github.com/shellkr/pachist) - A small bash program to show the installed package history in Arch Linux.
@@ -6739,7 +6749,6 @@
 - [deoplete-plugins/deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
-- [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [pigmonkey/hostsctl](https://github.com/pigmonkey/hostsctl) - 🙈 Control your /etc/hosts file easily, block ads, soical networks, etc...
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
@@ -6900,7 +6909,7 @@
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 
@@ -6952,6 +6961,10 @@
 
 ## TypeScript 
 
+- [IntrinsicLabsAI/gbnfgen](https://github.com/IntrinsicLabsAI/gbnfgen) - TypeScript generator for llama.cpp Grammar directly from TypeScript interfaces
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
+- [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
 - [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Use GPT-4 to call functions in sequence.
@@ -6999,7 +7012,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [devfolioco/react-otp-input](https://github.com/devfolioco/react-otp-input) - :heavy_check_mark:  OTP Input Component for React
 - [libsql/kysely-libsql](https://github.com/libsql/kysely-libsql) - Kysely dialect for sqld
-- [bluesky-social/did-method-plc](https://github.com/bluesky-social/did-method-plc) - A cryptographic, strongly-consistent, and recoverable DID method
+- [did-method-plc/did-method-plc](https://github.com/did-method-plc/did-method-plc) - A cryptographic, strongly-consistent, and recoverable DID method
 - [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 - [clerkinc/use-stripe-subscription](https://github.com/clerkinc/use-stripe-subscription) - 
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
@@ -7081,7 +7094,6 @@
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -7203,7 +7215,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Thinkmill/ts-gql](https://github.com/Thinkmill/ts-gql) - Write GraphQL queries with a gql tag in TypeScript -&gt; have generated types
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
-- [ladifire-opensource/stylex](https://github.com/ladifire-opensource/stylex) - Write CSS-in-JS with atomic support. Like Facebook's Stylex!
+- [reacttips-dev/stylex](https://github.com/reacttips-dev/stylex) - Write CSS-in-JS with atomic support. Like Facebook's Stylex!
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
