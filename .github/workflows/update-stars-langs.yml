@@ -1,10 +1,10 @@
-name: update awesome-stars
+name: update awesome-stars by language
 on:
   workflow_dispatch:
   schedule:
   - cron: 30 0 * * *
 jobs:
-  update-stars:
+  update-stars-langs:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
