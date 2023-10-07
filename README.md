@@ -8,7 +8,7 @@
 Browse my starred repos:
 
 - [By Language](https://github.com/b0o/starred/blob/master/by-language.md)
-- [By Topic](https://github.com/b0o/starred/blob/master/by-language.md)
+- [By Topic](https://github.com/b0o/starred/blob/master/by-topic.md)
 
 ## License
 
