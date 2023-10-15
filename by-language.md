@@ -2274,7 +2274,7 @@
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [openwifi-su/sgps-core](https://github.com/openwifi-su/sgps-core) - Software defined GPS server core
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [axw/gocov](https://github.com/axw/gocov) - Coverage testing tool for The Go Programming Language
 - [matm/gocov-html](https://github.com/matm/gocov-html) - Make pretty HTML output from gocov, a coverage testing tool for Go
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
@@ -2759,7 +2759,7 @@
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [souporserious/react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
 - [browserslist/caniuse-lite](https://github.com/browserslist/caniuse-lite) - A smaller version of caniuse-db, with only the essentials!
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [zspecza/common-tags](https://github.com/zspecza/common-tags) - 🔖 Useful template literal tags for dealing with strings in ES2015+
 - [trueadm/t7](https://github.com/trueadm/t7) - Lightweight virtual DOM templating library
@@ -5009,6 +5009,7 @@
 
 ## Python 
 
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [delphiki/AirStatus](https://github.com/delphiki/AirStatus) - Check AirPods battery levels on Linux
