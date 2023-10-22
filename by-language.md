@@ -2783,6 +2783,7 @@
 - [donmccurdy/three-gltf-viewer](https://github.com/donmccurdy/three-gltf-viewer) - Drag-and-drop preview for glTF 2.0 models in WebGL using three.js.
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
 - [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper) - 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
 - [riok/Kreya](https://github.com/riok/Kreya) - Kreya is a GUI client for gRPC and REST APIs with innovative features for environments, authorizations and more.
 - [minimistjs/minimist](https://github.com/minimistjs/minimist) - parse argument options
@@ -5311,7 +5312,6 @@
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [ross/requests-futures](https://github.com/ross/requests-futures) - Asynchronous Python HTTP Requests for Humans using Futures
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
@@ -7009,7 +7009,7 @@
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
 - [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Use GPT-4 to run functions in sequence.
-- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
+- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [davidmdm/myzod](https://github.com/davidmdm/myzod) - 
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [qwell/bsky-exploits](https://github.com/qwell/bsky-exploits) - 
@@ -7220,7 +7220,6 @@
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [honojs/hono-minimal](https://github.com/honojs/hono-minimal) - Minimal project with Hono.
 - [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
-- [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
 - [three-types/three-ts-types](https://github.com/three-types/three-ts-types) - TS type library for the popular webgl library threejs
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
