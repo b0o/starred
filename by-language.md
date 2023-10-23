@@ -4727,7 +4727,6 @@
 - [BlackFan/client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution) - Prototype Pollution and useful Script Gadgets
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [rescript-lang/rescript-project-template](https://github.com/rescript-lang/rescript-project-template) - Clone this repo to start your own project!
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
@@ -5014,6 +5013,8 @@
 
 ## Python 
 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [jamethy/sdl2-cef](https://github.com/jamethy/sdl2-cef) - SDL2 combined with the Chromium Embedded Framework
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -6676,6 +6677,7 @@
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [solidsnack/arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.
 - [shellkr/pachist](https://github.com/shellkr/pachist) - A small bash program to show the installed package history in Arch Linux.
