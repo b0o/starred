@@ -626,6 +626,7 @@
 
 ## C++ 
 
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [FlatIO/node-lame](https://github.com/FlatIO/node-lame) - Node.js native bindings to libmp3lame & libmpg123
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [gotnospirit/cef3-sdl2](https://github.com/gotnospirit/cef3-sdl2) - Cef 3 off-screen rendering example for SDL
@@ -1203,6 +1204,7 @@
 
 ## GLSL 
 
+- [scratchapixel/code](https://github.com/scratchapixel/code) - 
 - [libretro/glsl-shaders](https://github.com/libretro/glsl-shaders) - This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.
 
 ## Go 
@@ -2359,6 +2361,7 @@
 
 ## HTML 
 
+- [evanw/glslx](https://github.com/evanw/glslx) - A GLSL type checker, code formatter, and minifier for WebGL
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
@@ -2400,6 +2403,7 @@
 - [gaspumpgolf/gaspumpgolf.github.io](https://github.com/gaspumpgolf/gaspumpgolf.github.io) - 
 - [chenglou/domgraphs](https://github.com/chenglou/domgraphs) - Access DOM from ReScript to plot graphs on a &lt;canvas&gt; element.
 - [eligrey/RetargetMouseScroll](https://github.com/eligrey/RetargetMouseScroll) - A JavaScript library for retargetting mouse scroll events.
+- [reasonml/reasonml.github.io](https://github.com/reasonml/reasonml.github.io) - Reason's documentation site
 - [neovim/neovim.github.io](https://github.com/neovim/neovim.github.io) - Neovim website
 - [outreachy/website](https://github.com/outreachy/website) - Code for the Outreachy website, based on Python, Django, and Bootstrap.
 - [foobarbecue/surfsonar](https://github.com/foobarbecue/surfsonar) - Putting a sonar depth gauge on a surfboard
@@ -2658,6 +2662,7 @@
 
 ## JavaScript 
 
+- [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [TooTallNate/node-speaker](https://github.com/TooTallNate/node-speaker) - Output PCM audio data to the speakers
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [elnardu/react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
@@ -2952,7 +2957,6 @@
 - [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
 - [darklang/tablecloth](https://github.com/darklang/tablecloth) - A standard library with the same API in F#, Rescript and OCaml
 - [glitchdotcom/friendly-words](https://github.com/glitchdotcom/friendly-words) - The Glitch word list, packaged into an NPM module for easy use.
-- [reasonml/reasonml.github.io](https://github.com/reasonml/reasonml.github.io) - Reason's documentation site
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
 - [abhinaba-ghosh/cypress-react-selector](https://github.com/abhinaba-ghosh/cypress-react-selector) - :zap: cypress plugin to locate react elements by component, props and state
@@ -3763,6 +3767,9 @@
 
 ## Lua 
 
+- [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
+- [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
+- [ribru17/nvim](https://github.com/ribru17/nvim) - My Neovim configuration
 - [neph-iap/easycolor.nvim](https://github.com/neph-iap/easycolor.nvim) - The easiest Neovim color picker in the world.
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
@@ -4628,6 +4635,8 @@
 
 ## Others 
 
+- [scratchapixel/website](https://github.com/scratchapixel/website) - 
+- [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
 - [nihalsid/mesh-gpt](https://github.com/nihalsid/mesh-gpt) - MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -4989,7 +4998,7 @@
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [dhobsd/asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do 
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [captn3m0/jqaas](https://github.com/captn3m0/jqaas) - jq as a service
@@ -5049,6 +5058,7 @@
 
 ## Python 
 
+- [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
@@ -5094,7 +5104,7 @@
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [llmOS/opencopilot](https://github.com/llmOS/opencopilot) - 🕊️ Build and embed open-source AI Copilots into your product with ease
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [skybrush-io/studio-blender](https://github.com/skybrush-io/studio-blender) - Skybrush Studio for Blender - a Blender addon for designing and validating drone shows
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
@@ -5139,7 +5149,7 @@
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
@@ -7054,6 +7064,9 @@
 
 ## TypeScript 
 
+- [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) - 
@@ -7228,7 +7241,6 @@
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [motifland/markprompt](https://github.com/motifland/markprompt) - AI for customer support
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
@@ -8125,7 +8137,7 @@
 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
-- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Minimalist HTTP client for the Web & Desktop
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
@@ -8148,6 +8160,7 @@
 
 ## Zig 
 
+- [nolanderc/glsl_analyzer](https://github.com/nolanderc/glsl_analyzer) - Language server for GLSL (autocomplete, goto-definition, formatter, and more)
 - [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
 - [ifreund/zig-wayland](https://github.com/ifreund/zig-wayland) - Zig wayland scanner and libwayland bindings
 - [jamii/jams](https://github.com/jamii/jams) - 
