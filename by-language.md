@@ -2663,6 +2663,7 @@
 
 ## JavaScript 
 
+- [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [TooTallNate/node-speaker](https://github.com/TooTallNate/node-speaker) - Output PCM audio data to the speakers
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -3768,6 +3769,7 @@
 
 ## Lua 
 
+- [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Start/stop LSP servers upon demand; keeps RAM usage low
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
 - [ribru17/nvim](https://github.com/ribru17/nvim) - My Neovim configuration
@@ -5184,7 +5186,7 @@
 - [cpcloud/protoletariat](https://github.com/cpcloud/protoletariat) - Protocol Buffers for the rest of us
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [zed-industries/community](https://github.com/zed-industries/community) - Zed's official community
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [irmen/Pyro5](https://github.com/irmen/Pyro5) - Pyro 5  - Python remote objects
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
@@ -6491,7 +6493,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 - [meilisearch/demo-finding-crates](https://github.com/meilisearch/demo-finding-crates) - Expose all crates from crates.io with MeiliSearch
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
@@ -6558,7 +6560,7 @@
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [zetzit/zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -7067,6 +7069,7 @@
 
 ## TypeScript 
 
+- [stainless-api/stl-api](https://github.com/stainless-api/stl-api) - Stainless full-stack API Framework
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
