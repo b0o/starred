@@ -763,7 +763,7 @@
 - [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
-- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -1120,7 +1120,7 @@
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
 - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure & unrestricted webviews on any device in a regular webpage. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is secure reverse proxy that empowers web app virtualization via zero trust remote browsing and a secure document gateway. Embeddable, secure, unrestricted, multiplayer iframes on any dev
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -1650,7 +1650,6 @@
 - [sago007/PlatformFolders](https://github.com/sago007/PlatformFolders) - A C++ library to look for special directories like "My Documents" and "%APPDATA%" so that you do not need to write Linux, Windows or Mac OS X specific code
 - [arielm/chronotext-cross](https://github.com/arielm/chronotext-cross) - Cross platform infrastructure for developing 2d and 3d applications with C++ and OpenGL
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [Badhi/nvim-treesitter-cpp-tools](https://github.com/Badhi/nvim-treesitter-cpp-tools) - C++ Helper Snippets Using Treesitter
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -1810,7 +1809,7 @@
 ## cybersecurity 
 
 - [tamton-aquib/ice](https://github.com/tamton-aquib/ice) - A simple ctf tool store.
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure & unrestricted webviews on any device in a regular webpage. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is secure reverse proxy that empowers web app virtualization via zero trust remote browsing and a secure document gateway. Embeddable, secure, unrestricted, multiplayer iframes on any dev
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -2490,7 +2489,7 @@
 - [mxstbr/passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 - [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
@@ -4323,7 +4322,7 @@
 - [riscy/command_line_lint](https://github.com/riscy/command_line_lint) - This script generates a report against your command-line history and suggests workflow improvements.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
-- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [openresty/docker-openresty](https://github.com/openresty/docker-openresty) - Docker tooling for OpenResty
@@ -6339,7 +6338,7 @@
 - [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [planetscale/database-js](https://github.com/planetscale/database-js) - A Fetch API-compatible PlanetScale database driver
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -6799,7 +6798,7 @@
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [joelhooks/course-builder](https://github.com/joelhooks/course-builder) - 🍄 a platform for building Badass Courses
+- [skillrecordings/course-builder](https://github.com/skillrecordings/course-builder) - 🍄 a platform for building Badass Courses
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
@@ -6915,7 +6914,7 @@
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [Mottie/github-reserved-names](https://github.com/Mottie/github-reserved-names) - Get a list, or check if a user or organization name is reserved by GitHub
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [marvelapp/Dashboard](https://github.com/marvelapp/Dashboard) - A dashboard to show what your design team is working on. Written in React.
@@ -6951,7 +6950,7 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [jzeuzs/sodium](https://github.com/jzeuzs/sodium) - Libsodium for Node.js
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -7040,7 +7039,7 @@
 - [Canop/miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [pagermon/pagermon](https://github.com/pagermon/pagermon) - Multimon-ng pager message parser and viewer
-- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
@@ -7241,6 +7240,7 @@
 
 ## others 
 
+- [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [vim-conf-live/NeoVimconf-site-2023](https://github.com/vim-conf-live/NeoVimconf-site-2023) - NeoVimconf 2023 Website
 - [pingdotgg/webhookthing](https://github.com/pingdotgg/webhookthing) - 
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
@@ -8048,6 +8048,7 @@
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [cdhorn/ancestry-tools](https://github.com/cdhorn/ancestry-tools) - Tools for working with Ancestry.com Gedcom files and all associated media items
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
@@ -9079,7 +9080,7 @@
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-- [RealPeha/This-Repo-Has-1754-Stars](https://github.com/RealPeha/This-Repo-Has-1754-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
 - [tckmn/xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
 - [tidwall/pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
@@ -11217,7 +11218,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mmottl/postgresql-ocaml](https://github.com/mmottl/postgresql-ocaml) - OCaml-bindings for the PostgreSQL database
@@ -11381,7 +11382,7 @@
 ## python 
 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
@@ -11789,7 +11790,7 @@
 - [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [joelhooks/course-builder](https://github.com/joelhooks/course-builder) - 🍄 a platform for building Badass Courses
+- [skillrecordings/course-builder](https://github.com/skillrecordings/course-builder) - 🍄 a platform for building Badass Courses
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [deinsoftware/vscode-vitest-snippets](https://github.com/deinsoftware/vscode-vitest-snippets) - VS Code Vitest snippets for JS and TS
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
@@ -12727,7 +12728,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [apex/apex-go](https://github.com/apex/apex-go) - Golang runtime for Apex/Lambda.
-- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
@@ -12906,7 +12907,7 @@
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
@@ -12974,7 +12975,7 @@
 - [libsql/kysely-libsql](https://github.com/libsql/kysely-libsql) - Kysely dialect for sqld
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
@@ -13401,7 +13402,7 @@
 - [saiichihashimoto/sanity-typed](https://github.com/saiichihashimoto/sanity-typed) - Completing sanity's developer experience with typescript (and more)!
 - [JacksonKearl/gjp-4-gpt](https://github.com/JacksonKearl/gjp-4-gpt) - JSON parser for streaming objects live from an LLM's output
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
-- [joelhooks/course-builder](https://github.com/joelhooks/course-builder) - 🍄 a platform for building Badass Courses
+- [skillrecordings/course-builder](https://github.com/skillrecordings/course-builder) - 🍄 a platform for building Badass Courses
 - [geoffreytools/free-types](https://github.com/geoffreytools/free-types) - A type-level library enabling the creation and the manipulation of type constructors which can be detached from their type parameters. Also referred to as higher kinded types.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
@@ -13454,7 +13455,7 @@
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
