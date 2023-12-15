@@ -172,6 +172,7 @@
 
 ## C 
 
+- [virchau13/tree-sitter-astro](https://github.com/virchau13/tree-sitter-astro) - Tree-sitter grammar for the Astro web framework
 - [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [theori-io/nrsc5](https://github.com/theori-io/nrsc5) - NRSC-5 receiver for rtl-sdr
@@ -1191,9 +1192,11 @@
 
 ## Fennel 
 
+- [rktjmp/shenzhen-solitaire.nvim](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire, now in Neovim
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - 🍊 Sweet Fennel integration for Neovim
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
@@ -1210,6 +1213,7 @@
 
 ## Go 
 
+- [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - Simplifying LLM ops in production
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1487,7 +1491,7 @@
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gonetx/httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [SpectralOps/senv](https://github.com/SpectralOps/senv) - Friends don't let friends leak secrets on their terminal window :see_no_evil:
 - [AdguardTeam/gomitmproxy](https://github.com/AdguardTeam/gomitmproxy) - Simple golang mitm proxy implementation
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
@@ -2663,6 +2667,10 @@
 
 ## JavaScript 
 
+- [eslint-community/eslint-plugin-n](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint rules for Node.js
+- [olrtg/emmet-language-server](https://github.com/olrtg/emmet-language-server) - A language server for emmet.io
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [mdx-js/mdx-analyzer](https://github.com/mdx-js/mdx-analyzer) - MDX extension for Visual Studio Code
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [TooTallNate/node-speaker](https://github.com/TooTallNate/node-speaker) - Output PCM audio data to the speakers
@@ -2702,7 +2710,6 @@
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -2939,6 +2946,7 @@
 - [ainalem/framer-motion-menu-overlay](https://github.com/ainalem/framer-motion-menu-overlay) - Framer Motion React menu overlay SVG morphing demo
 - [aaronshaf/react-toggle](https://github.com/aaronshaf/react-toggle) - Elegant, accessible toggle component for React. Also a glorified checkbox.
 - [chatziko/location-guard](https://github.com/chatziko/location-guard) - Hide your geographic location from websites.
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [11ways/janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
@@ -3020,7 +3028,7 @@
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - :cyclone: BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular web
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is secure reverse proxy that empowers web app virtualization via zero trust remote browsing and a secure document gateway. Embeddable, secure, unrestricted, multiplayer iframes on any dev
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [nprapps/elections20-interactive](https://github.com/nprapps/elections20-interactive) - Front-end graphics for the 2020 general election
 - [nprapps/sidechain](https://github.com/nprapps/sidechain) - Modern responsive iframes
@@ -3309,6 +3317,7 @@
 - [WebReflection/assign-properties](https://github.com/WebReflection/assign-properties) - An `Object.assign` like utility that preserve descriptors
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [WebReflection/basic-lru](https://github.com/WebReflection/basic-lru) - A fast and lightweight Map based LRU implementation.
@@ -3406,7 +3415,7 @@
 - [claudiajs/example-projects](https://github.com/claudiajs/example-projects) - Simple example projects that show how to use ClaudiaJs
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [chromium/octane](https://github.com/chromium/octane) - The JavaScript Benchmark Suite for the modern web
 - [sokra/rawact](https://github.com/sokra/rawact) - [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
@@ -3442,7 +3451,6 @@
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
@@ -3700,7 +3708,7 @@
 
 ## Jupyter Notebook 
 
-- [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [veekaybee/what_are_embeddings](https://github.com/veekaybee/what_are_embeddings) - A deep dive into embeddings starting from fundamentals
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
@@ -3731,7 +3739,7 @@
 - [source-separation/tutorial](https://github.com/source-separation/tutorial) - Tutorial covering Open Source tools for Source Separation.
 - [aatishb/covid](https://github.com/aatishb/covid) - Tracking Coronavirus Growth
 - [zhehaowang/coronavirus](https://github.com/zhehaowang/coronavirus) - Attempts at fitting number of coronavirus cases in different geolocations + other outbreak-related scripts such as refreshing Amazon Fresh
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 - [cbassa/satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
@@ -3769,6 +3777,13 @@
 
 ## Lua 
 
+- [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems.
+- [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
+- [olrtg/nvim-emmet](https://github.com/olrtg/nvim-emmet) - 
+- [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) - A statefull task manager focused on integration with build systems.
+- [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration in Neovim
+- [GeekMasher/DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) - Helping Developers build secure code in Neovim
+- [mikejmcguirk/Neovim-Win10-Lazy](https://github.com/mikejmcguirk/Neovim-Win10-Lazy) - Neovim Config using the Lazy Package Manager (Windows 10 Compatible)
 - [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Start/stop LSP servers upon demand; keeps RAM usage low
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
@@ -3804,7 +3819,7 @@
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) - Scroll past the end of file just like scrolloff option
-- [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A neovim autopair plugin designed to have all the features that an autopair plugin needs.
+- [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A treesitter supported autopairing plugin with extensions, and much more
 - [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for neovim
 - [roobert/surround-ui.nvim](https://github.com/roobert/surround-ui.nvim) - 🤗 A Neovim plugin which acts as a helper or training aid for kylechui/nvim-surround
 - [Hajime-Suzuki/vuffers.nvim](https://github.com/Hajime-Suzuki/vuffers.nvim) - a neovim plugin that creates a vertical split window to help you manage and navigate your buffers more efficiently
@@ -4002,7 +4017,7 @@
 - [vigoux/architext.nvim](https://github.com/vigoux/architext.nvim) - :rocket: Structural editing powered by treesitter
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
 - [rmagatti/igs.nvim](https://github.com/rmagatti/igs.nvim) - A minimalist Neovim plugin that enhances the usage of git status inside Neovim.
-- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Extensible UI for Neovim notifications and LSP progress messages.
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) - 
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) - A plugin for setting Neovim LSP with JSON or YAML files
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
@@ -4023,7 +4038,6 @@
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [bfredl/bfredl.github.io](https://github.com/bfredl/bfredl.github.io) - public docs and dotfiles
-- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [jmiskovic/indeck](https://github.com/jmiskovic/indeck) - A live coding environment
 - [ray-x/cmp-treesitter](https://github.com/ray-x/cmp-treesitter) - cmp source for treesitter
@@ -4223,7 +4237,7 @@
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [mfussenegger/nvim-lua-debugger](https://github.com/mfussenegger/nvim-lua-debugger) - a Debug Adapter that allows debugging lua plugins written for Neovim
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [Odie/gitabra](https://github.com/Odie/gitabra) - Magit-lite for neovim
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
@@ -4638,6 +4652,7 @@
 
 ## Others 
 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [dprint/check](https://github.com/dprint/check) - GitHub action for running `dprint check`.
 - [scratchapixel/website](https://github.com/scratchapixel/website) - 
 - [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
@@ -4716,7 +4731,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/phat-pratt-starred-this-repo](https://github.com/Explosion-Scratch/phat-pratt-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/vedantecomm-is-epic](https://github.com/Explosion-Scratch/vedantecomm-is-epic) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -5062,6 +5077,7 @@
 
 ## Python 
 
+- [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
@@ -5167,7 +5183,6 @@
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure sandboxed cloud environments made for AI agents and AI apps
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
@@ -5258,7 +5273,7 @@
 - [rstebbing/workshop](https://github.com/rstebbing/workshop) - 
 - [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 - [shoyo/acoustic-keylogger](https://github.com/shoyo/acoustic-keylogger) - Pipeline of a keylogging attack using just an audio signal and unsupervised learning.
-- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Software - GitHub Home
+- [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [EleutherAI/lm_dataformat](https://github.com/EleutherAI/lm_dataformat) - 
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -6060,6 +6075,9 @@
 
 ## Rust 
 
+- [tamton-aquib/ice](https://github.com/tamton-aquib/ice) - A simple ctf tool store.
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
+- [dprint/dprint-plugin-markdown](https://github.com/dprint/dprint-plugin-markdown) - Markdown code formatting plugin for dprint.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
@@ -6313,7 +6331,7 @@
 - [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) - 🔐 Encrypts all the Serialize.
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [eternalzisyphus/shiho](https://github.com/eternalzisyphus/shiho) - a bittorrent client
+- [kingdavidbro/shiho](https://github.com/kingdavidbro/shiho) - a bittorrent client
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [rail44/neu](https://github.com/rail44/neu) - A vi-like text editor for terminal
@@ -6367,7 +6385,7 @@
 - [warner/wireguard-vanity-address](https://github.com/warner/wireguard-vanity-address) - generate Wireguard keypairs with a given prefix string
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [Nukesor/libwifi](https://github.com/Nukesor/libwifi) - :package: A library for parsing IEEE 802.11 frames
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -6493,7 +6511,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 - [meilisearch/demo-finding-crates](https://github.com/meilisearch/demo-finding-crates) - Expose all crates from crates.io with MeiliSearch
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
@@ -6671,6 +6689,7 @@
 
 ## Shell 
 
+- [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
 - [rose-pine/tmux](https://github.com/rose-pine/tmux) - Soho vibes for tmux
 - [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of machines from a single master image
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
@@ -6759,7 +6778,7 @@
 - [brendangregg/pmc-cloud-tools](https://github.com/brendangregg/pmc-cloud-tools) - PMC (Performance Monitoring Counter) tools for the cloud
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of scripts programs for building bootable disk images of Arch Linux and for installing Arch Linux on an external USB disk or thumb drive.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Toolkit for building bootable disk images of Arch Linux and for installing Arch Linux on USB disk or thumb drive.
 - [mikeswain/cmdfs](https://github.com/mikeswain/cmdfs) - Command File System
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts
 - [stephen304/castblock-legacy](https://github.com/stephen304/castblock-legacy) - Automatically skip integrated ads on youtube playing on chromecast
@@ -7005,7 +7024,7 @@
 
 ## Standard ML 
 
-- [minoki/LunarML](https://github.com/minoki/LunarML) - A Standard ML compiler that produces Lua/JavaScript
+- [minoki/LunarML](https://github.com/minoki/LunarML) - The Standard ML compiler that produces Lua/JavaScript
 
 ## Starlark 
 
@@ -7069,6 +7088,12 @@
 
 ## TypeScript 
 
+- [pingdotgg/webhookthing](https://github.com/pingdotgg/webhookthing) - 
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
+- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
+- [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template) - Nextra docs template
+- [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
 - [stainless-api/stl-api](https://github.com/stainless-api/stl-api) - Stainless full-stack API Framework
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
@@ -7087,7 +7112,7 @@
 - [ardov/huetone](https://github.com/ardov/huetone) - A tool to create accessible color systems
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
-- [joelhooks/course-builder](https://github.com/joelhooks/course-builder) - 🍄 a platform for building Badass Courses
+- [skillrecordings/course-builder](https://github.com/skillrecordings/course-builder) - 🍄 a platform for building Badass Courses
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [lubieowoce/tangle](https://github.com/lubieowoce/tangle) - A very messy React Server Components implementation.
@@ -7204,6 +7229,7 @@
 - [romanzy313/trpc-uwebsockets](https://github.com/romanzy313/trpc-uwebsockets) - tRPC adapter for uWebSockets.js server
 - [enisdenjo/graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [bun-community/create-templates](https://github.com/bun-community/create-templates) - 
 - [sachinraja/trpc-bun](https://github.com/sachinraja/trpc-bun) - tRPC + Bun
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
@@ -7229,7 +7255,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [jdiaz5513/capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
@@ -7243,6 +7269,7 @@
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -7472,10 +7499,9 @@
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [zth/vscode-rescript-relay](https://github.com/zth/vscode-rescript-relay) - 
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Cross platform React style library and UI kit made faster with an optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
 - [stitchesjs/stitches-site](https://github.com/stitchesjs/stitches-site) - stitches.dev
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
@@ -7665,7 +7691,6 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
@@ -7704,7 +7729,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
+- [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [naveedgol/music-web-player](https://github.com/naveedgol/music-web-player) - Web player for Apple Music
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
@@ -7726,6 +7751,7 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [reduxjs/react-redux-benchmarks](https://github.com/reduxjs/react-redux-benchmarks) - Performance benchmark harness for React-Redux
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [hanford/trends](https://github.com/hanford/trends) - ultra high performance github trending application
 - [segmentio/ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
@@ -8142,6 +8168,7 @@
 
 ## Vue 
 
+- [vim-conf-live/NeoVimconf-site-2023](https://github.com/vim-conf-live/NeoVimconf-site-2023) - NeoVimconf 2023 Website
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Minimalist HTTP client for the Web & Desktop
