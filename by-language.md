@@ -950,7 +950,6 @@
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [code-hike/not-stripe](https://github.com/code-hike/not-stripe) - Building a Stripe Docs clone with Code Hike
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
-- [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
 - [markfullmer/grammark](https://github.com/markfullmer/grammark) - Open Source Grammar checker.
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
@@ -1123,7 +1122,7 @@
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [lawik/mjpeg](https://github.com/lawik/mjpeg) - A simple example of how you can do MJPEG in Elixir
 - [bontaq/textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
-- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [veelenga/dress](https://github.com/veelenga/dress) - :dress: Dress up your stdout
 - [djm/table_rex](https://github.com/djm/table_rex) - An Elixir app which generates text-based tables for display
@@ -2177,7 +2176,7 @@
 - [jjinux/gotetris](https://github.com/jjinux/gotetris) - This is a console-based version of Tetris written in Go
 - [JulienBreux/pody](https://github.com/JulienBreux/pody) - 👾 Pody — CLI app to manage your Pods in your Kubernetes cluster. (DEPRECATED)
 - [esimov/diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
-- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive CLI command line client for testing websocket servers
+- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [nanohard/gotime](https://github.com/nanohard/gotime) - CUI project/task/time tracker written in golang
 - [MichaelThessel/gomainr](https://github.com/MichaelThessel/gomainr) - Terminal cli app that checks the availability of domains for different configurations of keywords.
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
@@ -2667,6 +2666,7 @@
 
 ## JavaScript 
 
+- [nmn/tw-to-stylex](https://github.com/nmn/tw-to-stylex) - A simpler code translator to convert code using Tailwind to code using StyleX
 - [eslint-community/eslint-plugin-n](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint rules for Node.js
 - [olrtg/emmet-language-server](https://github.com/olrtg/emmet-language-server) - A language server for emmet.io
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -3334,7 +3334,7 @@
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [oduwsdl/Reconstructive](https://github.com/oduwsdl/Reconstructive) - A ServiceWorker for client-side reconstruction of composite mementos
 - [dtube/dtube](https://github.com/dtube/dtube) - :tv: d.tube app. A full-featured video sharing website, decentralized.
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [mozilla/libdweb](https://github.com/mozilla/libdweb) - Extension containing an experimental libdweb APIs
 - [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
@@ -3777,6 +3777,7 @@
 
 ## Lua 
 
+- [someone-stole-my-name/yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) - Get, set and autodetect YAML schemas in your buffers.
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems.
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [olrtg/nvim-emmet](https://github.com/olrtg/nvim-emmet) - 
@@ -4001,7 +4002,7 @@
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) - Better digraphs plugin based on idea from Damian Conway
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme, for Neovim. Fully customisable, with Treesitter, LSP semantic token support and a light variant
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme, for Neovim. Cacheable, fully customisable, Treesitter + LSP semantic token support. Comes with variants
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
@@ -4270,7 +4271,7 @@
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [norcalli/snippets.nvim](https://github.com/norcalli/snippets.nvim) - 
 - [lucc/nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
-- [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
+- [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game -  A lightweight and well-maintained base for modding [https://github.com/minetest/minetest/]
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [saks/lua-resty-repl](https://github.com/saks/lua-resty-repl) - Interactive console (REPL) for Openresty and luajit code
@@ -4316,6 +4317,7 @@
 
 ## Makefile 
 
+- [rei-vilo/emCode](https://github.com/rei-vilo/emCode) - Embedded computing with make
 - [pmndrs/assets](https://github.com/pmndrs/assets) - 📦 Importable base64 encoded CC0 assets
 - [awalterschulze/proofs-written-by-ai](https://github.com/awalterschulze/proofs-written-by-ai) - Proofs written by AI
 - [k0nserv/kitty-icon](https://github.com/k0nserv/kitty-icon) - An alternative app icon for the Kitty terminal emulator
@@ -5106,7 +5108,6 @@
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [dbpunk-labs/octogen](https://github.com/dbpunk-labs/octogen) - Octogen is an Open-Source Code Interpreter Agent Framework
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [coldtype/coldtype](https://github.com/coldtype/coldtype) - cross-platform display typography in python
 - [coldtype/st2](https://github.com/coldtype/st2) - Advanced typography in Blender
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
@@ -5283,7 +5284,7 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [open-journey/openjourney-cpu](https://github.com/open-journey/openjourney-cpu) - 
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
 - [bigscience-workshop/t-zero](https://github.com/bigscience-workshop/t-zero) - Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
@@ -5368,6 +5369,7 @@
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
+- [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
 - [solderparty/flexypin](https://github.com/solderparty/flexypin) - 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
@@ -6075,6 +6077,7 @@
 
 ## Rust 
 
+- [floneum/floneum](https://github.com/floneum/floneum) - A graph editor for local AI workflows
 - [tamton-aquib/ice](https://github.com/tamton-aquib/ice) - A simple ctf tool store.
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
 - [dprint/dprint-plugin-markdown](https://github.com/dprint/dprint-plugin-markdown) - Markdown code formatting plugin for dprint.
@@ -6691,6 +6694,7 @@
 
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
 - [rose-pine/tmux](https://github.com/rose-pine/tmux) - Soho vibes for tmux
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of machines from a single master image
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
@@ -7088,6 +7092,7 @@
 
 ## TypeScript 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [pingdotgg/webhookthing](https://github.com/pingdotgg/webhookthing) - 
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
@@ -7112,7 +7117,7 @@
 - [ardov/huetone](https://github.com/ardov/huetone) - A tool to create accessible color systems
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
-- [skillrecordings/course-builder](https://github.com/skillrecordings/course-builder) - 🍄 a platform for building Badass Courses
+- [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 a platform for building Badass Courses
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [lubieowoce/tangle](https://github.com/lubieowoce/tangle) - A very messy React Server Components implementation.
@@ -7163,7 +7168,7 @@
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [breeko/j-dev](https://github.com/breeko/j-dev) - 
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [zth/pgtyped-rescript](https://github.com/zth/pgtyped-rescript) - pgTyped ReScript - Typesafe SQL in ReScript
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
@@ -7255,7 +7260,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [jdiaz5513/capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
@@ -7439,7 +7444,7 @@
 - [erosson/freecbt](https://github.com/erosson/freecbt) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [pmndrs/react-three-gpu-pathtracer](https://github.com/pmndrs/react-three-gpu-pathtracer) - ⚡️ A React abstraction for the popular three-gpu-pathtracer
