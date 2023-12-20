@@ -12947,7 +12947,7 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
+- [sqls-server/sqls](https://github.com/sqls-server/sqls) - SQL language server written in Go.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [abe-winter/automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
