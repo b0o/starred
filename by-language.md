@@ -4353,7 +4353,7 @@
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [ory/status](https://github.com/ory/status) - DEPRECATED
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -8213,7 +8213,7 @@
 - [vim-conf-live/NeoVimconf-site-2023](https://github.com/vim-conf-live/NeoVimconf-site-2023) - NeoVimconf 2023 Website
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
-- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Minimalist HTTP client for the Web & Desktop
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [dandavison/trogon](https://github.com/dandavison/trogon) - A bird vocalization ID quiz for the species present at any location in the world
