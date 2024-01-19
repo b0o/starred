@@ -157,6 +157,7 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 
 ## Awk 
 
@@ -782,7 +783,7 @@
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [chellmuth/gpu-motunui](https://github.com/chellmuth/gpu-motunui) - GPU-Motunui is a path tracer that renders Disney Animation's Moana Island scene.
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
-- [directvt/vtm](https://github.com/directvt/vtm) - Text mode desktop
+- [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [google/makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This r
 - [arnholm/angelcad](https://github.com/arnholm/angelcad) - script based 3D solid modeller. Moved to https://gitlab.com/arnholm
 - [aetilius/pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
@@ -1315,7 +1316,6 @@
 - [bradfitz/snake](https://github.com/bradfitz/snake) - a #golang Snake game in webassembly running at http://snake.126.49.198.in-addr.arpa/
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [jvns/mess-with-dns-backend](https://github.com/jvns/mess-with-dns-backend) - 
-- [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -2673,6 +2673,7 @@
 
 ## JavaScript 
 
+- [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [nmn/tw-to-stylex](https://github.com/nmn/tw-to-stylex) - A simpler code translator to convert code using Tailwind to code using StyleX
@@ -3716,6 +3717,7 @@
 
 ## Jupyter Notebook 
 
+- [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [veekaybee/what_are_embeddings](https://github.com/veekaybee/what_are_embeddings) - A deep dive into embeddings starting from fundamentals
@@ -4373,6 +4375,7 @@
 
 ## Nix 
 
+- [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix) - Kickstart your Nix environment.
 - [rgerganov/shanocast](https://github.com/rgerganov/shanocast) - Google Chromecast Reciever
 - [telent/nixwrt](https://github.com/telent/nixwrt) - This repo is dormant : NixWRT is being rewritten as Liminix
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
@@ -4782,6 +4785,7 @@
 - [keebio/quefrency-case](https://github.com/keebio/quefrency-case) - 
 - [Pekaso/fortitude60](https://github.com/Pekaso/fortitude60) - 
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
+- [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools) - Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap-projects
@@ -6561,7 +6565,7 @@
 - [Figma-Linux/figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper) - Font Helper for Figma for Linux x64 platform
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - [mirror] CommonMark + GFM compatible Markdown parser and renderer
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
@@ -7117,6 +7121,11 @@
 
 ## TypeScript 
 
+- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js (App Router) project.
+- [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
+- [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
+- [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
+- [beenotung/best-effort-json-parser](https://github.com/beenotung/best-effort-json-parser) - Parse incomplete json text in best-effort manner
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [mobily/ts-belt](https://github.com/mobily/ts-belt) - 🔧 Fast, modern, and practical utility library for FP in TypeScript.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
@@ -7528,7 +7537,7 @@
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [ocaml/setup-ocaml](https://github.com/ocaml/setup-ocaml) - GitHub Action for the OCaml programming language
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [wildspecial/obsidian-mirror](https://github.com/wildspecial/obsidian-mirror) - 
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - In-browser knowledge base on top of local plain-text files
@@ -7788,7 +7797,7 @@
 - [projectstorm/react-canvas](https://github.com/projectstorm/react-canvas) - A pluggable layout and graphics system aimed at powering desktop publishing as well as storm-react-diagrams
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [reduxjs/react-redux-benchmarks](https://github.com/reduxjs/react-redux-benchmarks) - Performance benchmark harness for React-Redux
@@ -7811,7 +7820,6 @@
 - [octavezero/nighthawk](https://github.com/octavezero/nighthawk) - A stealthy, simple, unobtrusive music player that stays out of your way
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
-- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
