@@ -2697,6 +2697,7 @@
 
 ## JavaScript 
 
+- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
@@ -6215,7 +6216,7 @@
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
-- [harlanc/xiu](https://github.com/harlanc/xiu) - A simple, high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
+- [harlanc/xiu](https://github.com/harlanc/xiu) - A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [stefanpie/sa-placer](https://github.com/stefanpie/sa-placer) - 
 - [timvisee/pixelpwnr-cast](https://github.com/timvisee/pixelpwnr-cast) - :tv: Insanely fast pixelflut client to cast your screen written in Rust.
