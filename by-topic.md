@@ -889,7 +889,7 @@
 
 ## bash 
 
-- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -4048,7 +4048,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
-- [rescriptbr/rescript-urql](https://github.com/rescriptbr/rescript-urql) - ReScript bindings for Formidable's Universal React Query Library, urql.
+- [teamwalnut/rescript-urql](https://github.com/teamwalnut/rescript-urql) - ReScript bindings for Formidable's Universal React Query Library, urql.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [teamwalnut/graphql-ppx](https://github.com/teamwalnut/graphql-ppx) - GraphQL language primitives for ReScript/ReasonML written in ReasonML
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
@@ -5886,6 +5886,7 @@
 
 ## lua 
 
+- [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim
 - [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
 - [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) - Jump to the last edit in Neovim
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) - A screen keys plugin for neovim.
@@ -6614,6 +6615,7 @@
 
 ## neovim 
 
+- [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
 - [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) - Jump to the last edit in Neovim
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) - A screen keys plugin for neovim.
@@ -7519,6 +7521,7 @@
 
 ## others 
 
+- [vpctorr/esbuild-plugin-eval](https://github.com/vpctorr/esbuild-plugin-eval) - An esbuild plugin that optimizes runtime execution and bundle size by pre-evaluating some modules before they are imported.
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) - View all applied tailwindcss values on an element
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) - A file manager for neovim
 - [openai/grok](https://github.com/openai/grok) - 
@@ -10583,7 +10586,7 @@
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [nerdgeneration/www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [jondot/goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
@@ -11641,7 +11644,7 @@
 
 ## powershell 
 
-- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -11753,6 +11756,7 @@
 
 ## python 
 
+- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
