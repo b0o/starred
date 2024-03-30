@@ -570,7 +570,7 @@
 ## artificial-intelligence 
 
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - An open-source framework for building, deploying and optimizing (Retrieval-Augmented Generation) RAG systems.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG pipelines.
 - [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -1701,6 +1701,7 @@
 
 ## config 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -1924,6 +1925,7 @@
 
 ## data 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [grai-io/grai-core](https://github.com/grai-io/grai-core) - 
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
@@ -2116,7 +2118,7 @@
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - An open-source framework for building, deploying and optimizing (Retrieval-Augmented Generation) RAG systems.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG pipelines.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -4162,7 +4164,6 @@
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -5348,6 +5349,7 @@
 
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [kaelzhang/node-comment-json](https://github.com/kaelzhang/node-comment-json) - Parse and stringify JSON with comments. It will retain comments even when after saved!
 - [JacksonKearl/gjp-4-gpt](https://github.com/JacksonKearl/gjp-4-gpt) - JSON parser for streaming objects live from an LLM's output
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
@@ -5525,6 +5527,7 @@
 
 ## language 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -5659,6 +5662,7 @@
 
 ## linux 
 
+- [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -5866,7 +5870,7 @@
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [p2rkw/xf86-input-mtrack](https://github.com/p2rkw/xf86-input-mtrack) - Xorg Multitouch Trackpad Driver
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
@@ -6129,7 +6133,7 @@
 - [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## mac 
@@ -6151,7 +6155,7 @@
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - An open-source framework for building, deploying and optimizing (Retrieval-Augmented Generation) RAG systems.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG pipelines.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
@@ -6375,7 +6379,7 @@
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) - [mirror] CommonMark + GFM compatible Markdown parser and renderer
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
@@ -7665,7 +7669,7 @@
 - [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
 - [nolanderc/glsl_analyzer](https://github.com/nolanderc/glsl_analyzer) - Language server for GLSL (autocomplete, goto-definition, formatter, and more)
-- [ribru17/.dotfiles](https://github.com/ribru17/.dotfiles) - My dotfiles for Arch Linux
+- [ribru17/.dotfiles](https://github.com/ribru17/.dotfiles) - My dotfiles for NixOS
 - [evanw/glslx](https://github.com/evanw/glslx) - A GLSL type checker, code formatter, and minifier for WebGL
 - [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
@@ -12877,7 +12881,7 @@
 - [Figma-Linux/figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper) - Font Helper for Figma for Linux x64 platform
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) - [mirror] CommonMark + GFM compatible Markdown parser and renderer
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
@@ -14675,6 +14679,7 @@
 
 ## xml 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [Sytten/PrettyXML](https://github.com/Sytten/PrettyXML) - Powerful XML viewer for Firefox
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
