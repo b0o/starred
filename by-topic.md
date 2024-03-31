@@ -4903,6 +4903,7 @@
 
 ## javascript 
 
+- [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
@@ -5608,7 +5609,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [alyssaxuu/carden](https://github.com/alyssaxuu/carden) - Flashcards with spaced repetition and gamification 🌱
-- [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
+- [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - A guide to Rust's basics distilled for programmers
 - [learn-crypto-trading/learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) - valuable sources for TA, FA, Algorithmic \ Quant Trading
 - [richardanaya/tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - 100% free and interactive Python course for beginners
@@ -7529,6 +7530,8 @@
 
 ## others 
 
+- [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) - A scrollable `watch` alternative for Neovim.
+- [pop-os/cosmic-term](https://github.com/pop-os/cosmic-term) - WIP COSMIC terminal emulator
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [mattismegevand/invertornot](https://github.com/mattismegevand/invertornot) - API to determine if an image should be inverted for optimal dark-mode rendering.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -12789,7 +12792,7 @@
 - [timvisee/advent-of-code-2020](https://github.com/timvisee/advent-of-code-2020) - :christmas_tree: My Advent of Code solutions in Rust. http://adventofcode.com/2020
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
-- [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - ❤️ I started learning Rust, if you wanna join me, welcome!
+- [inancgumus/learnrust](https://github.com/inancgumus/learnrust) - A guide to Rust's basics distilled for programmers
 - [timothyandrew/gh-stack](https://github.com/timothyandrew/gh-stack) - Manage PR stacks/chains on Github
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
@@ -13865,6 +13868,7 @@
 
 ## typescript 
 
+- [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
