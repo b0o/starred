@@ -111,6 +111,7 @@
 - [gulp](#gulp)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -304,6 +305,7 @@
 
 ## ai 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
@@ -483,6 +485,7 @@
 
 ## api 
 
+- [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
@@ -570,7 +573,7 @@
 ## artificial-intelligence 
 
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG pipelines.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for fast development and deployment of production-ready RAG pipelines.
 - [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -1270,6 +1273,7 @@
 
 ## cli 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1550,7 +1554,7 @@
 - [veelenga/dress](https://github.com/veelenga/dress) - :dress: Dress up your stdout
 - [djm/table_rex](https://github.com/djm/table_rex) - An Elixir app which generates text-based tables for display
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [nordtheme/termite](https://github.com/nordtheme/termite) - An arctic, north-bluish clean and elegant Termite color theme.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -1563,7 +1567,7 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [dainiusjocas/lucene-grep](https://github.com/dainiusjocas/lucene-grep) - Grep-like utility based on Lucene Monitor compiled with GraalVM native-image
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
@@ -2042,7 +2046,7 @@
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [planetscale/database-js](https://github.com/planetscale/database-js) - A Fetch API-compatible PlanetScale database driver
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -2119,7 +2123,7 @@
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG pipelines.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for fast development and deployment of production-ready RAG pipelines.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -2211,7 +2215,7 @@
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [vuetailwind/components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
@@ -2446,6 +2450,8 @@
 
 ## electron 
 
+- [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
+- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
@@ -2809,6 +2815,7 @@
 
 ## game 
 
+- [jim-fx/sudoku.nvim](https://github.com/jim-fx/sudoku.nvim) - 
 - [jamethy/sdl2-cef](https://github.com/jamethy/sdl2-cef) - SDL2 combined with the Chromium Embedded Framework
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -3555,6 +3562,7 @@
 
 ## golang 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -4114,8 +4122,14 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 
+## hacking-tool 
+
+- [Subn0x/awesome-bbht](https://github.com/Subn0x/awesome-bbht) - A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain.
+- [hackerschoice/THC-Archive](https://github.com/hackerschoice/THC-Archive) - All releases of the security research group (a.k.a. hackers) The Hacker's Choice
+
 ## hacktoberfest 
 
+- [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) - A screen keys plugin for neovim.
 - [timvisee/pixelpwnr-cast](https://github.com/timvisee/pixelpwnr-cast) - :tv: Insanely fast pixelflut client to cast your screen written in Rust.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -4528,7 +4542,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -5022,7 +5036,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [catalinmiron/react-typical](https://github.com/catalinmiron/react-typical) - React typing animation in ~400 bytes 🐡 of JavaScript.
-- [mozilla/srihash.org](https://github.com/mozilla/srihash.org) - SRI Hash Generator
+- [mozilla/srihash.org](https://github.com/mozilla/srihash.org) - INACTIVE - SRI Hash Generator
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
@@ -5892,6 +5906,8 @@
 
 ## lua 
 
+- [AstroNvim/astrolsp](https://github.com/AstroNvim/astrolsp) - LSP Configuration Engine built for AstroNvim
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim
@@ -6158,7 +6174,7 @@
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG pipelines.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for fast development and deployment of production-ready RAG pipelines.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
@@ -6625,6 +6641,9 @@
 
 ## neovim 
 
+- [jim-fx/sudoku.nvim](https://github.com/jim-fx/sudoku.nvim) - 
+- [AstroNvim/astrolsp](https://github.com/AstroNvim/astrolsp) - LSP Configuration Engine built for AstroNvim
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 - [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) - A scrollable `watch` alternative for Neovim.
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
@@ -6679,6 +6698,7 @@
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI]
 - [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
 - [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) - A companion plugin for null-ls/none-ls, adding support for CSpell diagnostics and code actions.
+- [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A treesitter supported autopairing plugin with extensions, and much more
 - [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for neovim
@@ -7536,6 +7556,16 @@
 
 ## others 
 
+- [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs) - Hatch plugin for versioning with your preferred VCS
+- [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
+- [edgenai/llama_cpp-rs](https://github.com/edgenai/llama_cpp-rs) - High-level, optionally asynchronous Rust bindings to llama.cpp
+- [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
+- [WickyNilliams/cally](https://github.com/WickyNilliams/cally) - Small, feature-rich calendar components
+- [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
+- [shadcn/example-ui-themes](https://github.com/shadcn/example-ui-themes) - 
+- [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+- [DekuLiuTesla/citygs](https://github.com/DekuLiuTesla/citygs) - 
+- [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - next-gen desktop widgets python framework with GTK+
 - [proposal-signals/proposal-signals](https://github.com/proposal-signals/proposal-signals) - A proposal to add signals to JavaScript.
 - [pop-os/cosmic-term](https://github.com/pop-os/cosmic-term) - WIP COSMIC terminal emulator
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
@@ -7555,7 +7585,7 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
-- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
+- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Copilot for devs to automate automation
 - [AudDMusic/RedditBot](https://github.com/AudDMusic/RedditBot) - Music recognition bot for Reddit powered by audd.io
 - [ProfJski/FloatCompMandelbrot](https://github.com/ProfJski/FloatCompMandelbrot) - What impact does floating point precision have on Mandelbrot set calculations?
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
@@ -7660,7 +7690,7 @@
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Show beautiful keystrokes  & generate chat bubble widgets while typing on Linux
 - [olrtg/nvim-emmet](https://github.com/olrtg/nvim-emmet) - 
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
+- [supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp) - A Language Server for Postgres
 - [GeekMasher/DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) - Helping Developers build secure code in Neovim
 - [mdx-js/mdx-analyzer](https://github.com/mdx-js/mdx-analyzer) - MDX extension for Visual Studio Code
 - [dprint/dprint-plugin-markdown](https://github.com/dprint/dprint-plugin-markdown) - Markdown code formatting plugin for dprint.
@@ -7742,7 +7772,6 @@
 - [delphiki/AirStatus](https://github.com/delphiki/AirStatus) - Check AirPods battery levels on Linux
 - [leafo/magick](https://github.com/leafo/magick) - Lua bindings to ImageMagick for LuaJIT using FFI
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
-- [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet
 - [IntrinsicLabsAI/gbnfgen](https://github.com/IntrinsicLabsAI/gbnfgen) - TypeScript generator for llama.cpp Grammar directly from TypeScript interfaces
@@ -9811,7 +9840,7 @@
 - [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [alrs/surfsticker](https://github.com/alrs/surfsticker) - Manage sticky suckless surf windows.
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a free 1Password Teams membership for your open source project
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
 - [aetilius/pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
 - [carlogit/phash](https://github.com/carlogit/phash) - A simple Go Library to calculate a phash string for a JPEG image.
@@ -11481,6 +11510,7 @@
 
 ## package-manager 
 
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -12213,6 +12243,7 @@
 
 ## react 
 
+- [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 - [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -12255,7 +12286,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
 - [dsvgit/slatesbox](https://github.com/dsvgit/slatesbox) - Slate editor plugins system. Drag and drop, folding implementation.
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
@@ -13324,7 +13355,7 @@
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [nordtheme/termite](https://github.com/nordtheme/termite) - An arctic, north-bluish clean and elegant Termite color theme.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -13769,7 +13800,7 @@
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [nordtheme/termite](https://github.com/nordtheme/termite) - An arctic, north-bluish clean and elegant Termite color theme.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
