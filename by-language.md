@@ -1051,7 +1051,7 @@
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [jpmonettas/clograms](https://github.com/jpmonettas/clograms) - Clojure[Script] source code diagrams
 - [tshort/dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
-- [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable database. Developed by @juxt
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable database for application development and time-travel data compliance, with SQL and XTQL. Developed by @juxt
 - [clojure/spec.alpha](https://github.com/clojure/spec.alpha) - Clojure library to describe the structure of data and functions
 - [farrellm/scad-clj](https://github.com/farrellm/scad-clj) - OpenSCAD DSL in Clojure
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -3832,6 +3832,8 @@
 
 ## Lua 
 
+- [altermo/nwm](https://github.com/altermo/nwm) - A graphical display window manager in neovim
+- [bjornbytes/RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua
 - [jim-fx/sudoku.nvim](https://github.com/jim-fx/sudoku.nvim) - 
 - [AstroNvim/astrolsp](https://github.com/AstroNvim/astrolsp) - LSP Configuration Engine built for AstroNvim
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
@@ -5186,6 +5188,7 @@
 
 ## Python 
 
+- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs) - Hatch plugin for versioning with your preferred VCS
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - next-gen desktop widgets python framework with GTK+
@@ -7278,6 +7281,7 @@
 
 ## TypeScript 
 
+- [tomblind/local-lua-debugger-vscode](https://github.com/tomblind/local-lua-debugger-vscode) - Local Lua Debugger for VSCode
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
 - [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
