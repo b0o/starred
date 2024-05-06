@@ -318,7 +318,7 @@
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & offline AI personal knowledge management app.
 - [fal-ai/fal-js](https://github.com/fal-ai/fal-js) - The JavaScript client and utilities to fal-serverless with built-in TypeScript definitions
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Add memory, knowledge and tools to LLMs
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
@@ -1131,7 +1131,7 @@
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [Blezzing/blezz](https://github.com/Blezzing/blezz) - Keystroke Launcher
@@ -6413,7 +6413,7 @@
 ## markdown 
 
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & offline AI personal knowledge management app.
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Automatic list continuation and formatting for neovim, powered by lua
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -7467,6 +7467,7 @@
 
 ## npm 
 
+- [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) - ✍️ All the npm/yarn/pnpm commands I don't want to type
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
 - [wooorm/npm-high-impact](https://github.com/wooorm/npm-high-impact) - The high-impact (popular) packages of npm
@@ -7629,6 +7630,7 @@
 
 ## others 
 
+- [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin (currently unmaintained, but with plans for a ground-up rewrite)
 - [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 - [stevearc/profile.nvim](https://github.com/stevearc/profile.nvim) - lua profiler for nvim
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
@@ -8414,7 +8416,7 @@
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
 - [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
 - [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
-- [amoutonbrady/esbuild-plugin-solid](https://github.com/amoutonbrady/esbuild-plugin-solid) - 
+- [amoutonbrady/esbuild-plugin-solid](https://github.com/amoutonbrady/esbuild-plugin-solid) - The `esbuild-plugin-solid` is a plugin for ESBuild that provides integration with SolidJS. It allows you to use ESBuild to bundle Solid applications, handling the specific requirements of Solid during
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [eligrey/canvas-toBlob.js](https://github.com/eligrey/canvas-toBlob.js) - A canvas.toBlob() implementation
 - [chaseleslie/canvas_capture](https://github.com/chaseleslie/canvas_capture) - A WebExtension to record video from HTML canvas elements
@@ -10208,7 +10210,7 @@
 - [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
+- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
 - [avih/sgrtab](https://github.com/avih/sgrtab) - Display standard/custom table of SGR combinations (terminal colors)
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
@@ -12368,6 +12370,7 @@
 
 ## react 
 
+- [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [stackframe-projects/stack](https://github.com/stackframe-projects/stack) - Open-source user authentication & management
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -14851,7 +14854,7 @@
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
