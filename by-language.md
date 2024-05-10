@@ -174,6 +174,7 @@
 
 ## C 
 
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [seehuhn/dieharder](https://github.com/seehuhn/dieharder) - A modified version of Robert G. Brown's "dieharder" tests for random number generators.
 - [wareya/DIY-Gaming-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
@@ -243,6 +244,7 @@
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Sway/Wayland
+- [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [FIXMBR/ErgoTravelXT](https://github.com/FIXMBR/ErgoTravelXT) - Portable, low profile keyboard with extra XT60s.
@@ -409,7 +411,7 @@
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [andrewgregory/pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
-- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
+- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
 - [systemd/python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [karelzak/mutt-kz](https://github.com/karelzak/mutt-kz) - mutt-kz is DEPRECATED in favor of neomutt project.
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
@@ -536,7 +538,6 @@
 - [robm/dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
 - [muflone/remmina-plugin-rdesktop](https://github.com/muflone/remmina-plugin-rdesktop) - Remmina protocol plugin to open a RDP connection with rdesktop
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -551,7 +552,7 @@
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [nuclearcat/cedarkey](https://github.com/nuclearcat/cedarkey) - $2 hardware SSH keys storage
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
-- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [jalvesaq/colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
@@ -639,6 +640,7 @@
 
 ## C++ 
 
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
 - [Flow-IPC/ipc](https://github.com/Flow-IPC/ipc) - [Start here!] Flow-IPC  - Modern C++ toolkit for high-speed inter-process communication (IPC)
@@ -2142,7 +2144,7 @@
 - [haya14busa/cachecmd](https://github.com/haya14busa/cachecmd) - cache command!
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [AlekSi/gocov-xml](https://github.com/AlekSi/gocov-xml) - 
@@ -2420,6 +2422,7 @@
 
 ## HTML 
 
+- [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏸️ ⏯️ ⏮️
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 - [Gwynsav/walls](https://github.com/Gwynsav/walls) - Personal collection of wallpapers.
 - [mattismegevand/invertornot](https://github.com/mattismegevand/invertornot) - API to determine if an image should be inverted for optimal dark-mode rendering.
@@ -2730,6 +2733,7 @@
 
 ## JavaScript 
 
+- [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [elijah/r-node](https://github.com/elijah/r-node) - Cloned from git://gitorious.org/r-node/r-node.git
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
@@ -3868,6 +3872,7 @@
 
 ## Lua 
 
+- [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin (currently unmaintained, but with plans for a ground-up rewrite)
 - [stevearc/profile.nvim](https://github.com/stevearc/profile.nvim) - lua profiler for nvim
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 - [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles) - 
@@ -3894,7 +3899,6 @@
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) - View all applied tailwindcss values on an element
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) - A file manager for neovim
 - [d00h/telescope-any](https://github.com/d00h/telescope-any) - Switch neovim telescope picker by input prefix
-- [ryleelyman/seamstress](https://github.com/ryleelyman/seamstress) - Lua scripting environment for music, visuals and data
 - [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) - Jump to the last edit in Neovim
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [jlesquembre/nterm.nvim](https://github.com/jlesquembre/nterm.nvim) - neovim plugin to interact with the terminal
@@ -4990,6 +4994,7 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition
 - [UIGuideline/UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
@@ -5240,6 +5245,9 @@
 
 ## Python 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
+- [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
+- [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
@@ -5306,7 +5314,7 @@
 - [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Add memory, knowledge and tools to LLMs
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Memory, knowledge and tools for LLMs
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
@@ -6309,6 +6317,7 @@
 
 ## Rust 
 
+- [wilsonzlin/db-rpc](https://github.com/wilsonzlin/db-rpc) - 
 - [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
 - [WINSDK/bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -6911,7 +6920,6 @@
 
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-- [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [webfinger/webfinger.net](https://github.com/webfinger/webfinger.net) - webfinger.net website
 - [Andy-set-studio/gorko](https://github.com/Andy-set-studio/gorko) - A tiny Sass token class generator.
 - [awesomephant/blog](https://github.com/awesomephant/blog) - 11ty source for maxkohler.com
@@ -7355,6 +7363,13 @@
 
 ## TypeScript 
 
+- [wilsonzlin/hackerverse](https://github.com/wilsonzlin/hackerverse) - Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun
+- [wilsonzlin/crawler-toolkit-hn](https://github.com/wilsonzlin/crawler-toolkit-hn) - 
+- [wilsonzlin/xtjs-lib](https://github.com/wilsonzlin/xtjs-lib) - Complementary extra standard library for JS/TS; type safe, no dependencies, modular imports
+- [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
+- [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [rametta/pratica](https://github.com/rametta/pratica) - 🥃 Functional Algebraic Data Types
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 - [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
@@ -7400,7 +7415,7 @@
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search) - A fast, accurate and multilingual fuzzy search library for the frontend.
 - [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [fal-ai/fal-js](https://github.com/fal-ai/fal-js) - The JavaScript client and utilities to fal-serverless with built-in TypeScript definitions
 - [ueokande/vimmatic](https://github.com/ueokande/vimmatic) - A browser extension to enable Vim-like keymaps on the browsers!!
 - [orta/vscode-twoslash-queries](https://github.com/orta/vscode-twoslash-queries) - VS Code extension which adds support for twoslash queries into typescript projects
@@ -7704,7 +7719,7 @@
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [mswjs/headers-polyfill](https://github.com/mswjs/headers-polyfill) - A Fetch API "Headers" polyfill and transformation library.
 - [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
-- [amoutonbrady/esbuild-plugin-solid](https://github.com/amoutonbrady/esbuild-plugin-solid) - 
+- [amoutonbrady/esbuild-plugin-solid](https://github.com/amoutonbrady/esbuild-plugin-solid) - The `esbuild-plugin-solid` is a plugin for ESBuild that provides integration with SolidJS. It allows you to use ESBuild to bundle Solid applications, handling the specific requirements of Solid during
 - [phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary) - Dictionary - Obsidian Plugin | This plugin adds a multilingual dictionary to the Obsidian note taking tool.
 - [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
@@ -7773,7 +7788,7 @@
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [the-via/app](https://github.com/the-via/app) - 
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -8265,7 +8280,7 @@
 - [tpope/vim-ragtag](https://github.com/tpope/vim-ragtag) - ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)
 - [FooSoft/vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [LnL7/vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
-- [lambdalisue/edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
+- [lambdalisue/vim-edita](https://github.com/lambdalisue/vim-edita) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [yegappan/mru](https://github.com/yegappan/mru) - Most Recently Used (MRU) Vim Plugin
 - [vim-scripts/VisIncr](https://github.com/vim-scripts/VisIncr) - Produce increasing/decreasing columns of numbers, dates, or daynames
 - [drzel/vim-scrolloff-fraction](https://github.com/drzel/vim-scrolloff-fraction) - scrolloff as a fraction of window height
@@ -8291,7 +8306,7 @@
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
-- [lambdalisue/reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
+- [lambdalisue/vim-reword](https://github.com/lambdalisue/vim-reword) - 🧬 Vim plugin to provide case-preserving substitutuion
 - [lpinilla/vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Text Properties
 - [sunaku/vim-dasht](https://github.com/sunaku/vim-dasht) - :information_desk_person: (Neo)Vim plugin for dasht integration
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
@@ -8328,7 +8343,7 @@
 - [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 - [LucHermitte/lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
 - [vim-scripts/SrchRplcHiGrp.vim](https://github.com/vim-scripts/SrchRplcHiGrp.vim) - Search and/or replace based on a syntax highlight group
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [Shougo/deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
 - [tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim) - :notebook: Display vim version numbers in docs
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
@@ -8370,7 +8385,7 @@
 - [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [jistr/vim-nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs) - NERDTree and tabs together in Vim, painlessly
-- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
+- [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [mattn/vim-lexiv](https://github.com/mattn/vim-lexiv) - Yet Another Lexima
 - [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
@@ -8393,7 +8408,7 @@
 - [vim-perl/vim-perl](https://github.com/vim-perl/vim-perl) - Support for Perl 5 in Vim
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
-- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [chrisbra/SudoEdit.vim](https://github.com/chrisbra/SudoEdit.vim) - Edit Files using sudo or su or any other tool
 - [jelly/Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
 - [dylnmc/dropcl.vim](https://github.com/dylnmc/dropcl.vim) - drop-down command-line for vim [mirror of https://gitlab.com/dylnmc/dropcl.vim]
@@ -8539,6 +8554,7 @@
 ## Zig 
 
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
+- [ryleelyman/seamstress](https://github.com/ryleelyman/seamstress) - Lua scripting environment for music, visuals and data
 - [nolanderc/glsl_analyzer](https://github.com/nolanderc/glsl_analyzer) - Language server for GLSL (autocomplete, goto-definition, formatter, and more)
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [ifreund/zig-wayland](https://github.com/ifreund/zig-wayland) - [mirror] Zig wayland scanner and libwayland bindings
@@ -8547,9 +8563,9 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [greenfork/kisa](https://github.com/greenfork/kisa) - Text editor of the new world
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
-- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 ## jq 
 
