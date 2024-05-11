@@ -204,6 +204,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quantitative-finance](#quantitative-finance)
 - [r](#r)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
@@ -391,6 +392,7 @@
 
 ## algorithm 
 
+- [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [mapbox/earcut](https://github.com/mapbox/earcut) - The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
@@ -1746,6 +1748,7 @@
 
 ## cpp 
 
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
 - [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) - A statefull task manager focused on integration with build systems.
@@ -1967,6 +1970,7 @@
 
 ## data-analysis 
 
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
@@ -1987,6 +1991,7 @@
 
 ## data-science 
 
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [grai-io/grai-core](https://github.com/grai-io/grai-core) - 
@@ -4576,7 +4581,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -4961,6 +4965,7 @@
 
 ## javascript 
 
+- [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [R-js/libRmath.js](https://github.com/R-js/libRmath.js) - Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
@@ -6769,6 +6774,7 @@
 
 ## neovim 
 
+- [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Neovim persistent colorscheme picker and previewer
 - [LiadOz/nvim-dap-repl-highlights](https://github.com/LiadOz/nvim-dap-repl-highlights) - Add syntax highlighting to the nvim-dap REPL
@@ -7568,6 +7574,7 @@
 
 ## numpy 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [ChrisCrossCrash/r-place-blender](https://github.com/ChrisCrossCrash/r-place-blender) - Tools for r/Place data visualization with Blender and Python
@@ -7704,6 +7711,15 @@
 
 ## others 
 
+- [vmchale/jacinda](https://github.com/vmchale/jacinda) - Functional, expression-oriented data processing language
+- [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
+- [aestuans/blob](https://github.com/aestuans/blob) - A simple 2D fluid and gravity simulation, written in Rust and rendered with WebGL
+- [wayland-transpositor/wprs](https://github.com/wayland-transpositor/wprs) - 
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
+- [wilsonzlin/db-rpc](https://github.com/wilsonzlin/db-rpc) - 
+- [wilsonzlin/hackerverse](https://github.com/wilsonzlin/hackerverse) - Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun
+- [wilsonzlin/crawler-toolkit-hn](https://github.com/wilsonzlin/crawler-toolkit-hn) - 
+- [wilsonzlin/xtjs-lib](https://github.com/wilsonzlin/xtjs-lib) - Complementary extra standard library for JS/TS; type safe, no dependencies, modular imports
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏸️ ⏯️ ⏮️
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
@@ -11995,6 +12011,8 @@
 
 ## python 
 
+- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [pallets-eco/flask-classful](https://github.com/pallets-eco/flask-classful) - Class based views for Flask
@@ -12390,6 +12408,10 @@
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [tobimensch/aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
+
+## quantitative-finance 
+
+- [joelowj/awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
 
 ## r 
 
