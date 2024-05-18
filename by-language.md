@@ -69,6 +69,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mojo](#mojo)
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -645,6 +646,8 @@
 
 ## C++ 
 
+- [meelgroup/pepin](https://github.com/meelgroup/pepin) - A probabilistic approximate DNF counter
+- [okuvshynov/llama_duo](https://github.com/okuvshynov/llama_duo) - asynchronous/distributed speculative evaluation for llama3
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
@@ -1263,7 +1266,7 @@
 
 ## Go 
 
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Robust AI driven development in your terminal. Designed for large, real-world tasks in new or existing codebases.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [AudDMusic/RedditBot](https://github.com/AudDMusic/RedditBot) - Music recognition bot for Reddit powered by audd.io
@@ -3881,6 +3884,7 @@
 
 ## Lua 
 
+- [mrcjkb/lua-typecheck-action](https://github.com/mrcjkb/lua-typecheck-action) - A GitHub action that lets you leverage sumneko lua-language-server and EmmyLua to statically type check lua code.
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin (currently unmaintained, but with plans for a ground-up rewrite)
@@ -4510,6 +4514,10 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mojo 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## Mustache 
 
 - [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty) - Base16 for Alacritty
@@ -4829,6 +4837,7 @@
 
 ## Others 
 
+- [nvim-neorocks/nvim-best-practices](https://github.com/nvim-neorocks/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [grapp-dev/code-swap.nvim](https://github.com/grapp-dev/code-swap.nvim) - 
 - [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.)
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
@@ -5262,6 +5271,7 @@
 
 ## Python 
 
+- [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
@@ -6338,7 +6348,8 @@
 
 ## Rust 
 
-- [HigherOrderCO/bend](https://github.com/HigherOrderCO/bend) - 
+- [DarrenBaldwin07/clerk-rs](https://github.com/DarrenBaldwin07/clerk-rs) - An unofficial Rust SDK for Clerk.dev
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [wayland-transpositor/wprs](https://github.com/wayland-transpositor/wprs) - 
 - [wilsonzlin/db-rpc](https://github.com/wilsonzlin/db-rpc) - 
 - [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
@@ -6980,6 +6991,7 @@
 
 ## Shell 
 
+- [python-virtualenvwrapper/virtualenvwrapper](https://github.com/python-virtualenvwrapper/virtualenvwrapper) - 
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
