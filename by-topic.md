@@ -313,6 +313,7 @@
 ## ai 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -2319,6 +2320,7 @@
 
 ## docker 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
@@ -3639,6 +3641,7 @@
 
 ## golang 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
@@ -3913,7 +3916,7 @@
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [sbstjn/hanu](https://github.com/sbstjn/hanu) - Golang Framework for writing Slack bots
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [openacid/slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
@@ -4546,7 +4549,7 @@
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [microsoft/accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) - Accessibility Insights for Web
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [xmonad/xmonad-contrib](https://github.com/xmonad/xmonad-contrib) - Contributed modules for xmonad
@@ -4960,6 +4963,7 @@
 
 ## java 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [fabioz/Pydev](https://github.com/fabioz/Pydev) - Python IDE for Eclipse
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
@@ -5003,6 +5007,7 @@
 
 ## javascript 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [R-js/libRmath.js](https://github.com/R-js/libRmath.js) - Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
@@ -5555,6 +5560,7 @@
 
 ## kotlin 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -5927,7 +5933,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -6503,7 +6509,7 @@
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [davicorreiajr/spotify-now-playing](https://github.com/davicorreiajr/spotify-now-playing) - Spotify now playing information and control popup for macOS menu bar
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -6817,6 +6823,7 @@
 
 ## neovim 
 
+- [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [nvim-neorocks/nvim-best-practices](https://github.com/nvim-neorocks/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
@@ -7784,7 +7791,6 @@
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏸️ ⏯️ ⏮️
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin (currently unmaintained, but with plans for a ground-up rewrite)
 - [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 - [stevearc/profile.nvim](https://github.com/stevearc/profile.nvim) - lua profiler for nvim
@@ -11739,6 +11745,7 @@
 ## p2p 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -12065,6 +12072,7 @@
 
 ## python 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -12939,6 +12947,7 @@
 
 ## rust 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [DarrenBaldwin07/clerk-rs](https://github.com/DarrenBaldwin07/clerk-rs) - An unofficial Rust SDK for Clerk.dev
 - [rustedpy/result](https://github.com/rustedpy/result) - A simple Rust like Result type for Python 3. Fully type annotated.
 - [WINSDK/bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support.
@@ -13284,6 +13293,7 @@
 
 ## scala 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
@@ -13522,6 +13532,7 @@
 
 ## shell 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -14990,7 +15001,7 @@
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [SkyLined/BugId](https://github.com/SkyLined/BugId) - Detect, analyze and uniquely identify crashes in Windows applications
