@@ -1002,7 +1002,6 @@
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
-- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
@@ -1089,7 +1088,7 @@
 ## CoffeeScript 
 
 - [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
-- [trello/iconathon](https://github.com/trello/iconathon) - An icon task runner that convert Sketch files to mobile and web formats.
+- [trello-archive/iconathon](https://github.com/trello-archive/iconathon) - An icon task runner that convert Sketch files to mobile and web formats.
 - [node-cache/node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
 - [dogweather/repo-health-check](https://github.com/dogweather/repo-health-check) - Analyze a project: How are the maintainers doing?
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
@@ -2562,7 +2561,6 @@
 - [gcormier/megadesk](https://github.com/gcormier/megadesk) - Open-source IKEA Bekant controller board
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [athityakumar/github-follow](https://github.com/athityakumar/github-follow) - A rails project with GitHub OAuth to notify you about new followers / unfollowers.
-- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [tomhodgins/responsive.style](https://github.com/tomhodgins/responsive.style) - A Fresh Approach to Extending CSS
 - [LeNPaul/Lagrange](https://github.com/LeNPaul/Lagrange) - A minimalist Jekyll theme for running a personal blog powered by Jekyll and GitHub Pages
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
@@ -3541,6 +3539,7 @@
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [Voog/wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [pixelnest/presskit.html](https://github.com/pixelnest/presskit.html) - Re-implementation of presskit() as a static site generator
 - [Zulko/eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
@@ -3768,7 +3767,7 @@
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
+- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [gabrielecirulli/hn-special](https://github.com/gabrielecirulli/hn-special) - A modern theme for Hacker News, with some added niceties.
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
@@ -5277,6 +5276,7 @@
 
 ## Python 
 
+- [vb000/LookOnceToHear](https://github.com/vb000/LookOnceToHear) - A novel human-interaction method for real-time speech extraction on headphones.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Visual effects applied to text in the terminal.
 - [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
 - [EpicGamesExt/BlenderTools](https://github.com/EpicGamesExt/BlenderTools) - Blender addons that improve the game development workflow between Blender and Unreal.
@@ -6359,6 +6359,7 @@
 
 ## Rust 
 
+- [wllfaria/hac](https://github.com/wllfaria/hac) - A terminal API Client that comes in handy.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [DarrenBaldwin07/clerk-rs](https://github.com/DarrenBaldwin07/clerk-rs) - An unofficial Rust SDK for Clerk.dev
