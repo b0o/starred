@@ -312,6 +312,7 @@
 
 ## ai 
 
+- [distantmagic/paddler](https://github.com/distantmagic/paddler) - Stateful load balancer custom-tailored for llama.cpp
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
@@ -1758,6 +1759,7 @@
 
 ## cpp 
 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
@@ -5791,6 +5793,7 @@
 
 ## linux 
 
+- [coddingtonbear/logitech-flow-kvm](https://github.com/coddingtonbear/logitech-flow-kvm) - Quickly switch between paired devices when using a Logitech mouse and keyboard that supports connecting to multiple devices.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -6013,6 +6016,7 @@
 
 ## llm 
 
+- [distantmagic/paddler](https://github.com/distantmagic/paddler) - Stateful load balancer custom-tailored for llama.cpp
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - The Open Source DevOps Assistant - solve problems twice as fast with an AI teammate
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
