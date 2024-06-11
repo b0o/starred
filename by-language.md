@@ -177,6 +177,7 @@
 
 ## C 
 
+- [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -644,6 +645,7 @@
 
 ## C++ 
 
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [lefticus/cpp_weekly](https://github.com/lefticus/cpp_weekly) - The official C++ Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR's will be accepted in some cases.
 - [xdrpp/xdrpp](https://github.com/xdrpp/xdrpp) - 
 - [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
@@ -1285,7 +1287,7 @@
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -1972,7 +1974,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [cjslep/triton](https://github.com/cjslep/triton) - A very simple static web server for the unofficial golang rite of passage.
 - [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams & ActivityPub in golang, oh my!
 - [dvyukov/go-fuzz-corpus](https://github.com/dvyukov/go-fuzz-corpus) - Corpus for github.com/dvyukov/go-fuzz examples
@@ -2755,6 +2757,7 @@
 
 ## JavaScript 
 
+- [3rl-io/spidgets-3dof](https://github.com/3rl-io/spidgets-3dof) - Example app for spatial widgets with 3DoF
 - [kagisearch/browser_extensions](https://github.com/kagisearch/browser_extensions) - Official companion browser extensions for Kagi Search (Chrome, Firefox)
 - [seanbreckenridge/tree-sitter-rifleconfig](https://github.com/seanbreckenridge/tree-sitter-rifleconfig) - rifle (ranger filemanager file opener) grammar for tree-sitter
 - [kefiijrw/Round-Corners-Customization-for-Illustrator](https://github.com/kefiijrw/Round-Corners-Customization-for-Illustrator) - Corner rounding customization script for Adobe Illustator
@@ -3017,6 +3020,7 @@
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [catalinmiron/react-typical](https://github.com/catalinmiron/react-typical) - React typing animation in ~400 bytes 🐡 of JavaScript.
 - [Flet/github-slugger](https://github.com/Flet/github-slugger) - :octocat: Generate a slug just like GitHub does for markdown headings.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
@@ -3821,6 +3825,7 @@
 
 ## Jupyter Notebook 
 
+- [cuda-mode/lectures](https://github.com/cuda-mode/lectures) - Material for cuda-mode lectures
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
@@ -6389,6 +6394,7 @@
 
 ## Rust 
 
+- [vdbulcke/ghost](https://github.com/vdbulcke/ghost) - A Zellij plugin for spawning floating command terminal pane.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [linebender/vello](https://github.com/linebender/vello) - An experimental GPU compute-centric 2D renderer.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -7478,7 +7484,7 @@
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source user authentication & management
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Firebase-auth alternative. Developer friendly user auth & management
 - [rgthree/rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Making ComfyUI more comfortable!
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -7714,7 +7720,7 @@
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is the platform for adding collaborative editing, comments, and notifications into your application.
 - [dsvgit/slatesbox](https://github.com/dsvgit/slatesbox) - Slate editor plugins system. Drag and drop, folding implementation.
 - [ianstormtaylor/void](https://github.com/ianstormtaylor/void) - A toolkit for making generative art.
 - [devietti/trpc-next13-app](https://github.com/devietti/trpc-next13-app) - tRPC + Next 13 app directory + TypeScript
@@ -7916,7 +7922,6 @@
 - [mikew/prettier_d_slim](https://github.com/mikew/prettier_d_slim) - 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
 - [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
