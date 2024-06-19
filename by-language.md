@@ -1081,7 +1081,7 @@
 - [juxt/tick](https://github.com/juxt/tick) - Time as a value.
 - [zestdocs/zest](https://github.com/zestdocs/zest) - [UNMAINTAINED] Zest documentation browser
 - [juxt/apex](https://github.com/juxt/apex) - A compendium of Clojure libraries for implementing web backends.
-- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, persistent, distributed & compositional Datalog engine for everyone.
+- [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, immutable, distributed & compositional Datalog engine for everyone.
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
@@ -2451,7 +2451,7 @@
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 - [Gwynsav/walls](https://github.com/Gwynsav/walls) - Personal collection of wallpapers.
 - [mattismegevand/invertornot](https://github.com/mattismegevand/invertornot) - API to determine if an image should be inverted for optimal dark-mode rendering.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The ultimate open-source RAG framework. Features include hybrid search, knowledge graphs, multimodal/advanced RAG, and more.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - R2R is an open source RAG engine with a RESTful API. Features include hybrid search, GraphRAG, multimodal RAG, observability and analytics, and more.
 - [AndrewVeee/nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [evanw/glslx](https://github.com/evanw/glslx) - A GLSL type checker, code formatter, and minifier for WebGL
@@ -3022,7 +3022,6 @@
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [catalinmiron/react-typical](https://github.com/catalinmiron/react-typical) - React typing animation in ~400 bytes 🐡 of JavaScript.
 - [Flet/github-slugger](https://github.com/Flet/github-slugger) - :octocat: Generate a slug just like GitHub does for markdown headings.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
@@ -5305,6 +5304,7 @@
 
 ## Python 
 
+- [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs
 - [nasheydari/HypOp](https://github.com/nasheydari/HypOp) - Hypergraph Neural Network-Based Combinatorial Optimization
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - 
@@ -5656,7 +5656,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [SySS-Research/bluetooth-keyboard-emulator](https://github.com/SySS-Research/bluetooth-keyboard-emulator) - Simple proof-of-concept software tool for emulating Bluetooth BR/EDR (a.k.a. Bluetooth Classic) keyboards
 - [Alkaid-Benetnash/EmuBTHID](https://github.com/Alkaid-Benetnash/EmuBTHID) - Emulate a Bluetooth HID device with bluez on linux
-- [thanhlev/keyboard_mouse_emulate_on_raspberry](https://github.com/thanhlev/keyboard_mouse_emulate_on_raspberry) - Bluetooth Keyboard Mouse  Emulator on Raspberry Pi
+- [quangthanh010290/keyboard_mouse_emulate_on_raspberry](https://github.com/quangthanh010290/keyboard_mouse_emulate_on_raspberry) - Bluetooth Keyboard Mouse  Emulator on Raspberry Pi
 - [bedrin/blkb](https://github.com/bedrin/blkb) - Bluetooth Keyboard Emulator for Linux
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -6173,7 +6173,7 @@
 - [klange/resume](https://github.com/klange/resume) - The source for my CV/résumé, in LaTeX and Python scripts.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
@@ -6228,7 +6228,7 @@
 ## ReScript 
 
 - [JGood9001/rescript-repl](https://github.com/JGood9001/rescript-repl) - 
-- [darklang/classic-dark](https://github.com/darklang/classic-dark) - Darklang stable version - currently on darklang.com
+- [darklang/classic-dark](https://github.com/darklang/classic-dark) - Darklang stable version - currently on darklang.com/classic
 - [resinfo/rescript-lua-ast](https://github.com/resinfo/rescript-lua-ast) - A ReScript representation and printer for the Lua AST.
 - [DZakh/rescript-schema](https://github.com/DZakh/rescript-schema) - The fastest composable parser/serializer for ReScript and TypeScript
 - [glennsl/rescript-fetch](https://github.com/glennsl/rescript-fetch) - Zero-cost rescript bindings to the WHATWG Fetch API
@@ -7485,12 +7485,12 @@
 - [wilsonzlin/hackerverse](https://github.com/wilsonzlin/hackerverse) - Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun
 - [wilsonzlin/crawler-toolkit-hn](https://github.com/wilsonzlin/crawler-toolkit-hn) - 
 - [wilsonzlin/xtjs-lib](https://github.com/wilsonzlin/xtjs-lib) - Complementary extra standard library for JS/TS; type safe, no dependencies, modular imports
-- [cq2-co/cq2](https://github.com/cq2-co/cq2) - A better way to discuss
+- [cq2-co/cq2](https://github.com/cq2-co/cq2) - Document. Discuss. Decide.
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [rametta/pratica](https://github.com/rametta/pratica) - 🥃 Functional Algebraic Data Types
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
-- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [davepagurek/glsl-autodiff](https://github.com/davepagurek/glsl-autodiff) - Tired of doing math to get normals in your vertex shader? Same.
 - [R-js/libRmath.js](https://github.com/R-js/libRmath.js) - Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
@@ -7788,7 +7788,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
@@ -7807,7 +7807,7 @@
 - [motiondivision/motionone](https://github.com/motiondivision/motionone) - 
 - [pmndrs/react-three-flex](https://github.com/pmndrs/react-three-flex) - 💪📦  Flexbox for react-three-fiber
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
-- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [mcndt/noteshare.space](https://github.com/mcndt/noteshare.space) - A service for sharing encrypted Markdown notes from Obsidian. Notes are end-to-end-encrypted and are only stored temporarily.
 - [mcndt/obsidian-quickshare](https://github.com/mcndt/obsidian-quickshare) - 📝 An Obsidian plugin for sharing encrypted Markdown notes on the web. Zero configuration required.
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
@@ -7935,6 +7935,7 @@
 - [mikew/prettier_d_slim](https://github.com/mikew/prettier_d_slim) - 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
 - [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
