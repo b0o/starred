@@ -626,8 +626,7 @@
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [keijiro/Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
 - [UniversalSplitScreen/UniversalSplitScreen](https://github.com/UniversalSplitScreen/UniversalSplitScreen) - Split screen multiplayer for any game with multiple keyboards, mice and controllers.
-- [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ide
@@ -720,7 +719,7 @@
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [p0358/ultralight_remote_inspector](https://github.com/p0358/ultralight_remote_inspector) - Sample Ultralight standalone app to connect to the remote inspector server in your app
 - [gulrak/filesystem](https://github.com/gulrak/filesystem) - An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 - [capnproto/node-capnp](https://github.com/capnproto/node-capnp) - Cap'n Proto bindings for Node.js
@@ -815,7 +814,7 @@
 - [znc/znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [jfedor2/trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [CarVac/filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
@@ -1290,7 +1289,7 @@
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -3891,6 +3890,7 @@
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [google/accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
+- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
 - [ScottPeterJohnson/gpt2-discord](https://github.com/ScottPeterJohnson/gpt2-discord) - Discord bot that generates messages using GPT-2
 
 ## Lean 
@@ -4471,6 +4471,7 @@
 - [akinsho/dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [norcalli/snippets.nvim](https://github.com/norcalli/snippets.nvim) - 
+- [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [lucc/nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game -  A lightweight and well-maintained base for modding [https://github.com/minetest/minetest/]
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -4956,7 +4957,7 @@
 - [djadmin/awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/indonumberone-is-cool](https://github.com/Explosion-Scratch/indonumberone-is-cool) - Star to change the repo title to your username!
+- [Explosion-Scratch/ZimTheDestroyer-is-epic](https://github.com/Explosion-Scratch/ZimTheDestroyer-is-epic) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -7470,6 +7471,7 @@
 
 ## TypeScript 
 
+- [Igorkowalski94/eslint-plugin-project-structure](https://github.com/Igorkowalski94/eslint-plugin-project-structure) - Eslint plugin that allows you to enforce rules on project structure to keep your repository consistent even in large teams.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
@@ -7556,7 +7558,7 @@
 - [Ivordir/YALPS](https://github.com/Ivordir/YALPS) - Yet Another Linear Programming Solver. (A rewrite of javascript-lp-solver.) Aims to be decently fast.
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
 - [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [evanhu1/talk2arxiv](https://github.com/evanhu1/talk2arxiv) - Talk to any ArXiv paper using ChatGPT
 - [tr1ckydev/webview-bun](https://github.com/tr1ckydev/webview-bun) - Bun bindings for webview, a tiny library for creating web-based desktop GUIs.
 - [juliusmarminge/acme-corp-lib](https://github.com/juliusmarminge/acme-corp-lib) - Monorepo starter for your next TypeScript library!
@@ -8144,7 +8146,7 @@
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
@@ -8443,7 +8445,6 @@
 - [urbainvaes/vim-ripple](https://github.com/urbainvaes/vim-ripple) - Minimalist plugin to interact with a REPL
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [osyo-manga/vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
-- [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [Termplexed/vfix](https://github.com/Termplexed/vfix) - Vfix : Vim, Debugging, Vim-scripts
