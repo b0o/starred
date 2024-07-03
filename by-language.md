@@ -221,7 +221,6 @@
 - [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [nodejs/uvwasi](https://github.com/nodejs/uvwasi) - WASI syscall API built atop libuv
 - [ultralight-ux/Ultralight-API](https://github.com/ultralight-ux/Ultralight-API) - C/C++ API Headers for Ultralight
 - [ultralight-ux/AppCore](https://github.com/ultralight-ux/AppCore) - Cross-platform app runtime module for Ultralight
@@ -544,6 +543,7 @@
 - [robm/dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
 - [muflone/remmina-plugin-rdesktop](https://github.com/muflone/remmina-plugin-rdesktop) - Remmina protocol plugin to open a RDP connection with rdesktop
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -718,6 +718,7 @@
 - [mikke89/RmlUi](https://github.com/mikke89/RmlUi) - RmlUi - The HTML/CSS User Interface library evolved
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
@@ -955,7 +956,7 @@
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [nonpop/xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
-- [grwlf/xkb-switch](https://github.com/grwlf/xkb-switch) - Switch your X keyboard layouts from the command line
+- [sergei-mironov/xkb-switch](https://github.com/sergei-mironov/xkb-switch) - Switch your X keyboard layouts from the command line
 - [etodd/lasercrabs](https://github.com/etodd/lasercrabs) - Abandoned hybrid singleplayer/multiplayer shooter project formerly known as DECEIVER
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -1618,7 +1619,7 @@
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [honeytrap/honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
 - [cbix/gotubecast](https://github.com/cbix/gotubecast) - DIY YouTube TV
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [bonjourmalware/melody](https://github.com/bonjourmalware/melody) - Melody is a transparent internet sensor built for threat intelligence. Supports custom tagging rules and vulnerable application simulation.
 - [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
@@ -1642,6 +1643,7 @@
 - [orijtech/httperroryzer](https://github.com/orijtech/httperroryzer) - Static analyzer to catch invalid uses of http.Error without a return statement which can cause expected bugs
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [hidal-go/hidalgo](https://github.com/hidal-go/hidalgo) - High-level Database Abstraction Layer for Go
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [goreleaser/fileglob](https://github.com/goreleaser/fileglob) - A file globbing library.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -2454,7 +2456,6 @@
 - [AndrewVeee/nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [evanw/glslx](https://github.com/evanw/glslx) - A GLSL type checker, code formatter, and minifier for WebGL
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
@@ -5310,7 +5311,7 @@
 
 ## Python 
 
-- [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs
+- [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [nasheydari/HypOp](https://github.com/nasheydari/HypOp) - Hypergraph Neural Network-Based Combinatorial Optimization
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - 
@@ -5384,14 +5385,14 @@
 - [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - Open-Source Evaluation for GenAI Application Pipelines
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified AI Framework
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) - Mesh TensorFlow: Model Parallelism Made Easier
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [naver/dust3r](https://github.com/naver/dust3r) - DUSt3R: Geometric 3D Vision Made Easy
 - [layerdiffusion/sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge)
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - production-ready RAG engine with a sh*t ton of features.
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [3DTopia/LGM](https://github.com/3DTopia/LGM) - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
@@ -6458,6 +6459,7 @@
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [RustAudio/baseview](https://github.com/RustAudio/baseview) - low-level window system interface for audio plugin UIs
@@ -6467,7 +6469,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
-- [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
+- [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A web browser in the making. More info at https://gosub.io
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
@@ -8121,7 +8123,6 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [0no-co/hoofd](https://github.com/0no-co/hoofd) - Hooks to populate the html head.
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
@@ -8692,7 +8693,6 @@
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 ## jq 
 
