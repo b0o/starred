@@ -989,6 +989,7 @@
 
 ## CMake 
 
+- [BlankSpruce/gersemi](https://github.com/BlankSpruce/gersemi) - A formatter to make your CMake code the real treasure
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template) - CMake for C++ Best Practices
 - [qwertzui11/cef_osr](https://github.com/qwertzui11/cef_osr) - Cef off-screen rendering example
 - [smanders/externpro](https://github.com/smanders/externpro) - build external projects with cmake
@@ -1658,7 +1659,7 @@
 - [dtn7/dtn7-gold](https://github.com/dtn7/dtn7-gold) - Delay-tolerant networking software suite, Bundle Protocol Version 7 (deprecated)
 - [amit-davidson/Chronos](https://github.com/amit-davidson/Chronos) - Chronos - A static race detector for the go language
 - [rakyll/golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy...
-- [diodechain/diode_client](https://github.com/diodechain/diode_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diodechain.
+- [diodechain/diode_client](https://github.com/diodechain/diode_client) - Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diode ztna network.
 - [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 - [DopplerHQ/cli](https://github.com/DopplerHQ/cli) - The official CLI for interacting with your Doppler secrets and configuration.
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Moved to https://github.com/aquasecurity/trivy-operator
@@ -2649,7 +2650,7 @@
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [nomeata/arbtt](https://github.com/nomeata/arbtt) - arbtt, the automatic rule-based time-tracker
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
+- [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [google-research/dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
 - [mbrubeck/compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
@@ -3914,6 +3915,7 @@
 
 ## Lua 
 
+- [OXY2DEV/colors.nvim](https://github.com/OXY2DEV/colors.nvim) - A simple plugin to handle highlight groups
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) - A Neovim plugin that makes vertical motions more comfortable
 - [cloudflare/lua-capnproto](https://github.com/cloudflare/lua-capnproto) - Lua-capnp is a pure lua implementation of capnproto based on luajit.
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
@@ -3932,7 +3934,7 @@
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 - [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles) - 
 - [JMarkin/nvim-tree.lua-float-preview](https://github.com/JMarkin/nvim-tree.lua-float-preview) - float preview for nvim-tree.lua
-- [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - All things color related. All Lua.
+- [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Theme picker/manager, Using the powers of Telescope for the frontend and Lazy.nvim for the backend
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -4966,7 +4968,7 @@
 - [djadmin/awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸
-- [Explosion-Scratch/missAnneThorpe-starred-this-repo](https://github.com/Explosion-Scratch/missAnneThorpe-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/quervyloll-is-a-unicorn](https://github.com/Explosion-Scratch/quervyloll-is-a-unicorn) - Star to change the repo title to your username!
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [ReeceGoding/Frustration-One-Year-With-R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - An extremely long review of R.
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -5314,6 +5316,8 @@
 
 ## Python 
 
+- [cmake-lint/cmake-lint](https://github.com/cmake-lint/cmake-lint) - Fork of https://github.com/richq/cmake-lint to continue maintenance
+- [cheshirekow/cmake_format](https://github.com/cheshirekow/cmake_format) - Source code formatter for cmake listfiles.
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [nasheydari/HypOp](https://github.com/nasheydari/HypOp) - Hypergraph Neural Network-Based Combinatorial Optimization
@@ -5386,7 +5390,7 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - Open-Source Evaluation for LLM Application Pipelines
+- [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - Production-Grade Evaluation for LLM-Powered Applications
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
@@ -5399,7 +5403,7 @@
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - production-ready RAG engine with a sh*t ton of features.
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
-- [3DTopia/LGM](https://github.com/3DTopia/LGM) - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
+- [3DTopia/LGM](https://github.com/3DTopia/LGM) - [ECCV 2024] LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [GaussianObject/GaussianObject](https://github.com/GaussianObject/GaussianObject) - Code for "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
 - [piekstra/portlandgeneral-api](https://github.com/piekstra/portlandgeneral-api) - An unofficial Python library for requesting data from the Portland General Electric (PGE) API.
@@ -7483,6 +7487,7 @@
 
 ## TypeScript 
 
+- [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute javascript code in a webassembly quickjs sandbox
 - [Igorkowalski94/eslint-plugin-project-structure](https://github.com/Igorkowalski94/eslint-plugin-project-structure) - Eslint plugin that allows you to enforce rules on project structure to keep your repository consistent even in large teams.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
@@ -8050,7 +8055,7 @@
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
 - [nikeee/dot-language-server](https://github.com/nikeee/dot-language-server) - A language server for the DOT language
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
