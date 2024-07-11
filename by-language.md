@@ -647,6 +647,9 @@
 
 ## C++ 
 
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to ksqlDB and Apache Flink, 🚀 powered by ClickHouse.
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [ROCm/rocRAND](https://github.com/ROCm/rocRAND) - RAND library for HIP programming language
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [leanprover/lean3](https://github.com/leanprover/lean3) - Lean Theorem Prover
@@ -990,6 +993,7 @@
 
 ## CMake 
 
+- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [BlankSpruce/gersemi](https://github.com/BlankSpruce/gersemi) - A formatter to make your CMake code the real treasure
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template) - CMake for C++ Best Practices
 - [qwertzui11/cef_osr](https://github.com/qwertzui11/cef_osr) - Cef off-screen rendering example
@@ -3917,6 +3921,7 @@
 
 ## Lua 
 
+- [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
 - [OXY2DEV/colors.nvim](https://github.com/OXY2DEV/colors.nvim) - A simple plugin to handle highlight groups
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) - A Neovim plugin that makes vertical motions more comfortable
 - [cloudflare/lua-capnproto](https://github.com/cloudflare/lua-capnproto) - Lua-capnp is a pure lua implementation of capnproto based on luajit.
@@ -5319,6 +5324,7 @@
 
 ## Python 
 
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
 - [cmake-lint/cmake-lint](https://github.com/cmake-lint/cmake-lint) - Fork of https://github.com/richq/cmake-lint to continue maintenance
 - [cheshirekow/cmake_format](https://github.com/cheshirekow/cmake_format) - Source code formatter for cmake listfiles.
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
@@ -5396,7 +5402,7 @@
 - [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - Production-Grade Evaluation for LLM-Powered Applications
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) - Mesh TensorFlow: Model Parallelism Made Easier
 - [google-research/t5x](https://github.com/google-research/t5x) - 
