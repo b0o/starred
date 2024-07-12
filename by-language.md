@@ -180,6 +180,7 @@
 
 ## C 
 
+- [jsdf/pce](https://github.com/jsdf/pce) - Emulates Mac Plus, PC, & Atari ST in the browser using WebAssembly
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
@@ -2458,6 +2459,7 @@
 
 ## HTML 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [pdomdev/pdom](https://github.com/pdomdev/pdom) - Multithreaded DOM is possible.
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏸️ ⏯️ ⏮️
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
@@ -2774,7 +2776,8 @@
 
 ## JavaScript 
 
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The power of Webflow for your React app
+- [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The power of Webflow for your React app – Onlook is an open source, local-first Webflow alternative. Design directly in your live webpage and publish your changes to code.
 - [3rl-io/spidgets-3dof](https://github.com/3rl-io/spidgets-3dof) - Example app for spatial widgets with 3DoF
 - [kagisearch/browser_extensions](https://github.com/kagisearch/browser_extensions) - Official companion browser extensions for Kagi Search (Chrome, Firefox)
 - [seanbreckenridge/tree-sitter-rifleconfig](https://github.com/seanbreckenridge/tree-sitter-rifleconfig) - rifle (ranger filemanager file opener) grammar for tree-sitter
@@ -4616,7 +4619,7 @@
 - [imandra-ai/ocaml-opentelemetry](https://github.com/imandra-ai/ocaml-opentelemetry) - Instrumentation for https://opentelemetry.io
 - [capnproto/capnp-ocaml](https://github.com/capnproto/capnp-ocaml) - OCaml code generator plugin for the Cap'n Proto serialization framework
 - [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
-- [jyssh/pin-unpin-tab](https://github.com/jyssh/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
+- [justbhoot/pin-unpin-tab](https://github.com/justbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
 - [darklang/philip2](https://github.com/darklang/philip2) - An Elm to OCaml compiler
 - [plow-technologies/rescript-linter](https://github.com/plow-technologies/rescript-linter) - Lint your ReScript code!
 - [dariusf/ppx_debug](https://github.com/dariusf/ppx_debug) - Tools for record-and-replay debugging
@@ -6431,6 +6434,8 @@
 
 ## Rust 
 
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [Decodetalkers/neocmakelsp](https://github.com/Decodetalkers/neocmakelsp) - Another cmake lsp
 - [pxp-lang/pxp](https://github.com/pxp-lang/pxp) - A suite of high-performance tools for PHP developers – includes a code formatter, static analyser, language server and superset language.
 - [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx) - shader-like effects library for ratatui applications
 - [vdbulcke/ghost](https://github.com/vdbulcke/ghost) - A Zellij plugin for spawning floating command terminal pane.
@@ -6726,7 +6731,7 @@
 - [laysakura/serde-encrypt](https://github.com/laysakura/serde-encrypt) - 🔐 Encrypts all the Serialize.
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [jeffzh4ng/matey](https://github.com/jeffzh4ng/matey) - bittorrent client
+- [kaeporagaebora/matey](https://github.com/kaeporagaebora/matey) - bittorrent client
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [rail44/neu](https://github.com/rail44/neu) - A vi-like text editor for terminal
@@ -7184,7 +7189,7 @@
 - [brendangregg/pmc-cloud-tools](https://github.com/brendangregg/pmc-cloud-tools) - PMC (Performance Monitoring Counter) tools for the cloud
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Toolkit for building bootable disk images of Arch Linux and for installing Arch Linux on a USB disk or thumb drive.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of bash script programs for building bootable images of Arch Linux and for creating bootable USB disks or thumb drives of Arch Linux with a desktop environment
 - [mikeswain/cmdfs](https://github.com/mikeswain/cmdfs) - Command File System
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts
 - [stephen304/castblock-legacy](https://github.com/stephen304/castblock-legacy) - Automatically skip integrated ads on youtube playing on chromecast
@@ -7496,7 +7501,7 @@
 
 ## TypeScript 
 
-- [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute javascript code in a webassembly quickjs sandbox
+- [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [Igorkowalski94/eslint-plugin-project-structure](https://github.com/Igorkowalski94/eslint-plugin-project-structure) - Eslint plugin that allows you to enforce rules on project structure to keep your repository consistent even in large teams.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
