@@ -384,7 +384,7 @@
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!
 - [shreyaskarnik/PagePilot](https://github.com/shreyaskarnik/PagePilot) - Summarize URLs using the Kagi Universal Summarizer and Read Out Loud
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
+- [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
@@ -435,7 +435,7 @@
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
+- [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
@@ -613,14 +613,14 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production
 - [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
+- [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
@@ -6181,7 +6181,7 @@
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
+- [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -7022,6 +7022,7 @@
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3
+- [stevearc/resession.nvim](https://github.com/stevearc/resession.nvim) - A replacement for mksession with a better API
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
@@ -7081,6 +7082,7 @@
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can attach a terminal-buffer for each buffer.
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Small aync library for Neovim plugins
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
@@ -7143,6 +7145,7 @@
 - [LinArcX/telescope-scriptnames.nvim](https://github.com/LinArcX/telescope-scriptnames.nvim) - Telescope extension wrapper around `:scriptnames`
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
+- [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [lambdalisue/vim-gista](https://github.com/lambdalisue/vim-gista) - An alternative gist.vim, vim plugin which manipulate gists in Vim.
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
@@ -7907,7 +7910,7 @@
 - [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - A python wrapper for Tavily search API
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A simple JavaScript tool for converting any layout you have to drag-to-swap layout https://swapy.tahazsh.com/
-- [EurekaLabsAI/micrograd](https://github.com/EurekaLabsAI/micrograd) - The Autograd Engine that implements backpropagation
+- [EurekaLabsAI/micrograd](https://github.com/EurekaLabsAI/micrograd) - The Autograd Engine
 - [EurekaLabsAI/ngram](https://github.com/EurekaLabsAI/ngram) - The n-gram Language Model
 - [EurekaLabsAI/mlp](https://github.com/EurekaLabsAI/mlp) - The Multilayer Perceptron Language Model
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
@@ -8238,7 +8241,6 @@
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [arielhs/generic-compose](https://github.com/arielhs/generic-compose) - A simple pattern for modifying a generic typescript function without having to redeclare its type parameters
 - [elnardu/react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
-- [stevearc/resession.nvim](https://github.com/stevearc/resession.nvim) - A replacement for mksession with a better API
 - [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 - [arielhs/ts-arithmetic](https://github.com/arielhs/ts-arithmetic) - Perform Type Level arithmetic in TypeScript
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
@@ -8641,7 +8643,6 @@
 - [toji/webgpu-clustered-shading](https://github.com/toji/webgpu-clustered-shading) - Personal experimental project to implement clustered shading with WebGPU.
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist – featuring the All-In Podcast. 💪
 - [hamin/jlq](https://github.com/hamin/jlq) - 
-- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [lyft/coloralgorithm](https://github.com/lyft/coloralgorithm) - Javacript function to produce color sets
 - [k-vyn/coloralgorithm](https://github.com/k-vyn/coloralgorithm) - JavaScript function to produce color sets
 - [nicholascelestin/replicate-js](https://github.com/nicholascelestin/replicate-js) - Unofficial JS Client for the Replicate API
@@ -9026,7 +9027,6 @@
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [WebReflection/highlighted-code](https://github.com/WebReflection/highlighted-code) - A textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js
 - [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
-- [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [cure53/Contracts](https://github.com/cure53/Contracts) - A small collection of potentially useful contract templates
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) - resolve those conflicts and have a happy relationship with git
@@ -12319,7 +12319,7 @@
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production
 - [meshpro/dmsh](https://github.com/meshpro/dmsh) - :spider_web: Simple mesh generator inspired by distmesh.
 - [meshpro/pygalmesh](https://github.com/meshpro/pygalmesh) - :spider_web: A Python interface to CGAL's meshing tools
 - [nschloe/pygmsh](https://github.com/nschloe/pygmsh) - :spider_web: Gmsh for Python
