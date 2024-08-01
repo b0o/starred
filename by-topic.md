@@ -1337,6 +1337,7 @@
 
 ## cli 
 
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
@@ -2831,7 +2832,7 @@
 
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
-- [bhootkaal/pin-unpin-tab](https://github.com/bhootkaal/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
+- [justbhoot/pin-unpin-tab](https://github.com/justbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
@@ -3116,6 +3117,7 @@
 
 ## git 
 
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -7934,6 +7936,7 @@
 
 ## others 
 
+- [manzt/ipymario](https://github.com/manzt/ipymario) - A simple anywidget, built from Mike Bostock's Mario chime snippet.
 - [skapadia3214/groq-moa](https://github.com/skapadia3214/groq-moa) - Mixture of Agents using Groq
 - [ROCm/rocm-cmake](https://github.com/ROCm/rocm-cmake) - CMake modules used within the ROCm libraries
 - [jedrzejboczar/exrc.nvim](https://github.com/jedrzejboczar/exrc.nvim) - Utilities for writing Neovim exrc files
@@ -8209,7 +8212,7 @@
 - [PlutoLang/Language-Server](https://github.com/PlutoLang/Language-Server) - Experimental LSP suite for Pluto, a Lua dialect, with linting and completions.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
-- [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
+- [0xzio/penx](https://github.com/0xzio/penx) - The space for web3 creator.
 - [Chuny1/3DGPT](https://github.com/Chuny1/3DGPT) - 
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
@@ -12319,6 +12322,7 @@
 
 ## python 
 
+- [manzt/anywidget](https://github.com/manzt/anywidget) - jupyter widgets made easy
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
@@ -14247,6 +14251,7 @@
 
 ## terminal 
 
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
@@ -14960,7 +14965,7 @@
 - [thiagoalessio/rainbow_levels.vim](https://github.com/thiagoalessio/rainbow_levels.vim) - A different approach to code highlighting.
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
-- [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
+- [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8+ (and Neovim)
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
