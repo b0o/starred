@@ -364,7 +364,7 @@
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C++
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -2891,7 +2891,7 @@
 
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
-- [justbhoot/pin-unpin-tab](https://github.com/justbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
+- [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
@@ -3600,7 +3600,7 @@
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [hako/durafmt](https://github.com/hako/durafmt) - :clock8:  Better time duration formatting in Go!
 - [bruno-chavez/go-microservice-template](https://github.com/bruno-chavez/go-microservice-template) - Template for Go REST API microservices, includes minimal dependencies, ready to use Dockerfile, graceful shutdown and more!
-- [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
+- [askorama/onnx-go](https://github.com/askorama/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
@@ -6668,7 +6668,7 @@
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
+- [askorama/onnx-go](https://github.com/askorama/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 - [cloudkj/layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
@@ -7541,7 +7541,7 @@
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ https://ocaml.xyz
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
+- [askorama/onnx-go](https://github.com/askorama/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 - [codeplea/genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
 - [dwhitena/gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -7950,7 +7950,7 @@
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, immutable, distributed & compositional Datalog engine for everyone.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
+- [askorama/onnx-go](https://github.com/askorama/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -8653,7 +8653,7 @@
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [hirasawakinko/Numpy-Done-Right](https://github.com/hirasawakinko/Numpy-Done-Right) - Make Python Great Again
 - [capnp-js/plugin](https://github.com/capnp-js/plugin) - Javascript plugin for Capnproto
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [TFORevive/webkit-inspector-ultralight](https://github.com/TFORevive/webkit-inspector-ultralight) - Bundling whole webtools into just 3 files from over 1000
@@ -11616,7 +11616,7 @@
 - [bahmutov/code-snippets](https://github.com/bahmutov/code-snippets) - Chrome DevTools code snippets
 - [Automattic/cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.JS
 - [symless/teleport](https://github.com/symless/teleport) - Virtual KVM for OS X
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [Schachte/Git-Enforcer](https://github.com/Schachte/Git-Enforcer) - :cop: GitHub Bot For Validating Pull Request Mergability Requirements and Issues Structure
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [gulpjs/findup-sync](https://github.com/gulpjs/findup-sync) - Find the first file matching a given pattern in the current directory or the nearest ancestor directory.
@@ -14228,7 +14228,7 @@
 - [rgthree/rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Making ComfyUI more comfortable!
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [stassius/StableHoudini](https://github.com/stassius/StableHoudini) - Stable Diffusion Houdini Toolset
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C++
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
@@ -14780,7 +14780,7 @@
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
-- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
