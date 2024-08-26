@@ -803,7 +803,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap-projects
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -1515,7 +1515,7 @@
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [obsfx/libgen-downloader](https://github.com/obsfx/libgen-downloader) - A simple tool to search and download ebooks from libgen via terminal user interface.
 - [projectwallace/wallace-cli](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics on the CLI
@@ -1806,7 +1806,7 @@
 
 ## computer-science 
 
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -9785,7 +9785,7 @@
 - [nvim-telescope/telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim) - A history implementation that memorizes prompt input for a specific context
 - [thinca/vim-visualstar](https://github.com/thinca/vim-visualstar) - star for Visual-mode.
 - [not-an-aardvark/every-git-commit-shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash) - Git repository with a commit for every single shorthash
-- [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - UI accessibility infrastructure across platforms and programming languages
+- [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - Accessibility infrastructure for UI toolkits
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [open-osrs/runelite](https://github.com/open-osrs/runelite) - Actually open source Old School RuneScape client
@@ -13546,7 +13546,7 @@
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [KuiBaDB/KuiBaDB](https://github.com/KuiBaDB/KuiBaDB) - Another OLAP database
 - [plotly/plotly.rs](https://github.com/plotly/plotly.rs) - Plotly for Rust
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
