@@ -3259,7 +3259,7 @@
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
 - [project-serum/awesome-serum](https://github.com/project-serum/awesome-serum) - 
 - [remy/inliner](https://github.com/remy/inliner) - Node utility to inline images, CSS and JavaScript for a web page - useful for mobile sites
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hicetnunc2000/hicetnunc](https://github.com/hicetnunc2000/hicetnunc) - hicetnunc UI/UX
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [shuding/cc](https://github.com/shuding/cc) - Shu's Creative Coding template.
