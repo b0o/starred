@@ -338,7 +338,7 @@
 - [HelgeSverre/ollama-gui](https://github.com/HelgeSverre/ollama-gui) - A Web Interface for chatting with your local LLMs via the ollama API
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
@@ -422,7 +422,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
@@ -485,7 +485,7 @@
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
@@ -649,7 +649,7 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
@@ -1474,7 +1474,7 @@
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [prettier/prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig package designed for filtering filepaths
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -1940,7 +1940,7 @@
 - [jackguo380/vim-lsp-cxx-highlight](https://github.com/jackguo380/vim-lsp-cxx-highlight) - Vim plugin for C/C++/ObjC semantic highlighting using cquery, ccls, or clangd
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
@@ -2378,7 +2378,7 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [lexfridman/deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [michaelmendoza/learning-tensorflow](https://github.com/michaelmendoza/learning-tensorflow) - Simple Tensorflow tutorials for learning by example
 - [keijiro/Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
 - [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
@@ -3049,7 +3049,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
@@ -4446,7 +4446,9 @@
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search, recommendations, RAG, and analytics offered via API
 - [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -4458,6 +4460,7 @@
 - [timvisee/pixelpwnr-cast](https://github.com/timvisee/pixelpwnr-cast) - :tv: Insanely fast pixelflut client to cast your screen written in Rust.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [tamton-aquib/ice](https://github.com/tamton-aquib/ice) - A simple ctf tool store.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -4507,6 +4510,7 @@
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -4684,6 +4688,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [elementary/calendar](https://github.com/elementary/calendar) - Desktop calendar app designed for elementary OS
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -5162,7 +5167,7 @@
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [doronz88/harlogger](https://github.com/doronz88/harlogger) - Simple utlity for sniffing decrypted HTTP/HTTPS traffic on an macOS/iOS device (either jailbroken or not)
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [lucanaef/PGPro](https://github.com/lucanaef/PGPro) - OpenPGP En- & Decryption App for iOS
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ColdGrub1384/Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
@@ -6027,7 +6032,7 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [sago007/PlatformFolders](https://github.com/sago007/PlatformFolders) - A C++ library to look for special directories like "My Documents" and "%APPDATA%" so that you do not need to write Linux, Windows or Mac OS X specific code
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig package designed for filtering filepaths
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [hkupty/impromptu.nvim](https://github.com/hkupty/impromptu.nvim) - Create prompts fast and easy
 - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
@@ -6724,7 +6729,7 @@
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [joelowj/awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
 - [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Text Correction library written in Rust.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -8193,6 +8198,7 @@
 
 ## others 
 
+- [prman-pixar/RenderManForBlender](https://github.com/prman-pixar/RenderManForBlender) - RenderMan for Blender render addon
 - [Anttwo/sugar_frosting_blender_addon](https://github.com/Anttwo/sugar_frosting_blender_addon) - Blender add-on for editing scenes reconstructed with SuGaR or Gaussian Frosting.
 - [Tronikelis/xylene.nvim](https://github.com/Tronikelis/xylene.nvim) - The file tree neovim plugin inspired by oil.nvim and carbon.nvim
 - [timkruse/blender-tcpserver](https://github.com/timkruse/blender-tcpserver) - Background TCP Server to stream data into blender
@@ -9360,7 +9366,7 @@
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
-- [Explosion-Scratch/leocabbage2008-is-awesome](https://github.com/Explosion-Scratch/leocabbage2008-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/p4block-is-cool](https://github.com/Explosion-Scratch/p4block-is-cool) - Star to change the repo title to your username!
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
 - [redotjs/redot](https://github.com/redotjs/redot) - Graphviz dot file processor powered by plugins based on @unifiedjs
 - [gcmt/taboo.vim](https://github.com/gcmt/taboo.vim) - Few utilities for pretty tabs
@@ -12621,6 +12627,7 @@
 
 ## python 
 
+- [carson-katri/geometry-script](https://github.com/carson-katri/geometry-script) - A scripting API for Blender's Geometry Nodes
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open-sourced and modular GPT4-o
@@ -12822,7 +12829,7 @@
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [michaelmendoza/learning-tensorflow](https://github.com/michaelmendoza/learning-tensorflow) - Simple Tensorflow tutorials for learning by example
@@ -13027,7 +13034,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) - PyTorch implementation of Super SloMo by Jiang et al.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [Justin-Tan/high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -13098,7 +13105,7 @@
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [vbaicu/mMusicCast](https://github.com/vbaicu/mMusicCast) - Chromecast emulator that works on any platform. Stream videos from youtube to raspberry pi or any computer with the chromecast protocol.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
@@ -13142,10 +13149,9 @@
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [deinsoftware/vscode-vitest-snippets](https://github.com/deinsoftware/vscode-vitest-snippets) - VS Code Vitest snippets for JS and TS
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
 - [icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons) - 📦 This package provides the Simple Icons packaged as a set of React components.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -13555,6 +13561,7 @@
 
 ## rust 
 
+- [k2d222/wesl-playground](https://github.com/k2d222/wesl-playground) - WESL Shader Playground
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
@@ -13931,7 +13938,7 @@
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 
@@ -14617,7 +14624,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [lexfridman/deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [michaelmendoza/learning-tensorflow](https://github.com/michaelmendoza/learning-tensorflow) - Simple Tensorflow tutorials for learning by example
 - [renatosc/nnv](https://github.com/renatosc/nnv) - NNV - Neural Network Visualizer
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -15768,7 +15775,7 @@
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [ifreund/zig-wayland](https://github.com/ifreund/zig-wayland) - [mirror] Zig wayland scanner and libwayland bindings
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig package designed for filtering filepaths
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [greenfork/kisa](https://github.com/greenfork/kisa) - Text editor of the new world
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
