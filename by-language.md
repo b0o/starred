@@ -181,6 +181,7 @@
 
 ## C 
 
+- [arko9699/bonk](https://github.com/arko9699/bonk) - A 13u row-staggered keyboard using MX switches and STM32
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
@@ -526,7 +527,7 @@
 - [raboof/notion](https://github.com/raboof/notion) - Tiling tabbed window manager
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
 - [dancor/wmctrl](https://github.com/dancor/wmctrl) - wmctrl with extensions and 64bit support
 - [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
@@ -676,6 +677,8 @@
 
 ## C++ 
 
+- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+- [ldionne/dyno](https://github.com/ldionne/dyno) - Runtime polymorphism done right
 - [thecppzoo/zoo](https://github.com/thecppzoo/zoo) - Zoo library
 - [jfalcou/eve](https://github.com/jfalcou/eve) - Expressive Vector Engine - SIMD in C++ Goes Brrrr
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
@@ -1071,7 +1074,7 @@
 - [steemit/steem](https://github.com/steemit/steem) - The blockchain for Smart Media Tokens (SMTs) and decentralized applications.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [MasterSoft24/CloudCross](https://github.com/MasterSoft24/CloudCross) - CloudCross it's opensource crossplatform software for syncronization a local files and folders with many cloud providers. On this moment a Cloud Mail.Ru, Yandex.Disk, Google drive, OneDrive and Dropbo
 - [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
@@ -2033,7 +2036,7 @@
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
 - [MichaelTJones/gg](https://github.com/MichaelTJones/gg) - gg is smart grep for Go-language source code
 - [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ -- process various formats with libjq
-- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
+- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
 - [FeatureBaseDB/tools](https://github.com/FeatureBaseDB/tools) - Tools for development and ops
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
@@ -2277,7 +2280,7 @@
 - [monzo/intercom-go](https://github.com/monzo/intercom-go) - Go Bindings For Intercom
 - [monzo/typhon](https://github.com/monzo/typhon) - A wrapper around Go's net/http to provide safety and convenience. At Monzo, Typhon forms the basis of most clients and servers in our microservices platform.
 - [nzoschke/gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
-- [katydid/katydid](https://github.com/katydid/katydid) - Encoding Agnostic Validation (Validation Language, Parsers and Encoders)
+- [katydid/validator-gogo-deprecated-v0.3](https://github.com/katydid/validator-gogo-deprecated-v0.3) - Encoding Agnostic Validation (Validation Language, Parsers and Encoders)
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [prodhe/poe](https://github.com/prodhe/poe) - poe - acme-inspired terminal text editor
 - [rtr7/router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
@@ -2299,7 +2302,6 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [haya14busa/cachecmd](https://github.com/haya14busa/cachecmd) - cache command!
@@ -3203,7 +3205,7 @@
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [mozilla/lightbeam-we](https://github.com/mozilla/lightbeam-we) - Web Extension version of the Firefox Lightbeam add-on
 - [github/session-resume](https://github.com/github/session-resume) - Annotate fields to be persisted on navigation away from the current page
-- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
@@ -3813,6 +3815,7 @@
 - [goto-bus-stop/dzen2](https://github.com/goto-bus-stop/dzen2) - Use dzen2 from Node.js.
 - [Level/levelup](https://github.com/Level/levelup) - Superseded by abstract-level. A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
 - [browserify/wzrd.in](https://github.com/browserify/wzrd.in) - browserify as a service.
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [styled-components/styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [ramda/ramda-fantasy](https://github.com/ramda/ramda-fantasy) - :ram::sparkles: Fantasy-Land compatible types for easy integration with Ramda.js
@@ -4093,6 +4096,7 @@
 
 ## Lua 
 
+- [wurli/visimatch.nvim](https://github.com/wurli/visimatch.nvim) - A tiny Neovim plugin to highlight text matching the current selection in visual mode 💫
 - [Allaman/emoji.nvim](https://github.com/Allaman/emoji.nvim) - A plugin to search for and insert emojis/kaomojis right from Neovim 😀
 - [EvWilson/spelunk.nvim](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks in Neovim with a friendly UI.
 - [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) - 3rd party Neovim plugin that compliments https://mise.jdx.dev/
@@ -4746,6 +4750,7 @@
 
 ## Makefile 
 
+- [benji-york/minimal-python-and-zig](https://github.com/benji-york/minimal-python-and-zig) - A very simple project that builds a Zig library and calls it from Python.
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of some awesome public Zig programming language projects.
 - [shytikov/pragmasevka](https://github.com/shytikov/pragmasevka) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [PopoTeaTree/Morphing](https://github.com/PopoTeaTree/Morphing) - Morphing art from Morphing by Joseph Choma book with ChatGPT represents Mathematical transformations
@@ -5097,6 +5102,7 @@
 
 ## Others 
 
+- [rofrol/zig-companies](https://github.com/rofrol/zig-companies) - A list of companies using Zig in production.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - I've built with Stripe for years. This is how I do it without going mad.
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG) - Official implementation of NerualSVG
@@ -5968,7 +5974,7 @@
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [ibestvina/datasloth](https://github.com/ibestvina/datasloth) - Natural language Pandas queries and data generation powered by GPT-3
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
@@ -6754,6 +6760,7 @@
 
 ## Rust 
 
+- [picoHz/taxy](https://github.com/picoHz/taxy) - A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust.
 - [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
 - [graydon/exhaustigen-rs](https://github.com/graydon/exhaustigen-rs) - exhaustive testing library
 - [eboody/statum](https://github.com/eboody/statum) - Compile-time state machine magic for Rust: Zero-boilerplate typestate patterns with automatic transition validation
@@ -9206,6 +9213,7 @@
 
 ## Zig 
 
+- [kython28/leviathan](https://github.com/kython28/leviathan) - A lightning-fast Zig-powered event loop for Python's asyncio.
 - [FOLLGAD/zig-ai](https://github.com/FOLLGAD/zig-ai) - OpenAI SDK with streaming support
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [dpwm/zig-capnp](https://github.com/dpwm/zig-capnp) - Yet another capnproto code generator for zig
