@@ -1430,6 +1430,7 @@
 
 ## Go 
 
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 - [humanlayer/agentcontrolplane](https://github.com/humanlayer/agentcontrolplane) - ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous 
@@ -2951,6 +2952,8 @@
 
 ## JavaScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -3684,7 +3687,7 @@
 - [oduwsdl/Reconstructive](https://github.com/oduwsdl/Reconstructive) - A ServiceWorker for client-side reconstruction of composite mementos
 - [dtube/dtube](https://github.com/dtube/dtube) - :tv: d.tube app. A full-featured video sharing website, decentralized.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - DEPRECATED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [mozilla/libdweb](https://github.com/mozilla/libdweb) - Extension containing an experimental libdweb APIs
 - [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
@@ -5645,6 +5648,8 @@
 
 ## Python 
 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [vincenthopf/claude-code](https://github.com/vincenthopf/claude-code) - A curated list of commands, files, and workflows for Claude Code
 - [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework.
 - [c4pt0r/gmailtail](https://github.com/c4pt0r/gmailtail) - tail -f your gmail
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
@@ -6827,6 +6832,7 @@
 
 ## Ruby 
 
+- [parruda/claude-swarm](https://github.com/parruda/claude-swarm) - Easily launch a Claude Code session that is connected to a swarm of Claude Code Agents
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - 
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search
 - [tdarshana/Blex-Mono-Liga-Powerline](https://github.com/tdarshana/Blex-Mono-Liga-Powerline) - Amazing IBM Plex Mono font with Ligatures and Power line symbols.
@@ -7730,6 +7736,7 @@
 
 ## Shell 
 
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [AstroSteveo/claude-desktop-linux-installer](https://github.com/AstroSteveo/claude-desktop-linux-installer) - Claude Desktop installer with support for RHEL-based, Debian-based and Arch-based distros.
@@ -8165,6 +8172,9 @@
 
 ## TypeScript 
 
+- [wcygan/dotfiles](https://github.com/wcygan/dotfiles) - Configuration for Development Environments
+- [scopecraft/command](https://github.com/scopecraft/command) - Scopecraft Command - A CLI and MCP server for Markdown-Driven Task Management (MDTM)
+- [steadycursor/steadystart](https://github.com/steadycursor/steadystart) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [stravu/crystal](https://github.com/stravu/crystal) - An IVE: Integrated Vibe Environment
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
@@ -8190,7 +8200,7 @@
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [ben-sb/javascript-deobfuscator](https://github.com/ben-sb/javascript-deobfuscator) - General purpose JavaScript deobfuscator
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 Lightweight libraries for backends. Install one package, scale to production. Just a library, no SaaS.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 Rivet Actors is a library that provides durable state, realtime, and scalability. Easily self-hostable and works with your infrastructure. Just a library, no SaaS.
 - [sigalor/ghostscript-node](https://github.com/sigalor/ghostscript-node) - A Node.js library which can work with PDFs, based on Ghostscript and qpdf.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory.
@@ -8213,7 +8223,7 @@
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue automates workflows from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to automate complex workflows with just one prompt.
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue integrates & orchestrates APIs from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to generate insights, build automations an
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
@@ -8403,7 +8413,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [pingdotgg/webhookthing](https://github.com/pingdotgg/webhookthing) - 
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
-- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
+- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [stainless-api/stl-api](https://github.com/stainless-api/stl-api) - Stainless full-stack API Framework
