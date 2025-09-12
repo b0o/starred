@@ -266,7 +266,6 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [michaelforney/velox](https://github.com/michaelforney/velox) - velox window manager
 - [michaelforney/swc](https://github.com/michaelforney/swc) - a library for making a simple Wayland compositor
-- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [stevenxxiu/sshfs](https://github.com/stevenxxiu/sshfs) - A network filesystem client to connect to SSH servers
 - [aolserver/aolserver](https://github.com/aolserver/aolserver) - AOLserver is America Online's Open-Source web server. AOLserver is the backbone of the largest and busiest production environments in the world. AOLserver is a multithreaded, Tcl-enabled web server us
 - [Superxwolf/JavascriptCorePP](https://github.com/Superxwolf/JavascriptCorePP) - JavaScriptCore++ - A simple C++ 17 wrapper for JavaScriptCore
@@ -825,6 +824,7 @@
 - [NilsBrause/waylandpp](https://github.com/NilsBrause/waylandpp) - Wayland C++ bindings
 - [cpplibv/libv](https://github.com/cpplibv/libv) - A C++23 library collection
 - [dacap/clip](https://github.com/dacap/clip) - Cross-platform C++ library to copy/paste clipboard content
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [inducer/meshpy](https://github.com/inducer/meshpy) - 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 - [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python
 - [MohammadMD1383/ultrapy](https://github.com/MohammadMD1383/ultrapy) - 
@@ -2974,7 +2974,7 @@
 - [mcp-get/community-servers](https://github.com/mcp-get/community-servers) - This repository contains a collection of community-maintained Model Context Protocol (MCP) servers. All servers are automatically listed on the MCP Get registry and can be viewed and installed via CLI
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) - MCP web research server (give Claude real-time info from the web)
 - [smithery-ai/reference-servers](https://github.com/smithery-ai/reference-servers) - Model Context Protocol Servers
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) - A MCP Server for the RAG Web Browser Actor
 - [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
@@ -3008,7 +3008,7 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [3rl-io/spidgets-3dof](https://github.com/3rl-io/spidgets-3dof) - Example app for spatial widgets with 3DoF
 - [kagisearch/browser_extensions](https://github.com/kagisearch/browser_extensions) - Official companion browser extensions for Kagi Search (Chrome, Firefox)
-- [purarue/tree-sitter-rifleconfig](https://github.com/purarue/tree-sitter-rifleconfig) - rifle (ranger filemanager file opener) grammar for tree-sitter
+- [purarue/tree-sitter-rifleconf](https://github.com/purarue/tree-sitter-rifleconf) - rifle (ranger filemanager file opener) grammar for tree-sitter
 - [kefiijrw/Round-Corners-Customization-for-Illustrator](https://github.com/kefiijrw/Round-Corners-Customization-for-Illustrator) - Corner rounding customization script for Adobe Illustator
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
@@ -4252,7 +4252,7 @@
 - [bjornbytes/RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua
 - [jim-fx/sudoku.nvim](https://github.com/jim-fx/sudoku.nvim) - 
 - [AstroNvim/astrolsp](https://github.com/AstroNvim/astrolsp) - LSP Configuration Engine built for AstroNvim
-- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
+- [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 - [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) - A scrollable `watch` alternative for Neovim.
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
@@ -5152,6 +5152,7 @@
 
 ## Objective-C 
 
+- [opentok/CallKit](https://github.com/opentok/CallKit) - A sample app to demonstrate how to integrate Apple CallKit into OpenTok iOS SDK
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) - Add new abilities to the macOS keep-awake utility, Amphetamine.
@@ -5216,7 +5217,7 @@
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [soGeneri/awesome-launch](https://github.com/soGeneri/awesome-launch) - A curated directory of free and friendly communities to showcase your side projects!
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [rofrol/zig-companies](https://github.com/rofrol/zig-companies) - A list of companies using Zig in production.
+- [rofrol/zig-companies-and-organizations](https://github.com/rofrol/zig-companies-and-organizations) - A list of companies using Zig in production.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
@@ -5242,7 +5243,7 @@
 - [janwilmans/guidelines](https://github.com/janwilmans/guidelines) - C++ Default Guidelines
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
-- [nvim-neorocks/nvim-best-practices](https://github.com/nvim-neorocks/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
+- [lumen-oss/nvim-best-practices](https://github.com/lumen-oss/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [grapp-dev/code-swap.nvim](https://github.com/grapp-dev/code-swap.nvim) - 
 - [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.)
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
@@ -5918,7 +5919,7 @@
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
@@ -6220,7 +6221,7 @@
 - [solderparty/flexypin](https://github.com/solderparty/flexypin) - 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
-- [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
+- [djrobstep/migra](https://github.com/djrobstep/migra) - DEPRECATED: Like diff but for PostgreSQL schemas
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -6940,7 +6941,7 @@
 - [alshdavid/ion](https://github.com/alshdavid/ion) - A Positively charged JavaScript Runtime
 - [Julien-cpsn/desktop-tui](https://github.com/Julien-cpsn/desktop-tui) - A desktop environment without graphics
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
-- [BeaconBay/ck](https://github.com/BeaconBay/ck) - Semantic grep tool for use by AI and humans!
+- [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker
 - [rari-build/rari](https://github.com/rari-build/rari) - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 4x faster performance than Next.js with zero-config setup 
@@ -6967,7 +6968,7 @@
 - [karimould/zellij-forgot](https://github.com/karimould/zellij-forgot) - A Zellij plugin to remember your keybinds and all the other things you want to remember
 - [dj95/zjstatus](https://github.com/dj95/zjstatus) - A configurable statusbar plugin for zellij
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
-- [nvim-neorocks/lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [errantmind/faf](https://github.com/errantmind/faf) - FaF Web Server
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
@@ -7722,7 +7723,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -8160,6 +8161,7 @@
 
 ## Swift 
 
+- [livekit-examples/agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) - AI voice assistant starter app for iOS, macOS, and visionOS built with LiveKit
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
@@ -8222,7 +8224,8 @@
 
 ## TypeScript 
 
-- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 - [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC
 - [socketio/bun-engine](https://github.com/socketio/bun-engine) - The Socket.IO low-level engine for Bun
