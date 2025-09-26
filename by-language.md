@@ -94,7 +94,6 @@
 - [Others](#others)
 - [PEG.js](#peg.js)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -664,6 +663,7 @@
 
 ## C# # 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [SupinePandora43/UltralightNet](https://github.com/SupinePandora43/UltralightNet) - .NET bindings for Ultralight next-gen HTML renderer
@@ -697,6 +697,7 @@
 
 ## C++ 
 
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy.
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
@@ -1435,6 +1436,7 @@
 
 ## Go 
 
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq
 - [realtime-ai/realtime-ai](https://github.com/realtime-ai/realtime-ai) - A real-time Agent framework  for audio and video.
@@ -1473,6 +1475,7 @@
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [AudDMusic/RedditBot](https://github.com/AudDMusic/RedditBot) - Music recognition bot for Reddit powered by audd.io
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
@@ -1581,7 +1584,7 @@
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [progrium/shelldriver](https://github.com/progrium/shelldriver) - 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [kevinschoon/pomo](https://github.com/kevinschoon/pomo) - Pomodoro CLI
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -1669,7 +1672,7 @@
 - [sqp/pulseaudio](https://github.com/sqp/pulseaudio) - pulseaudio dbus client for go
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
 - [goreleaser/goreleaser-pro](https://github.com/goreleaser/goreleaser-pro) - Release engineering, simplified
-- [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, MS SQL
+- [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 - [schemalex/schemalex](https://github.com/schemalex/schemalex) - Generate difference sql of two mysql schema
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [yarpc/yarpc-go](https://github.com/yarpc/yarpc-go) - A message passing platform for Go
@@ -2381,7 +2384,7 @@
 - [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
 - [mkideal/cli](https://github.com/mkideal/cli) - CLI - A package for building command line app with go
 - [Bowery/prompt](https://github.com/Bowery/prompt) - Cross platform prompting library
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [gwatts/pinfinder](https://github.com/gwatts/pinfinder) - Recovers the screen time or restrictions passcode on iOS devices from an iTunes backup (iOS 8-12 only!)
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
@@ -3198,7 +3201,7 @@
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [eligrey/canvas-toBlob.js](https://github.com/eligrey/canvas-toBlob.js) - A canvas.toBlob() implementation
 - [dhruv-y/urban-foraging-app](https://github.com/dhruv-y/urban-foraging-app) - React Native App for Urban Foraging
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [jersonlatorre/36daysoftype-2020](https://github.com/jersonlatorre/36daysoftype-2020) - 
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [azer/prova](https://github.com/azer/prova) - Test runner based on Tape and Browserify
@@ -4169,6 +4172,7 @@
 
 ## Lua 
 
+- [jbadeau/mise-nix](https://github.com/jbadeau/mise-nix) - A backend plugin for Mise that allows you to install and manage packages using Nix
 - [ninetyfive-gg/ninetyfive.nvim](https://github.com/ninetyfive-gg/ninetyfive.nvim) - A Neovim plugin that provides really fast code suggestions.
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - Not a plugin manager, but plugin magazine 💅
@@ -4902,7 +4906,14 @@
 
 ## Nix 
 
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
+- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
+- [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
+- [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
+- [lf-/flakey-profile](https://github.com/lf-/flakey-profile) - Declarative profiles with nix flakes
 - [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix) - Kickstart your Nix environment.
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -5612,10 +5623,6 @@
 - [shouldbee/reserved-usernames](https://github.com/shouldbee/reserved-usernames) - 590+ usernames in this dictionary! A list of reserved usernames to prevent url collision with resource paths. This repository hosts the list in multiple formats like JSON, CSV, SQL and plain text. You
 - [ndejong/pfsense_fauxapi](https://github.com/ndejong/pfsense_fauxapi) - REST based API interface for pfSense 2.3.x and 2.4.x to facilitate devops
 
-## PLpgSQL 
-
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
-
 ## Pascal 
 
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
@@ -5647,7 +5654,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
@@ -5896,7 +5902,7 @@
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [openai/grok](https://github.com/openai/grok) - 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -5907,7 +5913,6 @@
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - Data-Driven Evaluation for LLM-Powered Applications
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
@@ -6947,12 +6952,18 @@
 
 ## Rust 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
+- [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
+- [143mailliw/hummingbird](https://github.com/143mailliw/hummingbird) - Modern music player written in Rust using GPUI with a focus on design and performance
+- [gpui-elements/gpui_squircle](https://github.com/gpui-elements/gpui_squircle) - A squircle component for gpui.
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [kvark/blade](https://github.com/kvark/blade) - Sharp and simple graphics library
 - [duanebester/gpui-todos](https://github.com/duanebester/gpui-todos) - A todo app written in GPUI
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [zed-industries/create-gpui-app](https://github.com/zed-industries/create-gpui-app) - CRA-style tool for creating new gpui apps
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [duanebester/pgui](https://github.com/duanebester/pgui) - GUI app to query Postgres - Powered by GPUI
 - [duanebester/gpui-websocket](https://github.com/duanebester/gpui-websocket) - GPUI with background web sockets
 - [alshdavid/ion](https://github.com/alshdavid/ion) - A Positively Charged JavaScript Runtime
@@ -8239,6 +8250,8 @@
 
 ## TypeScript 
 
+- [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
@@ -8248,7 +8261,7 @@
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [wobsoriano/svelte-clerk](https://github.com/wobsoriano/svelte-clerk) - Community Clerk Svelte SDK.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - cmux lets you run Claude Code, Codex CLI, Cursor CLI, Gemini CLI, Amp, Opencode, and other coding agent CLIs in parallel across multiple tasks
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [possibilities/claude-code-inject](https://github.com/possibilities/claude-code-inject) - 
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -8258,7 +8271,7 @@
 - [scopecraft/command](https://github.com/scopecraft/command) - Scopecraft Command - A CLI and MCP server for Markdown-Driven Task Management (MDTM)
 - [steadycursor/steadystart](https://github.com/steadycursor/steadystart) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
@@ -8299,6 +8312,7 @@
 - [mikotoIO/mikoto](https://github.com/mikotoIO/mikoto) - The Mikoto Monorepo
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -9022,7 +9036,7 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [jaredly/jerd](https://github.com/jaredly/jerd) - 
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
+- [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the Ory Hydra User Login and Consent interface written in TypeScript and ExpressJS.
 - [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
