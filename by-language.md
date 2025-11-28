@@ -195,6 +195,7 @@
 
 ## C 
 
+- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
@@ -350,7 +351,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [yuq/xtrace](https://github.com/yuq/xtrace) - X11 protocol monitor with DRI3/Present/RandR 1.4 support
 - [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [markusmoenig/SignedLua](https://github.com/markusmoenig/SignedLua) - Signed is a 3D modeling and construction language based on Lua and SDFs. Signed will be available for macOS and iOS and is heavily optimized for Metal.
 - [cy384/ssheven](https://github.com/cy384/ssheven) - A minimal new SSH client for Mac OS 7/8/9
 - [antirez/pngtostl](https://github.com/antirez/pngtostl) - Turn PNG images into STL 3D models that will "develop" in front of a light source
@@ -9765,7 +9766,7 @@
 - [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 ## jq 
