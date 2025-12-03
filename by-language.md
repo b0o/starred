@@ -1907,7 +1907,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
 - [cmpxchg16/go-sslterminator](https://github.com/cmpxchg16/go-sslterminator) - SSL termination proxy
 - [bluele/factory-go](https://github.com/bluele/factory-go) - A library for setting up Golang objects inspired by factory_bot.
 - [purpledb/purple](https://github.com/purpledb/purple) - An all-in-one data service (caching + K/V + flags + counters + sets) for microservices and FaaS functions. gRPC and HTTP interfaces.
@@ -4178,6 +4178,7 @@
 
 ## Lua 
 
+- [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) - 
 - [gbroques/cmp-ripgrep-flags](https://github.com/gbroques/cmp-ripgrep-flags) - nvim-cmp completion source for ripgrep flags.
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
@@ -5243,6 +5244,8 @@
 
 ## Others 
 
+- [b-/authentik-deploy](https://github.com/b-/authentik-deploy) - Authentik docker-compose gitops deployment
+- [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
 - [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - How to stay safe from NPM supply chain attacks
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [WICG/email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
@@ -7895,6 +7898,7 @@
 
 ## Shell 
 
+- [b-/arr-deploy](https://github.com/b-/arr-deploy) - 
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [victor-falcon/zellij-sessionizer](https://github.com/victor-falcon/zellij-sessionizer) - A fuzzy finder-powered project switcher for Zellij sessions. Quickly navigate and switch between your development projects using fzf and automatically create or switch to Zellij sessions with the prop
@@ -8344,6 +8348,7 @@
 
 ## TypeScript 
 
+- [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [spences10/claude-skills-cli](https://github.com/spences10/claude-skills-cli) - 
@@ -8542,7 +8547,7 @@
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [rametta/pratica](https://github.com/rametta/pratica) - 🥃 Functional Algebraic Data Types
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [davepagurek/glsl-autodiff](https://github.com/davepagurek/glsl-autodiff) - Tired of doing math to get normals in your vertex shader? Same.
 - [R-js/libRmath.js](https://github.com/R-js/libRmath.js) - Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
