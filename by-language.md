@@ -5032,6 +5032,7 @@
 - [ocaml/ood](https://github.com/ocaml/ood) - OCaml.org v3 data repository
 - [jsthomas/tidy_email](https://github.com/jsthomas/tidy_email) - An OCaml wrapper library that makes it easy to send email with different services.
 - [charlesetc/feather](https://github.com/charlesetc/feather) - A shell library for OCaml
+- [davesnx/ocaml-box](https://github.com/davesnx/ocaml-box) - Render boxes in the terminal with OCaml or Reason
 - [RedPRL/cooltt](https://github.com/RedPRL/cooltt) - 😎TT
 - [remixlabs/wasicaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly
 - [chetmurthy/utjson](https://github.com/chetmurthy/utjson) - Union Typing for JSON
@@ -6882,7 +6883,6 @@
 - [aantron/reason-native-hello](https://github.com/aantron/reason-native-hello) - The smallest possible Reason Native project
 - [jsiebern/re-typescript](https://github.com/jsiebern/re-typescript) - An opinionated attempt at finally solving typescript interop for ReasonML / OCaml.
 - [believer/color](https://github.com/believer/color) - Ratio and score for colors according to WCAG
-- [davesnx/ocaml-box](https://github.com/davesnx/ocaml-box) - Render boxes in the terminal with OCaml or Reason
 - [rolandpeelen/melange-pancake](https://github.com/rolandpeelen/melange-pancake) - A lens library so small in use you'd hardly notice it's there...
 - [cometkim/reason-todomvc](https://github.com/cometkim/reason-todomvc) - TodoMVC implementation written in ReasonML
 - [shakacode/re-formality](https://github.com/shakacode/re-formality) - Form validation tool for reason-react
@@ -8550,7 +8550,7 @@
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [davepagurek/glsl-autodiff](https://github.com/davepagurek/glsl-autodiff) - Tired of doing math to get normals in your vertex shader? Same.
-- [R-js/libRmath.js](https://github.com/R-js/libRmath.js) - Javascript Pure Implementation of Statistical R "core" numerical libRmath.so
+- [R-js/libRmath.js](https://github.com/R-js/libRmath.js) - This R statistical nmath module re-created in typescript/javascript and handwritten webassembly.
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
