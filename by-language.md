@@ -4179,6 +4179,8 @@
 
 ## Lua 
 
+- [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) - 
 - [gbroques/cmp-ripgrep-flags](https://github.com/gbroques/cmp-ripgrep-flags) - nvim-cmp completion source for ripgrep flags.
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
@@ -7172,7 +7174,7 @@
 - [willothy/whirlwind](https://github.com/willothy/whirlwind) - 🌀 Async-first sharded hashmap for Rust.
 - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [yoshuawuyts/rustcpp](https://github.com/yoshuawuyts/rustcpp) - 
 - [torrancew/xapian-rs](https://github.com/torrancew/xapian-rs) - Rust bindings for the Xapian search engine
@@ -7213,7 +7215,7 @@
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenA
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & orchestration, guardrails, zero-code logs and traces, unified access to L
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [nobuyuki83/floor_plan](https://github.com/nobuyuki83/floor_plan) - 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -8349,6 +8351,8 @@
 
 ## TypeScript 
 
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
@@ -8388,7 +8392,7 @@
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
 - [tscircuit/simple-3d-svg](https://github.com/tscircuit/simple-3d-svg) - An extremely simple 3D SVG renderer (20KB minified)
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
