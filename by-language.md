@@ -5712,6 +5712,7 @@
 
 ## Python 
 
+- [Yanndroid/SiriRemote-Linux](https://github.com/Yanndroid/SiriRemote-Linux) - Control your Linux machine with an Apple TV 4th Siri Remote
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [miphreal/python-rofi-menu](https://github.com/miphreal/python-rofi-menu) - Build rofi menu via python
