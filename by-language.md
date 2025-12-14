@@ -46,6 +46,7 @@
 - [Fluent](#fluent)
 - [G-code](#g-code)
 - [GLSL](#glsl)
+- [Gleam](#gleam)
 - [Go](#go)
 - [Groff](#groff)
 - [HTML](#html)
@@ -1439,8 +1440,16 @@
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
 - [libretro/glsl-shaders](https://github.com/libretro/glsl-shaders) - This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.
 
+## Gleam 
+
+- [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
+- [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
+
 ## Go 
 
+- [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖
+- [steveyegge/vc](https://github.com/steveyegge/vc) - VC - AI-orchestrated coding agent colony
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -1622,6 +1631,7 @@
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [WithGJR/regit-go](https://github.com/WithGJR/regit-go) - ReGit: A Tiny Git-Compatible Git Implementation
 - [riesinger/golorem](https://github.com/riesinger/golorem) - CLI lorem ipsum generator written in Go
+- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [peterbourgon/unixtransport](https://github.com/peterbourgon/unixtransport) - Support for Unix domain sockets in Go HTTP clients
@@ -4181,6 +4191,7 @@
 
 ## Lua 
 
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) - 
@@ -5735,7 +5746,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) - On-device TTS model by Neuphonic
 - [daaain/claude-code-log](https://github.com/daaain/claude-code-log) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
-- [diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite) - A ComfyUI custom node integration for multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, IndexTTS-2, Chatterbox (classic and multilingual 23-lang), F5-TTS, Higgs Audio 2 a
+- [diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite) - A ComfyUI custom node integration for multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual 23-lang), F5-TT
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder
 - [bytedance/USO](https://github.com/bytedance/USO) - 🔥🔥 Open-sourced unified customization model
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
@@ -7013,6 +7024,7 @@
 
 ## Rust 
 
+- [arxanas/scm-record](https://github.com/arxanas/scm-record) - `scm-record` is a UI component to interactively select changes to include in a commit. It's meant to be embedded in source control tooling.
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [KZGlobalTeam/cs2kz-api](https://github.com/KZGlobalTeam/cs2kz-api) - Backend infrastructure for CS2KZ
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
@@ -8359,6 +8371,7 @@
 
 ## TypeScript 
 
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [PostHog/posthog.com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog.
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
@@ -9444,7 +9457,6 @@
 - [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) - A fork of textobj-parameter 0.1.0
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
-- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [ellisonleao/from-vimscript-to-lua](https://github.com/ellisonleao/from-vimscript-to-lua) - 
 - [ericbn/vim-relativize](https://github.com/ericbn/vim-relativize) - This Vim plugin only shows relative line numbers when you need them.
 - [vim-scripts/RelOps](https://github.com/vim-scripts/RelOps) - Relative line numbers for pending operations
