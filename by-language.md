@@ -682,7 +682,7 @@
 - [UniversalSplitScreen/UniversalSplitScreen](https://github.com/UniversalSplitScreen/UniversalSplitScreen) - Split screen multiplayer for any game with multiple keyboards, mice and controllers.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
-- [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
+- [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - for more information look here:
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ide
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [clausthaler-devel/crp-parser](https://github.com/clausthaler-devel/crp-parser) - 
@@ -699,6 +699,7 @@
 
 ## C++ 
 
+- [SugaryHull/re3](https://github.com/SugaryHull/re3) - Fuck you, Take Two
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -730,7 +731,7 @@
 - [evanw/kiwi](https://github.com/evanw/kiwi) - A schema-based binary format for efficiently encoding trees of data
 - [csmith-project/creduce](https://github.com/csmith-project/creduce) - C-Reduce, a C and C++ program reducer
 - [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
-- [google/crubit](https://github.com/google/crubit) - 
+- [google/crubit](https://github.com/google/crubit) - A bidirectional bindings generator for C++ and Rust.
 - [ribtoks/chillout](https://github.com/ribtoks/chillout) - Simple cross-platform crash handling library for desktop native apps
 - [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - Nvy - A Neovim client in C++
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement
@@ -758,7 +759,7 @@
 - [martinmoene/lest](https://github.com/martinmoene/lest) - A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD (includes C++98 variant)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [madsen/vbindiff](https://github.com/madsen/vbindiff) - Visual Binary Diff (VBinDiff) displays files in hex & ASCII and can highlight the differences between 2 files
-- [stlab/libraries](https://github.com/stlab/libraries) - ASL libraries will be migrated here in the stlab namespace, new libraries will be created here.
+- [stlab/stlab](https://github.com/stlab/stlab) - ASL libraries will be migrated here in the stlab namespace, new libraries will be created here.
 - [CoffeeBeforeArch/mmul](https://github.com/CoffeeBeforeArch/mmul) - Serial and parallel implementations of matrix multiplication
 - [CoffeeBeforeArch/parallel_cpp](https://github.com/CoffeeBeforeArch/parallel_cpp) - 
 - [intel/compile-time-init-build](https://github.com/intel/compile-time-init-build) - C++ library for composing modular firmware at compile-time.
@@ -913,7 +914,7 @@
 - [binspector/binspector](https://github.com/binspector/binspector) - A binary format analysis tool
 - [radiantly/you-cant-download-this-image](https://github.com/radiantly/you-cant-download-this-image) - Downloading images from the web is as easy as right clicking them and selecting "Save image as..", right? Well, not anymore xD
 - [osm2pgsql-dev/osm2pgsql](https://github.com/osm2pgsql-dev/osm2pgsql) - Import OpenStreetMap data into a PostgreSQL/PostGIS database
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [fusionlanguage/fut](https://github.com/fusionlanguage/fut) - Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
 - [traumverloren/morse-code-ring](https://github.com/traumverloren/morse-code-ring) - Ring powered by an adafruit gemma + neopixel that sends a positive affirmation message to me via morse code
@@ -1976,7 +1977,7 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [kyleconroy/sqlc-tour](https://github.com/kyleconroy/sqlc-tour) - 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Kafka-style message streaming in Go. Built on NATS. Single binary,  no JVM, no ZooKeeper.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [bradfitz/gitutil](https://github.com/bradfitz/gitutil) - Utilities for working with git and Gerrit
@@ -4190,6 +4191,7 @@
 
 ## Lua 
 
+- [esmuellert/vscode-diff.nvim](https://github.com/esmuellert/vscode-diff.nvim) - A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 - [trip-zip/somewm](https://github.com/trip-zip/somewm) - Not quite awesome...just some.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
@@ -5052,7 +5054,7 @@
 - [remixlabs/wasicaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly
 - [chetmurthy/utjson](https://github.com/chetmurthy/utjson) - Union Typing for JSON
 - [timbertson/opam2nix](https://github.com/timbertson/opam2nix) - Generate nix expressions from opam packages
-- [lemaetech/wtr](https://github.com/lemaetech/wtr) - HTTP request routing library for OCaml web applications.
+- [bikallem/wtr](https://github.com/bikallem/wtr) - HTTP request routing library for OCaml web applications.
 - [jobjo/popper](https://github.com/jobjo/popper) - Property-based testing at ease
 - [tmattio/dream-cli](https://github.com/tmattio/dream-cli) - Command Line Interface for Dream applications.
 - [tmattio/dream-livereload](https://github.com/tmattio/dream-livereload) - Live reloading for Dream applications
@@ -5283,7 +5285,6 @@
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [soGeneri/awesome-launch](https://github.com/soGeneri/awesome-launch) - A curated directory of free and friendly communities to showcase your side projects!
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -5726,6 +5727,8 @@
 
 ## Python 
 
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
+- [DeepBlueDynamics/codex-container](https://github.com/DeepBlueDynamics/codex-container) - Automate everything. Codex in a local Docker container with cron, file watchers, webhooks, search/indexing, speech, and hundreds of tools on tap.
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Local-first AI-powered document intelligence platform for investigative journalism
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
@@ -5802,6 +5805,7 @@
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [Tsadoq/ErisForge](https://github.com/Tsadoq/ErisForge) - Dead Simple LLM Abliteration
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [BrendanParmer/NodeToPython](https://github.com/BrendanParmer/NodeToPython) - Convert Blender node groups to a Python add-on
 - [aras-p/blender-vse-doom](https://github.com/aras-p/blender-vse-doom) - Doom running in Blender VSE timeline
 - [simonw/llm-cmd](https://github.com/simonw/llm-cmd) - Use LLM to generate and execute commands in your shell
@@ -7025,6 +7029,9 @@
 
 ## Rust 
 
+- [minikin/presence-rs](https://github.com/minikin/presence-rs) - A Rust library providing a tri-state type for representing value presence in schemas and data structures.
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
+- [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wong-justin/vic](https://github.com/wong-justin/vic) - Trim videos in the terminal
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -8378,6 +8385,7 @@
 
 ## TypeScript 
 
+- [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, beads integration, and Agent Mail
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [folk-js/allio](https://github.com/folk-js/allio) - Experimental system to expose accessibility trees as read-write interfaces and augment existing apps with new UI affordances.
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
@@ -8826,7 +8834,7 @@
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without der
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks gives you the building blocks and infrastructure to enable people and AI to work together inside your app.
 - [dsvgit/slatesbox](https://github.com/dsvgit/slatesbox) - Slate editor plugins system. Drag and drop, folding implementation.
 - [ianstormtaylor/void](https://github.com/ianstormtaylor/void) - A toolkit for making generative art.
 - [devietti/trpc-next13-app](https://github.com/devietti/trpc-next13-app) - tRPC + Next 13 app directory + TypeScript
@@ -9787,7 +9795,8 @@
 
 ## Zig 
 
-- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
+- [Jarred-Sumner/poof](https://github.com/Jarred-Sumner/poof) - Ephemeral filesystem isolation via Linux overlayfs (experimental)
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - Full-stack web framework for Zig. HTML syntax within your Zig code, just like JSX but for Zig!
 - [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [kython28/leviathan](https://github.com/kython28/leviathan) - A lightning-fast Zig-powered event loop for Python's asyncio.
