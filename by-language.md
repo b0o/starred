@@ -2970,6 +2970,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [kagisearch/privacypass-extension](https://github.com/kagisearch/privacypass-extension) - Source code for the Chrome and Firefox versions of the Kagi Privacy Pass browser extension
 - [tmikov/imgui-react-runtime](https://github.com/tmikov/imgui-react-runtime) - React + Dear ImGui + Static Hermes
 - [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
@@ -8299,6 +8300,7 @@
 ## Svelte 
 
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
+- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
@@ -8420,7 +8422,6 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Claude Code web/Codex Cloud/Devin alternative
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [possibilities/claude-code-inject](https://github.com/possibilities/claude-code-inject) - 
-- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [pmndrs/prai](https://github.com/pmndrs/prai) - JS Framework for building step-by-step LLM instructions
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
