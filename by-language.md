@@ -2972,6 +2972,7 @@
 
 ## JavaScript 
 
+- [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [kagisearch/privacypass-extension](https://github.com/kagisearch/privacypass-extension) - Source code for the Chrome and Firefox versions of the Kagi Privacy Pass browser extension
 - [tmikov/imgui-react-runtime](https://github.com/tmikov/imgui-react-runtime) - React + Dear ImGui + Static Hermes
@@ -8395,6 +8396,8 @@
 
 ## TypeScript 
 
+- [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+- [R44VC0RP/openpad](https://github.com/R44VC0RP/openpad) - Native iPad app for OpenCode - browse sessions, projects and view chat conversations
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — S
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management
