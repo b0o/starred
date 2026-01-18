@@ -97,6 +97,7 @@
 - [Others](#others)
 - [PEG.js](#peg.js)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -1439,7 +1440,6 @@
 
 ## Fluent 
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative) - Cross-platform version of the iNat mobile app
 
 ## G-code 
@@ -1896,6 +1896,7 @@
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [trubitsyn/go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [alrs/surfsticker](https://github.com/alrs/surfsticker) - Manage sticky suckless surf windows.
 - [danfragoso/thdwb](https://github.com/danfragoso/thdwb) - 🌭 The hotdog web browser and browser engine 🌭
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
@@ -3043,6 +3044,7 @@
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [jochen-schweizer/express-prom-bundle](https://github.com/jochen-schweizer/express-prom-bundle) - express middleware with standard prometheus metrics in one bundle
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [Pindrought/Ultralight-1_4-Demo-Project](https://github.com/Pindrought/Ultralight-1_4-Demo-Project) - 
@@ -5708,6 +5710,10 @@
 - [shouldbee/reserved-usernames](https://github.com/shouldbee/reserved-usernames) - 590+ usernames in this dictionary! A list of reserved usernames to prevent url collision with resource paths. This repository hosts the list in multiple formats like JSON, CSV, SQL and plain text. You
 - [ndejong/pfsense_fauxapi](https://github.com/ndejong/pfsense_fauxapi) - REST based API interface for pfSense 2.3.x and 2.4.x to facilitate devops
 
+## PLpgSQL 
+
+- [johnwatson11218/LatentTopicExplorer](https://github.com/johnwatson11218/LatentTopicExplorer) - Application to discover and explore topics in a pdf corpus.
+
 ## Pascal 
 
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
@@ -7572,7 +7578,7 @@
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [MiSawa/xq](https://github.com/MiSawa/xq) - Pure rust implementation of jq
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
-- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
+- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [smolck/spotify.nvim](https://github.com/smolck/spotify.nvim) - WIP Spotify plugin w/Telescope integration: don't use this yet!
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Neovim plug-ins
@@ -9323,7 +9329,6 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [tesseralis/polyhedra-viewer](https://github.com/tesseralis/polyhedra-viewer) - Explore the relationships between convex regular-faced polyhedra.
-- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
