@@ -1295,6 +1295,7 @@
 
 ## Cython 
 
+- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [capnproto/pycapnp](https://github.com/capnproto/pycapnp) - Cap'n Proto serialization/RPC system - Python bindings
 
 ## D 
@@ -2465,7 +2466,7 @@
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [gdamore/govisor](https://github.com/gdamore/govisor) - govisor is a service management framework for Go and processes, inspired by Solaris SMF
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
@@ -4868,7 +4869,7 @@
 - [neovim/lua-client](https://github.com/neovim/lua-client) - DEPRECATED
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [SimonLarsen/mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
 - [letoram/durden](https://github.com/letoram/durden) - Desktop Environment for Arcan
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -5879,7 +5880,6 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [Dalibor-P/blender](https://github.com/Dalibor-P/blender) - 🎨 Soothing pastel theme for Blender
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
-- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kingoflolz/mic_gateware](https://github.com/kingoflolz/mic_gateware) - 
 - [kingoflolz/mic_host](https://github.com/kingoflolz/mic_host) - 
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various
@@ -7079,6 +7079,8 @@
 
 ## Rust 
 
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
+- [bearcove/dibs](https://github.com/bearcove/dibs) - Postgres toolkit for Rust, powered by facet reflection
 - [amtoine/nu_plugin_kdl](https://github.com/amtoine/nu_plugin_kdl) - A plugin to add KDL support to Nushell.
 - [joshprk/jsonkdl](https://github.com/joshprk/jsonkdl) - json to kdl converter
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) - A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
@@ -7168,7 +7170,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
-- [rari-build/rari](https://github.com/rari-build/rari) - Rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14x faster P99 latency (&lt; 2ms vs 28ms) and 12x higher throughput (21,263 vs 1,760 req/sec) than Next.j
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14x faster P99 latency (&lt; 2ms vs 28ms) and 12x higher throughput (21,263 vs 1,760 req/sec) than Next.j
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
@@ -7226,7 +7228,7 @@
 - [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [ldclabs/anda](https://github.com/ldclabs/anda) - 🤖 An AI agent framework built with Rust, powered by ICP and TEEs.
 - [jsdw/yap](https://github.com/jsdw/yap) - Yet Another Parser library for Rust. A lightweight, dependency free, parser combinator inspired set of utility methods to help with parsing strings and slices.
@@ -8048,7 +8050,7 @@
 - [jgmdev/wl-color-picker](https://github.com/jgmdev/wl-color-picker) - A wayland color picker that also works on wlroots
 - [ncopa/lddtree](https://github.com/ncopa/lddtree) - Fork of pax-utils' lddtree.sh
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
-- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
+- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master, multi-node Kubernetes homelab using kubeadm, Ansible, Helm and Terraform.
 - [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 100+ companies.
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
@@ -8546,7 +8548,7 @@
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [ben-sb/javascript-deobfuscator](https://github.com/ben-sb/javascript-deobfuscator) - General purpose JavaScript deobfuscator
-- [sigalor/ghostscript-node](https://github.com/sigalor/ghostscript-node) - A Node.js library which can work with PDFs, based on Ghostscript and qpdf.
+- [divizend/ghostscript-node](https://github.com/divizend/ghostscript-node) - A Node.js library which can work with PDFs, based on Ghostscript and qpdf.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
 - [k0d13/next-ws](https://github.com/k0d13/next-ws) - WebSockets inside Next.js app routes
 - [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) - ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.
@@ -8826,7 +8828,7 @@
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [breeko/j-dev](https://github.com/breeko/j-dev) - 
-- [openchatai/copilot](https://github.com/openchatai/copilot) - 
+- [opencx-labs/copilot](https://github.com/opencx-labs/copilot) - 
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [zth/pgtyped-rescript](https://github.com/zth/pgtyped-rescript) - pgTyped ReScript - Typesafe SQL in ReScript
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
@@ -9253,7 +9255,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [electron/universal](https://github.com/electron/universal) - Create Universal macOS applications from two x64 and arm64 Electron applications
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
