@@ -3715,7 +3715,7 @@
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [pointless-lang/pointless](https://github.com/pointless-lang/pointless) - Pointless: a scripting language for learning and fun
 - [ao5357/development_favicon](https://github.com/ao5357/development_favicon) - A chrome extension to add color effects to favicons based on URL regex match patterns.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [aatishb/covidtrends](https://github.com/aatishb/covidtrends) - Tracking the growth of COVID-19 Cases worldwide
 - [sneakypete81/updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
@@ -4912,6 +4912,7 @@
 
 ## MDX 
 
+- [webtui/webtui](https://github.com/webtui/webtui) - 
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) - Repo for https://zig.guide content. Get up to speed with Zig quickly.
 - [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template) - Nextra docs template
