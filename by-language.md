@@ -2685,6 +2685,7 @@
 - [notactuallytreyanastasio/deciduous](https://github.com/notactuallytreyanastasio/deciduous) - Decision graph tooling for AI-assisted development - track every choice, query your reasoning
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [ggerganov/dot-to-ascii](https://github.com/ggerganov/dot-to-ascii) - Graphviz to ASCII converter using Graph::Easy
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [vnglst/when-ai-fails](https://github.com/vnglst/when-ai-fails) - When AI Fails is a project dedicated to documenting the funny, interesting, and sometimes outright stupid ways in which AI can fail.
 - [lisyarus/blog](https://github.com/lisyarus/blog) - https://lisyarus.github.io/blog/
 - [tc39/proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
@@ -3033,7 +3034,6 @@
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Tuomas.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -4256,7 +4256,7 @@
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [jbadeau/mise-nix](https://github.com/jbadeau/mise-nix) - A backend plugin for Mise that allows you to install and manage packages using Nix
-- [ninetyfive-gg/ninetyfive.nvim](https://github.com/ninetyfive-gg/ninetyfive.nvim) - A Neovim plugin that provides really fast code suggestions.
+- [numerataz/ninetyfive.nvim](https://github.com/numerataz/ninetyfive.nvim) - A Neovim plugin that provides really fast code suggestions.
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
@@ -6183,7 +6183,7 @@
 - [domanchi/gibberish-detector](https://github.com/domanchi/gibberish-detector) - Train a model, and detect gibberish strings with it.
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [pytest-dev/pytest-order](https://github.com/pytest-dev/pytest-order) - pytest plugin that allows to customize the test execution order
 - [fperez/jupytee](https://github.com/fperez/jupytee) - Experimental playground with Jupyter magics to use OpenAI's GPT-3 models inside Jupyter environments.
