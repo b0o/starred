@@ -1523,7 +1523,7 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
@@ -3136,7 +3136,7 @@
 - [WebSheets/websheets-engine](https://github.com/WebSheets/websheets-engine) - A library for parsing and executing Excel-style formulas
 - [WebSheets/websheets-core](https://github.com/WebSheets/websheets-core) - Non-presentation components of websheets
 - [WebSheets/websheets](https://github.com/WebSheets/websheets) - A ready-to-use component for spreadsheets in the browser
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language.
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
 - [RSeidelsohn/license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) - Extract NPM package licenses. Enhanced and updated fork of Dav Glass' original (but abandoned) license-checker.
@@ -5043,7 +5043,6 @@
 
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [blindFS/topiary-nushell](https://github.com/blindFS/topiary-nushell) - topiary formatter for nushell
-- [nushell/new-nu-parser](https://github.com/nushell/new-nu-parser) - 
 - [tesujimath/bash-env-nushell](https://github.com/tesujimath/bash-env-nushell) - Bash environment for Nushell
 - [nushell/nupm](https://github.com/nushell/nupm) - A manager for Nushell packages.
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
@@ -7107,9 +7106,10 @@
 ## Rust 
 
 - [rtk-ai/vox](https://github.com/rtk-ai/vox) - A universal AI toolkit for high-performance Speech-to-Text (STT) and Text-to-Speech (TTS) processing, designed for low-latency and easy model integration.
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - rtk ia code token saver
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
-- [lukehinds/nono](https://github.com/lukehinds/nono) - A secure, kernel-enforced capability sandbox for AI agents. It's the opposite to YOLO
+- [nushell/new-nu-parser](https://github.com/nushell/new-nu-parser) - 
+- [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox for AI agents, MCP and LLM workloads. Capability-based isolation with secure key management and blocking of destructive actions in a zero-trust environment.
 - [dmmulroy/overseer](https://github.com/dmmulroy/overseer) - CLI & Codemode MCP server for agent task management
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
@@ -7138,7 +7138,7 @@
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
 - [karpathy/rustbpe](https://github.com/karpathy/rustbpe) - The missing tiktoken training code
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [HelixDB/helix-rs](https://github.com/HelixDB/helix-rs) - Rust SDK to use HelixDB
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -8814,7 +8814,7 @@
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Stack Frontendstack for Agents. Connect to any agent framework & build Chat UI, Generative UI, Frontend Actions, Human-in-the-Loop and Shared State. React & Angular supported.
 - [stainless-api/stl-api](https://github.com/stainless-api/stl-api) - Stainless full-stack API Framework
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes. Next version at https://github.com/jim-fx/nodarium
