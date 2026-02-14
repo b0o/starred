@@ -15,6 +15,7 @@
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -195,6 +196,10 @@
 - [w3c/webextensions](https://github.com/w3c/webextensions) - Charter and administrivia for the WebExtensions Community Group (WECG)
 - [immersive-web/webxr](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
 - [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
+
+## Bru 
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -616,6 +621,7 @@
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [ziutek/emgo](https://github.com/ziutek/emgo) - Emgo: Bare metal Go (language for programming embedded systems)
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
+- [r-lib/lobstr](https://github.com/r-lib/lobstr) - Understanding complex R objects with tools similar to str()
 - [libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -1334,6 +1340,7 @@
 
 ## Dockerfile 
 
+- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [fly-apps/hello-rust](https://github.com/fly-apps/hello-rust) - Rust example app on Fly.io
 - [PacktPublishing/Modern-CMake-for-Cpp](https://github.com/PacktPublishing/Modern-CMake-for-Cpp) - Modern CMake for C++, published by Packt
 - [tmm1/flyapp-mastodon](https://github.com/tmm1/flyapp-mastodon) - mastodon on fly.io
@@ -5245,7 +5252,7 @@
 - [ocaml-ppx/ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters
 - [janestreet/ppx_expect](https://github.com/janestreet/ppx_expect) - Cram like framework for OCaml
 - [janestreet/ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv) - Generation of S-expression conversion functions from type definitions
-- [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason
+- [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml
 - [ocaml-community/zed](https://github.com/ocaml-community/zed) - Abstract engine for text edition in OCaml
 - [ocaml-community/lambda-term](https://github.com/ocaml-community/lambda-term) - Terminal manipulation library for OCaml
 - [ocaml-ppx/cinaps](https://github.com/ocaml-ppx/cinaps) - Trivial Metaprogramming tool using the OCaml toplevel
@@ -5790,6 +5797,7 @@
 
 ## Python 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [modal-projects/modal-nvidia-asr](https://github.com/modal-projects/modal-nvidia-asr) - 
 - [pipecat-ai/nemotron-january-2026](https://github.com/pipecat-ai/nemotron-january-2026) - 
 - [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
@@ -5937,7 +5945,7 @@
 - [pytest-dev/pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - 
 - [pradyunsg/vendoring](https://github.com/pradyunsg/vendoring) - A command line tool, to simplify vendoring pure Python dependencies.
 - [pytest-cython/pytest-cython](https://github.com/pytest-cython/pytest-cython) - A pytest plugin that allows for the testing of C extension modules for Python, specifically created through cython
-- [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
+- [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [joshua-auchincloss/hatch-cython](https://github.com/joshua-auchincloss/hatch-cython) - cython hooks for hatch
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [prman-pixar/RenderManForBlender](https://github.com/prman-pixar/RenderManForBlender) - RenderMan for Blender render addon
@@ -5992,7 +6000,7 @@
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 - [cmake-lint/cmake-lint](https://github.com/cmake-lint/cmake-lint) - Fork of https://github.com/richq/cmake-lint to continue maintenance
 - [cheshirekow/cmake_format](https://github.com/cheshirekow/cmake_format) - Source code formatter for cmake listfiles.
-- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
+- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [nasheydari/HypOp](https://github.com/nasheydari/HypOp) - Hypergraph Neural Network-Based Combinatorial Optimization
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
@@ -6903,7 +6911,6 @@
 - [karthik/wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [marcusvolz/mathart](https://github.com/marcusvolz/mathart) - Create mathematical art with R
-- [r-lib/lobstr](https://github.com/r-lib/lobstr) - Understanding complex R objects with tools similar to str()
 - [tonyfischetti/myR](https://github.com/tonyfischetti/myR) - A place to update and store my R configuration
 
 ## Racket 
@@ -7105,6 +7112,7 @@
 
 ## Rust 
 
+- [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) - GPUI – Community Edition
 - [rtk-ai/vox](https://github.com/rtk-ai/vox) - A universal AI toolkit for high-performance Speech-to-Text (STT) and Text-to-Speech (TTS) processing, designed for low-latency and easy model integration.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
@@ -8517,7 +8525,7 @@
 - [waynesutton/opensync](https://github.com/waynesutton/opensync) - Cloud-synced dashboards for OpenCode and Claude Code. Track sessions, search with semantic lookup, export eval datasets.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback with one click.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [mesa-dot-dev/agentblame](https://github.com/mesa-dot-dev/agentblame) - AI code attribution for git. Track which lines were written by AI vs humans.
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [gaearon/woodshed](https://github.com/gaearon/woodshed) - Create, run, rate, and iterate on your Claude Skills
@@ -8814,7 +8822,7 @@
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Stack Frontendstack for Agents. Connect to any agent framework & build Chat UI, Generative UI, Frontend Actions, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
 - [stainless-api/stl-api](https://github.com/stainless-api/stl-api) - Stainless full-stack API Framework
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes. Next version at https://github.com/jim-fx/nodarium
@@ -9547,7 +9555,6 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 
