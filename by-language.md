@@ -3024,6 +3024,7 @@
 
 ## JavaScript 
 
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Ce11an/tree-sitter-surrealql](https://github.com/Ce11an/tree-sitter-surrealql) - SurrealQL grammar for tree-sitter
 - [mdp/linkedin-extension-fingerprinting](https://github.com/mdp/linkedin-extension-fingerprinting) - 
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
@@ -5416,7 +5417,7 @@
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - 
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
-- [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
+- [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions.
 - [ggml-org/p1](https://github.com/ggml-org/p1) - LLM-based code completion engine
 - [dtinth/superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -6102,7 +6103,7 @@
 - [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
@@ -7115,7 +7116,7 @@
 
 ## Rust 
 
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - claw done right 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - Autonomous multi-session agent coding in the terminal
 - [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) - GPUI – Community Edition
 - [rtk-ai/vox](https://github.com/rtk-ai/vox) - A universal AI toolkit for high-performance Speech-to-Text (STT) and Text-to-Speech (TTS) processing, designed for low-latency and easy model integration.
