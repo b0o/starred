@@ -15,7 +15,6 @@
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
-- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -196,10 +195,6 @@
 - [w3c/webextensions](https://github.com/w3c/webextensions) - Charter and administrivia for the WebExtensions Community Group (WECG)
 - [immersive-web/webxr](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
 - [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
-
-## Bru 
-
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -4509,7 +4504,7 @@
 - [0x00-ketsu/eft.nvim](https://github.com/0x00-ketsu/eft.nvim) - Lua part of plugin vim-eft, highlight character(s) in line when press keyboard f t F T
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
-- [jesseleite/nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - 🖤 A highly customizable minimalist theme building framework
+- [jesseleite/noirbuddy.nvim](https://github.com/jesseleite/noirbuddy.nvim) - A highly customizable minimalist theme building framework 🖤
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can attach a terminal-buffer for each buffer.
@@ -5766,7 +5761,6 @@
 - [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [carnager/clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
-- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [dkogan/vnlog](https://github.com/dkogan/vnlog) - Process labelled tabular ASCII data using normal UNIX tools
 - [Tarrasch/zsh-functional](https://github.com/Tarrasch/zsh-functional) - Higher order functions for zsh
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
@@ -7234,7 +7228,7 @@
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
-- [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - This service allows you to use your locally installed fonts on figma.com.
+- [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - A lightweight local service that makes your locally installed fonts available on Figma.
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
@@ -8120,7 +8114,6 @@
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [aaossa/git-activity](https://github.com/aaossa/git-activity) - Display an activity graph (like the contribution graph on GitHub) for the  current git repository and branch
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [0xapt/awesome-bbht](https://github.com/0xapt/awesome-bbht) - A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain.
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -8260,6 +8253,7 @@
 - [babarot/emoji-cli](https://github.com/babarot/emoji-cli) - :scream: Emoji completion on the command line
 - [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - Terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
 - [crian/dotfiles](https://github.com/crian/dotfiles) - Just my messy dotfiles
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [alyssais/dotfiles](https://github.com/alyssais/dotfiles) - Everything in my home directory I want synced between machines. License:
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [envwarden/envwarden](https://github.com/envwarden/envwarden) - Manage your server secrets with Bitwarden
@@ -8444,7 +8438,6 @@
 - [Omicrxn/mercury](https://github.com/Omicrxn/mercury) - UI animation library for Svelte
 - [stolinski/svelte-5-course](https://github.com/stolinski/svelte-5-course) - 
 - [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
-- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [sockmaster27/svader](https://github.com/sockmaster27/svader) - Create GPU-rendered Svelte components
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -8622,7 +8615,7 @@
 - [ben-sb/javascript-deobfuscator](https://github.com/ben-sb/javascript-deobfuscator) - General purpose JavaScript deobfuscator
 - [divizend/ghostscript-node](https://github.com/divizend/ghostscript-node) - A Node.js library which can work with PDFs, based on Ghostscript and qpdf.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
-- [k0d13/next-ws](https://github.com/k0d13/next-ws) - WebSockets inside Next.js app routes
+- [K0D13/next-ws](https://github.com/K0D13/next-ws) - WebSockets inside Next.js app routes
 - [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) - ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.
 - [Mara-Li/obsidian-better-canvas-lock](https://github.com/Mara-Li/obsidian-better-canvas-lock) - An Obsidian plugin that improve the read-only mode of Canvas.
 - [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Add typed-links to your Obsidian notes
@@ -8670,6 +8663,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [nDimensional/aurora](https://github.com/nDimensional/aurora) - Map of every account on BlueSky
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
 - [konfig-dev/konfig](https://github.com/konfig-dev/konfig) - SDK & API Docs Generator. Sunset as of December 2024
@@ -9564,6 +9558,7 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 
