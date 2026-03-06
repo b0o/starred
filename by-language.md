@@ -726,7 +726,7 @@
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy.
@@ -1591,7 +1591,7 @@
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
 - [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [Code-Hex/dd](https://github.com/Code-Hex/dd) - Data Dumper library dumps any data as valid syntax in Go
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
@@ -3026,7 +3026,7 @@
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [kagisearch/privacypass-extension](https://github.com/kagisearch/privacypass-extension) - Source code for the Chrome and Firefox versions of the Kagi Privacy Pass browser extension
 - [tmikov/imgui-react-runtime](https://github.com/tmikov/imgui-react-runtime) - React + Dear ImGui + Static Hermes
 - [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
@@ -3191,7 +3191,7 @@
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
-- [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
+- [paradigms-of-intelligence/swissgl](https://github.com/paradigms-of-intelligence/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [WebReflection/talk2gpt](https://github.com/WebReflection/talk2gpt) - 
@@ -5989,7 +5989,7 @@
 - [skapadia3214/groq-moa](https://github.com/skapadia3214/groq-moa) - Mixture of Agents using Groq
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
-- [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - The Tavily Python wrapper allows for easy interaction with the Tavily API, offering the full range of our search, extract, crawl, map, and research functionalities directly from your Python programs. 
+- [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - The Tavily Python SDK allows for easy interaction with the Tavily API, offering the full range of our search, extract, crawl, map, and research functionalities directly from your Python programs. Easi
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [ofek/hatch-mypyc](https://github.com/ofek/hatch-mypyc) - Hatch build hook plugin for Mypyc
 - [Florian-Barthel/splatviz](https://github.com/Florian-Barthel/splatviz) - Full python interactive 3D Gaussian Splatting viewer for real-time editing and analyzing.
@@ -6115,7 +6115,7 @@
 - [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -7120,7 +7120,7 @@
 - [boltffi/boltffi](https://github.com/boltffi/boltffi) - A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Swift, Kotlin, and more
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - Autonomous multi-session spec-driven AI coding orchestration in the terminal
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - Multi-session AI coding orchestration in the terminal
 - [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) - GPUI – Community Edition
 - [rtk-ai/vox](https://github.com/rtk-ai/vox) - A universal AI toolkit for high-performance Speech-to-Text (STT) and Text-to-Speech (TTS) processing, designed for low-latency and easy model integration.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -7133,7 +7133,7 @@
 - [0xwal/niri-scripts](https://github.com/0xwal/niri-scripts) - My niri scripts to extend its functionality
 - [Asthestarsfalll/piri](https://github.com/Asthestarsfalll/piri) - 🚀 Piri is a high-performance Niri extension tool built with Rust. It leverages efficient Niri IPC interaction and a unified event distribution mechanism to provide a robust, state-driven plugin system
 - [misaelaguayo/zellij](https://github.com/misaelaguayo/zellij) - A terminal workspace with batteries included
-- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - 錆緒 (Oxicord): A forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
+- [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [criterion-rs/criterion.rs](https://github.com/criterion-rs/criterion.rs) - 
 - [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API
@@ -9962,7 +9962,7 @@
 ## Zig 
 
 - [Jarred-Sumner/poof](https://github.com/Jarred-Sumner/poof) - Ephemeral filesystem isolation via Linux overlayfs (experimental)
-- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [kython28/leviathan](https://github.com/kython28/leviathan) - A lightning-fast Zig-powered event loop for Python's asyncio.
