@@ -2857,6 +2857,7 @@
 
 ## Haskell 
 
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages
 - [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [vmchale/jacinda](https://github.com/vmchale/jacinda) - Functional, expression-oriented data processing language
@@ -2990,7 +2991,7 @@
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [openstreetmap/osmosis](https://github.com/openstreetmap/osmosis) - Osmosis is a command line Java application for processing OSM data.
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for m
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
 - [senx/warp10-platform](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform
 - [open-osrs/runelite](https://github.com/open-osrs/runelite) - Actually open source Old School RuneScape client
 - [ShprAlex/SproutLife](https://github.com/ShprAlex/SproutLife) - Evolving version of Conway’s Game of Life.
@@ -4014,6 +4015,7 @@
 - [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [mui/material-ui-docs](https://github.com/mui/material-ui-docs) - ⚠️ Please don't submit PRs here as they will be closed. To edit the docs or source code, please use the main repository: http://github.com/mui/material-ui.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
@@ -5807,6 +5809,7 @@
 
 ## Python 
 
+- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [modal-projects/modal-nvidia-asr](https://github.com/modal-projects/modal-nvidia-asr) - 
 - [pipecat-ai/nemotron-january-2026](https://github.com/pipecat-ai/nemotron-january-2026) - 
@@ -5980,7 +5983,7 @@
 - [Nuked88/ComfyUI-N-Nodes](https://github.com/Nuked88/ComfyUI-N-Nodes) - A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator
 - [cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - 
 - [ltdrdata/ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) - Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
-- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open-sourced and modular GPT4-o
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
 - [kijai/ComfyUI-segment-anything-2](https://github.com/kijai/ComfyUI-segment-anything-2) - ComfyUI nodes to use segment-anything-2
 - [instantX-research/InstantID](https://github.com/instantX-research/InstantID) - InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
@@ -6529,7 +6532,7 @@
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [eliben/deep-learning-samples](https://github.com/eliben/deep-learning-samples) - Sample code for deep learning & neural networks
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [n0fate/chainbreaker](https://github.com/n0fate/chainbreaker) - Mac OS X Keychain Forensic Tool
@@ -8473,6 +8476,7 @@
 
 ## Swift 
 
+- [supabitapp/supacode](https://github.com/supabitapp/supacode) - Native terminal coding agents command center.
 - [rvcas/claude-zellij-whip](https://github.com/rvcas/claude-zellij-whip) - Smart Claude Code notifications for Zellij with tab/pane focusing
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [livekit-examples/agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) - AI voice assistant starter app for iOS, macOS, and visionOS built with LiveKit
@@ -9561,7 +9565,6 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [broofa/mime](https://github.com/broofa/mime) - Mime types for JavaScript
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [justinmc/react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag
