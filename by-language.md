@@ -1177,7 +1177,6 @@
 - [tomgenoni/cssdig-chrome](https://github.com/tomgenoni/cssdig-chrome) - Chrome extension for analyzing CSS.
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
-- [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [code-hike/not-stripe](https://github.com/code-hike/not-stripe) - Building a Stripe Docs clone with Code Hike
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
@@ -1476,6 +1475,7 @@
 
 ## Go 
 
+- [c4pt0r/agfs](https://github.com/c4pt0r/agfs) - Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9
 - [markusressel/zfs-file-history](https://github.com/markusressel/zfs-file-history) - Terminal UI for inspecting and restoring file history on ZFS snapshots.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
@@ -2719,7 +2719,7 @@
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
-- [the-full-stack/website](https://github.com/the-full-stack/website) - Source for https://fullstackdeeplearning.com
+- [the-full-stack/the-full-stack-website](https://github.com/the-full-stack/the-full-stack-website) - Source for https://fullstackdeeplearning.com
 - [qrdlgit/simbiotico](https://github.com/qrdlgit/simbiotico) - GPT / Human collaboration mindmap tool, using OpenAI ChatGPT API
 - [tc39/proposal-promise-with-resolvers](https://github.com/tc39/proposal-promise-with-resolvers) - 
 - [kigiri/fetch](https://github.com/kigiri/fetch) - Convert CURL to javascript fetch api
@@ -3031,6 +3031,7 @@
 
 ## JavaScript 
 
+- [wavyrai/tmux-ide](https://github.com/wavyrai/tmux-ide) - Turn any project into a tmux-powered terminal IDE with a simple ide.yml
 - [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 - [heytcass/claude-for-linux](https://github.com/heytcass/claude-for-linux) - Claude Desktop for Linux with Cowork support and Nix flake
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -3068,7 +3069,6 @@
 - [Musab-Hassan/aurora_keyboard](https://github.com/Musab-Hassan/aurora_keyboard) - A gorgeous split wireless ortholinear keyboard that you can build yourself.
 - [mcp-get/community-servers](https://github.com/mcp-get/community-servers) - This repository contains a collection of community-maintained Model Context Protocol (MCP) servers. All servers are automatically listed on the MCP Get registry and can be viewed and installed via CLI
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) - MCP web research server (give Claude real-time info from the web)
-- [smithery-ai/reference-servers](https://github.com/smithery-ai/reference-servers) - Model Context Protocol Servers
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) - A MCP Server for the RAG Web Browser Actor
 - [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
@@ -6026,7 +6026,7 @@
 - [nasheydari/HypOp](https://github.com/nasheydari/HypOp) - Hypergraph Neural Network-Based Combinatorial Optimization
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to models running on an Ollama server
 - [SkyworkAI/Vitron](https://github.com/SkyworkAI/Vitron) - NeurIPS 2024 Paper: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -7355,7 +7355,7 @@
 - [picoHz/taxy](https://github.com/picoHz/taxy) - A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust.
 - [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - ⵣ Ki Editor - Multi-cursor combinatoric modal editor.
 - [graydon/exhaustigen-rs](https://github.com/graydon/exhaustigen-rs) - exhaustive testing library
-- [eboody/statum](https://github.com/eboody/statum) - Statum makes the typestate builder pattern ergonomic for real workflows.
+- [eboody/statum](https://github.com/eboody/statum) - Statum helps make undesirable state impossible to represent in code, at compile time
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
@@ -7490,7 +7490,7 @@
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [RustAudio/baseview](https://github.com/RustAudio/baseview) - low-level window system interface for audio plugin UIs
 - [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
@@ -8558,6 +8558,7 @@
 
 ## TypeScript 
 
+- [smithery-ai/agent.pw](https://github.com/smithery-ai/agent.pw) - Share APIs with agents, without sharing secrets.
 - [vercel-labs/agent-eval](https://github.com/vercel-labs/agent-eval) - 
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys.
 - [platformatic/job-queue](https://github.com/platformatic/job-queue) - 
@@ -9195,6 +9196,7 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [magnusviri/InvokeAI](https://github.com/magnusviri/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. T
+- [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme
