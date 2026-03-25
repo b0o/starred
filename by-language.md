@@ -723,6 +723,7 @@
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [SugaryHull/re3](https://github.com/SugaryHull/re3) - Fuck you, Take Two
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
@@ -1762,7 +1763,7 @@
 - [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [mattn/go-getopt](https://github.com/mattn/go-getopt) - getopt for golang
 - [kesselborn/go-getopt](https://github.com/kesselborn/go-getopt) - getopt implementation in go (flags-alternative closer to gnu getopt)
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by Milvus and Beego.
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
@@ -4945,7 +4946,6 @@
 
 ## MLIR 
 
-- [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 
 ## Makefile 
@@ -7143,6 +7143,7 @@
 
 ## Rust 
 
+- [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [nickolaj-jepsen/niri-dynamic-workspaces](https://github.com/nickolaj-jepsen/niri-dynamic-workspaces) - 
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
@@ -8609,7 +8610,7 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [R44VC0RP/openpad](https://github.com/R44VC0RP/openpad) - Native iPad app for OpenCode - browse sessions, projects and view chat conversations
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -9474,7 +9475,7 @@
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [vilterp/datalog-ts](https://github.com/vilterp/datalog-ts) - a datalog interpreter in typescript
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [web-ridge/react-ridge-translations](https://github.com/web-ridge/react-ridge-translations) - Simple 💪 fast ⚡️ and small 🎈 (400 bytes) translation library for React / React Native
 - [oselz/isitworththecost](https://github.com/oselz/isitworththecost) - Is it worth the cost? A simple check on whether purchasing a service is worth the cost.
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
@@ -10036,7 +10037,7 @@
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [dpwm/zig-capnp](https://github.com/dpwm/zig-capnp) - Yet another capnproto code generator for zig
 - [Sobeston/ultralight-zig](https://github.com/Sobeston/ultralight-zig) - 
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) - A template for Advent of Code participants using Zig
 - [oxrinz/zig-cuda-starter](https://github.com/oxrinz/zig-cuda-starter) - No more 8 hour sessions trying to get cuda to compile
 - [nDimensional/zig-ultralight](https://github.com/nDimensional/zig-ultralight) - Zig bindings for Ultralight
