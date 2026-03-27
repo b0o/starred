@@ -199,6 +199,7 @@
 
 ## C 
 
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
 - [antirez/qwen-asr](https://github.com/antirez/qwen-asr) - C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models
 - [bluez/bluez](https://github.com/bluez/bluez) - Main BlueZ tree
@@ -817,7 +818,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [meelgroup/pepin](https://github.com/meelgroup/pepin) - A probabilistic approximate DNF counter
-- [okuvshynov/llama_duo](https://github.com/okuvshynov/llama_duo) - asynchronous/distributed speculative evaluation for llama3
+- [okuvshynov/llama-sandbox](https://github.com/okuvshynov/llama-sandbox) - A collection of experiments related to LLM inference with llama.cpp/mlx
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
@@ -5012,6 +5013,7 @@
 
 ## Nix 
 
+- [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper) - A user-friendly method of sandboxing applications using bubblewrap with portals support.
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [saghen/nixfiles](https://github.com/saghen/nixfiles) - Personal system and home-manager configuration for Hyprland, Fish, Neovim, Firefox and misc
@@ -7179,7 +7181,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [nushell/new-nu-parser](https://github.com/nushell/new-nu-parser) - 
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox and agent security CLI and SDKs. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agent
+- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [dmmulroy/overseer](https://github.com/dmmulroy/overseer) - CLI & Codemode MCP server for agent task management
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
@@ -7283,7 +7285,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 8.7x faster response times (0.14ms vs 1.22ms) and 44.9x higher throughput (67,208 vs 1,496 req/sec) than 
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.8x faster response times (0.08ms vs 0.78ms) and 47.7x higher throughput (71,404 vs 1,497 req/sec) than 
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
@@ -7737,7 +7739,7 @@
 - [aruncveli/isitup](https://github.com/aruncveli/isitup) - Rust-based CLI utility to check if a website/domain is up or down, leveraging isitup API
 - [avinassh/fast-sqlite3-inserts](https://github.com/avinassh/fast-sqlite3-inserts) - Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
+- [zesterer/ariadne](https://github.com/zesterer/ariadne) - [Ariadne has moved to Codeberg!] A fancy diagnostics & error reporting crate
 - [blyxxyz/lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
@@ -8582,6 +8584,7 @@
 
 ## TypeScript 
 
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
@@ -8637,7 +8640,7 @@
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-- [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) - Use Claude Agent SDK from any ACP client such as Zed!
+- [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
 - [obra/superpowers-skills](https://github.com/obra/superpowers-skills) - Community-editable skills for Claude Code's superpowers plugin
