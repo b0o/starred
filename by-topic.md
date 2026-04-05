@@ -424,6 +424,7 @@
 
 ## ai 
 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -480,7 +481,7 @@
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
@@ -608,6 +609,7 @@
 
 ## ai-agents 
 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -696,7 +698,7 @@
 
 ## android 
 
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [boltffi/boltffi](https://github.com/boltffi/boltffi) - A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Swift, Kotlin, and more
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -1770,6 +1772,7 @@
 
 ## cli 
 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [sorairolake/qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding and decoding QR code
 - [Lenivaya/qrrs](https://github.com/Lenivaya/qrrs) - CLI QR code generator and reader written in rust
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
@@ -2417,7 +2420,7 @@
 ## computer-vision 
 
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [thuml/awesome-multi-task-learning](https://github.com/thuml/awesome-multi-task-learning) - A curated list of DATASETS, CODEBASES and PAPERS on Multi-Task Learning (MTL),  from Machine Learning perspective.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -2887,6 +2890,7 @@
 
 ## database 
 
+- [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [Ce11an/tree-sitter-surrealql](https://github.com/Ce11an/tree-sitter-surrealql) - SurrealQL grammar for tree-sitter
@@ -3327,6 +3331,8 @@
 
 ## docker 
 
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [branchbox/branchbox](https://github.com/branchbox/branchbox) - Parallel, isolated dev environments for humans and AI coding agents. Real containers. Real databases. Zero collisions.
 - [mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Local-first AI-powered document intelligence platform for investigative journalism
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -3546,6 +3552,7 @@
 
 ## electron 
 
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
@@ -3844,7 +3851,7 @@
 
 ## flutter 
 
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
@@ -5292,6 +5299,7 @@
 
 ## good-first-issue 
 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [meanands/heroku-free-alternatives](https://github.com/meanands/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 
 ## google 
@@ -6173,7 +6181,7 @@
 ## ios 
 
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -7467,7 +7475,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
@@ -7892,7 +7900,7 @@
 - [tensorpool/tensorpool](https://github.com/tensorpool/tensorpool) - The CLI for GPUs
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [lakehq/sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 - [thuml/awesome-multi-task-learning](https://github.com/thuml/awesome-multi-task-learning) - A curated list of DATASETS, CODEBASES and PAPERS on Multi-Task Learning (MTL),  from Machine Learning perspective.
@@ -8307,7 +8315,7 @@
 
 ## mobile 
 
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
@@ -9401,6 +9409,7 @@
 
 ## nosql 
 
+- [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
@@ -9591,6 +9600,8 @@
 
 ## open-source 
 
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [waynesutton/opensync](https://github.com/waynesutton/opensync) - Cloud-synced dashboards for OpenCode and Claude Code. Track sessions, search with semantic lookup, export eval datasets.
@@ -9664,6 +9675,7 @@
 
 ## openai 
 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -9815,6 +9827,11 @@
 
 ## others 
 
+- [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
+- [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
+- [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
+- [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus) - Check all your AI subscription quotas in one command. Supports OpenAI, Zhipu AI, and Google Antigravity. More platforms coming soon.
 - [fukuchi/libqrencode](https://github.com/fukuchi/libqrencode) - A fast and compact QR Code encoding library
 - [levelgraph/levelgraph](https://github.com/levelgraph/levelgraph) - Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
@@ -15363,6 +15380,8 @@
 
 ## rag 
 
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
@@ -15727,7 +15746,7 @@
 
 ## react-native 
 
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -15928,6 +15947,8 @@
 
 ## rust 
 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+- [AnthonyMichaelTDM/mecomp](https://github.com/AnthonyMichaelTDM/mecomp) - Metadata Enchanced Collection Orientated Music Player
 - [sorairolake/qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding and decoding QR code
 - [Lenivaya/qrrs](https://github.com/Lenivaya/qrrs) - CLI QR code generator and reader written in rust
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
@@ -16910,6 +16931,7 @@
 
 ## sql 
 
+- [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -17187,7 +17209,7 @@
 ## swiftui 
 
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [Sigil-Wen/Dream-with-Vision-Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro) - Text to 3D generation in Apple Vision Pro built with the VisionOS SDK. 3D Scribblenauts in AR for the Scale Generative AI Hackathon. Won Scale AI Prize
@@ -17630,6 +17652,7 @@
 
 ## tui 
 
+- [AnthonyMichaelTDM/mecomp](https://github.com/AnthonyMichaelTDM/mecomp) - Metadata Enchanced Collection Orientated Music Player
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
@@ -18844,7 +18867,7 @@
 
 ## xcode 
 
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) - You don't need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This repo inspires you to add helpful and expressive SwiftUI animations like loading/pr
 - [kkharji/xbase](https://github.com/kkharji/xbase) - Develop Apple software products within your favorite editor.
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
