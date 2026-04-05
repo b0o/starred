@@ -199,6 +199,7 @@
 
 ## C 
 
+- [fukuchi/libqrencode](https://github.com/fukuchi/libqrencode) - A fast and compact QR Code encoding library
 - [ZaneH/firetv-remote](https://github.com/ZaneH/firetv-remote) - A web app that can control your Amazon FireTV (Stick). Just startup Node, fill in your device's IP address and use your web browser as a remote. (Enable ADB debugging)
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
@@ -717,6 +718,8 @@
 
 ## C++ 
 
+- [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
+- [google/jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
 - [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent
 - [Frikallo/parakeet.cpp](https://github.com/Frikallo/parakeet.cpp) - Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -762,7 +765,6 @@
 - [evanw/kiwi](https://github.com/evanw/kiwi) - A schema-based binary format for efficiently encoding trees of data
 - [csmith-project/creduce](https://github.com/csmith-project/creduce) - C-Reduce, a C and C++ program reducer
 - [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
-- [google/crubit](https://github.com/google/crubit) - A bidirectional bindings generator for C++ and Rust.
 - [ribtoks/chillout](https://github.com/ribtoks/chillout) - Simple cross-platform crash handling library for desktop native apps
 - [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - Nvy - A Neovim client in C++
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement
@@ -1189,7 +1191,6 @@
 - [code-hike/not-stripe](https://github.com/code-hike/not-stripe) - Building a Stripe Docs clone with Code Hike
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
@@ -1483,6 +1484,8 @@
 
 ## Go 
 
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
@@ -2989,6 +2992,7 @@
 
 ## Java 
 
+- [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [RevEngAI/plugin-ghidra](https://github.com/RevEngAI/plugin-ghidra) - RevEng.AI Ghidra Plugin
@@ -3041,6 +3045,7 @@
 
 ## JavaScript 
 
+- [levelgraph/levelgraph](https://github.com/levelgraph/levelgraph) - Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
@@ -3401,6 +3406,7 @@
 - [adametry/gulp-eslint](https://github.com/adametry/gulp-eslint) - A Gulp plugin for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 - [feross/magickeyboard.io](https://github.com/feross/magickeyboard.io) - Ultimate hacker keyboard
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [visa-viz/visa-viz.github.io](https://github.com/visa-viz/visa-viz.github.io) - 
 - [cherupil/Director](https://github.com/cherupil/Director) - A basic tweening library
 - [cherupil/Sandbox](https://github.com/cherupil/Sandbox) - A basic WebGL library.
@@ -5018,6 +5024,7 @@
 
 ## Nix 
 
+- [auscyber/dotfiles](https://github.com/auscyber/dotfiles) - My linux dotfiles
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
 - [MakiseKurisu/dewclaw](https://github.com/MakiseKurisu/dewclaw) - dewclaw: semi-declarative OpenWrt configuration
@@ -5828,6 +5835,9 @@
 
 ## Python 
 
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
+- [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 - [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - [acatovic/ova](https://github.com/acatovic/ova) - Outrageous Voice Assistant - Fully local end-to-end ASR + LLM + TTS pipeline using open weight models and a simple web based UI
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -6050,7 +6060,7 @@
 - [nasheydari/HypOp](https://github.com/nasheydari/HypOp) - Hypergraph Neural Network-Based Combinatorial Optimization
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
 - [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to models running on an Ollama server
 - [SkyworkAI/Vitron](https://github.com/SkyworkAI/Vitron) - NeurIPS 2024 Paper: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -7159,6 +7169,12 @@
 
 ## Rust 
 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+- [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
+- [AnthonyMichaelTDM/mecomp](https://github.com/AnthonyMichaelTDM/mecomp) - Metadata Enchanced Collection Orientated Music Player
+- [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
+- [sorairolake/qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding and decoding QR code
+- [Lenivaya/qrrs](https://github.com/Lenivaya/qrrs) - CLI QR code generator and reader written in rust
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [coast-guard/coasts](https://github.com/coast-guard/coasts) - Localhost service isolation and orchestration for git worktrees.
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
@@ -7335,6 +7351,7 @@
 - [4t145/rmcp](https://github.com/4t145/rmcp) - BEST Rust SDK for MCP (Model Context Protocol)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [wdanilo/crabtime](https://github.com/wdanilo/crabtime) - 
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [AbdelStark/anthropic-rs](https://github.com/AbdelStark/anthropic-rs) - Anthropic Rust SDK 🦀 with async support.
 - [AntigmaLabs/mcp-sdk](https://github.com/AntigmaLabs/mcp-sdk) - Minimalistic Rust Implementation Of Model Context Protocol from Anthropic
@@ -7361,7 +7378,7 @@
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
-- [ldclabs/anda](https://github.com/ldclabs/anda) - 🤖 An AI agent framework built with Rust, powered by ICP and TEEs.
+- [ldclabs/anda](https://github.com/ldclabs/anda) - 🤖 An AI agent framework built with Rust.
 - [jsdw/yap](https://github.com/jsdw/yap) - Yet Another Parser library for Rust. A lightweight, dependency free, parser combinator inspired set of utility methods to help with parsing strings and slices.
 - [specta-rs/rspc](https://github.com/specta-rs/rspc) - A framework for building typesafe web backends in Rust
 - [EmbarkStudios/physx-rs](https://github.com/EmbarkStudios/physx-rs) - 🎳 Rust binding for NVIDIA PhysX 🦀
@@ -7441,11 +7458,12 @@
 - [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [astrenoxcoop/supercell](https://github.com/astrenoxcoop/supercell) - A lightweight and configurable atproto feed generator.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+- [google/crubit](https://github.com/google/crubit) - A bidirectional bindings generator for C++ and Rust.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [lakehq/sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads.
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [couchand/rust-wasm-capnproto-example](https://github.com/couchand/rust-wasm-capnproto-example) - :nut_and_bolt::electric_plug::mailbox_with_mail: An example of Rust compiling to WASM and passing Cap'n Proto messages to JavaScript.
 - [fleetfs/fleetfs](https://github.com/fleetfs/fleetfs) - FleetFS distributed filesystem
@@ -8602,6 +8620,9 @@
 
 ## TypeScript 
 
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus) - Check all your AI subscription quotas in one command. Supports OpenAI, Zhipu AI, and Google Antigravity. More platforms coming soon.
+- [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
@@ -8619,7 +8640,7 @@
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys.
 - [platformatic/job-queue](https://github.com/platformatic/job-queue) - 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) - UI components for AI interfaces
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
@@ -8715,7 +8736,6 @@
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [ben-sb/javascript-deobfuscator](https://github.com/ben-sb/javascript-deobfuscator) - General purpose JavaScript deobfuscator
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [divizend/ghostscript-node](https://github.com/divizend/ghostscript-node) - A Node.js library which can work with PDFs, based on Ghostscript and qpdf.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
 - [k0d13/next-ws](https://github.com/k0d13/next-ws) - WebSockets inside Next.js app routes
