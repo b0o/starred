@@ -765,6 +765,7 @@
 - [evanw/kiwi](https://github.com/evanw/kiwi) - A schema-based binary format for efficiently encoding trees of data
 - [csmith-project/creduce](https://github.com/csmith-project/creduce) - C-Reduce, a C and C++ program reducer
 - [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
+- [google/crubit](https://github.com/google/crubit) - A bidirectional bindings generator for C++ and Rust.
 - [ribtoks/chillout](https://github.com/ribtoks/chillout) - Simple cross-platform crash handling library for desktop native apps
 - [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - Nvy - A Neovim client in C++
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement
@@ -3045,6 +3046,8 @@
 
 ## JavaScript 
 
+- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Minimalist, Unlimited Music Streaming.
+- [uwu/neptune](https://github.com/uwu/neptune) - an experimental client mod for TIDAL
 - [levelgraph/levelgraph](https://github.com/levelgraph/levelgraph) - Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
@@ -5371,6 +5374,7 @@
 
 ## Others 
 
+- [badass-courses/wizard-skills](https://github.com/badass-courses/wizard-skills) - Companion skills for wizardshit.ai courses
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
 - [anomalyco/opencode-beta](https://github.com/anomalyco/opencode-beta) - 
 - [Bowen12137/Awesome-World-Models](https://github.com/Bowen12137/Awesome-World-Models) - This repository is the collection of World model Papers
@@ -7169,6 +7173,7 @@
 
 ## Rust 
 
+- [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
 - [AnthonyMichaelTDM/mecomp](https://github.com/AnthonyMichaelTDM/mecomp) - Metadata Enchanced Collection Orientated Music Player
@@ -7240,7 +7245,7 @@
 - [dottxt-ai/outlines-core](https://github.com/dottxt-ai/outlines-core) - Faster structured generation
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [krypticmouse/DSRs](https://github.com/krypticmouse/DSRs) - Performance centered DSPy rewrite to(not port) Rust
-- [jorge-menjivar/super-stt](https://github.com/jorge-menjivar/super-stt) - Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.
+- [jorge-menjivar/super-stt](https://github.com/jorge-menjivar/super-stt) - Super STT enables effortless voice-to-text in any application, using the most advanced speech models.
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
 - [karpathy/rustbpe](https://github.com/karpathy/rustbpe) - The missing tiktoken training code
 - [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
@@ -7312,7 +7317,7 @@
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [duanebester/pgui](https://github.com/duanebester/pgui) - GUI app to query Postgres - Powered by GPUI
 - [duanebester/gpui-websocket](https://github.com/duanebester/gpui-websocket) - GPUI with background web sockets
-- [alshdavid/ion](https://github.com/alshdavid/ion) - A Positively Charged JavaScript Runtime
+- [alshdavid-public/ion](https://github.com/alshdavid-public/ion) - A Positively Charged JavaScript Runtime
 - [Julien-cpsn/desktop-tui](https://github.com/Julien-cpsn/desktop-tui) - A desktop environment without graphics
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
@@ -7375,7 +7380,7 @@
 - [dtolnay/macro-string](https://github.com/dtolnay/macro-string) - Eager evaluation of macros like `concat!` and `env!`
 - [andogq/qubit](https://github.com/andogq/qubit) - Seamless RPC for Rust & TypeScript
 - [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [ldclabs/anda](https://github.com/ldclabs/anda) - 🤖 An AI agent framework built with Rust.
@@ -7458,7 +7463,6 @@
 - [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [astrenoxcoop/supercell](https://github.com/astrenoxcoop/supercell) - A lightweight and configurable atproto feed generator.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-- [google/crubit](https://github.com/google/crubit) - A bidirectional bindings generator for C++ and Rust.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [lakehq/sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads.
@@ -8553,6 +8557,7 @@
 
 ## Swift 
 
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste.
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [rvcas/claude-zellij-whip](https://github.com/rvcas/claude-zellij-whip) - Smart Claude Code notifications for Zellij with tab/pane focusing
@@ -8620,6 +8625,8 @@
 
 ## TypeScript 
 
+- [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus) - Check all your AI subscription quotas in one command. Supports OpenAI, Zhipu AI, and Google Antigravity. More platforms coming soon.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
