@@ -2809,6 +2809,7 @@
 - [secretGeek/html_wysiwyg](https://github.com/secretGeek/html_wysiwyg) - A truly naked, brutalist html quine
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [tc39/proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
+- [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [tc39/proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [indirect/cuberule.com](https://github.com/indirect/cuberule.com) - the cube rule of food identification, explained
@@ -3666,7 +3667,6 @@
 - [JubbeArt/removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [matchai/sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
-- [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [nixcloud/tour_of_nix](https://github.com/nixcloud/tour_of_nix) - Sourcecode to the https://nixcloud.io/tour/ 'a tour of nix'
 - [goto-bus-stop/md-insert](https://github.com/goto-bus-stop/md-insert) - insert content under a markdown header or into a comment delimited region
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
@@ -5397,7 +5397,6 @@
 - [sharkqwy/v0prompt](https://github.com/sharkqwy/v0prompt) - full prompt of the new v0
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
@@ -7173,6 +7172,7 @@
 
 ## Rust 
 
+- [josephdunn/idlers](https://github.com/josephdunn/idlers) - A Wayland idle daemon written in Rust
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
@@ -8634,7 +8634,7 @@
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, and more
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [nigel-dev/opencode-mission-control](https://github.com/nigel-dev/opencode-mission-control) - OpenCode plugin for parallel AI coding sessions in isolated git worktrees
@@ -8788,7 +8788,7 @@
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [StrandedKitty/streets-gl](https://github.com/StrandedKitty/streets-gl) - 🗺 OpenStreetMap 3D renderer powered by WebGL2
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
@@ -9199,7 +9199,7 @@
 - [motiondivision/motionone](https://github.com/motiondivision/motionone) - 
 - [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [pmndrs/react-three-flex](https://github.com/pmndrs/react-three-flex) - 💪📦  Flexbox for react-three-fiber
-- [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
+- [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - A playground to explore Next.js features such as nested layouts, instant loading states, streaming, and component level data fetching.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [mcndt/noteshare.space](https://github.com/mcndt/noteshare.space) - A service for sharing encrypted Markdown notes from Obsidian. Notes are end-to-end-encrypted and are only stored temporarily.
 - [mcndt/obsidian-quickshare](https://github.com/mcndt/obsidian-quickshare) - 📝 An Obsidian plugin for sharing encrypted Markdown notes on the web. Zero configuration required.
