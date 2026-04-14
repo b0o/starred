@@ -3045,7 +3045,7 @@
 
 ## JavaScript 
 
-- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Minimalist, Unlimited Music Streaming.
+- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [uwu/neptune](https://github.com/uwu/neptune) - an experimental client mod for TIDAL
 - [levelgraph/levelgraph](https://github.com/levelgraph/levelgraph) - Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
@@ -3336,6 +3336,7 @@
 - [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
 - [prettier/prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
+- [dmitryvinn/awesome-dev-advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy) - About A curated list of 900+ resources for developer advocates — books, blogs, videos, podcasts, tools, and communities
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
 - [evanw/float-toy](https://github.com/evanw/float-toy) - Use this to build intuition for the IEEE floating-point format
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
@@ -5371,6 +5372,7 @@
 
 ## Others 
 
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [badass-courses/wizard-skills](https://github.com/badass-courses/wizard-skills) - Companion skills for wizardshit.ai courses
@@ -5497,7 +5499,6 @@
 - [LisaDziuba/Design-for-Engineers](https://github.com/LisaDziuba/Design-for-Engineers) - 
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-- [dmitryvinn/awesome-dev-advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy) - About A curated list of 900+ resources for developer advocates — books, blogs, videos, podcasts, tools, and communities
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [mandatoryprogrammer/chrome-extension-manifests-dataset](https://github.com/mandatoryprogrammer/chrome-extension-manifests-dataset) - &gt;100K Chrome Extension manifest.json files for analysis
 - [fogus/thunks](https://github.com/fogus/thunks) - posts and code related to personal studies
@@ -6171,7 +6172,7 @@
 - [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -7173,6 +7174,8 @@
 
 ## Rust 
 
+- [vidyabodepudi/Code-Skills](https://github.com/vidyabodepudi/Code-Skills) - A bunch of agent skills for coding workflows to make things easier from ideation, planning, documentation, execution, security checks, audit/compliance/risk shenanigans
+- [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [jrobhoward/dumap](https://github.com/jrobhoward/dumap) - Disk usage visualization (treemap)
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [josephdunn/idlers](https://github.com/josephdunn/idlers) - A Wayland idle daemon written in Rust
@@ -7222,7 +7225,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [nushell/new-nu-parser](https://github.com/nushell/new-nu-parser) - 
-- [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers , seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.
+- [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.
 - [dmmulroy/overseer](https://github.com/dmmulroy/overseer) - CLI & Codemode MCP server for agent task management
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
@@ -8272,7 +8275,7 @@
 - [archlinux/devtools](https://github.com/archlinux/devtools) - Tools for Arch Linux package maintainers (read-only mirror)
 - [AndydeCleyre/zpy](https://github.com/AndydeCleyre/zpy) - Manage Python environments in Zsh, with uv or pip-tools
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere, any way you like it.
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [jsthomas/simple-ocaml-shell](https://github.com/jsthomas/simple-ocaml-shell) - Build a simple shell in OCaml
@@ -8405,7 +8408,6 @@
 - [momo-lab/zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
-- [fff7d1bc/better-initramfs](https://github.com/fff7d1bc/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 - [mbailey/bash-my-aws](https://github.com/mbailey/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [michaelkarlcoleman/ssssh](https://github.com/michaelkarlcoleman/ssssh) - execute shell commands on or copy files to/from a set of Linux hosts
 - [arp242/dotfiles](https://github.com/arp242/dotfiles) - My configuration files
@@ -8629,6 +8631,7 @@
 
 ## TypeScript 
 
+- [yogirk/agent-council](https://github.com/yogirk/agent-council) - A skill that convenes a panel of CLI-based AI agents (Claude Code, Codex, Gemini CLI) to deliberate on engineering problems through structured multi-stage discussion, peer review, and synthesis
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app.
 - [Michaelliv/pi-monitor](https://github.com/Michaelliv/pi-monitor) - 
 - [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
