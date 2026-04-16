@@ -7174,7 +7174,7 @@
 
 ## Rust 
 
-- [nvidyax/Code-Skills](https://github.com/nvidyax/Code-Skills) - A bunch of agent skills for coding workflows to make things easier from ideation, planning, documentation, execution, security checks, audit/compliance/risk shenanigans
+- [VidyaBodepudi/Code-Skills](https://github.com/VidyaBodepudi/Code-Skills) - A bunch of agent skills for coding workflows to make things easier from ideation, planning, documentation, execution, security checks, audit/compliance/risk shenanigans
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [jrobhoward/dumap](https://github.com/jrobhoward/dumap) - Disk usage visualization (treemap)
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
@@ -8781,7 +8781,6 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
-- [smithery-ai/sdk](https://github.com/smithery-ai/sdk) - Smithery helps AI agents access external services via a unified gateway.
 - [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers and skills for agents
 - [basehub-ai/basehub](https://github.com/basehub-ai/basehub) - SDK for BaseHub—Fast, Collaborative, AI-Native Content Management.
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
@@ -8998,7 +8997,7 @@
 - [arielhs/generic-compose](https://github.com/arielhs/generic-compose) - A simple pattern for modifying a generic typescript function without having to redeclare its type parameters
 - [arielhs/ts-arithmetic](https://github.com/arielhs/ts-arithmetic) - Perform Type Level arithmetic in TypeScript
 - [MunifTanjim/express-zod-openapi](https://github.com/MunifTanjim/express-zod-openapi) - Express + Zod + OpenAPI
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [unional/type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
