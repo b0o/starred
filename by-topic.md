@@ -9906,13 +9906,14 @@
 
 ## others 
 
+- [bfredl/nvim-ui-client](https://github.com/bfredl/nvim-ui-client) - Nvim UI Client
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - 
 - [VidyaBodepudi/Redberry](https://github.com/VidyaBodepudi/Redberry) - Redberry is helpful, but it helps by annoying you into writing better prompts.
 - [VidyaBodepudi/Code-Skills](https://github.com/VidyaBodepudi/Code-Skills) - A bunch of agent skills for coding workflows to make things easier from ideation, planning, documentation, execution, security checks, audit/compliance/risk shenanigans
 - [yogirk/agent-council](https://github.com/yogirk/agent-council) - A skill that convenes a panel of CLI-based AI agents (Claude Code, Codex, Gemini CLI) to deliberate on engineering problems through structured multi-stage discussion, peer review, and synthesis
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Michaelliv/pi-monitor](https://github.com/Michaelliv/pi-monitor) - 
 - [jrobhoward/dumap](https://github.com/jrobhoward/dumap) - Disk usage visualization (treemap)
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
