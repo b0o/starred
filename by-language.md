@@ -226,7 +226,6 @@
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [arko9699/bonk](https://github.com/arko9699/bonk) - A 13u row-staggered keyboard using MX switches and STM32
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -4175,6 +4174,7 @@
 
 ## Jupyter Notebook 
 
+- [mkl4r/AIF-Pointing](https://github.com/mkl4r/AIF-Pointing) - Repository accompanying the paper "An Active Inference Model of Mouse Point-and-Click Behaviour" presented at the 6th International Workshop on Active Inference.
 - [ReactiveBayes/RxInfer.jl](https://github.com/ReactiveBayes/RxInfer.jl) - Julia package for automated Bayesian inference on a factor graph with reactive message passing
 - [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - A concise, beginner-friendly introduction to the core ideas of linear algebra.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
@@ -4252,6 +4252,7 @@
 
 ## Kotlin 
 
+- [izivkov/CasioGShockSmartSync](https://github.com/izivkov/CasioGShockSmartSync) - 
 - [izivkov/GShockAPI](https://github.com/izivkov/GShockAPI) - 
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -8643,6 +8644,7 @@
 
 ## TypeScript 
 
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [codemix/graph](https://github.com/codemix/graph) - A type-safe, realtime, collaborative Graph Database which runs inside a CRDT
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [docxology/timeline_generator](https://github.com/docxology/timeline_generator) - Timeline Generator — Knowledge Graph Explorer for historical figures, networks, and OSINT research
@@ -10116,6 +10118,7 @@
 - [Jarred-Sumner/poof](https://github.com/Jarred-Sumner/poof) - Ephemeral filesystem isolation via Linux overlayfs (experimental)
 - [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [kython28/leviathan](https://github.com/kython28/leviathan) - A lightning-fast Zig-powered event loop for Python's asyncio.
 - [FOLLGAD/zig-ai](https://github.com/FOLLGAD/zig-ai) - OpenAI SDK with streaming support
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
