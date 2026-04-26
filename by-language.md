@@ -719,6 +719,7 @@
 
 ## C++ 
 
+- [luau-lang/lute](https://github.com/luau-lang/lute) - A standalone Luau runtime for general-purpose programming
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [google/jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
 - [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent
@@ -7185,6 +7186,8 @@
 
 ## Rust 
 
+- [lune-org/lune](https://github.com/lune-org/lune) - A standalone Luau runtime
+- [AdrianEddy/fast-whisper-burn](https://github.com/AdrianEddy/fast-whisper-burn) - 
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
