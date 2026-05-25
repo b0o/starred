@@ -432,6 +432,7 @@
 
 ## agents 
 
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -594,7 +595,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
-- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
+- [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
@@ -1707,7 +1708,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
@@ -1861,7 +1862,7 @@
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi agent session toolbox for claude code, cursor, codex, gemini
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-agent session-toolbox for claude code, cursor, codex, gemini
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [rvcas/claude-zellij-whip](https://github.com/rvcas/claude-zellij-whip) - Smart Claude Code notifications for Zellij with tab/pane focusing
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -7689,7 +7690,7 @@
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [evanhu1/talk2arxiv](https://github.com/evanhu1/talk2arxiv) - Talk to any ArXiv paper using ChatGPT
-- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
+- [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [JacksonKearl/gjp-4-gpt](https://github.com/JacksonKearl/gjp-4-gpt) - JSON parser for streaming objects live from an LLM's output
@@ -8404,6 +8405,7 @@
 
 ## mcp 
 
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - Build, evaluate, and integrate long-term memory for self-evolving agents.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -8416,7 +8418,7 @@
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) - A simple CLI to run LLM prompt and implement MCP client.
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
@@ -9873,7 +9875,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
@@ -10020,6 +10022,10 @@
 
 ## others 
 
+- [zhuohangu/peek](https://github.com/zhuohangu/peek) - 
+- [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph) - 
+- [gepa-ai/gepa](https://github.com/gepa-ai/gepa) - Optimize prompts, code, and more with AI-powered Reflective Text Evolution
+- [modaic-ai/gepa-viz](https://github.com/modaic-ai/gepa-viz) - Interactive live visualizer for gepa runs
 - [Mercury-Language/mercury](https://github.com/Mercury-Language/mercury) - The Mercury logic programming system.
 - [Chrysalisms/Prism](https://github.com/Chrysalisms/Prism) - C2 Terminal-based Agentic Development Environment
 - [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) - Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
@@ -11038,7 +11044,7 @@
 - [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
 - [lubieowoce/tangle](https://github.com/lubieowoce/tangle) - A very messy React Server Components implementation.
-- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [theori-io/nrsc5](https://github.com/theori-io/nrsc5) - NRSC-5 receiver for rtl-sdr
 - [aleclarson/vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
@@ -11076,7 +11082,7 @@
 - [rgerganov/shanocast](https://github.com/rgerganov/shanocast) - Google Chromecast Reciever
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
+- [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - write programs you can talk to
 - [capnproto/capnp-ocaml](https://github.com/capnproto/capnp-ocaml) - OCaml code generator plugin for the Cap'n Proto serialization framework
 - [coldtype/coldtype](https://github.com/coldtype/coldtype) - cross-platform display typography in python
 - [coldtype/st2](https://github.com/coldtype/st2) - Advanced typography in Blender
@@ -13096,7 +13102,6 @@
 - [WebReflection/static-params](https://github.com/WebReflection/static-params) - A general purpose utility to allow interpolation values as static parts of a template literal tag.
 - [moverest/sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) - Interactively take screenshots and record video captures with Sway.
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
-- [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [web-ridge/react-ridge-state](https://github.com/web-ridge/react-ridge-state) - Simple fast and small (400 bytes) state management for React
 - [jackmcdade/weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. This project didn't really help, but it was a fun try.
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
@@ -15677,7 +15682,7 @@
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 15.2x faster response times (0.13ms vs 1.98ms) and 72.3x higher throughput (105,698 vs 1,463 req/sec) tha
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 18.1x faster response times (0.12ms vs 2.17ms) and 67.4x higher throughput (97,826 vs 1,452 req/sec) than
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
@@ -16240,7 +16245,7 @@
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 15.2x faster response times (0.13ms vs 1.98ms) and 72.3x higher throughput (105,698 vs 1,463 req/sec) tha
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 18.1x faster response times (0.12ms vs 2.17ms) and 67.4x higher throughput (97,826 vs 1,452 req/sec) than
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
@@ -16356,7 +16361,7 @@
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
 - [timvisee/pixelpwnr-cast](https://github.com/timvisee/pixelpwnr-cast) - :tv: Insanely fast pixelflut client to cast your screen written in Rust.
-- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
+- [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust
 - [tamton-aquib/ice](https://github.com/tamton-aquib/ice) - A simple ctf tool store.
 - [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) - A statefull task manager focused on integration with build systems.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
