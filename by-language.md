@@ -2720,6 +2720,7 @@
 - [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [ggerganov/dot-to-ascii](https://github.com/ggerganov/dot-to-ascii) - Graphviz to ASCII converter using Graph::Easy
+- [wcygan/dotfiles](https://github.com/wcygan/dotfiles) - Configuration for Development Environments
 - [vnglst/when-ai-fails](https://github.com/vnglst/when-ai-fails) - When AI Fails is a project dedicated to documenting the funny, interesting, and sometimes outright stupid ways in which AI can fail.
 - [lisyarus/blog](https://github.com/lisyarus/blog) - https://lisyarus.github.io/blog/
 - [tc39/proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
@@ -3213,7 +3214,7 @@
 - [vercel/next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
 - [rauchg/how-is-this-not-illegal](https://github.com/rauchg/how-is-this-not-illegal) - A demo of using RSC and Vercel Postgres, legally
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - The most widely used Protobuf package for JavaScript & TypeScript. Fast, conformant, and versatile.
 - [Sytten/PrettyXML](https://github.com/Sytten/PrettyXML) - Powerful XML viewer for Firefox
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
@@ -4632,7 +4633,6 @@
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
-- [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) - resolve those conflicts and have a happy relationship with git
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help) - cmp-nvim-lsp-signature-help
@@ -4852,7 +4852,6 @@
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
 - [nvim-pack/lsp-fastaction.nvim](https://github.com/nvim-pack/lsp-fastaction.nvim) - lsp codeaction UI for neovim
-- [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) - npm integration for telescope.nvim, WIP
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -5035,6 +5034,7 @@
 
 ## Nix 
 
+- [axseem/dots](https://github.com/axseem/dots) - axseem's Linux Workstation Configuration | Mirror of https://codeberg.org/axseem/dots
 - [auscyber/dotfiles](https://github.com/auscyber/dotfiles) - My linux dotfiles
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
@@ -8251,7 +8251,6 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
-- [wcygan/dotfiles](https://github.com/wcygan/dotfiles) - Configuration for Development Environments
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
@@ -8696,6 +8695,7 @@
 
 ## TypeScript 
 
+- [hendrikmuhs/ccache-action](https://github.com/hendrikmuhs/ccache-action) - github action to speedup building using ccache
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [modaic-ai/gepa-viz](https://github.com/modaic-ai/gepa-viz) - Interactive live visualizer for gepa runs
 - [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) - Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
@@ -8723,7 +8723,7 @@
 - [nigel-dev/opencode-mission-control](https://github.com/nigel-dev/opencode-mission-control) - OpenCode plugin for parallel AI coding sessions in isolated git worktrees
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [malhashemi/opencode-sessions](https://github.com/malhashemi/opencode-sessions) - Session management plugin for OpenCode with  multi-agent collaboration support
 - [wavyrai/tmux-ide](https://github.com/wavyrai/tmux-ide) - Turn any project into a tmux-powered terminal IDE with a simple ide.yml
 - [smithery-ai/agent.pw](https://github.com/smithery-ai/agent.pw) - Share APIs with agents, without sharing secrets.
@@ -9176,7 +9176,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [bun-community/create-templates](https://github.com/bun-community/create-templates) - 
 - [sachinraja/trpc-bun](https://github.com/sachinraja/trpc-bun) - tRPC + Bun
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken
 - [mxsdev/ts-type-explorer](https://github.com/mxsdev/ts-type-explorer) - VSCode Extension & utilities for exploring TypeScript type information
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -9349,7 +9349,6 @@
 - [Arthie/xwind](https://github.com/Arthie/xwind) - Tailwind CSS as a templating language in JS and CSS-in-JS
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
-- [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
