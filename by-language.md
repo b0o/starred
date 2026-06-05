@@ -199,6 +199,7 @@
 
 ## C 
 
+- [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [travisgoodspeed/goodwatch](https://github.com/travisgoodspeed/goodwatch) - Replacement board for Casio Calculator Watches using the CC430F6147
 - [joeycastillo/Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch) - A board replacement for the classic Casio F-91W wristwatch
 - [fukuchi/libqrencode](https://github.com/fukuchi/libqrencode) - A fast and compact QR Code encoding library
@@ -1093,7 +1094,6 @@
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -1133,7 +1133,7 @@
 - [discord/lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
-- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [DOOMer/screengrab](https://github.com/DOOMer/screengrab) - Crossplatform tool for fast making screenshots.
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
@@ -2127,7 +2127,7 @@
 - [apenwarr/git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [tj/go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [getsentry/sentry-go](https://github.com/getsentry/sentry-go) - The official Go SDK for Sentry (sentry.io)
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -2862,7 +2862,6 @@
 - [base16-builder/base16-builder](https://github.com/base16-builder/base16-builder) - :hammer: Base16 Builder is a nimble command-line tool that generates themes for your favourite programs.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 - [colah/colah.github.io](https://github.com/colah/colah.github.io) - 
-- [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [stripe/elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [jariz/tabbie](https://github.com/jariz/tabbie) - A material, customizable, and hackable new tab extension
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -3084,7 +3083,7 @@
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Linear CTO.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -5718,6 +5717,7 @@
 - [dok/awesome-text-editing](https://github.com/dok/awesome-text-editing) - Collection of text editing resources and libraries for the web
 - [libp2p/specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack
 - [Shougo/deoppet-snippets](https://github.com/Shougo/deoppet-snippets) - The standard snippets repository for deoppet
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [amirrajan/survivingtheappstore](https://github.com/amirrajan/survivingtheappstore) - My book on getting to the #1 Spot in the App Store. Buy my games to support me.
 - [rain-1/awesome-allocators](https://github.com/rain-1/awesome-allocators) - Awesome links and information about memory allocation
@@ -5857,6 +5857,7 @@
 
 ## Python 
 
+- [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [docxology/template](https://github.com/docxology/template) - Production-grade scaffold for reproducible computational research — 10-stage DAG pipelines, ≥90% test coverage, cryptographic provenance (SHA-256 + steganographic PDF watermarking), multi-project work
 - [stanford-cs336/lectures](https://github.com/stanford-cs336/lectures) - 
 - [DJLougen/hive](https://github.com/DJLougen/hive) - Unified agent memory and context compression stack for 2026 NVIDIA + edge (Vera CPU, Grace, Jetson Thor, 3090). Glues busyBee-cpu, honey-comb, and rust-brain. Better effective reasoning per token.
@@ -8768,7 +8769,7 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [R44VC0RP/openpad](https://github.com/R44VC0RP/openpad) - Native iPad app for OpenCode - browse sessions, projects and view chat conversations
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
