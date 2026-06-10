@@ -850,7 +850,7 @@
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
 - [PlutoLang/Language-Server](https://github.com/PlutoLang/Language-Server) - Experimental LSP suite for Pluto, a Lua dialect, with linting and completions.
-- [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
+- [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.5 with a focus on general-purpose programming.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [FlatIO/node-lame](https://github.com/FlatIO/node-lame) - Node.js native bindings to libmp3lame & libmpg123
 - [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
@@ -993,7 +993,7 @@
 - [znc/znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [jfedor2/trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
+- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [CarVac/filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [smallstepforman/Medo](https://github.com/smallstepforman/Medo) - Haiku Media Editor
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -1125,7 +1125,7 @@
 - [jaamesd/BucketCompressionTrick](https://github.com/jaamesd/BucketCompressionTrick) - Cool trick to store 4 5-bit values in one 16-bit value.
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [nonpop/xkblayout-state](https://github.com/nonpop/xkblayout-state) - A small command-line program to get/set the current keyboard layout.
 - [sergei-mironov/xkb-switch](https://github.com/sergei-mironov/xkb-switch) - Switch your X keyboard layouts from the command line
@@ -1413,7 +1413,7 @@
 - [EFLS/zetteldeft](https://github.com/EFLS/zetteldeft) - A Zettelkasten system! Or rather, some functions on top of the emacs deft package.
 - [rocher/dynamic-ruler](https://github.com/rocher/dynamic-ruler) - Emacs package to show a dynamic ruler that can be freely moved around the buffer, for measuring and positioning text.
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [codemac/config](https://github.com/codemac/config) - my config
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [vic/rebecca-theme](https://github.com/vic/rebecca-theme) - The purple turtle theme for Spacemacs
@@ -1784,7 +1784,7 @@
 - [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [mattn/go-getopt](https://github.com/mattn/go-getopt) - getopt for golang
 - [kesselborn/go-getopt](https://github.com/kesselborn/go-getopt) - getopt implementation in go (flags-alternative closer to gnu getopt)
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by many important systems
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
@@ -2186,7 +2186,7 @@
 - [go-flutter-desktop/hover](https://github.com/go-flutter-desktop/hover) - Hover helps developers to release Flutter applications on desktop.
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [ejcx/passgo](https://github.com/ejcx/passgo) - Simple golang password manager.
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
 - [rsc/diff](https://github.com/rsc/diff) - Diff(1)
 - [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
 - [griesemer/tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
@@ -3089,7 +3089,7 @@
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Linear CTO.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -4069,7 +4069,7 @@
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [tschaub/mock-fs](https://github.com/tschaub/mock-fs) - Configurable mock for the fs module
-- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
+- [react/metro](https://github.com/react/metro) - 🚇 The JavaScript bundler for React Native
 - [electronicwhisper/recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
@@ -4112,7 +4112,7 @@
 - [fightforthefuture/battleforthenet-widget](https://github.com/fightforthefuture/battleforthenet-widget) - Embed this widget on your site and help save net neutrality!
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [atom/teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [atom/teletype-client](https://github.com/atom/teletype-client) - Editor-agnostic library managing client interaction for peer-to-peer collaborative editing in Teletype for Atom
@@ -5868,6 +5868,7 @@
 
 ## Python 
 
+- [docxology/itrace](https://github.com/docxology/itrace) - Verification-first webcam eye-movement analysis (gaze, saccades, pupillometry) — MIT-licensed Python core, algorithmically verified. Zenodo DOI 10.5281/zenodo.20614908
 - [gracefan2020/MosaicJoin](https://github.com/gracefan2020/MosaicJoin) - 
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -6072,7 +6073,7 @@
 - [kingoflolz/mic_host](https://github.com/kingoflolz/mic_host) - 
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various
 - [PaulPauls/llama3_interpretability_sae](https://github.com/PaulPauls/llama3_interpretability_sae) - A complete end-to-end pipeline for LLM interpretability with sparse autoencoders (SAEs) using Llama 3.2, written in pure PyTorch and fully reproducible.
-- [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
+- [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
 - [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG) - High-performance retrieval engine for unstructured data
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -6298,7 +6299,7 @@
 - [bernhard-42/jupyter-cadquery](https://github.com/bernhard-42/jupyter-cadquery) - An extension to render cadquery objects in JupyterLab via pythreejs
 - [persimmon-ai-labs/adept-inference](https://github.com/persimmon-ai-labs/adept-inference) - Inference code for Persimmon-8B
 - [KillianLucas/tokentrim](https://github.com/KillianLucas/tokentrim) - Easily trim 'messages' arrays for use with GPTs
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [Bklieger/ProxyGPT](https://github.com/Bklieger/ProxyGPT) - Lightweight OpenAI wrapper using FastAPI. Add rate limits to OpenAI usage, optionally log and store all API calls, and share regulated OpenAI API access without providing your secret key. Comes with a
 - [nathanalam/throttled_openai_cdk](https://github.com/nathanalam/throttled_openai_cdk) - CDK application for creating an openly accessible OpenAPI proxy API that is throttled at a set token limit per day.
 - [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) - 
@@ -7288,7 +7289,7 @@
 - [AdrianEddy/fast-whisper-burn](https://github.com/AdrianEddy/fast-whisper-burn) - 
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [VidyaBodepudi/Code-Skills](https://github.com/VidyaBodepudi/Code-Skills) - A bunch of agent skills for coding workflows to make things easier from ideation, planning, documentation, execution, security checks, audit/compliance/risk shenanigans
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
@@ -8809,7 +8810,7 @@
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [MrgSub/opencode-debug](https://github.com/MrgSub/opencode-debug) - 
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
@@ -9157,7 +9158,7 @@
 - [wobsoriano/elysia-clerk](https://github.com/wobsoriano/elysia-clerk) - Unofficial Clerk plugin for Elysia.js.
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pClou
