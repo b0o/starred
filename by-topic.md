@@ -901,7 +901,7 @@
 - [konfig-dev/konfig](https://github.com/konfig-dev/konfig) - SDK & API Docs Generator. Sunset as of December 2024
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
-- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
+- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages
 - [wllfaria/hac](https://github.com/wllfaria/hac) - A terminal API Client that comes in handy. // Lightweight alternative to postman
 - [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
@@ -3510,7 +3510,7 @@
 - [irmen/Pyro5](https://github.com/irmen/Pyro5) - Pyro 5  - Python remote objects
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 8nV1A94UnmoidK3ujRMmxdgBZzeJTrezz4Hd2nRMpump
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
@@ -4341,7 +4341,7 @@
 ## generative-ai 
 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
-- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
@@ -5058,7 +5058,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)
 - [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types — from 6-bit floats to 64-bit complex — across x86, Arm, RISC-V, and WASM, with bindings for P
-- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
+- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -5853,7 +5853,7 @@
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command.
 - [rescriptbr/rescript-conduit](https://github.com/rescriptbr/rescript-conduit) - :zap: The mother of all demo apps built with ReScript & React
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -7071,7 +7071,7 @@
 - [jsonnext/codemirror-json-schema](https://github.com/jsonnext/codemirror-json-schema) - A JSONSchema enabled mode for codemirror 6, for json4 and json5, inspired by monaco-json
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
 - [cinemast/libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - C++ framework for json-rpc (json remote procedure call)
-- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
+- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -7686,6 +7686,7 @@
 
 ## llm 
 
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM Wiki
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [DJLougen/hive](https://github.com/DJLougen/hive) - Unified agent memory and context compression stack for 2026 NVIDIA + edge (Vera CPU, Grace, Jetson Thor, 3090). Glues busyBee-cpu, honey-comb, and rust-brain. Better effective reasoning per token.
@@ -8413,6 +8414,7 @@
 
 ## markdown 
 
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM Wiki
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖
@@ -9149,7 +9151,7 @@
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [andersevenrud/cmp-tmux](https://github.com/andersevenrud/cmp-tmux) - Tmux completion source for nvim-cmp and nvim-compe
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes for Neovim Written in Lua
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
@@ -9953,7 +9955,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 8nV1A94UnmoidK3ujRMmxdgBZzeJTrezz4Hd2nRMpump
 - [watermelontools/watermelon-vscode](https://github.com/watermelontools/watermelon-vscode) - 🍉  VS Code Extension to enrich files of code with code context
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -10145,6 +10147,8 @@
 
 ## others 
 
+- [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura) - A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.
+- [unconv-ai/Un-0](https://github.com/unconv-ai/Un-0) - Un-0: an image generator powered by a simulated system of coupled oscillators, an example of an emerging physical computing substrate.
 - [numtide/tree-sitter-nix](https://github.com/numtide/tree-sitter-nix) - Nix grammar for tree-sitter
 - [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs) - Dank Linux Documentation
 - [Cairnstew/tailscale-manager](https://github.com/Cairnstew/tailscale-manager) - NixOS module + CLI for managing Tailscale auth keys via Terraform
@@ -11173,7 +11177,7 @@
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
 - [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
-- [beenotung/best-effort-json-parser](https://github.com/beenotung/best-effort-json-parser) - Parse incomplete json text in best-effort manner
+- [beenotung/best-effort-json-parser](https://github.com/beenotung/best-effort-json-parser) - Parse incomplete JSON text in best-effort manner. Useful for partial JSON responses, broken network packages, LLM responses with markdown fences or exceeding token limits, and configuration files with
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix) - Kickstart your Nix environment.
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
@@ -16654,7 +16658,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 8nV1A94UnmoidK3ujRMmxdgBZzeJTrezz4Hd2nRMpump
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [kkharji/xbase](https://github.com/kkharji/xbase) - Develop Apple software products within your favorite editor.
@@ -18312,7 +18316,7 @@
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JavaScript (JS) / TypeScript SDK. Stop bots and automated attacks from burning your AI budget, leaking data, or misusing tools with Arcjet's AI security building blocks.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
-- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
+- [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
@@ -18452,7 +18456,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 8nV1A94UnmoidK3ujRMmxdgBZzeJTrezz4Hd2nRMpump
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [erosson/freecbt](https://github.com/erosson/freecbt) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
