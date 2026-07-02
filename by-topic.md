@@ -160,7 +160,6 @@
 - [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
-- [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
@@ -176,6 +175,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -191,7 +191,6 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [matlab](#matlab)
-- [maven](#maven)
 - [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
@@ -401,8 +400,9 @@
 - [xlang-ai/CUA-Gym](https://github.com/xlang-ai/CUA-Gym) - Scalable pipeline for synthesizing verifiable RLVR training data for computer-use agents
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
@@ -460,7 +460,7 @@
 ## agents 
 
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -523,7 +523,7 @@
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) - Open-source graph database superpowers for your existing Postgres data.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 - [askalf/dario](https://github.com/askalf/dario) - Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. One local endpoint that replays Claude Code's wire shape so your traffic 
@@ -531,6 +531,7 @@
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) - UI components for AI interfaces
 - [rtk-ai/vox](https://github.com/rtk-ai/vox) - A universal AI toolkit for high-performance Speech-to-Text (STT) and Text-to-Speech (TTS) processing, designed for low-latency and easy model integration.
@@ -1917,13 +1918,14 @@
 - [docxology/template](https://github.com/docxology/template) - Production-grade scaffold for reproducible computational research — 10-stage DAG pipelines, ≥90% test coverage, cryptographic provenance (SHA-256 + steganographic PDF watermarking), multi-project work
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - A Unified Virtual Filesystem For AI Agents
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [askalf/dario](https://github.com/askalf/dario) - Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. One local endpoint that replays Claude Code's wire shape so your traffic 
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-session tool for claude code, cursor, codex, gemini
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [rvcas/claude-zellij-whip](https://github.com/rvcas/claude-zellij-whip) - Smart Claude Code notifications for Zellij with tab/pane focusing
@@ -2512,7 +2514,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -6573,10 +6575,6 @@
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 
-## javafx 
-
-- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
-
 ## javascript 
 
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
@@ -7359,6 +7357,13 @@
 - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 
+## learn-to-code 
+
+- [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) - Repo for https://zig.guide content. Get up to speed with Zig quickly.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+
 ## learning 
 
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
@@ -7528,7 +7533,6 @@
 - [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques for the people with limited time
 - [intermezzio/weffe](https://github.com/intermezzio/weffe) - Add effects to a webcam in Linux for Zoom, Webex, or other calls, or stream a video to a webcam, including blurred background
 - [ceccopierangiolieugenio/tlogg](https://github.com/ceccopierangiolieugenio/tlogg) - A fast, advanced log explorer.
-- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -7714,7 +7718,7 @@
 - [xlang-ai/CUA-Gym](https://github.com/xlang-ai/CUA-Gym) - Scalable pipeline for synthesizing verifiable RLVR training data for computer-use agents
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 - [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 - [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
@@ -7723,6 +7727,7 @@
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans — control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) - UI components for AI interfaces
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -8172,7 +8177,6 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) - A Mac tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
@@ -8535,10 +8539,6 @@
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 
-## maven 
-
-- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
-
 ## mcp 
 
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
@@ -8714,7 +8714,7 @@
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [orijtech/media-search](https://github.com/orijtech/media-search) - Media search's code
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -9553,7 +9553,7 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, s
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [fridays/next-routes](https://github.com/fridays/next-routes) - Universal dynamic routes for Next.js
@@ -9712,7 +9712,7 @@
 - [Level/levelup](https://github.com/Level/levelup) - Superseded by abstract-level. A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [node-cache/node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [jshttp/mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
@@ -16436,7 +16436,7 @@
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) - Open-source graph database superpowers for your existing Postgres data.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -16955,7 +16955,6 @@
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
 - [haltcase/param.macro](https://github.com/haltcase/param.macro) - Partial application syntax and lambda parameters for JavaScript, inspired by Scala's `_` & Kotlin's `it`
 
@@ -19356,7 +19355,6 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [magnusviri/InvokeAI](https://github.com/magnusviri/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. T
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
-- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR) - A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
