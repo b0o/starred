@@ -1095,6 +1095,7 @@
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -5414,7 +5415,7 @@
 - [badass-courses/wizard-skills](https://github.com/badass-courses/wizard-skills) - Companion skills for wizardshit.ai courses
 - [anomalyco/opencode-beta](https://github.com/anomalyco/opencode-beta) - 
 - [Bowen12137/Awesome-World-Models](https://github.com/Bowen12137/Awesome-World-Models) - This repository is the collection of World model Papers
-- [tldraw/tldraw-desktop](https://github.com/tldraw/tldraw-desktop) - A desktop app for using tldraw with local files.
+- [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files.
 - [josharrington/smart-levoit-core-300](https://github.com/josharrington/smart-levoit-core-300) - An IoT conversion for the Leviot Core 300
 - [b-/authentik-deploy](https://github.com/b-/authentik-deploy) - Authentik docker-compose gitops deployment
 - [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
@@ -5737,7 +5738,6 @@
 - [dok/awesome-text-editing](https://github.com/dok/awesome-text-editing) - Collection of text editing resources and libraries for the web
 - [libp2p/specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack
 - [Shougo/deoppet-snippets](https://github.com/Shougo/deoppet-snippets) - The standard snippets repository for deoppet
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [amirrajan/survivingtheappstore](https://github.com/amirrajan/survivingtheappstore) - My book on getting to the #1 Spot in the App Store. Buy my games to support me.
 - [rain-1/awesome-allocators](https://github.com/rain-1/awesome-allocators) - Awesome links and information about memory allocation
@@ -6282,7 +6282,7 @@
 - [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
@@ -7292,6 +7292,7 @@
 
 ## Rust 
 
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [mohsen1/git-lazy-mount](https://github.com/mohsen1/git-lazy-mount) - Lazily mount a git repo without cloning it. Works with ordinary git commands
 - [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura) - A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.
@@ -7308,7 +7309,7 @@
 - [anomalyco/rift](https://github.com/anomalyco/rift) - 
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
 - [PsycheFoundation/nousnet](https://github.com/PsycheFoundation/nousnet) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -8795,7 +8796,7 @@
 ## TypeScript 
 
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
-- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM Wiki
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM wiki
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
