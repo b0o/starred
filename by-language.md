@@ -655,7 +655,6 @@
 - [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) - Simple X Image Viewer
 - [mjanusz/v86d](https://github.com/mjanusz/v86d) - Userspace helper for uvesafb.
 - [bthies/streamit](https://github.com/bthies/streamit) - The StreamIt compiler infrastructure.
-- [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -2922,7 +2921,7 @@
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [polux/lambda-diagrams](https://github.com/polux/lambda-diagrams) - Animations of lambda term reduction sequences
 - [obsidiansystems/vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [ndmitchell/shake](https://github.com/ndmitchell/shake) - Shake build system
@@ -3023,7 +3022,7 @@
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [fabioz/Pydev](https://github.com/fabioz/Pydev) - Python IDE for Eclipse
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
+- [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - OplaPlanner has moved to https://github.com/apache/incubator-kie-drools. This repository is archived. OptaPlanner is an AI constraint solver in Java to optimize the vehicle routing problem, employee r
 - [nmatter1/smallville](https://github.com/nmatter1/smallville) - Generative Agents for video games. Based on Generative Agents: Interactive Simulacra of Human Behavior
 - [LibraryOfCongress/api.congress.gov](https://github.com/LibraryOfCongress/api.congress.gov) - congress.gov API
 - [psal/anonymouth](https://github.com/psal/anonymouth) - 
@@ -3100,7 +3099,7 @@
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Linear CTO.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -5634,7 +5633,6 @@
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
-- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition
 - [UIGuideline/UIGuideline](https://github.com/UIGuideline/UIGuideline) - This repository is currently being used for hosting the community’s request and project roadmap.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -5966,7 +5964,7 @@
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [acatovic/ova](https://github.com/acatovic/ova) - Outrageous Voice Assistant - Fully local end-to-end ASR + LLM + TTS pipeline using open weight models and a simple web based UI
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - Private, real-time speaker diarization on hardware you control. See who is speaking as it happens, no third-party cloud required.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [whoschek/bzfs](https://github.com/whoschek/bzfs) - bzfs is a CLI built for highly reliable and scalable near real-time ZFS snapshot replication with minimal operational complexity. It reliably replicates ZFS datasets in parallel using zfs send/receive
@@ -7292,6 +7290,9 @@
 
 ## Rust 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
+- [penberg/swarm](https://github.com/penberg/swarm) - Manage a swarm of coding agents.
+- [penberg/chimera](https://github.com/penberg/chimera) - Sandbox untrusted code with safe access to the host.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [mohsen1/git-lazy-mount](https://github.com/mohsen1/git-lazy-mount) - Lazily mount a git repo without cloning it. Works with ordinary git commands
@@ -7515,7 +7516,7 @@
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [errantmind/faf](https://github.com/errantmind/faf) - FaF Web Server
-- [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
+- [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, modern, and easily configurable web server with automatic TLS.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [amrit110/oli](https://github.com/amrit110/oli) - A simple, fast terminal based AI coding assistant
 - [4t145/rmcp](https://github.com/4t145/rmcp) - BEST Rust SDK for MCP (Model Context Protocol)
@@ -8067,6 +8068,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [kuchiki-rs/kuchiki](https://github.com/kuchiki-rs/kuchiki) - (朽木) HTML/XML tree manipulation library for Rust
 - [lowenware/dotrix](https://github.com/lowenware/dotrix) - A 3D engine with ECS and Vulkan renderer for Rust developers
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -8795,6 +8797,7 @@
 
 ## TypeScript 
 
+- [folke/zaly](https://github.com/folke/zaly) - Hackable terminal coding agent
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM wiki
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
@@ -10331,6 +10334,7 @@
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
 
 ## jq 
 
