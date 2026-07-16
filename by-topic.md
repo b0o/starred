@@ -6737,7 +6737,7 @@
 - [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant, and unusually versatile. No protoc required.
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
@@ -7777,7 +7777,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m agentic model for tiny devices
 - [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 - [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
 - [askalf/dario](https://github.com/askalf/dario) - Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. One local endpoint that replays Claude Code's wire shape so your traffic 
@@ -10227,6 +10227,7 @@
 
 ## others 
 
+- [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [ApodexAI/AgentHarness](https://github.com/ApodexAI/AgentHarness) - Evaluation harness for Apodex-1.0 on public deep-research benchmarks.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
@@ -10323,7 +10324,7 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [leochlon/ntkmirror](https://github.com/leochlon/ntkmirror) - 
 - [zhuohangu/peek](https://github.com/zhuohangu/peek) - 
-- [gepa-ai/gepa](https://github.com/gepa-ai/gepa) - Optimize prompts, code, and more with AI-powered Reflective Text Evolution
+- [gepa-ai/gepa](https://github.com/gepa-ai/gepa) - Optimize prompts, code, and more with AI-powered Reflective Optimization
 - [modaic-ai/gepa-viz](https://github.com/modaic-ai/gepa-viz) - Interactive live visualizer for gepa runs
 - [Mercury-Language/mercury](https://github.com/Mercury-Language/mercury) - The Mercury logic programming system.
 - [Chrysalisms/Prism](https://github.com/Chrysalisms/Prism) - C2 Terminal-based Agentic Development Environment
@@ -18508,7 +18509,7 @@
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant, and unusually versatile. No protoc required.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
