@@ -490,7 +490,7 @@
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
@@ -536,7 +536,7 @@
 - [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 - [askalf/dario](https://github.com/askalf/dario) - Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. One local endpoint that replays Claude Code's wire shape so your traffic 
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
@@ -597,7 +597,7 @@
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
@@ -816,7 +816,7 @@
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
@@ -2591,6 +2591,7 @@
 
 ## compiler 
 
+- [samyeyo/clx](https://github.com/samyeyo/clx) - A cross-platform ahead-of-time Lua compiler and runtime, using C++20 backend
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [alii/arc](https://github.com/alii/arc) - ⌒ JavaScript on the BEAM
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
@@ -2680,7 +2681,7 @@
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [thuml/awesome-multi-task-learning](https://github.com/thuml/awesome-multi-task-learning) - A curated list of DATASETS, CODEBASES and PAPERS on Multi-Task Learning (MTL),  from Machine Learning perspective.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -2734,6 +2735,7 @@
 
 ## cpp 
 
+- [samyeyo/clx](https://github.com/samyeyo/clx) - A cross-platform ahead-of-time Lua compiler and runtime, using C++20 backend
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -3185,7 +3187,7 @@
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [mattrobenolt/ps-http-sim](https://github.com/mattrobenolt/ps-http-sim) - UNOFFICIAL PlanetScale HTTP simulator
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
@@ -3782,7 +3784,6 @@
 - [auscyber/dotfiles](https://github.com/auscyber/dotfiles) - My linux dotfiles
 - [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
@@ -6709,7 +6710,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
@@ -7825,7 +7826,7 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
@@ -7946,6 +7947,7 @@
 
 ## lua 
 
+- [samyeyo/clx](https://github.com/samyeyo/clx) - A cross-platform ahead-of-time Lua compiler and runtime, using C++20 backend
 - [KumoCorp/shingetsu](https://github.com/KumoCorp/shingetsu) - A Rust-native reference-counted implementation of the Lua language
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
@@ -8261,7 +8263,7 @@
 - [tensorpool/tensorpool](https://github.com/tensorpool/tensorpool) - The CLI for GPUs
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [lakehq/sail](https://github.com/lakehq/sail) - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 - [thuml/awesome-multi-task-learning](https://github.com/thuml/awesome-multi-task-learning) - A curated list of DATASETS, CODEBASES and PAPERS on Multi-Task Learning (MTL),  from Machine Learning perspective.
@@ -8638,7 +8640,7 @@
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -10227,6 +10229,8 @@
 
 ## others 
 
+- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) - This is the list that AmazonBrandFilter uses to filter with.
+- [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [ApodexAI/AgentHarness](https://github.com/ApodexAI/AgentHarness) - Evaluation harness for Apodex-1.0 on public deep-research benchmarks.
@@ -11100,7 +11104,7 @@
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
 - [icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim) - LSP textDocument/documentLink support for neovim
-- [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Deprecated inference engine
+- [OpenRouterArchived/openrouter-runner](https://github.com/OpenRouterArchived/openrouter-runner) - Deprecated inference engine
 - [schasse/tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
 - [lthms/spatial-shell](https://github.com/lthms/spatial-shell) - Implementing a spatial model inspired by Material Shell, for i3 and sway.
 - [meelgroup/pepin](https://github.com/meelgroup/pepin) - A probabilistic approximate DNF counter
@@ -14659,7 +14663,7 @@
 - [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) - A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script)
 - [divan/gofresh](https://github.com/divan/gofresh) - Keep your Go package dependencies fresh. Console tool for checking and updating package dependencies (imports).
 - [fightforthefuture/battleforthenet-widget](https://github.com/fightforthefuture/battleforthenet-widget) - Embed this widget on your site and help save net neutrality!
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [GeertJohan/go.rice](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy.
 - [daviddengcn/gcse](https://github.com/daviddengcn/gcse) - Project for Go Search, a search engine for finding popular and relevant packages.
 - [uhub/awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
@@ -15152,7 +15156,7 @@
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [zama-ai/concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -15207,7 +15211,7 @@
 
 ## productivity 
 
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [Asthestarsfalll/piri](https://github.com/Asthestarsfalll/piri) - 🚀 Piri is a high-performance Niri extension tool built with Rust. It leverages efficient Niri IPC interaction and a unified event distribution mechanism to provide a robust, state-driven plugin system
@@ -15500,7 +15504,7 @@
 - [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [bernhard-42/jupyter-cadquery](https://github.com/bernhard-42/jupyter-cadquery) - An extension to render cadquery objects in JupyterLab via pythreejs
 - [bsilverthorn/maccarone](https://github.com/bsilverthorn/maccarone) - AI-managed code blocks in Python ⏪⏩
@@ -16040,7 +16044,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [deinsoftware/vscode-vitest-snippets](https://github.com/deinsoftware/vscode-vitest-snippets) - VS Code Vitest snippets for JS and TS
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
@@ -16715,7 +16719,7 @@
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
@@ -17528,7 +17532,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It sticks to anything.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [lakehq/sail](https://github.com/lakehq/sail) - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
@@ -18472,7 +18476,7 @@
 - [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
