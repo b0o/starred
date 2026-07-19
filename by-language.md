@@ -3656,7 +3656,7 @@
 - [ndjson/ndjson.js](https://github.com/ndjson/ndjson.js) - Streaming line delimited json parser + serializer
 - [diracdeltas/aliaser](https://github.com/diracdeltas/aliaser) - 
 - [laurendorman/color-of-berlin](https://github.com/laurendorman/color-of-berlin) - A Twitter bot that tweets the color of the sky in Berlin.
-- [cadeyrn/newtaboverride](https://github.com/cadeyrn/newtaboverride) - New Tab Override Allows you to choose which page Firefox shows whenever you open a new tab.
+- [cadeyrn/newtaboverride](https://github.com/cadeyrn/newtaboverride) - New Tab Override allows you to choose which page Firefox shows whenever you open a new tab.
 - [affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [rharel/webext-new-tab-tweaker](https://github.com/rharel/webext-new-tab-tweaker) - WebExtension that lets you customize a new tab's behavior and appearance.
@@ -6669,6 +6669,7 @@
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [sagemath/sage-archive-2023-02-01](https://github.com/sagemath/sage-archive-2023-02-01) - This repository used to be the user-facing mirror of the Sage source tree. As Sage development migrated on 2023-02-01 from https://trac.sagemath.org/ to our new repository on GitHub, https://github.co
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book
@@ -7316,7 +7317,7 @@
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [KumoCorp/shingetsu](https://github.com/KumoCorp/shingetsu) - A Rust-native reference-counted implementation of the Lua language
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
-- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent
+- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim like Lua plugins
 - [anomalyco/rift](https://github.com/anomalyco/rift) - 
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
 - [PsycheFoundation/nousnet](https://github.com/PsycheFoundation/nousnet) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
@@ -7353,7 +7354,7 @@
 - [AnthonyMichaelTDM/mecomp](https://github.com/AnthonyMichaelTDM/mecomp) - Metadata Enchanced Collection Orientated Music Player
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [sorairolake/qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding and decoding QR code
-- [Lenivaya/qrrs](https://github.com/Lenivaya/qrrs) - CLI QR code generator and reader written in rust
+- [cureforpain/qrrs](https://github.com/cureforpain/qrrs) - CLI QR code generator and reader written in rust
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [coast-guard/coasts](https://github.com/coast-guard/coasts) - Localhost service isolation and orchestration for git worktrees.
@@ -7653,7 +7654,7 @@
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [nobuyuki83/floor_plan](https://github.com/nobuyuki83/floor_plan) - 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -7932,7 +7933,7 @@
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [rust-lang/glob](https://github.com/rust-lang/glob) - Support for matching file paths against Unix shell style patterns.
-- [magiclen/qrcode-generator](https://github.com/magiclen/qrcode-generator) - Generate QR Code matrices and images in RAW, PNG and SVG formats.
+- [magiclen/qrcode-generator](https://github.com/magiclen/qrcode-generator) - Generates ISO/IEC 18004 QR Code and Micro QR Code symbols and ISO/IEC 23941 rMQR symbols in pure Rust, then renders them as grayscale, PNG and SVG images.
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
@@ -9653,7 +9654,6 @@
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
@@ -10307,6 +10307,7 @@
 
 ## Zig 
 
+- [moonstone-sh/moonstone](https://github.com/moonstone-sh/moonstone) - ʀᴇʟɪᴀʙʟᴇ ʟᴜᴀ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛꜱ, ʀᴇᴀᴅʏ ᴀᴛ ᴀ ꜱɴᴀᴘ.
 - [coder/boo](https://github.com/coder/boo) - A GNU screen style terminal multiplexer built on libghostty.
 - [bfredl/nvim-ui-client](https://github.com/bfredl/nvim-ui-client) - Nvim UI Client
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
