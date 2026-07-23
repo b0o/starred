@@ -577,7 +577,6 @@
 - [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
 - [dancor/wmctrl](https://github.com/dancor/wmctrl) - wmctrl with extensions and 64bit support
 - [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
-- [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [i3/i3status](https://github.com/i3/i3status) - Generates status bar to use with i3bar, dzen2 or xmobar
 - [inflex/ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
@@ -740,7 +739,7 @@
 - [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
 - [SugaryHull/re3](https://github.com/SugaryHull/re3) - Fuck you, Take Two
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
@@ -1085,6 +1084,7 @@
 - [microsoft/BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
+- [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
 - [google/sandboxed-api](https://github.com/google/sandboxed-api) - Generate sandboxes for C/C++ libraries automatically
 - [thinkyhead/TabletMagic](https://github.com/thinkyhead/TabletMagic) - Mac OS X driver for Wacom serial tablets and TabletPC digitizers
 - [mapbox/tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
@@ -3609,7 +3609,6 @@
 - [handshake-org/hs-client](https://github.com/handshake-org/hs-client) - REST, websocket, and RPC client for hsd
 - [Jimbly/regex-crossword](https://github.com/Jimbly/regex-crossword) - Implementation of a RegExp crossword.
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
-- [onury/perfy](https://github.com/onury/perfy) - A simple, light-weight NodeJS utility for measuring code execution in high-resolution real times.
 - [pomber/scrollycoding-preview](https://github.com/pomber/scrollycoding-preview) - 
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [juliangruber/url-to-screenshot](https://github.com/juliangruber/url-to-screenshot) - Capture screenshots using phantomjs
@@ -5199,6 +5198,7 @@
 - [remixlabs/wasicaml](https://github.com/remixlabs/wasicaml) - Translate OCaml bytecode to WebAssembly
 - [chetmurthy/utjson](https://github.com/chetmurthy/utjson) - Union Typing for JSON
 - [timbertson/opam2nix](https://github.com/timbertson/opam2nix) - Generate nix expressions from opam packages
+- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - styled components for Reason/OCaml with type-safe CSS and static extraction
 - [bikallem/wtr](https://github.com/bikallem/wtr) - HTTP request routing library for OCaml web applications.
 - [jobjo/popper](https://github.com/jobjo/popper) - Property-based testing at ease
 - [tmattio/dream-cli](https://github.com/tmattio/dream-cli) - Command Line Interface for Dream applications.
@@ -5959,7 +5959,7 @@
 - [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph) - Event-sourced graph runtime for durable and stateful agents
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m agentic model for tiny devices
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - Cactus foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.
 - [apple/ml-llarp](https://github.com/apple/ml-llarp) - 
 - [ActiveInferenceInstitute/ActiveInferAnts](https://github.com/ActiveInferenceInstitute/ActiveInferAnts) - Active Inference models of/for Ants
 - [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
@@ -7183,7 +7183,6 @@
 - [rolandpeelen/melange-pancake](https://github.com/rolandpeelen/melange-pancake) - A lens library so small in use you'd hardly notice it's there...
 - [cometkim/reason-todomvc](https://github.com/cometkim/reason-todomvc) - TodoMVC implementation written in ReasonML
 - [shakacode/re-formality](https://github.com/shakacode/re-formality) - Form validation tool for reason-react
-- [davesnx/styled-ppx](https://github.com/davesnx/styled-ppx) - styled components for Reason/OCaml with type-safe CSS and static extraction
 - [esy/esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml
 - [anmonteiro/youtube](https://github.com/anmonteiro/youtube) - 
 - [aantron/promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
@@ -8966,7 +8965,7 @@
 - [michaelpporter/breadcrumbs](https://github.com/michaelpporter/breadcrumbs) - Add typed-links to your Obsidian notes
 - [Davidiusdadi/obsidian-node-canvas](https://github.com/Davidiusdadi/obsidian-node-canvas) - 
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs in TypeScript
-- [aidenlx/zotlit](https://github.com/aidenlx/zotlit) - ZotLit brings your Zotero library into Obsidian. Create liter ature notes, insert citations, and annotate PDFs without leaving your vault.
+- [aidenlx/zotlit](https://github.com/aidenlx/zotlit) - Bring your Zotero library into Obsidian. Create liter ature notes, insert citations, and annotate PDFs without leaving your vault.
 - [mProjectsCode/obsidian-js-engine-plugin](https://github.com/mProjectsCode/obsidian-js-engine-plugin) - An Obsidian plugin that offers a multiple ways to run JavaScript from within Obsidian.
 - [jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools) - Add Obsidian integrations like semantic search and custom Templater prompts to Claude or any MCP client.
 - [janwilmake/openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) - Allow AI to wade through complex OpenAPIs using Simple Language
@@ -9698,6 +9697,7 @@
 - [Uniswap/v2-core](https://github.com/Uniswap/v2-core) - 🦄 🦄  Core smart contracts of Uniswap V2
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
+- [onury/perfy](https://github.com/onury/perfy) - A tiny, zero-dependency utility for measuring code execution time in high-resolution real time. Works in Node.js, browsers, Deno and Bun.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
