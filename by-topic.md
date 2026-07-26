@@ -2062,6 +2062,7 @@
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [s2-streamstore/s2-cli](https://github.com/s2-streamstore/s2-cli) - CLI for S2, the durable streams API
 - [cdalar/onctl](https://github.com/cdalar/onctl) - 🤖 manage virtual machines 🖥️ in multi cloud ☁️
 - [typeconf/typeconf](https://github.com/typeconf/typeconf) - Make small changes without deploying your app. Define feature flags, prompts, or any experiments right in Typescript!
@@ -4593,6 +4594,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
@@ -10856,7 +10858,6 @@
 - [EvWilson/spelunk.nvim](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks in Neovim with a friendly UI.
 - [lassade/c2z](https://github.com/lassade/c2z) - C++ to Zig bindings and transpiler
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [alurm/lua-match](https://github.com/alurm/lua-match) - Minimalistic sum types and switches for Lua
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
@@ -11978,7 +11979,7 @@
 - [munrocket/gl-bench](https://github.com/munrocket/gl-bench) - ⏳ WebGL performance monitor with CPU/GPU load.
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
-- [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) - Emacs dired like file manager for neovim
+- [x3ero0/dired.nvim](https://github.com/x3ero0/dired.nvim) - Emacs dired like file manager for neovim
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
 - [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree) - 
 - [koute/not-perf](https://github.com/koute/not-perf) - A sampling CPU profiler for Linux
@@ -16675,6 +16676,7 @@
 - [LorenDB/polyglot](https://github.com/LorenDB/polyglot) - The universal, multidirectional, multilingual binding generation tool
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [torrancew/xapian-rs](https://github.com/torrancew/xapian-rs) - Rust bindings for the Xapian search engine
 - [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [mystor/rust-cpp](https://github.com/mystor/rust-cpp) - Embed C++ directly inside your rust code!
