@@ -1099,7 +1099,6 @@
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -3113,7 +3112,6 @@
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 - [pjeby/monkey-around](https://github.com/pjeby/monkey-around) - Co-operatively, removably, monkeypatch around JS methods, or serialize their execution
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [PaulBenMarsh/r3f-stars](https://github.com/PaulBenMarsh/r3f-stars) - A 3D scene composed of 2D billboard sprites using react, react-spring and the THREE.js reconciler react-three-fiber with drei.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
@@ -3782,7 +3780,7 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). https://x.com/MrAhmadAwais
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ondrajz/goexplorer](https://github.com/ondrajz/goexplorer) - Interactive overview of Go packages using dynamic visualization.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -5745,6 +5743,7 @@
 - [dok/awesome-text-editing](https://github.com/dok/awesome-text-editing) - Collection of text editing resources and libraries for the web
 - [libp2p/specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack
 - [Shougo/deoppet-snippets](https://github.com/Shougo/deoppet-snippets) - The standard snippets repository for deoppet
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [amirrajan/survivingtheappstore](https://github.com/amirrajan/survivingtheappstore) - My book on getting to the #1 Spot in the App Store. Buy my games to support me.
 - [rain-1/awesome-allocators](https://github.com/rain-1/awesome-allocators) - Awesome links and information about memory allocation
@@ -7229,6 +7228,7 @@
 
 ## Ruby 
 
+- [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - See what sticks
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search
@@ -7334,7 +7334,7 @@
 - [anomalyco/rift](https://github.com/anomalyco/rift) - 
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
 - [PsycheFoundation/nousnet](https://github.com/PsycheFoundation/nousnet) - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -8857,7 +8857,7 @@
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
 - [nigel-dev/opencode-mission-control](https://github.com/nigel-dev/opencode-mission-control) - OpenCode plugin for parallel AI coding sessions in isolated git worktrees
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
@@ -8981,6 +8981,7 @@
 - [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - 👀  Easily apply tilt hover effect to React components - lightweight/zero dependencies 2.9kB
 - [mikotoIO/mikoto](https://github.com/mikotoIO/mikoto) - The Mikoto Monorepo
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
@@ -10365,7 +10366,7 @@
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
+- [letoram/arcan](https://github.com/letoram/arcan) - The owls are not what they seem.
 
 ## jq 
 
