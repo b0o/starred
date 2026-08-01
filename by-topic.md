@@ -424,7 +424,7 @@
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 - [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - The Tavily Python SDK allows for easy interaction with the Tavily API, offering the full range of our search, extract, crawl, map, and research functionalities directly from your Python programs. Easi
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
@@ -465,7 +465,7 @@
 
 ## agents 
 
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph) - Event-sourced graph runtime for durable and stateful agents
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
@@ -481,7 +481,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [humanlayer/agentcontrolplane](https://github.com/humanlayer/agentcontrolplane) - ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous 
@@ -761,7 +761,7 @@
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
@@ -2006,7 +2006,7 @@
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [nachoal/ai-fleet](https://github.com/nachoal/ai-fleet) - AI Agent fleet manager for parallel agentic systems like claude code and codex
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
@@ -6192,7 +6192,6 @@
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [haltcase/param.macro](https://github.com/haltcase/param.macro) - Partial application syntax and lambda parameters for JavaScript, inspired by Scala's `_` & Kotlin's `it`
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
@@ -7864,7 +7863,7 @@
 - [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
@@ -8202,6 +8201,7 @@
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
+- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua
@@ -8632,7 +8632,7 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [nigel-dev/opencode-mission-control](https://github.com/nigel-dev/opencode-mission-control) - OpenCode plugin for parallel AI coding sessions in isolated git worktrees
@@ -9302,6 +9302,7 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
+- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
@@ -9843,7 +9844,7 @@
 ## npm 
 
 - [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) - ✍️ All the npm/yarn/pnpm commands I don't want to type
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
@@ -9927,7 +9928,7 @@
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
-- [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
@@ -9948,7 +9949,7 @@
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 - [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - An Obsidian plugin for displaying data in a calendar similar to the github activity calendar
 - [darlal/obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin for Obsidian.md
-- [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
+- [community-archive/obsidian-hub](https://github.com/community-archive/obsidian-hub) - Resource hub for Obsidian resources.
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [Vinzent03/tab-switcher](https://github.com/Vinzent03/tab-switcher) - Tab Switcher - Obsidian Plugin
 - [kepano/obsidian-system-dark-mode](https://github.com/kepano/obsidian-system-dark-mode) - Automatically use the operating system's setting to switch between light and dark mode.
@@ -9968,7 +9969,7 @@
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
-- [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -10010,7 +10011,7 @@
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis) - Analyse the structure of your Obsidian graph using various analysis techniques
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
-- [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
@@ -10131,7 +10132,7 @@
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [Storia-AI/sage](https://github.com/Storia-AI/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -12679,7 +12680,6 @@
 - [lmanul/welltemperedtraveler](https://github.com/lmanul/welltemperedtraveler) - Well-Tempered Traveler
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [lunacookies/vim-substrata](https://github.com/lunacookies/vim-substrata) - A cold, dark colourscheme for Vim
-- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [Manawyrm/fxIP](https://github.com/Manawyrm/fxIP) - TCP/IP for Casio fx-9860 graphical calculators (with SLIP support, uIP stack)
 - [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore) - a sharded store to hold large IPLD graphs efficiently, packaged as location-transparent attachable CAR files, with mechanical sympathy
 - [cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python scripts that are short but useful or interesting
@@ -16450,7 +16450,7 @@
 - [xlang-ai/CUA-Gym](https://github.com/xlang-ai/CUA-Gym) - Scalable pipeline for synthesizing verifiable RLVR training data for computer-use agents
 - [instadeepai/Mava](https://github.com/instadeepai/Mava) - 🦁 A research-friendly codebase for fast experimentation of multi-agent reinforcement learning in JAX
 - [FLAIROx/JaxMARL](https://github.com/FLAIROx/JaxMARL) - Multi-Agent Reinforcement Learning with JAX
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
@@ -17301,7 +17301,7 @@
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
@@ -18307,7 +18307,7 @@
 - [diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite) - A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox 
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
@@ -18458,7 +18458,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [pmndrs/prai](https://github.com/pmndrs/prai) - JS Framework for building step-by-step LLM instructions
 - [mattpocock/evalite](https://github.com/mattpocock/evalite) - Evaluate your LLM-powered apps with TypeScript
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
@@ -18758,7 +18758,7 @@
 - [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes. Next version at https://github.com/jim-fx/nodarium
@@ -18971,6 +18971,7 @@
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
+- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
