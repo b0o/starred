@@ -199,6 +199,10 @@
 
 ## C 
 
+- [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+- [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
+- [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
+- [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [steve-m/hsdaoh](https://github.com/steve-m/hsdaoh) - High Speed Data Acquisition over HDMI - Userspace library
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 - [samyeyo/clx](https://github.com/samyeyo/clx) - A cross-platform ahead-of-time Lua compiler and runtime, using C++20 backend
@@ -1474,7 +1478,6 @@
 
 ## Fluent 
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative) - Cross-platform version of the iNat mobile app
 
 ## G-code 
@@ -2736,6 +2739,7 @@
 - [RUCAIBox/SWE-World](https://github.com/RUCAIBox/SWE-World) - 
 - [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - A curated, continuously updated reading list, paper blogs, and resources for World Action Models (WAMs) in embodied AI.
 - [alexsabine/CRR](https://github.com/alexsabine/CRR) - Coherence, Rupture, Regeneration: Identity Through Change
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -9375,7 +9379,7 @@
 - [ianstormtaylor/void](https://github.com/ianstormtaylor/void) - A toolkit for making generative art.
 - [devietti/trpc-next13-app](https://github.com/devietti/trpc-next13-app) - tRPC + Next 13 app directory + TypeScript
 - [trpc/next-13](https://github.com/trpc/next-13) - experimental playground for tRPC + next.js 13
-- [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [ravionhq/superjson](https://github.com/ravionhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
