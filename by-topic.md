@@ -367,7 +367,7 @@
 - [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
-- [BlenderKit/Blendkit](https://github.com/BlenderKit/Blendkit) - Official Blendekit add-on for Blender 3D. Documentation: https://github.com/BlenderKit/blendkit/wiki
+- [BlenderKit/Blendkit](https://github.com/BlenderKit/Blendkit) - Official Blendkit add-on for Blender 3D. Documentation: https://github.com/BlenderKit/blendkit/wiki
 - [secondlife/viewer](https://github.com/secondlife/viewer) - 🖥️ Second Life's official client
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [pmndrs/react-three-flex](https://github.com/pmndrs/react-three-flex) - 💪📦  Flexbox for react-three-fiber
@@ -756,7 +756,7 @@
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [branchbox/branchbox](https://github.com/branchbox/branchbox) - Parallel, isolated dev environments for humans and AI coding agents. Real containers. Real databases. Zero collisions.
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents. Terminal-native ADE for claude code, codex, cursor, opencode, grok and more
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - safe execution paths for agents - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - An AI coding agent guardrail — a CLI hook that blocks destructive git and filesystem commands and secret file access before they execute. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Copilo
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
@@ -1461,7 +1461,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
@@ -1647,7 +1647,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [jackguo380/vim-lsp-cxx-highlight](https://github.com/jackguo380/vim-lsp-cxx-highlight) - Vim plugin for C/C++/ObjC semantic highlighting using cquery, ccls, or clangd
@@ -2216,7 +2216,7 @@
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [integrii/flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -3248,7 +3248,7 @@
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [mmottl/postgresql-ocaml](https://github.com/mmottl/postgresql-ocaml) - OCaml-bindings for the PostgreSQL database
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -4132,7 +4132,7 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 ## firebase 
 
@@ -6290,7 +6290,7 @@
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure f
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [tweag/HaskellR](https://github.com/tweag/HaskellR) - The full power of R in Haskell.
 - [ChrisPenner/rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
 - [jtdaugherty/vty](https://github.com/jtdaugherty/vty) - A high-level ncurses alternative written in Haskell
@@ -6822,7 +6822,7 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [sc420/jellify-ur-website](https://github.com/sc420/jellify-ur-website) - A bookmarklet that turns any website into a big yummy wobbly jelly
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -7122,7 +7122,7 @@
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
@@ -7669,7 +7669,7 @@
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -8434,7 +8434,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-- [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
+- [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -8672,7 +8672,7 @@
 - [nigel-dev/opencode-mission-control](https://github.com/nigel-dev/opencode-mission-control) - OpenCode plugin for parallel AI coding sessions in isolated git worktrees
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) - UI components for AI interfaces
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - safe execution paths for agents - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
@@ -8788,7 +8788,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
@@ -8901,7 +8901,7 @@
 - [planetscale/database-js](https://github.com/planetscale/database-js) - A Fetch API-compatible PlanetScale database driver
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -8963,6 +8963,7 @@
 
 ## neovim 
 
+- [behzade/gpui-libghostty](https://github.com/behzade/gpui-libghostty) - Embed a terminal  or neovim in a gpui app using libghostty
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) - thin layer over native 'vim.pack`, adding support for lazy-loading and lazy.nvim specs
 - [saghen/blink.indent](https://github.com/saghen/blink.indent) - Performant indent guides for neovim
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
@@ -9746,7 +9747,7 @@
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -10296,6 +10297,7 @@
 
 ## others 
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) - Health checks for your Nix flakes
@@ -10568,7 +10570,7 @@
 - [mmomtchev/sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - An experimental HTTP VFS driver for SQLite WASM
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages
-- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
+- [rosalyntg/wl-screenrec](https://github.com/rosalyntg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
 - [bearcove/hotmeal](https://github.com/bearcove/hotmeal) - Parse, manipulate, diff and patch HTML 📄
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -10611,7 +10613,7 @@
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [R44VC0RP/openpad](https://github.com/R44VC0RP/openpad) - Native iPad app for OpenCode - browse sessions, projects and view chat conversations
 - [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile) - CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tenso
-- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology
+- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology https://demo.agent6789.com
 - [PandoraMedia/music-audio-representations](https://github.com/PandoraMedia/music-audio-representations) - Results and Models for Learning Audio Representations of Music Content
 - [spotify2tidal/spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
 - [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq
@@ -15187,7 +15189,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mmottl/postgresql-ocaml](https://github.com/mmottl/postgresql-ocaml) - OCaml-bindings for the PostgreSQL database
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -16615,6 +16617,7 @@
 
 ## rust 
 
+- [behzade/gpui-libghostty](https://github.com/behzade/gpui-libghostty) - Embed a terminal  or neovim in a gpui app using libghostty
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @eureka-cpu]
@@ -17185,7 +17188,7 @@
 - [rushter/hexora](https://github.com/rushter/hexora) - Static analysis of malicious Python code
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - safe execution paths for agents - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - An AI coding agent guardrail — a CLI hook that blocks destructive git and filesystem commands and secret file access before they execute. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Copilo
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
@@ -17735,7 +17738,7 @@
 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 
@@ -17760,7 +17763,7 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -17896,7 +17899,7 @@
 ## swift 
 
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
-- [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
+- [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
 - [boltffi/boltffi](https://github.com/boltffi/boltffi) - A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Python, Swift, Kotlin, and more
 - [rvcas/claude-zellij-whip](https://github.com/rvcas/claude-zellij-whip) - Smart Claude Code notifications for Zellij with tab/pane focusing
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -17929,7 +17932,7 @@
 
 ## swiftui 
 
-- [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
+- [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
 - [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -18488,7 +18491,7 @@
 - [purebred-mua/purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [jtdaugherty/vty](https://github.com/jtdaugherty/vty) - A high-level ncurses alternative written in Haskell
 
 ## twitter 
@@ -18680,7 +18683,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [agneym/playground](https://github.com/agneym/playground) - A simple playground for HTML, CSS and JavaScript supporting module imports.
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [Vinzent03/tab-switcher](https://github.com/Vinzent03/tab-switcher) - Tab Switcher - Obsidian Plugin
@@ -18799,7 +18802,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -19775,7 +19778,7 @@
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
