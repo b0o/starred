@@ -6014,7 +6014,7 @@
 - [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
-- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology https://demo.agent6789.com
+- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology
 - [PandoraMedia/music-audio-representations](https://github.com/PandoraMedia/music-audio-representations) - Results and Models for Learning Audio Representations of Music Content
 - [spotify2tidal/spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -7441,7 +7441,7 @@
 - [Asthestarsfalll/piri](https://github.com/Asthestarsfalll/piri) - 🚀 Piri is a high-performance Niri extension tool built with Rust. It leverages efficient Niri IPC interaction and a unified event distribution mechanism to provide a robust, state-driven plugin system
 - [misaelaguayo/zellij](https://github.com/misaelaguayo/zellij) - A terminal workspace with batteries included
 - [linuxmobile/oxicord](https://github.com/linuxmobile/oxicord) - Forged Discord TUI. Vim-fluid navigation, O(1) message geometry, and inline images. Crafted in Rust  for the terminal power user who seeks speed without the noise.
-- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
+- [rosalyntg/wl-screenrec](https://github.com/rosalyntg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [criterion-rs/criterion.rs](https://github.com/criterion-rs/criterion.rs) - 
 - [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API
 - [bearcove/hotmeal](https://github.com/bearcove/hotmeal) - Parse, manipulate, diff and patch HTML 📄
@@ -8781,7 +8781,7 @@
 
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
-- [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
+- [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [rvcas/claude-zellij-whip](https://github.com/rvcas/claude-zellij-whip) - Smart Claude Code notifications for Zellij with tab/pane focusing
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
