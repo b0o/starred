@@ -729,6 +729,7 @@
 
 ## C++ 
 
+- [zackb/tether](https://github.com/zackb/tether) - Linux + iPhone Continuity / iMessage / SMS
 - [DeterminateSystems/nix-src](https://github.com/DeterminateSystems/nix-src) - Determinate Nix is the golden path for Nix, for teams of any size.
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
@@ -3086,7 +3087,7 @@
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [AI-in-Transportation-Lab/awesome-jepa](https://github.com/AI-in-Transportation-Lab/awesome-jepa) - A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architecture (JEPA).
-- [askalf/dario](https://github.com/askalf/dario) - A local OpenAI- and Anthropic-compatible proxy that brings your Claude Pro/Max subscription to Cursor, Cline, Aider, and the Agent SDK. Session-affinity routing, multi-account pooling, and live drift 
+- [askalf/dario](https://github.com/askalf/dario) - A local OpenAI- and Anthropic-compatible proxy that serves your Claude AND ChatGPT subscriptions to Cursor, Cline, Aider, Claude Code and the Agent SDK — either plan answering either wire shape, with 
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [uwu/neptune](https://github.com/uwu/neptune) - an experimental client mod for TIDAL
 - [levelgraph/levelgraph](https://github.com/levelgraph/levelgraph) - Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.
@@ -6065,6 +6066,7 @@
 - [pollen-robotics/AmazingHand](https://github.com/pollen-robotics/AmazingHand) - Code and model to control the AH!
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
+- [wcygan/dotfiles](https://github.com/wcygan/dotfiles) - Configuration for Development Environments
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [vincenthopf/My-Claude-Code](https://github.com/vincenthopf/My-Claude-Code) - A curated list of commands, files, and workflows for Claude Code that I use personally every day. The Essentials
@@ -8405,7 +8407,6 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
-- [wcygan/dotfiles](https://github.com/wcygan/dotfiles) - Configuration for Development Environments
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
@@ -8924,7 +8925,7 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - An AI coding agent guardrail — a CLI hook that blocks destructive git and filesystem commands and secret file access before they execute. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Copilo
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity 
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [R44VC0RP/openpad](https://github.com/R44VC0RP/openpad) - Native iPad app for OpenCode - browse sessions, projects and view chat conversations
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
