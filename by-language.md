@@ -1550,6 +1550,7 @@
 - [agentstation/uuidkey](https://github.com/agentstation/uuidkey) - The uuidkey package encodes UUIDs to a readable Key format via the Base32-Crockford codec.
 - [planetscale/psdbproxy](https://github.com/planetscale/psdbproxy) - MySQL proxy for local connections to a PlanetScale database over HTTP/2
 - [mattrobenolt/ps-http-sim](https://github.com/mattrobenolt/ps-http-sim) - UNOFFICIAL PlanetScale HTTP simulator
+- [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data
 - [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [PowerDNS/lmdbnav](https://github.com/PowerDNS/lmdbnav) - A terminal UI to inspect LMDB database files
@@ -1632,7 +1633,6 @@
 - [akinsho/gitgazer](https://github.com/akinsho/gitgazer) - A CLI app that lets you keep track of developments in your favourite repos on Github
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad) - Easily check licenses against Gumroad's API.
@@ -2746,7 +2746,7 @@
 
 - [Keychron/zgm](https://github.com/Keychron/zgm) - Open source gaming mouse firmware built on Zephyr RTOS. Low latency, full customization, extensible driver model.
 - [RUCAIBox/SWE-World](https://github.com/RUCAIBox/SWE-World) - 
-- [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - A curated, continuously updated reading list, paper blogs, and resources for World Action Models (WAMs) in embodied AI.
+- [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - A curated collection of papers, explainers, and resources on World Action Models for embodied AI
 - [alexsabine/CRR](https://github.com/alexsabine/CRR) - Coherence, Rupture, Regeneration: Identity Through Change
 - [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
@@ -3433,7 +3433,7 @@
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [protoship/html-to-rescript-jsx](https://github.com/protoship/html-to-rescript-jsx) - Convert plain HTML to a valid ReScript JSX component
 - [TheSpyder/rescript-atdgen-generator](https://github.com/TheSpyder/rescript-atdgen-generator) - Pre-compiled versions of atdgen binaries to be consumed from ReScript projects
 - [ahrefs/atdgen-workshop-starter](https://github.com/ahrefs/atdgen-workshop-starter) - Starter project for ReasonConf atdgen workshop
@@ -5568,6 +5568,7 @@
 - [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
 - [djadmin/awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Open source 3D models from Charm 🧸
 - [Explosion-Scratch/Liamsa1212-is-cool](https://github.com/Explosion-Scratch/Liamsa1212-is-cool) - Star to change the repo title to your username!
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
@@ -6115,7 +6116,6 @@
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG) - Official implementation of NerualSVG
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-- [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [inca/blender-differential-growth](https://github.com/inca/blender-differential-growth) - Blender Addon: Differential Growth
@@ -6207,7 +6207,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
@@ -6304,7 +6304,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
@@ -8878,7 +8878,7 @@
 - [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) - Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
 - [endomorphosis/ProteinCAD](https://github.com/endomorphosis/ProteinCAD) - ProteinCAD (Computer-Aided Design): An Open-Source Orchestration Platform for Multi-Model Protein Binder Design
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
 - [codemix/graph](https://github.com/codemix/graph) - A type-safe, realtime, collaborative Graph Database which runs inside a CRDT
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -8919,7 +8919,7 @@
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [mesa-dot-dev/agentblame](https://github.com/mesa-dot-dev/agentblame) - AI code attribution for git. Track which lines were written by AI vs humans.
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+- [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [gaearon/woodshed](https://github.com/gaearon/woodshed) - Create, run, rate, and iterate on your Claude Skills
 - [johnlindquist/mdflow](https://github.com/johnlindquist/mdflow) - Multi-backend CLI for executable markdown prompts. Run .md files against Claude, Codex, Gemini, or Copilot.
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
@@ -9253,7 +9253,7 @@
 - [arielhs/ts-arithmetic](https://github.com/arielhs/ts-arithmetic) - Perform Type Level arithmetic in TypeScript
 - [MunifTanjim/express-zod-openapi](https://github.com/MunifTanjim/express-zod-openapi) - Express + Zod + OpenAPI
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
-- [unional/type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript
+- [cyberuni/type-plus](https://github.com/cyberuni/type-plus) - Additional types and types adjusted utilities for TypeScript
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
