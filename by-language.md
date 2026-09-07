@@ -421,7 +421,6 @@
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [dekuNukem/duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad
@@ -2750,6 +2749,7 @@
 - [RUCAIBox/SWE-World](https://github.com/RUCAIBox/SWE-World) - 
 - [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - A curated collection of papers, explainers, and resources on World Action Models for embodied AI
 - [alexsabine/CRR](https://github.com/alexsabine/CRR) - Coherence, Rupture, Regeneration: Identity Through Change
+- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
 - [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -3119,7 +3119,7 @@
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Linear CTO.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -4324,7 +4324,7 @@
 - [kevinhwang91/nvim-fundo](https://github.com/kevinhwang91/nvim-fundo) - Forever undo in Neovim
 - [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) - Stackable popups for Neovim. Peek around the code without overlooking the bigger picture.
 - [starwing/musubi](https://github.com/starwing/musubi) - A beautiful diagnostics renderer for compiler errors and warnings
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review for Neovim with VSCode style diffs
 - [trip-zip/somewm](https://github.com/trip-zip/somewm) - Not quite awesome...just some.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
@@ -4664,7 +4664,7 @@
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 - [LinArcX/telescope-scriptnames.nvim](https://github.com/LinArcX/telescope-scriptnames.nvim) - Telescope extension wrapper around `:scriptnames`
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+- [smart-splits-nvim/smart-splits.nvim](https://github.com/smart-splits-nvim/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) - resolve those conflicts and have a happy relationship with git
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
@@ -5956,7 +5956,7 @@
 - [GAIR-NLP/AlphaEval](https://github.com/GAIR-NLP/AlphaEval) - 
 - [studio-dots-ai/dots.tts](https://github.com/studio-dots-ai/dots.tts) - 
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
-- [docxology/template](https://github.com/docxology/template) - GitHub template for reproducible research repos — two-layer Python 3.10+/uv monorepo splitting generic infrastructure from per-project code, with pytest coverage gates (60% infra, 90% projects), a 16-
+- [docxology/template](https://github.com/docxology/template) - GitHub template for reproducible research repos — two-layer Python 3.10+/uv monorepo splitting generic infrastructure from per-project code, with pytest coverage gates (60% infra, 90% projects), a 17-
 - [stanford-cs336/lectures](https://github.com/stanford-cs336/lectures) - 
 - [DJLougen/hive](https://github.com/DJLougen/hive) - Unified agent memory and context compression stack for 2026 NVIDIA + edge (Vera CPU, Grace, Jetson Thor, 3090). Glues busyBee-cpu, honey-comb, and rust-brain. Better effective reasoning per token.
 - [phanen/nvim-suspicious-plugin-scanner](https://github.com/phanen/nvim-suspicious-plugin-scanner) - Scan and flag suspicious neovim plugins
@@ -5988,7 +5988,6 @@
 - [ActiveInferenceInstitute/ActiveInferAnts](https://github.com/ActiveInferenceInstitute/ActiveInferAnts) - Multi-language Active Inference framework combining ant-colony-optimization-inspired multi-agent simulation with variational message passing, implemented across 50 programming languages for research a
 - [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 - [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
-- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
@@ -6044,6 +6043,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [neuphonic/neutts](https://github.com/neuphonic/neutts) - On-device TTS model by Neuphonic
 - [daaain/claude-code-log](https://github.com/daaain/claude-code-log) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML / Markdown format.
@@ -7386,7 +7386,7 @@
 - [AdrianEddy/fast-whisper-burn](https://github.com/AdrianEddy/fast-whisper-burn) - 
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [VidyaBodepudi/Code-Skills](https://github.com/VidyaBodepudi/Code-Skills) - A bunch of agent skills for coding workflows to make things easier from ideation, planning, documentation, execution, security checks, audit/compliance/risk shenanigans
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
@@ -8408,7 +8408,6 @@
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [victor-falcon/zellij-sessionizer](https://github.com/victor-falcon/zellij-sessionizer) - A fuzzy finder-powered project switcher for Zellij sessions. Quickly navigate and switch between your development projects using fzf and automatically create or switch to Zellij sessions with the prop
-- [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
@@ -8528,6 +8527,7 @@
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [Igrom/i3-persist](https://github.com/Igrom/i3-persist) - Extends i3 window management with persistent containers
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
@@ -8660,7 +8660,7 @@
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [rickysarraf/laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
 - [simnalamburt/zsh-expand-all](https://github.com/simnalamburt/zsh-expand-all) - :shell: Automatically expands all glob expressions, subcommands, and aliases
-- [mgsloan/mgsloan-dotfiles](https://github.com/mgsloan/mgsloan-dotfiles) - Linux and xmonad configuration files
+- [mgsloan/mgsloan-dotfiles](https://github.com/mgsloan/mgsloan-dotfiles) - configuration of mgsloan's computing environment
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [nerdgeneration/www.sh](https://github.com/nerdgeneration/www.sh) - Web framework in Bash
 - [pbrisbin/dotfiles](https://github.com/pbrisbin/dotfiles) - My main configuration files
