@@ -1635,6 +1635,7 @@
 - [akinsho/gitgazer](https://github.com/akinsho/gitgazer) - A CLI app that lets you keep track of developments in your favourite repos on Github
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad) - Easily check licenses against Gumroad's API.
@@ -3083,6 +3084,7 @@
 
 ## JavaScript 
 
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) - Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/webmcp
 - [robertskmiles/firefox-claudemonkey](https://github.com/robertskmiles/firefox-claudemonkey) - AI-authored Firefox userscripts: describe a change to the current site and a local Claude Code instance writes/edits the userscript. Fork of Violentmonkey.
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
@@ -5566,7 +5568,6 @@
 - [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
 - [djadmin/awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Open source 3D models from Charm 🧸
 - [Explosion-Scratch/Liamsa1212-is-cool](https://github.com/Explosion-Scratch/Liamsa1212-is-cool) - Star to change the repo title to your username!
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
@@ -6018,7 +6019,7 @@
 - [samuel-vitorino/sopro](https://github.com/samuel-vitorino/sopro) - A lightweight text-to-speech model with zero-shot voice cloning
 - [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
-- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology
+- [hkjarral/AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP/Websocket technology         https://demo.agent6789.com
 - [PandoraMedia/music-audio-representations](https://github.com/PandoraMedia/music-audio-representations) - Results and Models for Learning Audio Representations of Music Content
 - [spotify2tidal/spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -6137,7 +6138,7 @@
 - [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
 - [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG) - High-performance retrieval engine for unstructured data
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [THUDM/WebRL](https://github.com/THUDM/WebRL) - Building Open LLM Web Agents with Self-Evolving Online Curriculum RL
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
@@ -6305,7 +6306,6 @@
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
-- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [microsoftarchive/promptbench](https://github.com/microsoftarchive/promptbench) - A unified evaluation framework for large language models
@@ -7111,6 +7111,7 @@
 - [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [dphaldes/kontrast-rs](https://github.com/dphaldes/kontrast-rs) - Proof-of-concept Rust version of KDE's Kontrast
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [NICHOLAS85/dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
@@ -7337,7 +7338,7 @@
 - [molybdenumsoftware/statix](https://github.com/molybdenumsoftware/statix) - A linter for the Nix language
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [naia-lib/naia](https://github.com/naia-lib/naia) - a cross-platform (including Wasm!) networking library built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server
@@ -7756,6 +7757,7 @@
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [cachix/gptcomment](https://github.com/cachix/gptcomment) - 
 - [jamsocket/plane](https://github.com/jamsocket/plane) - A distributed system for running WebSocket services at scale.
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -8490,7 +8492,6 @@
 - [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [dimo414/bash-cache](https://github.com/dimo414/bash-cache) - Transparent caching layer for bash functions; particularly useful for functions invoked as part of your prompt.
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
@@ -8887,7 +8888,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [docxology/timeline_generator](https://github.com/docxology/timeline_generator) - Browser-based temporal knowledge graph for biographical networks: React 18 and D3 force-directed views over a Fastify 4 + Neo4j 5 backend, 24 weighted relationship types with confidence scores, timeli
 - [yogirk/agent-council](https://github.com/yogirk/agent-council) - A skill that convenes a panel of CLI-based AI agents (Claude Code, Codex, Gemini CLI) to deliberate on engineering problems through structured multi-stage discussion, peer review, and synthesis
-- [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app.
+- [getpaykit/paykit](https://github.com/getpaykit/paykit) - Build Stripe billing without the glue code. Products in code, webhooks handled, billing state in your app.
 - [Michaelliv/pi-monitor](https://github.com/Michaelliv/pi-monitor) - 
 - [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
@@ -8936,7 +8937,7 @@
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity 
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [R44VC0RP/openpad](https://github.com/R44VC0RP/openpad) - Native iPad app for OpenCode - browse sessions, projects and view chat conversations
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) - 🐝 Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [folk-js/allio](https://github.com/folk-js/allio) - Experimental system to expose accessibility trees as read-write interfaces and augment existing apps with new UI affordances.
