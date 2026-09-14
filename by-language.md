@@ -206,7 +206,6 @@
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [steve-m/hsdaoh](https://github.com/steve-m/hsdaoh) - High Speed Data Acquisition over HDMI - Userspace library
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
-- [samyeyo/clx](https://github.com/samyeyo/clx) - A cross-platform ahead-of-time Lua compiler and runtime, using C++20 backend
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
@@ -734,6 +733,7 @@
 - [DeterminateSystems/nix-src](https://github.com/DeterminateSystems/nix-src) - Determinate Nix is the golden path for Nix, for teams of any size.
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
+- [samyeyo/clx](https://github.com/samyeyo/clx) - A cross-platform ahead-of-time Lua compiler and runtime, using C++20 backend
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [google/jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
 - [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent
@@ -1386,6 +1386,7 @@
 
 ## Elixir 
 
+- [icoretech/codex-pooler](https://github.com/icoretech/codex-pooler) - The full featured self-hosted Codex gateway, for teams, agents and you
 - [harmont-dev/hyper](https://github.com/harmont-dev/hyper) - Distributed Firecracker VM Orchestrator written in Elixir
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -1506,6 +1507,7 @@
 
 ## Go 
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [AvengeMedia/dank-greeter](https://github.com/AvengeMedia/dank-greeter) - Greetd-based Greeter for the Dank Linux Suite
@@ -5423,6 +5425,7 @@
 
 ## Others 
 
+- [yc-software/recruiting](https://github.com/yc-software/recruiting) - 
 - [flurples/C-13X](https://github.com/flurples/C-13X) - a handwired, qaz-esque alice keyboard
 - [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) - This is the list that AmazonBrandFilter uses to filter with.
 - [swiss-ai/apertus-tech-report](https://github.com/swiss-ai/apertus-tech-report) - Tech Report of the Apertus LLM
@@ -7323,6 +7326,8 @@
 
 ## Rust 
 
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+- [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
 - [zed-industries/embedded_gpui](https://github.com/zed-industries/embedded_gpui) - An experimental UI plugin API base for Zed
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 - [behzade/gpui-libghostty](https://github.com/behzade/gpui-libghostty) - Embed a terminal  or neovim in a gpui app using libghostty
@@ -7418,7 +7423,7 @@
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [Martin005/comrak-ext](https://github.com/Martin005/comrak-ext) - Extended Python bindings for the comrak Rust crate, a fast CommonMark/GFM parser.
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
-- [nongio/otto](https://github.com/nongio/otto) - A stacking window manager built around animation, gesture, and spatial interaction.
+- [nongio/otto](https://github.com/nongio/otto) - A stacking and tiling window manager built around animation, gesture, and spatial interaction.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [AndrewBeniston/zellij-project-sidebar](https://github.com/AndrewBeniston/zellij-project-sidebar) - A persistent sidebar plugin for Zellij that shows active project sessions with attention indicators
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
@@ -8854,7 +8859,10 @@
 
 ## TypeScript 
 
-- [getopenpost/openpost](https://github.com/getopenpost/openpost) - Your socials, on steroids.
+- [R44VC0RP/opencode.cafe](https://github.com/R44VC0RP/opencode.cafe) - A plugin and extension cafe for OpenCode.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
+- [getopenpost/openpost](https://github.com/getopenpost/openpost) - Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [Nomadcxx/opencode-cursor](https://github.com/Nomadcxx/opencode-cursor) - Use Cursor Pro models in OpenCode via HTTP proxy with OAuth
@@ -9386,7 +9394,7 @@
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [JovanVeljanoski/jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot) - A JupyterLab extension for generating code and interacting with JupyterLab Notebooks via voice commands
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [jdiaz5513/capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
