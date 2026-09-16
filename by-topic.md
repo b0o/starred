@@ -404,7 +404,7 @@
 - [penberg/swarm](https://github.com/penberg/swarm) - Manage a swarm of coding agents.
 - [xpert-ai/xpert](https://github.com/xpert-ai/xpert) - XpertAI is an open-source platform for building, running, and evolving ai agents, providing extensible capabilities and infrastructure for diverse AI systems.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [ZJU-REAL/SkillZero](https://github.com/ZJU-REAL/SkillZero) - Official code for "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"
+- [ZJU-REAL/SkillZero](https://github.com/ZJU-REAL/SkillZero) - [EMNLP 2026] Official code for "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"
 - [RUCAIBox/awesome-agent-harness](https://github.com/RUCAIBox/awesome-agent-harness) - The official GitHub page for the paper "Agent Systems with Harness Engineering"
 - [DJLougen/hive](https://github.com/DJLougen/hive) - Unified agent memory and context compression stack for 2026 NVIDIA + edge (Vera CPU, Grace, Jetson Thor, 3090). Glues busyBee-cpu, honey-comb, and rust-brain. Better effective reasoning per token.
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
@@ -471,6 +471,7 @@
 
 ## agents 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph) - Event-sourced graph runtime for durable and stateful agents
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
@@ -854,6 +855,7 @@
 
 ## android 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI
@@ -1360,7 +1362,7 @@
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [aramalipoor/aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver) - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -1455,7 +1457,7 @@
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques for the people with limited time
 - [Deleh/sf](https://github.com/Deleh/sf) - Simple Bash framework which provides argument parsing, usage output and text formatting variables
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
@@ -1998,6 +2000,7 @@
 
 ## claude-code 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
@@ -2116,7 +2119,6 @@
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [freedmand/semantra-python](https://github.com/freedmand/semantra-python) - Multi-tool for semantic search
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -2427,7 +2429,7 @@
 
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [cdalar/onctl](https://github.com/cdalar/onctl) - 🤖 manage virtual machines 🖥️ in multi cloud ☁️
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
@@ -3475,6 +3477,7 @@
 
 ## developer-tools 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
@@ -3683,6 +3686,7 @@
 
 ## docker 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
@@ -4749,7 +4753,7 @@
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [FeatureBaseDB/featurebase](https://github.com/FeatureBaseDB/featurebase) - A crazy fast analytical database, built on bitmaps. Perfect for ML applications. Learn more at: http://docs.featurebase.com/. Start a Docker instance: https://hub.docker.com/r/featurebasedb/featurebas
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pla
@@ -5212,7 +5216,7 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -6559,6 +6563,7 @@
 
 ## ios 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
@@ -7563,6 +7568,7 @@
 
 ## linux 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 - [zackb/tether](https://github.com/zackb/tether) - Linux + iPhone Continuity / iMessage / SMS
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -7637,7 +7643,7 @@
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [gulrak/filesystem](https://github.com/gulrak/filesystem) - An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
-- [canonical/mir](https://github.com/canonical/mir) - The Mir compositor
+- [canonical/mir](https://github.com/canonical/mir) - C++ libraries for writing Wayland Shells
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
@@ -7935,7 +7941,7 @@
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
@@ -8785,6 +8791,7 @@
 
 ## mobile 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
@@ -9654,7 +9661,6 @@
 ## no-code 
 
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!
@@ -9689,7 +9695,7 @@
 - [sighrobot/jqp](https://github.com/sighrobot/jqp) - A serverless proxy for filtering JSON using node-jq
 - [privatenumber/type-flag](https://github.com/privatenumber/type-flag) - ⛳️ Typed command-line arguments parser for Node.js
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [nodejs/node-inspect](https://github.com/nodejs/node-inspect) - Code that's now part of node, previously `node debug` for `node --inspect`
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
@@ -9792,7 +9798,7 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 - [TheSpyder/rescript-nodejs](https://github.com/TheSpyder/rescript-nodejs) - Node bindings for ReScript
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [11ways/janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 - [nodejs/node-inspect](https://github.com/nodejs/node-inspect) - Code that's now part of node, previously `node debug` for `node --inspect`
@@ -10323,6 +10329,9 @@
 
 ## others 
 
+- [willnorris/ipn-dns](https://github.com/willnorris/ipn-dns) - 
+- [damomurf/coredns-tailscale](https://github.com/damomurf/coredns-tailscale) - A Tailscale lookup plugin for CoreDNS
+- [omacom/omasnap](https://github.com/omacom/omasnap) - Native Wayland screenshot and annotation editor for Omarchy and Hyprland
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [yc-software/recruiting](https://github.com/yc-software/recruiting) - 
@@ -15522,6 +15531,7 @@
 
 ## python 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [simbaja/ha_gehome](https://github.com/simbaja/ha_gehome) - GE Home Appliances (SmartHQ) for Home Assistant
@@ -15649,6 +15659,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [bernhard-42/jupyter-cadquery](https://github.com/bernhard-42/jupyter-cadquery) - An extension to render cadquery objects in JupyterLab via pythreejs
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [bsilverthorn/maccarone](https://github.com/bsilverthorn/maccarone) - AI-managed code blocks in Python ⏪⏩
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
@@ -15689,7 +15700,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
@@ -16115,6 +16126,7 @@
 
 ## raspberry-pi 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -17217,6 +17229,7 @@
 
 ## security 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [phanen/nvim-suspicious-plugin-scanner](https://github.com/phanen/nvim-suspicious-plugin-scanner) - Scan and flag suspicious neovim plugins
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [google/jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
@@ -17350,6 +17363,7 @@
 
 ## security-tools 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [rushter/hexora](https://github.com/rushter/hexora) - Static analysis of malicious Python code
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -17384,6 +17398,7 @@
 
 ## self-hosted 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [getopenpost/openpost](https://github.com/getopenpost/openpost) - Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
@@ -17547,7 +17562,7 @@
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [aaronNGi/petopts](https://github.com/aaronNGi/petopts) - Portable and simple option parsing, powered by getopts(1p).
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
@@ -19578,6 +19593,7 @@
 
 ## windows 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -19810,7 +19826,7 @@
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
