@@ -983,7 +983,7 @@
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
+- [mswjs/msw](https://github.com/mswjs/msw) - The industry standard for API mocking in JavaScript.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [patchgirl/patchgirl](https://github.com/patchgirl/patchgirl) - Manual reproducible web API tests for web developers
@@ -1148,6 +1148,7 @@
 
 ## awesome 
 
+- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
 - [ankek/awesome-zfs](https://github.com/ankek/awesome-zfs) - A curated list of resources about OpenZFS (ZFS). Tutorials, tools, RAIDZ, backup, Linux, FreeBSD, macOS
 - [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI 🤖] Continuous updates on how to stay safe from NPM supply chain attacks
@@ -1247,6 +1248,7 @@
 
 ## awesome-list 
 
+- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
 - [RUCAIBox/awesome-agent-harness](https://github.com/RUCAIBox/awesome-agent-harness) - The official GitHub page for the paper "Agent Systems with Harness Engineering"
 - [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) - A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
 - [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - A curated collection of papers, explainers, and resources on World Action Models for embodied AI
@@ -2003,7 +2005,7 @@
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [robertskmiles/firefox-claudemonkey](https://github.com/robertskmiles/firefox-claudemonkey) - AI-authored Firefox userscripts: describe a change to the current site and a local Claude Code instance writes/edits the userscript. Fork of Violentmonkey.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
@@ -7644,7 +7646,7 @@
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [gulrak/filesystem](https://github.com/gulrak/filesystem) - An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
-- [canonical/mir](https://github.com/canonical/mir) - C++ libraries for writing Wayland Shells
+- [canonical/mir](https://github.com/canonical/mir) - The Mir compositor
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
@@ -7715,7 +7717,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Penetrum-Security/Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
@@ -7845,6 +7847,7 @@
 
 ## llm 
 
+- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) - Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/webmcp
@@ -8529,7 +8532,7 @@
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -10173,7 +10176,7 @@
 ## openai 
 
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [icoretech/codex-pooler](https://github.com/icoretech/codex-pooler) - The full featured self-hosted Codex gateway, for teams, agents and you
 - [xpert-ai/xpert](https://github.com/xpert-ai/xpert) - XpertAI is an open-source platform for building, running, and evolving ai agents, providing extensible capabilities and infrastructure for diverse AI systems.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
@@ -10330,6 +10333,7 @@
 
 ## others 
 
+- [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - 
 - [typesafe-ai/typesafe-sdk-js](https://github.com/typesafe-ai/typesafe-sdk-js) - The official TypeScript/JavaScript library for the TypeSafe API
 - [typesafe-ai/typesafe-sdk-python](https://github.com/typesafe-ai/typesafe-sdk-python) - The official Python library for the TypeSafe API
 - [typesafe-ai/skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
@@ -17125,7 +17129,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionalit
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [uw-ictd/haulage](https://github.com/uw-ictd/haulage) - A single-node tool for measuring and logging network usage to allow billing and analysis
 - [sidkshatriya/rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -19659,7 +19663,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
