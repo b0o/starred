@@ -475,7 +475,7 @@
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph) - Event-sourced graph runtime for durable and stateful agents
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -3691,7 +3691,7 @@
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -3851,6 +3851,7 @@
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
+- [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [mnabila/nvimrc](https://github.com/mnabila/nvimrc) - Neovim Configuration
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
@@ -5198,7 +5199,7 @@
 
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [getopenpost/openpost](https://github.com/getopenpost/openpost) - Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -7578,7 +7579,7 @@
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [c0deJedi/nbd-vram](https://github.com/c0deJedi/nbd-vram) - Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD,
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [auscyber/dotfiles](https://github.com/auscyber/dotfiles) - My linux dotfiles
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
@@ -7947,7 +7948,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
-- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 200+ datasets covering knowledge, reasoning, coding, scien
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, scien
 - [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -8462,7 +8463,7 @@
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
@@ -9728,7 +9729,7 @@
 ## nodejs 
 
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [ZaneH/firetv-remote](https://github.com/ZaneH/firetv-remote) - A web app that can control your Amazon FireTV (Stick). Just startup Node, fill in your device's IP address and use your web browser as a remote. (Enable ADB debugging)
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
@@ -10332,6 +10333,10 @@
 
 ## others 
 
+- [volotat/mini-AGI](https://github.com/volotat/mini-AGI) - Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
+- [google/ax](https://github.com/google/ax) - Google's open agentic orchestrator
+- [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
 - [Amr-Hegazy1/gated-recurrent-transformer](https://github.com/Amr-Hegazy1/gated-recurrent-transformer) - Code for "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation"
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - 
 - [typesafe-ai/typesafe-sdk-js](https://github.com/typesafe-ai/typesafe-sdk-js) - The official TypeScript/JavaScript library for the TypeSafe API
@@ -10557,7 +10562,7 @@
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
+- [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [Martin005/comrak-ext](https://github.com/Martin005/comrak-ext) - Extended Python bindings for the comrak Rust crate, a fast CommonMark/GFM parser.
 - [malhashemi/opencode-sessions](https://github.com/malhashemi/opencode-sessions) - Session management plugin for OpenCode with  multi-agent collaboration support
@@ -10709,7 +10714,7 @@
 - [VineLang/vine](https://github.com/VineLang/vine) - an experimental new programming language based on interaction nets
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [minimaxir/gemimg](https://github.com/minimaxir/gemimg) - Lightweight wrapper for generating and editing images from Gemini 2.5 Flash Image/Nano Banana
-- [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
+- [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - ⚠️ Discontinued — superseded by AWTRIX NG (github.com/Blueforcer/awtrix-ng). Archived custom firmware for the Ulanzi Smart Pixel clock and self build matrix clocks.
 - [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
 - [gausian-AI/Gausian_native_editor](https://github.com/gausian-AI/Gausian_native_editor) - Gausian - Rust-based local video editor for AI video production
 - [idanarye/nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim) - 
@@ -15379,6 +15384,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [charliecm/obsidian-tidy-footnotes](https://github.com/charliecm/obsidian-tidy-footnotes) - Tidy your footnotes seamlessly in Obsidian.
+- [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques for the people with limited time
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -15556,7 +15562,7 @@
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [ActiveInferenceInstitute/ActiveInferAnts](https://github.com/ActiveInferenceInstitute/ActiveInferAnts) - Multi-language Active Inference framework combining ant-colony-optimization-inspired multi-agent simulation with variational message passing, implemented across 50 programming languages for research a
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [rushter/hexora](https://github.com/rushter/hexora) - Static analysis of malicious Python code
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
@@ -16710,7 +16716,7 @@
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just 
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [AnthonyMichaelTDM/mecomp](https://github.com/AnthonyMichaelTDM/mecomp) - Metadata Enchanced Collection Orientated Music Player
@@ -17245,7 +17251,7 @@
 
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [phanen/nvim-suspicious-plugin-scanner](https://github.com/phanen/nvim-suspicious-plugin-scanner) - Scan and flag suspicious neovim plugins
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [google/jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
 - [rushter/hexora](https://github.com/rushter/hexora) - Static analysis of malicious Python code
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
@@ -17420,7 +17426,7 @@
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
@@ -18583,7 +18589,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [docxology/timeline_generator](https://github.com/docxology/timeline_generator) - Browser-based temporal knowledge graph for biographical networks: React 18 and D3 force-directed views over a Fastify 4 + Neo4j 5 backend, 24 weighted relationship types with confidence scores, timeli
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Build Stripe billing without the glue code. Products in code, webhooks handled, billing state in your app.
 - [nigel-dev/opencode-mission-control](https://github.com/nigel-dev/opencode-mission-control) - OpenCode plugin for parallel AI coding sessions in isolated git worktrees
@@ -19613,7 +19619,7 @@
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -19842,6 +19848,7 @@
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
