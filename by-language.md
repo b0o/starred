@@ -1358,7 +1358,7 @@
 ## Dart 
 
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [bernaferrari/color-studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -3545,6 +3545,7 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
+- [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [Alephbet/alephbet](https://github.com/Alephbet/alephbet) - AlephBet is a pure-javascript A/B (multivariate) testing framework for developers.
@@ -9095,7 +9096,7 @@
 - [StrandedKitty/streets-gl](https://github.com/StrandedKitty/streets-gl) - 🗺 OpenStreetMap 3D renderer powered by WebGL2
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [nDimensional/aurora](https://github.com/nDimensional/aurora) - Map of every account on BlueSky
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
@@ -9561,7 +9562,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [pmndrs/math](https://github.com/pmndrs/math) - 🪶 Math helpers for the rest of us
+- [pmndrs/math](https://github.com/pmndrs/math) - 🧮 The playful web's math engine
 - [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - An Obsidian plugin for displaying data in a calendar similar to the github activity calendar
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [darlal/obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin for Obsidian.md
@@ -9738,7 +9739,6 @@
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
-- [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
 - [nikeee/dot-language-server](https://github.com/nikeee/dot-language-server) - A language server for the DOT language.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
