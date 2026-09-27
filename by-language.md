@@ -127,13 +127,13 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [SystemVerilog](#systemverilog)
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
-- [VHDL](#vhdl)
 - [Vala](#vala)
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
@@ -6331,7 +6331,7 @@
 - [microsoftarchive/promptbench](https://github.com/microsoftarchive/promptbench) - A unified evaluation framework for large language models
 - [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [apple-aiml-research/ml-mgie](https://github.com/apple-aiml-research/ml-mgie) - 
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
@@ -8863,6 +8863,10 @@
 - [saoudrizwan/CardSlider](https://github.com/saoudrizwan/CardSlider) - Tinder cards with a twist
 - [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 
+## SystemVerilog 
+
+- [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament) - 
+
 ## Tcl 
 
 - [stepan-mitkin/drakon_editor](https://github.com/stepan-mitkin/drakon_editor) - DRAKON Editor
@@ -10021,10 +10025,6 @@
 - [cotowali/cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpile into POSIX sh
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
-
-## VHDL 
-
-- [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament) - 
 
 ## Vala 
 
