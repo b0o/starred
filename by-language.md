@@ -477,7 +477,7 @@
 - [st3r4g/swvkc](https://github.com/st3r4g/swvkc) - experimental Wayland Vulkan compositor
 - [Thomas-Tsai/partclone](https://github.com/Thomas-Tsai/partclone) - Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
 - [uzbl/uzbl](https://github.com/uzbl/uzbl) - A web browser that adheres to the unix philosophy.
-- [microsoft/ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - A Linux version of the Procmon Sysinternals tool
+- [microsoft/ProcMon-Linux](https://github.com/microsoft/ProcMon-Linux) - A Linux version of the Procmon Sysinternals tool
 - [shpedoikal/tpm-luks](https://github.com/shpedoikal/tpm-luks) - LUKS support for storing keys in TPM NVRAM
 - [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
 - [mobius3/font-chef](https://github.com/mobius3/font-chef) - A font cooking library
@@ -597,7 +597,7 @@
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [microsoft/ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
+- [microsoft/ProcDump-Linux](https://github.com/microsoft/ProcDump-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [MycroftAI/mimic1](https://github.com/MycroftAI/mimic1) - Mycroft's TTS engine, based on CMU's Flite (Festival Lite)
 - [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
@@ -1364,7 +1364,6 @@
 
 ## Dhall 
 
-- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
 
 ## Dockerfile 
@@ -1517,7 +1516,7 @@
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [damomurf/coredns-tailscale](https://github.com/damomurf/coredns-tailscale) - A Tailscale lookup plugin for CoreDNS
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [AvengeMedia/dank-greeter](https://github.com/AvengeMedia/dank-greeter) - Greetd-based Greeter for the Dank Linux Suite
@@ -1592,6 +1591,7 @@
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
@@ -1741,7 +1741,6 @@
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo
 - [rivo/duplo](https://github.com/rivo/duplo) - Detect duplicate (or similar) images. Written in Go.
-- [raverrr/plution](https://github.com/raverrr/plution) - Prototype pollution scanner using headless chrome
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
@@ -2171,7 +2170,7 @@
 - [apenwarr/git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [tj/go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [getsentry/sentry-go](https://github.com/getsentry/sentry-go) - The official Go SDK for Sentry (sentry.io)
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -3134,7 +3133,6 @@
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -3168,7 +3166,6 @@
 - [Pindrought/Ultralight-1_4-Demo-Project](https://github.com/Pindrought/Ultralight-1_4-Demo-Project) - 
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
-- [webgpu-tools/wesl-playground](https://github.com/webgpu-tools/wesl-playground) - WESL Shader Playground
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [Nuked88/ComfyUI-N-Sidebar](https://github.com/Nuked88/ComfyUI-N-Sidebar) - A simple sidebar for your ConfyUI!
@@ -5411,7 +5408,6 @@
 - [lswank/Tranquility](https://github.com/lswank/Tranquility) - Night vision for programmers. Work well in the dark. For OSX 10.9.
 - [jigish/slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
 - [mattr-/slate](https://github.com/mattr-/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 
 ## Objective-C++ 
 
@@ -6020,7 +6016,7 @@
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
 - [whoschek/bzfs](https://github.com/whoschek/bzfs) - bzfs is a CLI built for highly reliable and scalable near real-time ZFS snapshot replication with minimal operational complexity. It reliably replicates ZFS datasets in parallel using zfs send/receive
 - [ad4mts/zfdash](https://github.com/ad4mts/zfdash) - ZFS Management GUI & Web UI for Linux, macOS and FreeBSD. Provides both Desktop GUI and  Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, incl
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -6108,6 +6104,7 @@
 - [yousef-rafat/miniDiffusion](https://github.com/yousef-rafat/miniDiffusion) - A reimplementation of Stable Diffusion 3.5 in pure PyTorch
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [victorpoughon/torchlensmaker](https://github.com/victorpoughon/torchlensmaker) - Differentiable geometric optics in PyTorch. Design optical systems with modern GPU optimization.
@@ -6326,7 +6323,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, scien
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
@@ -6816,6 +6812,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
+- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [ms-jpq/isomorphic_copy](https://github.com/ms-jpq/isomorphic_copy) - Cross platform clipboard | networkless! remote copy
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [lukabuz/BlockView](https://github.com/lukabuz/BlockView) - A python script that can be used to track transactions on the bitcoin blockchain
@@ -7417,7 +7414,7 @@
 - [AdrianEddy/fast-whisper-burn](https://github.com/AdrianEddy/fast-whisper-burn) - 
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [VidyaBodepudi/Code-Skills](https://github.com/VidyaBodepudi/Code-Skills) - A bunch of agent skills for coding workflows to make things easier from ideation, planning, documentation, execution, security checks, audit/compliance/risk shenanigans
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
@@ -7578,7 +7575,7 @@
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC: Real-time latency at massive scale
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Inference at the speed of light.
-- [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - A lightweight local service that makes your locally installed fonts available on Figma.
+- [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - Use locally installed fonts in Figma’s web app on Linux.
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
@@ -7719,7 +7716,7 @@
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [lakehq/sail](https://github.com/lakehq/sail) - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [couchand/rust-wasm-capnproto-example](https://github.com/couchand/rust-wasm-capnproto-example) - :nut_and_bolt::electric_plug::mailbox_with_mail: An example of Rust compiling to WASM and passing Cap'n Proto messages to JavaScript.
 - [cberner/fleetfs](https://github.com/cberner/fleetfs) - FleetFS distributed filesystem
@@ -8401,7 +8398,6 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [ggplot2-exts/gallery](https://github.com/ggplot2-exts/gallery) - Gallery of ggplot2 extensions
 - [monzo/docs](https://github.com/monzo/docs) - Public API documentation
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [sharu725/thunder](https://github.com/sharu725/thunder) - A minimal and superfast Jekyll theme
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
@@ -8864,6 +8860,7 @@
 - [KimDarren/AlternativeIcon-Example](https://github.com/KimDarren/AlternativeIcon-Example) - :scream: Change your iOS application's icon programmatically since iOS 10.3
 - [saoudrizwan/CardSlider](https://github.com/saoudrizwan/CardSlider) - Tinder cards with a twist
 - [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 
 ## SystemVerilog 
 
@@ -9079,7 +9076,7 @@
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
@@ -9151,6 +9148,7 @@
 - [0xle0ne/nextauri](https://github.com/0xle0ne/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Runtime security for AI apps and agents: prompt injection detection, tool-call authorization, sensitive-data redaction, bot protection, and rate limiting. Drop it into your JS/TS code.
+- [webgpu-tools/wesl-playground](https://github.com/webgpu-tools/wesl-playground) - WESL Shader Playground
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
@@ -9974,6 +9972,7 @@
 - [sourcegraph/javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) - JavaScript and TypeScript code intelligence through the Language Server Protocol
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [sbussard/canvas-sketch](https://github.com/sbussard/canvas-sketch) - Sketch business models in your browser
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [zendeskgarden/react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
