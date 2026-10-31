@@ -1417,6 +1417,7 @@
 ## Emacs Lisp 
 
 - [semiosis/pen.el](https://github.com/semiosis/pen.el) - Thoughts on Faith and Judgement
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [merrickluo/lsp-tailwindcss](https://github.com/merrickluo/lsp-tailwindcss) - the lsp-mode client for tailwindcss
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
@@ -1626,6 +1627,7 @@
 - [boreq/guinea](https://github.com/boreq/guinea) - Go library for building command line interfaces.
 - [boreq/plum](https://github.com/boreq/plum) - Plum is a real-time web server access log analyser.
 - [chewxy/hm](https://github.com/chewxy/hm) - a simple Hindley-Milner type system in Go
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -2787,7 +2789,6 @@
 - [qrdlgit/simbiotico](https://github.com/qrdlgit/simbiotico) - GPT / Human collaboration mindmap tool, using OpenAI ChatGPT API
 - [tc39/proposal-promise-with-resolvers](https://github.com/tc39/proposal-promise-with-resolvers) - 
 - [kigiri/fetch](https://github.com/kigiri/fetch) - Convert CURL to javascript fetch api
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [fireship-io/supaship.io](https://github.com/fireship-io/supaship.io) - 
@@ -7352,6 +7353,9 @@
 
 ## Rust 
 
+- [anomalyco/hokum-sound](https://github.com/anomalyco/hokum-sound) - Audio control for Linux, by Anomaly
+- [anomalyco/hokum-bluetooth](https://github.com/anomalyco/hokum-bluetooth) - Bluetooth manager for Linux, by Anomaly
+- [SheepSeb/tinyworldformer](https://github.com/SheepSeb/tinyworldformer) - Tiny world model generates games and stream ac plays them all on Pico 2W
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [anomalyco/hokum](https://github.com/anomalyco/hokum) - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.
 - [anomalyco/deadbolt](https://github.com/anomalyco/deadbolt) - 
@@ -8914,6 +8918,7 @@
 
 ## TypeScript 
 
+- [rivet-dev/durable-object-migrator](https://github.com/rivet-dev/durable-object-migrator) - Migrate Durable Objects SLQite data to anywhere, including Postgres, filesystems, and Rivet Actors.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building composable actors around an immutable event log.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -9592,7 +9597,6 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [pmndrs/its-fine](https://github.com/pmndrs/its-fine) - 🐶🔥 A collection of escape hatches for React.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
