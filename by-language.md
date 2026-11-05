@@ -371,7 +371,6 @@
 - [jstrieb/quickserv-examples](https://github.com/jstrieb/quickserv-examples) - Example applications to run with QuickServ
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
-- [cmuratori/refterm](https://github.com/cmuratori/refterm) - Reference monospace terminal renderer
 - [xanmod/linux](https://github.com/xanmod/linux) - Git repository moved to https://gitlab.com/xanmod/linux
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
@@ -986,7 +985,6 @@
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
-- [cmuratori/termbench](https://github.com/cmuratori/termbench) - Simple benchmark for terminal output
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - Hierarchical spreadsheet: a free-form data organizer that replaces outliners, mind maps and spreadsheets.
 - [srsran/srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
@@ -1185,6 +1183,7 @@
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [vector-of-bool/cmrc](https://github.com/vector-of-bool/cmrc) - A Resource Compiler in a Single CMake Script
+- [scikit-build/scikit-build-sample-projects](https://github.com/scikit-build/scikit-build-sample-projects) - Sample projects demonstrating use of scikit-build
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [chase-moskal/webp-hero](https://github.com/chase-moskal/webp-hero) - browser polyfill for the webp image format
 
@@ -4296,7 +4295,7 @@
 ## Kotlin 
 
 - [ephraimduncan/hackertube.tv](https://github.com/ephraimduncan/hackertube.tv) - HackerTube for Android TV: the videos Hacker News recommends, played in the YouTube app on your TV.
-- [shulhi/rexlink](https://github.com/shulhi/rexlink) - Unoffical Rex client for Android
+- [shulhi/rexling](https://github.com/shulhi/rexling) - Unoffical Rex client for Android
 - [izivkov/CasioGShockSmartSync](https://github.com/izivkov/CasioGShockSmartSync) - 
 - [izivkov/GShockAPI](https://github.com/izivkov/GShockAPI) - 
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
@@ -6488,7 +6487,6 @@
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 - [fullthom/chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - 
 - [pybind/scikit_build_example](https://github.com/pybind/scikit_build_example) - An example combining scikit-build and pybind11
-- [scikit-build/scikit-build-sample-projects](https://github.com/scikit-build/scikit-build-sample-projects) - Sample projects demonstrating use of scikit-build
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [ramsrigouthamg/Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai) - Question generation using state-of-the-art Natural Language Processing algorithms
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
@@ -7361,6 +7359,10 @@
 
 ## Rust 
 
+- [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing
+- [storytold/texturecraft](https://github.com/storytold/texturecraft) - TextureCraft: An open-source, 3D texture painting workflow written from scratch in pure Rust
+- [shuv1337/rex-rune](https://github.com/shuv1337/rex-rune) - 
+- [stealth-factory/opscope](https://github.com/stealth-factory/opscope) - Hollywood called. They want their terminal back. Sci-fi terminal widgets that show only real data — latency, deployments, tailnet peers, GitHub, agents and clocks. Fifteen single-binary Rust widgets, 
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [anomalyco/hokum-sound](https://github.com/anomalyco/hokum-sound) - Audio control for Linux, by Anomaly
 - [anomalyco/hokum-bluetooth](https://github.com/anomalyco/hokum-bluetooth) - Bluetooth manager for Linux, by Anomaly
@@ -8929,6 +8931,8 @@
 
 ## TypeScript 
 
+- [nixfred/blip](https://github.com/nixfred/blip) - iMessage in the Omarchy bar. Read, send, groups, blue dots. Your Mac is the gateway, Linux is the client.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [rivet-dev/durable-object-migrator](https://github.com/rivet-dev/durable-object-migrator) - Migrate Durable Objects SLQite data to anywhere, including Postgres, filesystems, and Rivet Actors.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building composable actors around an immutable event log.
@@ -8950,7 +8954,7 @@
 - [Nomadcxx/opencode-cursor](https://github.com/Nomadcxx/opencode-cursor) - Use Cursor Pro models in OpenCode via HTTP proxy with OAuth
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
-- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [folke/zaly](https://github.com/folke/zaly) - Hackable terminal coding agent
@@ -8958,7 +8962,7 @@
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [turbopuffer/turbopuffer-typescript](https://github.com/turbopuffer/turbopuffer-typescript) - Official TypeScript API client library for turbopuffer
 - [xpert-ai/xpert](https://github.com/xpert-ai/xpert) - XpertAI is an open-source platform for building, running, and evolving ai agents, providing extensible capabilities and infrastructure for diverse AI systems.
@@ -8992,7 +8996,7 @@
 - [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [malhashemi/opencode-sessions](https://github.com/malhashemi/opencode-sessions) - Session management plugin for OpenCode with  multi-agent collaboration support
-- [wavyrai/tmux-ide](https://github.com/wavyrai/tmux-ide) - The open-source tmux for your coding agents
+- [wavyrai/tmux-ide](https://github.com/wavyrai/tmux-ide) - The open-source tmux GUI/TUI for your coding agents
 - [clavia-labs/agent.pw](https://github.com/clavia-labs/agent.pw) - Share APIs with agents, without sharing secrets.
 - [vercel-labs/agent-eval](https://github.com/vercel-labs/agent-eval) - 
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
@@ -9157,7 +9161,7 @@
 - [drizzle-team/hanji](https://github.com/drizzle-team/hanji) - Designless command line user interface builder for nodejs+typescript
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - Agenta is a workspace where you and your team build agents and automations.
 - [typeconf/typeconf](https://github.com/typeconf/typeconf) - Make small changes without deploying your app. Define feature flags, prompts, or any experiments right in Typescript!
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [whtwnd/whitewind-blog](https://github.com/whtwnd/whitewind-blog) - Repository to manage WhiteWind atproto blogging platform codes
 - [margelo/nitro](https://github.com/margelo/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
@@ -10464,6 +10468,7 @@
 
 ## Zig 
 
+- [alexrlocke/neorex](https://github.com/alexrlocke/neorex) - A Rex-Native frontend for Neovim.
 - [psyclyx/fix](https://github.com/psyclyx/fix) - Fast nIX language evaluator
 - [rockorager/rush](https://github.com/rockorager/rush) - rockorager's user-friendly shell
 - [moonstone-sh/moonstone](https://github.com/moonstone-sh/moonstone) - ʀᴇʟɪᴀʙʟᴇ ʟᴜᴀ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛꜱ, ʀᴇᴀᴅʏ ᴀᴛ ᴀ ꜱɴᴀᴘ.
