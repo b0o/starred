@@ -730,7 +730,7 @@
 
 ## C++ 
 
-- [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI
+- [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Lua, C & C++. Twice as good as GPUI
 - [omacom/omasnap](https://github.com/omacom/omasnap) - Native Wayland screenshot and annotation editor for Omarchy and Hyprland
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
@@ -4090,7 +4090,7 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [nikgraf/belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX
 - [elementalui/elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js
-- [fridays/next-routes](https://github.com/fridays/next-routes) - Universal dynamic routes for Next.js
+- [fridays/next-routes](https://github.com/fridays/next-routes) - Deprecated: Named routes for Next.js 2–9
 - [kaelig/readhn](https://github.com/kaelig/readhn) - A simple and fast Hacker News Top Stories reader – using Instapaper
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
@@ -7360,6 +7360,11 @@
 
 ## Rust 
 
+- [djeedai/hanabi-workshop](https://github.com/djeedai/hanabi-workshop) - Hanabi VFX editor
+- [cachix/file-lease](https://github.com/cachix/file-lease) - Process-owned memory-backed files on Linux and macOS with automatic cleanup
+- [voyager-so/vork](https://github.com/voyager-so/vork) - Headless 3D and VFX engine for agents. Research preview.
+- [anomalyco/isocast](https://github.com/anomalyco/isocast) - Free, open-source OBS alternative for Mac: scenes and sources, every source recorded as its own file (ISO), about half OBS's CPU, CLI and MCP control. Rust, Apple silicon.
+- [anomalyco/strobe](https://github.com/anomalyco/strobe) - Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.
 - [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing
 - [storytold/texturecraft](https://github.com/storytold/texturecraft) - TextureCraft: An open-source, 3D texture painting workflow written from scratch in pure Rust
 - [shuv1337/rex-rune](https://github.com/shuv1337/rex-rune) - Unofficial native Linux client for Rex, the terminal multiplexer from Superlogical. Written in Rust on Rune.
@@ -8933,6 +8938,7 @@
 
 ## TypeScript 
 
+- [joyco-studio/lettra](https://github.com/joyco-studio/lettra) - 
 - [anomalyco/textjs](https://github.com/anomalyco/textjs) - A React framework for apps that render in the browser console.
 - [anomalyco/browse](https://github.com/anomalyco/browse) - Let your AI agents use your real browser: an MCP server and a Chromium extension
 - [anomalyco/grim](https://github.com/anomalyco/grim) - Don't think for yourself
@@ -9556,7 +9562,7 @@
 - [pmndrs/react-three-rapier](https://github.com/pmndrs/react-three-rapier) - 🤺 Rapier physics in React
 - [webgpu/webgpu-samples](https://github.com/webgpu/webgpu-samples) - WebGPU Samples
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
+- [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful JavaScript library for high-performance color manipulations and conversions
 - [pmndrs/react-three-editor](https://github.com/pmndrs/react-three-editor) - 🔌 A one of a kind scene editor that writes changes back into your code
 - [gregberge/react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs 🖇
 - [juggle/resize-observer](https://github.com/juggle/resize-observer) - Polyfills the ResizeObserver API.
