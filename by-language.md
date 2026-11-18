@@ -200,6 +200,7 @@
 
 ## C 
 
+- [crigler/dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [hyperionaidev/smolmaxxing](https://github.com/hyperionaidev/smolmaxxing) - maxxing the ability to run different LLMs on the smallest devices possible
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [notaroomba/keybytes](https://github.com/notaroomba/keybytes) - A truly modular keyboard
@@ -2133,7 +2134,7 @@
 - [dr2chase/gc-lsp-tools](https://github.com/dr2chase/gc-lsp-tools) - Demo/experimental tools for playing with LSP logging output from Go's compiler, gc.
 - [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions) - Go SDK for GitHub Actions - easily author GitHub Actions in Go
 - [enescakir/emoji](https://github.com/enescakir/emoji) - A minimalistic emoji package for Go (golang)
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [gen2brain/beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
@@ -2488,7 +2489,7 @@
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [AlekSi/gocov-xml](https://github.com/AlekSi/gocov-xml) - 
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [google/skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) - high performance JSON encoder/decoder with stream API for Golang
 - [AndrewVos/vbar](https://github.com/AndrewVos/vbar) - A bar
@@ -3099,7 +3100,7 @@
 
 ## JavaScript 
 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse) - For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home As
 - [reisxd/TizenBrew](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
@@ -3128,6 +3129,7 @@
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+- [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
@@ -3426,7 +3428,7 @@
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
-- [kangax/html-minifier](https://github.com/kangax/html-minifier) - The original html-minifier (2010–2019). No longer maintained; succeeded by HTML Minifier Next.
+- [kangax/html-minifier](https://github.com/kangax/html-minifier) - The original HTML Minifier (2010–2019)—now maintained in github.com/j9t/html-minifier
 - [lorenzofox3/zora](https://github.com/lorenzofox3/zora) - Lightest, yet Fastest Javascript test runner for nodejs and browsers
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [cowlicks/privacypossum](https://github.com/cowlicks/privacypossum) - Privacy Possum makes tracking you less profitable
@@ -3838,14 +3840,14 @@
 - [WebReflection/essential-md](https://github.com/WebReflection/essential-md) - An essential markdown-like utility for console logs
 - [oldweb-today/netcapsule](https://github.com/oldweb-today/netcapsule) - Browse old web pages the old way with virtual browsers in the browser
 - [fazo96/ipfs-drive](https://github.com/fazo96/ipfs-drive) - in browser file manager for IPFS
-- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - [ BEWARE: NO MAINTAINER ] An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [oduwsdl/Reconstructive](https://github.com/oduwsdl/Reconstructive) - A ServiceWorker for client-side reconstruction of composite mementos
 - [dtube/dtube](https://github.com/dtube/dtube) - :tv: d.tube app. A full-featured video sharing website, decentralized.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [mozilla/libdweb](https://github.com/mozilla/libdweb) - Extension containing an experimental libdweb APIs
 - [MichaelMure/Arbore](https://github.com/MichaelMure/Arbore) - Friend-to-friend filesharing app to save the world from dystopia
-- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
+- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - [ BEWARE: NO MAINTAINER ] Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
 - [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
 - [pakastin/car](https://github.com/pakastin/car) - Multiplayer 2d car physics with JavaScript!
@@ -5916,10 +5918,11 @@
 
 ## Python 
 
+- [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) - Offline knowledge AI, maps and videos for survival and rebuilding
 - [beejmaxx/awesome-rex](https://github.com/beejmaxx/awesome-rex) - A curated list of tools, plugins and integrations for the Rex terminal workspace
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - Music player from another galaxy :milky_way:
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux
-- [Vaibhaav-Tiwari/deepseek-v3-jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) - DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax
+- [Vaibhaav-Tiwari/deepseek-v3-jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) - DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.
 - [Apps2Samsung/tizen-community-packages](https://github.com/Apps2Samsung/tizen-community-packages) - Community-curated bundles of Tizen applications. All-in-one releases for easy installation on your Tizen devices.
 - [chris-ritsen/samsung-tv-root](https://github.com/chris-ritsen/samsung-tv-root) - Samsung Tizen root
 - [xingjian-bai/opal](https://github.com/xingjian-bai/opal) - OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.
@@ -7291,7 +7294,6 @@
 ## Ruby 
 
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
-- [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - See what sticks
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search
 - [tdarshana/Blex-Mono-Liga-Powerline](https://github.com/tdarshana/Blex-Mono-Liga-Powerline) - Amazing IBM Plex Mono font with Ligatures and Power line symbols.
@@ -7363,6 +7365,10 @@
 
 ## Rust 
 
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
+- [cemcatik/rexurrect](https://github.com/cemcatik/rexurrect) - 
+- [willothy/rex-linux](https://github.com/willothy/rex-linux) - Unofficial Rex client for Linux
+- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [haydn-jones/rexy](https://github.com/haydn-jones/rexy) - A minimal native Rust client for Rex, powered by libghostty.
 - [DeepanshuMishraa/leaf](https://github.com/DeepanshuMishraa/leaf) - Read PDFs, markdown files and web articles in the terminal.
 - [vanducng/rexboard](https://github.com/vanducng/rexboard) - Attention board for coding agents in Rex: every agent pane on every host, how long it has waited, and a key to jump there
@@ -7774,7 +7780,7 @@
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [lakehq/sail](https://github.com/lakehq/sail) - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [couchand/rust-wasm-capnproto-example](https://github.com/couchand/rust-wasm-capnproto-example) - :nut_and_bolt::electric_plug::mailbox_with_mail: An example of Rust compiling to WASM and passing Cap'n Proto messages to JavaScript.
 - [cberner/fleetfs](https://github.com/cberner/fleetfs) - FleetFS distributed filesystem
@@ -7877,7 +7883,7 @@
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [maxbrunsfeld/llama-rs](https://github.com/maxbrunsfeld/llama-rs) - Rust bindings to llama.cpp, using metal on macOS
@@ -9153,7 +9159,7 @@
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue's AI agents connect, migrate and implement enterprise systems. Cloud-hosted or on your own infrastructure.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
@@ -9254,7 +9260,7 @@
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [HelgeSverre/ollama-gui](https://github.com/HelgeSverre/ollama-gui) - A Web Interface for chatting with your local LLMs via the ollama API
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [Igorkowalski94/eslint-plugin-project-structure](https://github.com/Igorkowalski94/eslint-plugin-project-structure) - ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project. Define your folder structure, file composition, advanced naming conventions, and create independent mo
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -9855,7 +9861,7 @@
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Read
 - [Redcrafter/verilog2factorio](https://github.com/Redcrafter/verilog2factorio) - This project will compile verilog (a hardware description language) into factorio blueprints.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
@@ -10501,6 +10507,8 @@
 
 ## Zig 
 
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
+- [zenodea/renux](https://github.com/zenodea/renux) - A native Linux client for Rex, in Zig and GTK4
 - [alexrlocke/neorex](https://github.com/alexrlocke/neorex) - A Rex-Native frontend for Neovim.
 - [psyclyx/fix](https://github.com/psyclyx/fix) - Fast nIX language evaluator
 - [rockorager/rush](https://github.com/rockorager/rush) - rockorager's user-friendly shell
