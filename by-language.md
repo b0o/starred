@@ -1508,6 +1508,7 @@
 
 ## Go 
 
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [almonk/bontree](https://github.com/almonk/bontree) - A file explorer to pair with your favourite agent
 - [almonk/rexpad](https://github.com/almonk/rexpad) - A live todo list for coding agents, drawn in a Rex pane with the kitty graphics protocol
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
