@@ -2077,6 +2077,7 @@
 - [yudai/gojsondiff](https://github.com/yudai/gojsondiff) - Go JSON Diff
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [boreq/eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [progrium/go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs
 - [superdb/super](https://github.com/superdb/super) - An analytics database that puts JSON and relational tables on equal footing
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
@@ -3242,7 +3243,6 @@
 - [WebSheets/websheets-core](https://github.com/WebSheets/websheets-core) - Non-presentation components of websheets
 - [WebSheets/websheets](https://github.com/WebSheets/websheets) - A ready-to-use component for spreadsheets in the browser
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language.
-- [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
 - [noiszy/noiszy](https://github.com/noiszy/noiszy) - 
 - [diiq/unjustifiable](https://github.com/diiq/unjustifiable) - Text justification, for the web, fast, good, and cheap.
@@ -3964,7 +3964,6 @@
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [xat/dlnacast](https://github.com/xat/dlnacast) - Cast local media to your TV through UPnP/DLNA
@@ -5446,6 +5445,7 @@
 
 ## Others 
 
+- [tylertms/Stela](https://github.com/tylertms/Stela) - A translation-based Apple Silicon layer for x86-64 PCs
 - [pjlsergeant/ai-sandboxes](https://github.com/pjlsergeant/ai-sandboxes) - Large YAML file containing details of AI agent sandboxing solutions
 - [typesafe-ai/skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
 - [yc-software/recruiting](https://github.com/yc-software/recruiting) - 
@@ -7375,7 +7375,6 @@
 - [DeepanshuMishraa/leaf](https://github.com/DeepanshuMishraa/leaf) - Read PDFs, markdown files and web articles in the terminal.
 - [vanducng/rexboard](https://github.com/vanducng/rexboard) - Attention board for coding agents in Rex: every agent pane on every host, how long it has waited, and a key to jump there
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
-- [tylertms/Stela](https://github.com/tylertms/Stela) - A translation-based Apple Silicon layer for x86-64 PCs
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [nivox/rex-attach](https://github.com/nivox/rex-attach) - Terminal client for Superlogical Rex
 - [djeedai/hanabi-workshop](https://github.com/djeedai/hanabi-workshop) - Hanabi VFX editor
@@ -8705,7 +8704,6 @@
 - [pigmonkey/firewarden](https://github.com/pigmonkey/firewarden) - Open a file via the specified application within a private Firejail sandbox.
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [avih/sgrtab](https://github.com/avih/sgrtab) - Display standard/custom table of SGR combinations (terminal colors)
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [moustacheful/myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [de-arl/slurpshot](https://github.com/de-arl/slurpshot) - Screenshot script for sway with bemenu
@@ -9406,6 +9404,7 @@
 - [qwell/bsky-exploits](https://github.com/qwell/bsky-exploits) - Bluesky / AT Protocol vulnerability disclosures and exploit framework
 - [StefanTerdell/json-schema-to-zod](https://github.com/StefanTerdell/json-schema-to-zod) - 
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
+- [wangrongding/SuperHive](https://github.com/wangrongding/SuperHive) - An open-source shared workspace for humans and AI coding agents. Run it on your own computer or a cloud server and open it in the browser.
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [jbeoris/janus-ai](https://github.com/jbeoris/janus-ai) - 
 - [aetherplex/openai-proxy](https://github.com/aetherplex/openai-proxy) - A simple proxy server to process batched requests to the OpenAI API server.
@@ -10055,6 +10054,7 @@
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [hanford/trends](https://github.com/hanford/trends) - ultra high performance github trending application
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [segmentio/ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [bpevs/favioli](https://github.com/bpevs/favioli) - Moved to https://tangled.org/bpev.me/favioli
