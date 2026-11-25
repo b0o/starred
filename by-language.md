@@ -258,7 +258,7 @@
 - [keyvank/30cc](https://github.com/keyvank/30cc) - 30 C Compiler
 - [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [MikeShah/Talks](https://github.com/MikeShah/Talks) - Code for talks at conferences
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
 - [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - Mixed-precision math, linear-algebra & retrieval kernels, 4000+ symbols from 4-bit numbers to 128-bit complex, for x86, Arm, RISC-V, LoongArch, Power & WASM, AMX & SME included 📐
@@ -1359,7 +1359,7 @@
 ## Dart 
 
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
-- [bernaferrari/color-studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help.
+- [bernaferrari/color-studio](https://github.com/bernaferrari/color-studio) - [Legacy app] It is too hard to build coherent and accessible themes with the right colors. This should help.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1948,6 +1948,7 @@
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [cosmos/iavl](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [bgentry/que-go](https://github.com/bgentry/que-go) - UNMAINTAINED: An interoperable Golang port of the Ruby Que queuing library for PostgreSQL. Use River instead.
@@ -4336,7 +4337,6 @@
 - [synoet/dotfiles](https://github.com/synoet/dotfiles) - my important configuration files
 - [saghen/blink.indent](https://github.com/saghen/blink.indent) - Performant indent guides for neovim
 - [saghen/nvim](https://github.com/saghen/nvim) - Personal neovim configuration
-- [axseem/dots](https://github.com/axseem/dots) - axseem's Linux Workstation Configuration | Mirror of https://codeberg.org/axseem/dots
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows you the number of tokens in your current buffer for your configured AI model
@@ -5097,6 +5097,7 @@
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
+- [axseem/dots](https://github.com/axseem/dots) - axseem's Linux Workstation Configuration | Mirror of https://codeberg.org/axseem/dots
 - [auscyber/dotfiles](https://github.com/auscyber/dotfiles) - My linux dotfiles
 - [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
@@ -5134,7 +5135,7 @@
 - [lf-/flakey-profile](https://github.com/lf-/flakey-profile) - Declarative profiles with nix flakes
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix) - Kickstart your Nix environment.
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
+- [supabase/postgres](https://github.com/supabase/postgres) - PostgreSQL with extensions and Supabase stuff
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -5424,6 +5425,7 @@
 
 ## Objective-C++ 
 
+- [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 - [gree/unity-webview](https://github.com/gree/unity-webview) - 
 
 ## Objective-J 
@@ -5445,6 +5447,7 @@
 
 ## Others 
 
+- [zed-industries/gpui](https://github.com/zed-industries/gpui) - A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀
 - [tylertms/Stela](https://github.com/tylertms/Stela) - A translation-based Apple Silicon layer for x86-64 PCs
 - [pjlsergeant/ai-sandboxes](https://github.com/pjlsergeant/ai-sandboxes) - Large YAML file containing details of AI agent sandboxing solutions
 - [typesafe-ai/skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
@@ -5972,7 +5975,6 @@
 - [evo-hq/evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
 - [docxology/itrace](https://github.com/docxology/itrace) - Webcam eye-tracking analysis toolkit — pure NumPy/SciPy core computing gaze in degrees of visual angle, I-VT/I-DT saccade detection with main-sequence fits, microsaccades (Engbert & Kliegl), and pupil
 - [gracefan2020/MosaicJoin](https://github.com/gracefan2020/MosaicJoin) - 
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [hsouri/BayesianTransferLearning](https://github.com/hsouri/BayesianTransferLearning) - 
 - [ZJU-REAL/SkillZero](https://github.com/ZJU-REAL/SkillZero) - [EMNLP 2026] Official code for "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"
 - [galilai-group/cjepa](https://github.com/galilai-group/cjepa) - 
@@ -6414,7 +6416,6 @@
 - [skybrush-io/studio-blender](https://github.com/skybrush-io/studio-blender) - Skybrush Studio for Blender - a Blender addon for designing and validating drone shows
 - [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [grai-io/grai-core](https://github.com/grai-io/grai-core) - 
 - [UF-CISE-Surflab/blender-polyhedral-splines](https://github.com/UF-CISE-Surflab/blender-polyhedral-splines) - 
@@ -7368,6 +7369,7 @@
 
 ## Rust 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [cemcatik/rexurrect](https://github.com/cemcatik/rexurrect) - 
 - [willothy/rex-linux](https://github.com/willothy/rex-linux) - Unofficial Rex client for Linux
@@ -7427,14 +7429,14 @@
 - [molybdenumsoftware/statix](https://github.com/molybdenumsoftware/statix) - A linter for the Nix language
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [naia-lib/naia](https://github.com/naia-lib/naia) - a cross-platform (including Wasm!) networking library built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server with zsh support
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
 - [surrealdb/revision](https://github.com/surrealdb/revision) - A Rust library for revision-tolerant serialisation and deserialisation, with support for schema evolution over time
 - [surrealdb/surrealmx](https://github.com/surrealdb/surrealmx) - An embedded, in-memory, lock-free, transaction-based, key-value database engine
-- [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.
+- [databricks/opendata](https://github.com/databricks/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [splay-sh/splay](https://github.com/splay-sh/splay) - Fan out your agents. A Linux workspace manager for running coding agents in parallel, one workspace per task.
 - [penberg/chimera](https://github.com/penberg/chimera) - Sandbox untrusted code with safe access to the host.
@@ -8527,6 +8529,7 @@
 - [rgerganov/shanocast](https://github.com/rgerganov/shanocast) - Google Chromecast Reciever
 - [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
@@ -8962,7 +8965,7 @@
 - [vercel-labs/rex-cloud](https://github.com/vercel-labs/rex-cloud) - Cloud terminals for Rex, powered by Vercel Sandbox. Experimental preview.
 - [lullabyX/sone](https://github.com/lullabyX/sone) - Native TIDAL desktop client for Linux. Modern UI, custom themes, and bit-perfect lossless audio up to 24-bit/192kHz via exclusive ALSA.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
-- [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build the next generation of user interfaces.
+- [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build and drive the next generation of user interfaces.
 - [joyco-studio/lettra](https://github.com/joyco-studio/lettra) - 
 - [anomalyco/textjs](https://github.com/anomalyco/textjs) - A React framework for apps that render in the browser console.
 - [anomalyco/browse](https://github.com/anomalyco/browse) - Let your AI agents use your real browser: an MCP server and a Chromium extension
@@ -9003,6 +9006,7 @@
 - [turbopuffer/turbopuffer-typescript](https://github.com/turbopuffer/turbopuffer-typescript) - Official TypeScript API client library for turbopuffer
 - [xpert-ai/xpert](https://github.com/xpert-ai/xpert) - XpertAI is an open-source platform for building, running, and evolving ai agents, providing extensible capabilities and infrastructure for diverse AI systems.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [hendrikmuhs/ccache-action](https://github.com/hendrikmuhs/ccache-action) - github action to speedup building using ccache
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [modaic-ai/gepa-viz](https://github.com/modaic-ai/gepa-viz) - Interactive live visualizer for gepa runs
@@ -9133,7 +9137,7 @@
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [peerdraft/obsidian-plugin](https://github.com/peerdraft/obsidian-plugin) - Collaboration for Obsidian – Sync, Share, and Edit anywhere
-- [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
+- [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - 100+ open-source React components for AI chat and agents. Tailwind CSS, Motion, shadcn/ui. Install with the shadcn CLI or MCP.
 - [ben-sb/javascript-deobfuscator](https://github.com/ben-sb/javascript-deobfuscator) - General purpose JavaScript deobfuscator
 - [divizend/ghostscript-node](https://github.com/divizend/ghostscript-node) - A Node.js library which can work with PDFs, based on Ghostscript and qpdf.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
@@ -9888,7 +9892,7 @@
 - [jaredly/jerd](https://github.com/jaredly/jerd) - 
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the Ory Hydra User Login and Consent interface written in TypeScript and ExpressJS.
-- [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - Ethereum Semi Fungible Standard (ERC-1155)
+- [0xsequence/erc-1155](https://github.com/0xsequence/erc-1155) - ⚠️ ARCHIVED: no longer maintained. Ethereum Semi Fungible Standard (ERC-1155)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [liqvidjs/liqvid](https://github.com/liqvidjs/liqvid) - Library for interactive videos in React
@@ -9914,7 +9918,6 @@
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [tailuge/billiards](https://github.com/tailuge/billiards) - billiards physics in the browser
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [0no-co/hoofd](https://github.com/0no-co/hoofd) - Hooks to populate the html head.
